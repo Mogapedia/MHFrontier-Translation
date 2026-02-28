@@ -11,6 +11,7 @@ This project documents the tools, translatable content, and community efforts ar
 |------|----------|-------------|
 | [FrontierTextHandler](https://github.com/Houmgaor/FrontierTextHandler) | Python | Full pipeline: decrypt, decompress, extract, edit, reimport, compress, encrypt. Handles all main game text files. |
 | [ReFrontier](https://github.com/Houmgaor/ReFrontier) | C# | Archive unpacking, batch decryption/decompression. Useful for non-text data and bulk processing. |
+| [MHFTextEditor](https://github.com/matthe815s-projects/MHFTextEditor) | C# | UI-based text editor for MHF game files. |
 
 ### Dialogue & Quests
 
@@ -19,6 +20,19 @@ This project documents the tools, translatable content, and community efforts ar
 | [readDialogue.py](https://gist.github.com/stratic-dev/162f4e5ad1766aeb59eb5edf1c1fb288) | Python | Extract NPC dialogue from stage files. |
 | [writeDialogue.py](https://gist.github.com/stratic-dev/51e7927afc67612782e54ae87b4612b2) | Python | Reimport NPC dialogue into stage files. |
 | [MHFZ Quest Editor](https://github.com/Paxlord/PaxMHFZQuestEditor) | — | Server-side quest data editor. Designed for closed-loop use. |
+
+### Chat & Real-Time Translation
+
+| Tool | Language | Description |
+|------|----------|-------------|
+| [MHFTranslate](https://github.com/wroleader/MHFTranslate) | C# | Parses in-game chat logs and translates via Google Cloud Translation API. Abandoned, no API key provided. |
+
+### Launchers with Localization Support
+
+| Tool | Language | Description |
+|------|----------|-------------|
+| [mhf-launcher](https://github.com/rockisch/mhf-launcher) | Rust | Custom launcher with built-in locale system (Fluent `.ftl` files). Supports adding new languages. |
+| [mhf-patch-server](https://github.com/rockisch/mhf-patch-server) | Rust | Patch distribution server for mhf-launcher. Can deliver translation file updates to players. |
 
 ### Translation Platforms
 
@@ -115,10 +129,22 @@ Replace the original `mhfdat.bin` with the output.
 
 *Know of a translation project? Open an issue or PR to add it here.*
 
-| Language | Project | Status | Coverage |
-|----------|---------|--------|----------|
-| English | — | — | — |
-| French | — | — | — |
+### Game Text Translation
+
+| Language | Project | Coverage | Notes |
+|----------|---------|----------|-------|
+| English | MHF English Patch | Menus, equipment names, item names | Distributed via Rain server. Does not cover NPC dialogue or tutorial. |
+| English | [MHFZ Ferias English](https://github.com/xl3lackout/MHFZ-Ferias-English-Project) | Game database/wiki | English translation of the [Ferias](http://ferias.life.coocan.jp/) Japanese info site. |
+| English | [MHFZ Info](https://github.com/stratic-dev/MHFZ-Info) | Game database/wiki | Fork of the Ferias English project. |
+| English | [Fist's English Guide](https://fist-mirror.github.io/guide/) | Guides | English info site and gameplay guides. |
+
+### Official Localizations (Discontinued)
+
+| Language | Region | Notes |
+|----------|--------|-------|
+| Japanese | Japan (PC, PS3, PS Vita, Wii U, Xbox 360) | Original language. Service ended December 2019. |
+| Korean | South Korea | Service ended August 2011 (Season 7.0). |
+| Traditional Chinese | Taiwan, Macau | Service ended alongside JP servers. |
 
 ## How to Contribute
 
