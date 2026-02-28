@@ -133,10 +133,15 @@ Replace the original `mhfdat.bin` with the output.
 
 | Language | Project | Coverage | Notes |
 |----------|---------|----------|-------|
-| English | MHF English Patch | Menus, equipment names, item names | Distributed via Rain server. Does not cover NPC dialogue or tutorial. |
+| English | MHF English Patch | Menus, equipment names, item names | Distributed via [Rain server](https://discord.com/invite/rainserver) (~70K members). Does not cover NPC dialogue or tutorial. |
+| English | [MezeLounge](https://mholdschool.com/viewtopic.php?t=71) | Menus, equipment, quests | Private server with near-complete English translation. Also runs a Classic server (S1–Forward 5). |
+| English | [Leaps' MHFZ Guide](https://leaps29.github.io/MHFZ-Guide/) | Guides | Comprehensive gameplay guide for Rain server players. |
 | English | [MHFZ Ferias English](https://github.com/xl3lackout/MHFZ-Ferias-English-Project) | Game database/wiki | English translation of the [Ferias](http://ferias.life.coocan.jp/) Japanese info site. |
 | English | [MHFZ Info](https://github.com/stratic-dev/MHFZ-Info) | Game database/wiki | Fork of the Ferias English project. |
 | English | [Fist's English Guide](https://fist-mirror.github.io/guide/) | Guides | English info site and gameplay guides. |
+| English | [MHF Frontier Wiki](https://mhfo.fandom.com/) | Wiki | English Fandom wiki with translation notes. |
+| French | [Mogapédia](https://mogapedia.fandom.com/fr/) + [MezeLounge](https://mholdschool.com/viewtopic.php?t=71) | Game text | French translation effort in partnership between Mogapédia and MezeLounge. |
+| Korean | [MHF Korean Wiki](https://mhfkr.fandom.com/) | Wiki | Korean Fandom wiki with menu translations and guides. |
 
 ### Official Localizations (Discontinued)
 
