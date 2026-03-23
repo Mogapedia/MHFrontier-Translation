@@ -28,12 +28,6 @@ jobs:
       - name: Export JSON (translated only)
         run: python scripts/export_json.py --out translations-translated.json --only-translated
 
-      - name: Clone FrontierTextHandler
-        run: git clone --depth=1 https://github.com/Houmgaor/FrontierTextHandler.git fth
-
-      - name: Build translated binary files (fr)
-        run: python scripts/build_bins.py --fth-dir fth --lang fr --out release
-
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
@@ -41,7 +35,6 @@ jobs:
           path: |
             translations.json
             translations-translated.json
-            release/fr-*.bin
 
       - name: Create release
         uses: softprops/action-gh-release@v2
@@ -51,28 +44,12 @@ jobs:
           body: |
             Auto-generated translation files, updated on every push to `main`.
 
-            ### JSON
             - `translations.json` — all strings (source + target)
             - `translations-translated.json` — translated strings only
 
-            ### Binary game files (French)
-            Apply automatically with [mhf-outpost](https://github.com/Mogapedia/mhf-outpost):
-            ```
-            mhf-outpost translate --path <game_dir>
-            ```
-            Or copy manually into your game directory:
-
-            | Asset | Replace |
-            |-------|---------|
-            | `fr-mhfdat.bin` | `mhfdat.bin` |
-            | `fr-mhfpac.bin` | `mhfpac.bin` |
-            | `fr-mhfinf.bin` | `mhfinf.bin` |
-            | `fr-mhfjmp.bin` | `mhfjmp.bin` |
+            To apply translations to your game, use `scripts/build_bins.py` locally
+            with your own game files as the source binaries.
           files: |
             translations.json
             translations-translated.json
-            release/fr-mhfdat.bin
-            release/fr-mhfpac.bin
-            release/fr-mhfinf.bin
-            release/fr-mhfjmp.bin
           make_latest: true
