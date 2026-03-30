@@ -1,0 +1,8 @@
+location,source,target
+0x680@mhfjmp.bin,-----,
+0x684@mhfjmp.bin,Jump Menu,
+0x688@mhfjmp.bin,{k345} Target,
+0x68c@mhfjmp.bin,"A movement function was
+added to the Jump Menu.
+Use it well!",
+0x690@mhfjmp.bin,{i131} Jump Menu,

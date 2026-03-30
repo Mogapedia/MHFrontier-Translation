@@ -1,0 +1,2027 @@
+location,source,target
+0x186ce4@mhfpac.bin,‾C00Loading World Select.,
+0x186cec@mhfpac.bin,‾C00Preparing Network.,
+0x186cf4@mhfpac.bin,‾C00Preparing Quest.,
+0x186cfc@mhfpac.bin,‾C00Returning to Public Bar... Please wait.,
+0x186d04@mhfpac.bin,‾C00Returning to Arena... Please wait.,
+0x186d0c@mhfpac.bin,‾C00Returning to His Immenseness... Please wait.,
+0x186d14@mhfpac.bin,‾C00Returning to Town... Please wait.,
+0x186d1c@mhfpac.bin,"‾C00A connection will be made using the above ID.
+Is this OK?",
+0x186d24@mhfpac.bin,"‾C00Connect after receiving new ID.
+A maximum of 3 IDs can be received.
+Is this OK?",
+0x186d2c@mhfpac.bin,‾C00Logging Out.,
+0x186d34@mhfpac.bin,‾C00Disconnecting due to idleness.,
+0x186d3c@mhfpac.bin,"‾C00一定時間入力が無かったため
+回線を切断しました。",
+0x186d44@mhfpac.bin,"‾C00Preparing to log out.
+Please wait.",
+0x186d4c@mhfpac.bin,‾C00Disconnected due to instability.,
+0x186d54@mhfpac.bin,"‾C00       回線が不安定なため       
+サーバーから切断されました。",
+0x186d5c@mhfpac.bin,‾C00Insufficient Hunter Rank.,
+0x186d64@mhfpac.bin,‾C00Entering Mezeporta Square.,
+0x186d6c@mhfpac.bin,‾C00Moving to Mezeporta Square.,
+0x186d74@mhfpac.bin,"‾C00Failed to move to Mezeporta Square.
+Disconnected from network.",
+0x186d7c@mhfpac.bin,"‾C00Failed to swap rooms.
+Returning to original location.",
+0x186d84@mhfpac.bin,"‾C00Cannot enter, area full.",
+0x186d8c@mhfpac.bin,"‾C00Failed to swap servers.
+Returning to original location.",
+0x186d94@mhfpac.bin,‾C00Could not return to Mezeporta Square.,
+0x186d9c@mhfpac.bin,‾C00Selected Mezeporta Square unavailable.,
+0x186da4@mhfpac.bin,‾C00Cannot move from current Square.,
+0x186dac@mhfpac.bin,‾C00No where to move to.,
+0x186db4@mhfpac.bin,‾C00Moving to Mezeporta Square.,
+0x186dbc@mhfpac.bin,‾C00World info received.,
+0x186dc4@mhfpac.bin,‾C00Quest search failed.,
+0x186dcc@mhfpac.bin,‾C00Moving…,
+0x186dd4@mhfpac.bin,"‾C00The above player will be deleted from the list.
+Is this OK?",
+0x186ddc@mhfpac.bin,‾C00 was deleted.,
+0x186de4@mhfpac.bin,‾C00Searching for players...,
+0x186dec@mhfpac.bin,‾C00No Results Found.,
+0x186df4@mhfpac.bin,‾C00Failed to search for specified criteria.,
+0x186dfc@mhfpac.bin,‾C00Please enter your 6 digit ID.,
+0x186e04@mhfpac.bin,‾C00Please enter a name with 1 or more characters.,
+0x186e0c@mhfpac.bin,‾C00Add the above player to your Friend List?,
+0x186e14@mhfpac.bin,‾C00You cannot join your own Friend List.,
+0x186e1c@mhfpac.bin,‾C00You cannot send to yourself.,
+0x186e24@mhfpac.bin,‾C00Friend List registration canceled.,
+0x186e2c@mhfpac.bin,‾C00Friend List registration complete.,
+0x186e34@mhfpac.bin,‾C00Friend List overwriting complete.,
+0x186e3c@mhfpac.bin,"‾C00Is it OK to overwrite your Friend List in order to
+register this player?",
+0x186e44@mhfpac.bin,"‾C00You will make a new Friend List registration.
+Is this OK?",
+0x186e4c@mhfpac.bin,"You do not have enough space on your Friend List to
+register any more players. You will have to erase
+existing data before registering any new players.",
+0x186e54@mhfpac.bin,"‾C00上記のプレイヤーの申請または登録を選択してください
+
+カプリンクでカプトモ申請をする
+MHFフレンドに登録する",
+0x186e5c@mhfpac.bin,‾C00カプトモ申請が完了しました。,
+0x186e64@mhfpac.bin,‾C00既にカプトモ登録されています。,
+0x186e6c@mhfpac.bin,‾C00何らかのエラーが発生しました。(1),
+0x186e74@mhfpac.bin,‾C00対象のCOGアカウントが見つからないので申請できません。,
+0x186e7c@mhfpac.bin,‾C00カプトモパスが正しくありません。,
+0x186e84@mhfpac.bin,"‾C00カプトモパスを入力せずにゲームを開始します。
+よろしいですか？",
+0x186e8c@mhfpac.bin,"‾C00カプトモパスの入力を中止します。
+よろしいですか？",
+0x186e94@mhfpac.bin,‾C00カプトモ申請済みです。,
+0x186e9c@mhfpac.bin,‾C00カプトモ申請数の上限に達しています。,
+0x186ea4@mhfpac.bin,‾C00既にカプトモです。,
+0x186eac@mhfpac.bin,‾C00カプトモ数の上限に達しています。,
+0x186eb4@mhfpac.bin,"‾C00カプトーク一覧から削除します。
+よろしいですか？",
+0x186ebc@mhfpac.bin,"‾C00招待を削除します。
+よろしいですか？",
+0x186ec4@mhfpac.bin,‾C00You're unable to jump to this location.,
+0x186ecc@mhfpac.bin,"‾C00The player displayed above will be registered on your
+Blacklist and you will not receive Messages or Chat
+messages from them. Is this OK?",
+0x186ed4@mhfpac.bin,‾C00Blacklist registration canceled.,
+0x186edc@mhfpac.bin,‾C00Blacklist registration complete.,
+0x186ee4@mhfpac.bin,‾C00Blacklist overwriting complete.,
+0x186eec@mhfpac.bin,"‾C00Is it OK to overwrite your Blacklist in order to
+register this player?",
+0x186ef4@mhfpac.bin,"‾C00You will make a new Blacklist registration.
+Is this OK?",
+0x186efc@mhfpac.bin,"You do not have enough space on your Blacklist to
+register any more players. You will have to erase
+existing data before registering any new players.",
+0x186f04@mhfpac.bin,"The above player will be deleted from your Blacklist.
+Is this OK?",
+0x186f0c@mhfpac.bin,‾C00Deletion canceled.,
+0x186f14@mhfpac.bin,‾C00Deleted.,
+0x186f1c@mhfpac.bin,"‾C00You've already selected eight players.
+You cannot select any more.",
+0x186f24@mhfpac.bin,‾C00Message sent.,
+0x186f2c@mhfpac.bin,"‾C00The game will close.
+Are you sure?",
+0x186f34@mhfpac.bin,"‾C00You're heading for the village (single player mode).
+Is this OK?",
+0x186f3c@mhfpac.bin,"‾C00The game will close.
+Are you sure?",
+0x186f44@mhfpac.bin,"‾C00Returning to land selection.
+Are you sure?",
+0x186f4c@mhfpac.bin,‾C00Specified player is offline.,
+0x186f54@mhfpac.bin,"‾C00Sending short mail.
+Are you sure?",
+0x186f5c@mhfpac.bin,‾C00All searches failed.,
+0x186f64@mhfpac.bin,‾C00ID is invalid.,
+0x186f6c@mhfpac.bin,‾C00Sending mail…,
+0x186f74@mhfpac.bin,‾C00You cannot send mail to yourself.,
+0x186f7c@mhfpac.bin,‾C00Already entered.,
+0x186f84@mhfpac.bin,‾C00Do you want to jump?,
+0x186f8c@mhfpac.bin,‾C00Would you like to join this group?,
+0x186f94@mhfpac.bin,‾C00Selected group has been disbanded.,
+0x186f9c@mhfpac.bin,‾C00Selected group is full.,
+0x186fa4@mhfpac.bin,‾C00Initializing…,
+0x186fac@mhfpac.bin,‾C00<Send Message>,
+0x186fb4@mhfpac.bin,"‾C00
+ Select From Friend List
+
+Enter ID
+
+
+{k01}: Back {k00}: Confirm",
+0x186fbc@mhfpac.bin,"‾C00
+ Enter Name 
+
+Select From Friend List
+
+
+{k01}: Back {k00}: Confirm",
+0x186fc4@mhfpac.bin,"‾C00
+Enter ID
+
+ Select From Friend List 
+
+
+{k01}: Back {k00}: Confirm",
+0x186fcc@mhfpac.bin,‾C00You cannot search for yourself.,
+0x186fd4@mhfpac.bin,"‾C00You will be disconnected from the network and returned
+to the Game Menu. Is this OK?",
+0x186fdc@mhfpac.bin,"‾C00
+Search within this Area
+
+ Search within this Area (Filtered) 
+
+Search Every Land
+
+
+{k01}: Back {k00}: Confirm",
+0x186fe4@mhfpac.bin,"‾C00
+Search all Quests.
+
+ Search all Quests (Filtered) 
+
+
+{k01}: Back {k00}: Confirm",
+0x186fec@mhfpac.bin,‾C00Searching for Groups...,
+0x186ff4@mhfpac.bin,‾C00Unable to find a group corresponding to your criteria.,
+0x186ffc@mhfpac.bin,‾C00Retrieving information...,
+0x187004@mhfpac.bin,"‾C00Unable to join the Quest. The town you've chosen has
+been disbanded.",
+0x18700c@mhfpac.bin,"‾C00Unable to view Quest details.
+
+The initiated Quest has either been canceled or the
+Hunters have already set out on the Quest.",
+0x187014@mhfpac.bin,‾C00Currently unable to jump to this town.,
+0x18701c@mhfpac.bin,‾C00Currently unable to jump to this area.,
+0x187024@mhfpac.bin,‾C00You cannot jump to your current location.,
+0x18702c@mhfpac.bin,"‾C00
+Chat Message Receipt Restrictions
+
+ Message Receipt Restrictions
+
+
+{k01}: Back {k00}: Confirm",
+0x187034@mhfpac.bin,"‾C00これまでのゲームデータを
+メモリーカード(PS2)に保存しますか？",
+0x18703c@mhfpac.bin,‾C00Enter this room?,
+0x187044@mhfpac.bin,"‾C00Restrictions have been placed on who can
+enter this room. You are unable to enter.",
+0x18704c@mhfpac.bin,‾C00The password is incorrect.,
+0x187054@mhfpac.bin,"‾C00You've joined a Quest. Press {k00} at the Quest
+Departure Area to complete Quest departure
+preparations.",
+0x18705c@mhfpac.bin,"Quest data does not match. Unable to join Quest.
+
+1) Refresh event data by leaving and reentering town,
+and you will be able to join the Quest.
+
+2) If the Quest initiator does not have the latest
+Quest data, however, you will be unable to join the
+Quest.",
+0x187064@mhfpac.bin,"‾C00Event Quest download failed.
+You may need to leave and reenter the town in order to
+refresh event data.",
+0x18706c@mhfpac.bin,‾C00Quest Requirements not met,
+0x187074@mhfpac.bin,‾C00Quest joining conditions not met.,
+0x18707c@mhfpac.bin,"‾C00Hunters who do not own monsters are unable to
+enter this Quest.",
+0x187084@mhfpac.bin,"‾C00Hunters who do not own monsters may not act as
+the leader.",
+0x18708c@mhfpac.bin,‾C00ＷＡＮＴＥＤ契約料が不足しています。,
+0x187094@mhfpac.bin,‾C00 Quest reception is crowded.,
+0x18709c@mhfpac.bin,‾C00Another player has already joined.,
+0x1870a4@mhfpac.bin,‾C00Quest has been abandoned.,
+0x1870ac@mhfpac.bin,‾C00Connection error.,
+0x1870b4@mhfpac.bin,"‾C05Some members are not ready.
+Are you sure you want to depart?",
+0x1870bc@mhfpac.bin,"‾C00Cancel Quest departure.
+Are you sure?",
+0x1870c4@mhfpac.bin,‾C00Departing on Quest. Are you sure?,
+0x1870cc@mhfpac.bin,‾C00You cannot take any exams currently.,
+0x1870d4@mhfpac.bin,"‾C00No Elder Dragon Siege Battles are taking place at the
+moment. Siege Battles take place ‾C05between Friday and
+Monday every week‾C00.
+Web Info ‾C05(Your browser will be opened.)‾C00
+Close",
+0x1870dc@mhfpac.bin,"‾C00メモリーカード差込口‾A00の
+メモリーカード(PS2)に
+ＮＥＴファイルをセーブしました。",
+0x1870e4@mhfpac.bin,‾C00Unable to add the sender of this message.,
+0x1870ec@mhfpac.bin,‾C00Unable to reply to this message.,
+0x1870f4@mhfpac.bin,"‾C05Warning!
+
+‾C00This service cannot be used on your current plan.
+Would you like to change to the ‾C02Hunter Life Plan‾C05?
+
+Change Member Rank ‾C05(your browser will be opened)‾C00
+Close
+
+‾C05If you change your plan, you'll need to quit the game
+and log in again.",
+0x1870fc@mhfpac.bin,"‾C05Warning!
+
+‾C00This service is only available to those who play in
+Certified MHF NetCafes.
+
+About Certified MHF NetCafes
+Close
+
+‾C05Please connect from your nearest Certified MHF
+NetCafe.",
+0x187104@mhfpac.bin,‾C00Operation cancelled.,
+0x18710c@mhfpac.bin,‾C00Processing.,
+0x187114@mhfpac.bin,‾C00Connection error.,
+0x18711c@mhfpac.bin,‾C00Searching.,
+0x187124@mhfpac.bin,‾C00Return to Mezeporta Square?,
+0x18712c@mhfpac.bin,"‾C00You cannot select a name that contains more than eight
+characters.",
+0x18713c@mhfpac.bin,"‾C00
+Go to the Smithy
+
+ ‾C10Go to the Elder Palace 
+
+
+‾C00{k01}: Back {k00}: Confirm",
+0x187144@mhfpac.bin,"‾C00
+Go to the Smithy
+
+ Go to the Elder Palace 
+
+
+‾C00{k01}: Back {k00}: Confirm",
+0x18714c@mhfpac.bin,"‾C00
+Go to the Tavern
+
+ ‾C10Go to the Elder Palace
+
+
+‾C00{k01}: Back {k00}: Confirm",
+0x187154@mhfpac.bin,"‾C00
+Go to the Tavern
+
+ ‾C10Go to the Elder Palace
+
+
+‾C00{k01}: Back {k00}: Confirm",
+0x18715c@mhfpac.bin,"‾C00This Quest's acceptance period has ended.
+Go to the Clan Counter to cancel the Quest, then
+initiate another Quest.",
+0x187164@mhfpac.bin,‾C00You do not meet this Quest's special conditions.,
+0x18716c@mhfpac.bin,"‾C00ランドへ移動(別の広場)
+
+ワールドへ移動(別の区画)
+
+クエストボードへ移動
+
+求人板へ移動
+
+猟団部屋へ移動
+
+ ‾C00{k00} 決定    {k01} 戻る",
+0x187174@mhfpac.bin,"‾C00
+Exit Game
+
+Return to Login Screen
+
+
+ {k00} Confirm {k01} Cancel",
+0x18717c@mhfpac.bin,‾C00 Would you like to join this group?,
+0x187184@mhfpac.bin,"‾C00Join this group?
+‾C02(You may need to change world or land.)",
+0x18718c@mhfpac.bin,"‾C00Your Hunter Rank does not meet the joining
+conditions for this group.",
+0x187194@mhfpac.bin,"‾C00Would you like to jump?
+‾C02(You may need to change land.)",
+0x18719c@mhfpac.bin,‾C00Would you like to jump?,
+0x1871a4@mhfpac.bin,‾C00Enter this tavern?,
+0x1871ac@mhfpac.bin,"‾C00Are you sure you want to return this monster to
+the wild?",
+0x1871b4@mhfpac.bin,"‾C00The leader is currently choosing what food to
+give to the monster. Please wait a moment.",
+0x1871bc@mhfpac.bin,‾C00Please wait a moment.,
+0x1871c4@mhfpac.bin,"‾C00
+Public Bar in this Land
+
+Search for a Public Bar
+
+
+ ‾C00{k00} Confirm {k01} Back",
+0x1871cc@mhfpac.bin,‾C00Invalid password.,
+0x1871d4@mhfpac.bin,‾C00Great Arena events only take place in the evening.,
+0x1871dc@mhfpac.bin,"‾C00You do not meet the special conditions. It is
+forbidden both to take items used for capturing
+into the Great Arena and to make use of them.
+Please do not bring items used for capturing into
+the Great Arena.",
+0x1871e4@mhfpac.bin,"‾C00This player has blocked befriending.
+You will need to receive a Message from this
+player if you want to register them as a friend.",
+0x1871ec@mhfpac.bin,‾C00Please select a recruitment notice.,
+0x1871f4@mhfpac.bin,"‾C00Would you like to reset the high score and
+clear time for this training exercise?",
+0x1871fc@mhfpac.bin,‾C00You are no longer able to join this Quest.,
+0x187204@mhfpac.bin,‾C00You can Safeguard up to 20 Messages.,
+0x18720c@mhfpac.bin,‾C00Apply the Safeguard?,
+0x187214@mhfpac.bin,‾C00Remove the Safeguard?,
+0x18721c@mhfpac.bin,‾C00This Message is Safeguarded.,
+0x187224@mhfpac.bin,‾C00Are you sure you want to delete this Message?,
+0x18722c@mhfpac.bin,‾C00Automatic selection failed.,
+0x187234@mhfpac.bin,"Please enter ‾C02user ID‾C00 and ‾C02password‾C00.
+User ID:
+Password:
+Done",
+0x18723c@mhfpac.bin,‾C00There are no Quests that can be initiated.,
+0x187244@mhfpac.bin,‾C00You are not able to join.,
+0x18724c@mhfpac.bin,"‾C00You do not meet the initiation conditions for this
+Quest. Please carry out the Event Code authentication
+procedure for this campaign.",
+0x187254@mhfpac.bin,"‾C00Clan could not be accessed, or is currently
+unavailable due to not having joined one.",
+0x18725c@mhfpac.bin,"‾C00You have entered an invalid name, or the name you
+entered contains invalid text.",
+0x187264@mhfpac.bin,"‾C00Clan creation successfully completed.
+Please check the Clan Menu.",
+0x18726c@mhfpac.bin,"‾C00Your application to join a Clan was successfully
+completed. Please wait for a Message from the Clan
+leader confirming your acceptance.",
+0x187274@mhfpac.bin,‾C00Your application to join a Clan has been withdrawn.,
+0x18727c@mhfpac.bin,‾C00Your application to join a Clan has been processed.,
+0x187284@mhfpac.bin,"‾C00A Clan with this name will be created.
+Is this OK?",
+0x18728c@mhfpac.bin,"‾C00The Clan creation procedure was unsuccessful.
+Please try again.",
+0x187294@mhfpac.bin,"‾C00Disband Clan.
+Confirm?
+‾C05※All Clan Members will be removed.‾C00",
+0x18729c@mhfpac.bin,"‾C00The Clan is about to be disbanded.
+Are you sure this is OK?
+‾C05*You will be unable to create or join any Clans for
+a little while.‾C00",
+0x1872a4@mhfpac.bin,"‾C00Clan successfully disbanded.
+
+‾C05You will be unable to create or join any Clans for
+a little while.‾C00",
+0x1872ac@mhfpac.bin,"‾C00The procedure was unsuccessful.
+The Clan was not disbanded.",
+0x1872b4@mhfpac.bin,"‾C00Already joined a Clan
+or have applied to one",
+0x1872bc@mhfpac.bin,"‾C00Unable to use. Either you are already a Clan member,
+have applied to join a Clan, or have created a Clan.",
+0x1872c4@mhfpac.bin,"‾C00 Procedure failed.
+Please try again in a moment.",
+0x1872cc@mhfpac.bin,"‾C00You are applying to join this Clan.
+Are you sure this is OK?",
+0x1872d4@mhfpac.bin,‾C00Process interrupted.,
+0x1872dc@mhfpac.bin,"‾C00Failed to process the above player.
+They may have withdrawn their application to join.",
+0x1872e4@mhfpac.bin,‾C00Clan member(s) will be expelled. Is this OK?,
+0x1872ec@mhfpac.bin,"‾C00Expelling Clan member(s).
+‾C05This cannot be undone. Are you sure you want
+to continue?",
+0x1872f4@mhfpac.bin,‾C00Clan members successfully expelled.,
+0x1872fc@mhfpac.bin,"‾C00Your application will be withdrawn.
+Are you sure this is OK?",
+0x187304@mhfpac.bin,"‾C00You will resign as Clan leader. Is this OK?
+‾C05*Upon resigning, you will become an ordinary
+Clan member.",
+0x18730c@mhfpac.bin,"‾C00You are about to resign as Clan leader.
+Are you sure you want to proceed?
+‾C05* You will not be able to resign if there is no
+member who wants to replace you as leader.",
+0x187314@mhfpac.bin,"‾C00Unable to resign as Clan leader.
+‾C05* Either there were no members who wanted to replace
+you as leader, or the processing of your resignation
+failed.",
+0x18731c@mhfpac.bin,"‾C00You have resigned as Clan leader.
+The above player is the new Clan leader.",
+0x187324@mhfpac.bin,"‾C00That Clan name is already in use.
+Please choose a different Clan name.",
+0x18732c@mhfpac.bin,"‾C05Warning!‾C00
+
+You cannot create a Clan unless your Hunter Rank
+is ‾C05one or higher‾C00.",
+0x187334@mhfpac.bin,"‾C00Learn more at the Official Website.
+‾C05(Launch Web Browser/NOT FUNCTIONAL!)‾C00",
+0x18733c@mhfpac.bin,"‾C00You are temporarily unable to create Clans or apply to
+join Clans.
+
+Please select ‾C05View Clan Rules‾C00 for details.",
+0x187344@mhfpac.bin,"‾C00Unable to donate points, as you are not a Clan member.",
+0x18734c@mhfpac.bin,"‾C00You will donate the selected Clan Points.
+
+Is this OK?",
+0x187354@mhfpac.bin,"‾C00Clan Points that have been donated cannot be returned.
+Are you sure you want to donate?
+‾C05*If your donation takes your Clan's total Points over
+the upper limit, any excess Clan Points will be
+returned to you.",
+0x18735c@mhfpac.bin,‾C00Clan Point donation complete.,
+0x187364@mhfpac.bin,‾C00Clan Point donation failed.,
+0x18736c@mhfpac.bin,"‾C00Clan Point donation complete.
+
+‾C05*Your donation took your Clan's total Points over the
+upper limit. The excess Clan Points have been returned.",
+0x187374@mhfpac.bin,‾C00Unable to find user.,
+0x18737c@mhfpac.bin,"‾C00Motto editing will end after confirmation.
+Confirm?",
+0x187384@mhfpac.bin,"‾C00Once confirmed, it cannot be changed for seven days.
+Is this OK?",
+0x18738c@mhfpac.bin,"‾C00Jump to the location of your Clan Hall.
+‾C02(You may have to change Land)",
+0x187394@mhfpac.bin,‾C00Returning to Clan Room... Please wait a moment...,
+0x18739c@mhfpac.bin,‾C00Everything has been sent to your Item Box.,
+0x1873a4@mhfpac.bin,‾C00There are no items to be sent.,
+0x1873ac@mhfpac.bin,‾C00Items were not placed in your Item Box.,
+0x1873b4@mhfpac.bin,"‾C00Everything will be sent to your Item Box.
+Is this OK?",
+0x1873bc@mhfpac.bin,"‾C00This feature cannot be used at the moment.
+Please wait for a forthcoming update.",
+0x1873c4@mhfpac.bin,"‾C00Currently unable to use. In use by another Clan
+member. Please wait for them to finish before using.",
+0x1873cc@mhfpac.bin,‾C00x x Not in Use x x,
+0x1873d4@mhfpac.bin,"‾C00Communication Failed.
+Please try later.",
+0x1873dc@mhfpac.bin,"‾C00Communicating.
+Please wait.",
+0x1873e4@mhfpac.bin,"‾C00Please wait until after maintenance
+to enter the Clan Hall.",
+0x1873ec@mhfpac.bin,"‾C00The Clan Hall has been in a state that does not
+satisfy its maintenance conditions for over 3 months.
+As a result, you are currently unable to enter.",
+0x1873f4@mhfpac.bin,"‾C05Warning!
+‾C00You are unable to use this service on your
+current plan.
+
+You can use this service by purchasing the
+‾C02Extra Plan‾C00.
+
+Purchase ‾C05 (Your browser will be opened.)‾C00
+View Details Online ‾C05(Your browser will be opened.)‾C00
+Close
+
+‾C05If you change to a new plan, you will need to
+quit the game and log in again.
+
+‾C05Any items from when you have used the
+service in the past will have been saved.",
+0x1873fc@mhfpac.bin,"‾C05Warning!
+‾C00You are unable to use this service on your
+current plan.
+
+You can use this service by purchasing the
+‾C02Extra Plan‾C00.
+
+Purchase ‾C05 (Your browser will be opened.)‾C00
+View Details Online ‾C05(Your browser will be opened.)‾C00
+Close
+
+‾C05If you change to a new plan, you will need to
+quit the game and log in again.
+
+‾C05Items from when you have used the service
+in the past can only be retrieved from the
+Item Box in your Hunter House.",
+0x187404@mhfpac.bin,"‾C05Warning!
+‾C00You are unable to use this service on your
+current plan.
+
+You can use this service by purchasing the
+‾C02Extra Plan‾C00.
+
+Purchase ‾C05 (Your browser will be opened.)‾C00
+View Details Online ‾C05(Your browser will be opened.)‾C00
+Close
+
+‾C05If you change to a new plan, you will need to
+quit the game and log in again.
+
+‾C05You will be able to use any items that you bought when
+using this service in the past.",
+0x18740c@mhfpac.bin,‾C00Clan Hall cannot be used.,
+0x187414@mhfpac.bin,‾C00Only available to Clan Leader.,
+0x18741c@mhfpac.bin,‾C00In use by another player.,
+0x187424@mhfpac.bin,‾C00Hunting Competition is not being held.,
+0x18742c@mhfpac.bin,"‾C05Warning!
+
+‾C00This service cannot be used on your current plan.
+Would you like to change to the ‾C02Hunter Life Plan‾C05?
+
+Change Member Rank ‾C05(Your browser will be opened.)‾C00
+Close
+
+‾C05If you change to a new plan, you will need to
+quit the game and log in again.
+
+If you have used the service before, any items that
+you had will be saved so that you can use them
+again.",
+0x187434@mhfpac.bin,"‾C05Attention!
+
+‾C00In order to use this service, you will need to buy
+the‾C02Hunter Life Plan‾C00 and the ‾C02Extra Plan‾C00.
+
+Change Member Rank ‾C05(Your browser will be opened.)‾C00
+Close
+
+‾C05If you change to a new plan, you will need to
+quit the game and log in again.
+
+If you have used the service before, any items that
+you had will be saved so that you can use them again.",
+0x18743c@mhfpac.bin,"‾C05Warning!
+‾C00You are unable to use this service on your
+current plan.
+
+You can use this service by purchasing the
+‾C02Extra Plan‾C00.
+
+Purchase ‾C05 (Your browser will be opened.)‾C00
+View Details Online ‾C05(Your browser will be opened.)‾C00
+Close
+
+‾C05If you change to a new plan, you will need to
+quit the game and log in again.",
+0x187444@mhfpac.bin,‾C00Please accept your Extra Quest reward.,
+0x18744c@mhfpac.bin,"‾C00Unable to use. Either your Pack data was unobtainable
+or you are not part of a Pack.",
+0x187454@mhfpac.bin,"‾C00You have entered an invalid name, or the name you
+entered contains invalid text.",
+0x18745c@mhfpac.bin,"‾C00Pack creation successfully completed.
+Please check Pack Info.",
+0x187464@mhfpac.bin,"‾C00Your application to join a Pack was successfully
+completed. Please wait for an acceptance message from
+the Pack.",
+0x18746c@mhfpac.bin,‾C00You have withdrawn your application to join a Pack.,
+0x187474@mhfpac.bin,‾C00Your application to join a Pack was processed.,
+0x18747c@mhfpac.bin,"‾C00A Pack with this name will be created.
+Is this OK?",
+0x187484@mhfpac.bin,"‾C00The Pack creation procedure was unsuccessful.
+Please try again.",
+0x18748c@mhfpac.bin,"‾C00Your Pack will be disbanded.
+Is this OK?
+‾C05*All Clans will be expelled from the Pack.",
+0x187494@mhfpac.bin,"‾C00Your Pack is about to be disbanded.
+Are you sure this is OK?
+‾C05*You will be unable to create or join any Packs for
+a little while.‾C00",
+0x18749c@mhfpac.bin,"‾C00Pack successfully disbanded.
+‾C05*You will be unable to create or join any Packs for
+a little while.‾C00",
+0x1874a4@mhfpac.bin,"‾C00The procedure was unsuccessful.
+The Pack was not disbanded.",
+0x1874ac@mhfpac.bin,"‾C00Only the leaders of Clans with a Clan Rank of 1 or
+higher are able to create Packs.",
+0x1874b4@mhfpac.bin,"‾C00Unable to use. Either you are already part of a Pack,
+or you have applied to become part of a Pack.",
+0x1874bc@mhfpac.bin,"‾C00 Procedure failed.
+Please try again in a moment.",
+0x1874c4@mhfpac.bin,"‾C00You will join this Alliance.
+Are you sure this is OK?",
+0x1874cc@mhfpac.bin,‾C00Process interrupted.,
+0x1874d4@mhfpac.bin,"‾C00Failed to process the above Clan.
+They may have withdrawn their application to join.",
+0x1874dc@mhfpac.bin,"‾C00Clans will withdraw or be expelled from the Pack.
+Is this OK?",
+0x1874e4@mhfpac.bin,"‾C00Clans are about to withdraw or be expelled from the
+Pack. ‾C05This cannot be undone. Are you sure you
+want to proceed?‾C00",
+0x1874ec@mhfpac.bin,"‾C00Clans have successfully withdrawn or been expelled
+from the Pack.",
+0x1874f4@mhfpac.bin,"‾C00Your application will be withdrawn.
+Are you sure this is OK?",
+0x1874fc@mhfpac.bin,"‾C00You will resign as Pack leader. Is this OK?
+‾C05*Upon resigning, you will become an ordinary Pack
+member.",
+0x187504@mhfpac.bin,"‾C00You are about to resign as Pack leader.
+Are you sure you want to proceed?
+‾C05* You will not be able to resign if there is no
+member who wants to replace you as leader.",
+0x18750c@mhfpac.bin,"‾C00Unable to resign as Pack leader.
+‾C05* Either there were no members who wanted to replace
+you as leader, or the processing of your resignation
+failed.",
+0x187514@mhfpac.bin,"‾C00You have resigned as Pack leader.
+The above player is the new Pack leader.",
+0x18751c@mhfpac.bin,"‾C00That Pack name is already in use. Please choose a
+different Pack name.",
+0x187524@mhfpac.bin,"‾C05Warning!‾C00
+
+You cannot create a Pack unless your Hunter Rank
+is ‾C05five or higher‾C00.",
+0x18752c@mhfpac.bin,"‾C00Learn more at the Official Website.
+‾C05(Launch Web Browser/NOT FUNCTIONAL!)‾C00",
+0x187534@mhfpac.bin,"‾C00You are temporarily unable to create a Pack or apply
+to join a Pack.",
+0x18753c@mhfpac.bin,"‾C00You will leave the Pack.
+Is this OK?",
+0x187544@mhfpac.bin,"‾C00You are about to leave the Pack.
+‾C05This cannot be undone. Are you sure you wish to
+proceed?‾C00",
+0x18754c@mhfpac.bin,"‾C00You will join the Rookie Clan.
+Is this OK?",
+0x187554@mhfpac.bin,"‾C05Warning!
+
+‾C00You are unable to join the Rookie Clan.
+
+Potential reasons for this include:
+- You are still serving your penalty period for leaving a
+Clan.
+- You are already a member of another Clan.",
+0x18755c@mhfpac.bin,‾C00Please enter at least one character.,
+0x187564@mhfpac.bin,‾C00The text you entered contains invalid characters.,
+0x18756c@mhfpac.bin,‾C00You cannot enter only spaces.,
+0x187574@mhfpac.bin,"‾C00Saving and quitting.
+Is this OK?",
+0x18757c@mhfpac.bin,‾C00Your Clan Symbol has been saved.,
+0x187584@mhfpac.bin,‾C00Failed to save your Clan Symbol.,
+0x18758c@mhfpac.bin,"‾C00ランドへ移動(別の広場)
+
+ワールドへ移動(別の区画)
+
+クエストボードへ移動
+
+求人板へ移動
+
+ ‾C00{k00} 決定    {k01} 戻る",
+0x187594@mhfpac.bin,"‾C00
+Exit without saving.
+Are you sure?",
+0x18759c@mhfpac.bin,‾C00You are unable to edit your Clan Symbol here.,
+0x1875a4@mhfpac.bin,"Congratulations for your breakthrough in the ‾C05<Hunting
+Tourney>‾C00!
+
+Please accept this <Diploma> from the <Rookie Guide>!",
+0x1875ac@mhfpac.bin,"‾C05Some members have not yet completed their
+preparations. Are you sure you want to set out on the
+Quest?
+(You will wait for the opposition party to finish
+preparing before setting out.)",
+0x1875b4@mhfpac.bin,"‾C00You will depart on your Quest. Is this OK?
+(You will wait for the opposition party to finish
+preparing before setting out on the Quest.)",
+0x1875bc@mhfpac.bin,"‾C05準備完了前のメンバーがいます。
+クエストに出発してよろしいですか？",
+0x1875c4@mhfpac.bin,‾C00No opponent.,
+0x1875cc@mhfpac.bin,‾C00Opponent not yet ready to depart.,
+0x1875d4@mhfpac.bin,"‾C05If you are defeated or choose to retire on a Versus
+Quest, your entire contract fee will be confiscated.
+
+Is this OK?",
+0x1875dc@mhfpac.bin,"‾C00You will vote for the selected Trial.
+Is this OK?",
+0x1875e4@mhfpac.bin,‾C00Application for this Quest is closed.,
+0x1875ec@mhfpac.bin,‾C00Contract conditions not met.,
+0x1875f4@mhfpac.bin,"‾C05Warning!
+‾C00You are unable to use this service on your
+current plan.
+
+You can use this service by purchasing the
+‾C02Hunter Life Plan‾C00.
+
+Purchase ‾C05 (Your browser will be opened.)‾C00
+View Details Online ‾C05(Your browser will be opened.)‾C00
+Close
+
+
+‾C05If you change to a new plan, you will need to
+quit the game and log in again.",
+0x1875fc@mhfpac.bin,"‾C00You're about to quit. The Message you are writing
+will be lost. Is this OK?",
+0x187604@mhfpac.bin,"‾C05Warning!
+‾C00You are unable to use this service on your
+current plan.
+
+You can use this service by purchasing the
+‾C02Premium Plan‾C00.
+
+Purchase ‾C05 (Your browser will be opened.)‾C00
+View Details Online ‾C05(Your browser will be opened.)‾C00
+Close
+
+‾C05If you change to a new plan, you will need to
+quit the game and log in again.",
+0x18760c@mhfpac.bin,"‾C05Warning!
+‾C00We're sorry, but you cannot currently use this
+service because you've ‾C02reached the usage limit‾C00.
+
+We apologize, and ask for your understanding.",
+0x187614@mhfpac.bin,"‾C05Warning!
+‾C00If you reach your ‾C02storage limit‾C00, you will
+become unable to use it.
+
+You have ‾C02not currently reached that limit‾C00, so you
+can continue to store items at the moment.
+
+Selecting ""Yes"" will count as one use of your storage.
+Would you like to proceed?",
+0x18761c@mhfpac.bin,"‾C05Warning!
+‾C00 ‾C02If you select ""Yes,""‾C00 then the next time you use
+your storage it will ‾C02count as another use‾C00.
+(It will count regardless of whether you move items
+or not.)
+
+If you select ‾C02""No,""‾C00 it will not count as a use.
+You will still be able to use your storage, change
+names etc.",
+0x187624@mhfpac.bin,‾C00Are you happy with this name?,
+0x18762c@mhfpac.bin,‾C00That name contains forbidden text!,
+0x187634@mhfpac.bin,"‾C00Cannot be initiated if you joined a Clan
+during the Prize Fest.",
+0x18763c@mhfpac.bin,‾C00Returning to Caravan... Please wait a moment...,
+0x187644@mhfpac.bin,"‾C00You will donate the Clan Points indicated.
+
+‾C05※The Clan leader decides how Clan Points will be used.
+Capcom will not get involved in any differences of
+opinion or disagreements that arise between Clan
+leaders and Clan members regarding the usage of
+Clan Points. Clan members must accept this when donating
+Clan Points, and must agree beforehand that it is the
+Clan leader who is responsible for choosing how they
+are used.
+
+Is this OK?",
+0x18764c@mhfpac.bin,"‾C00(TEMP) You will register with this name.
+Is this OK?",
+0x187654@mhfpac.bin,‾C00(TEMP) Now registering.,
+0x18765c@mhfpac.bin,‾C00(TEMP) Registered.,
+0x187664@mhfpac.bin,‾C00(TEMP) That name is already being used.,
+0x18766c@mhfpac.bin,‾C00(TEMP) Failed to connect.,
+0x187674@mhfpac.bin,"‾C05You will lose the indicated items when performing
+this operation.
+‾C00Selecting ""Yes"" will immediately erase gear data.
+This operation cannot be undone, and erased gear
+data cannot be restored.
+
+Is this OK?",
+0x18767c@mhfpac.bin,"‾C05You will lose the indicated items when performing
+this operation.
+‾C00Selecting ""Yes"" will immediately erase item data.
+This operation cannot be undone, and erased item
+data cannot be restored.
+
+Is this OK?",
+0x187684@mhfpac.bin,"‾C00Quest creation failed. Exiting the Tutorial.
+‾C05* You can see this content by talking to the
+Apprentice Felyne and selecting ""Tutorial.""
+* The tutorial teaches you about basic controls and
+game flow, so viewing it again is highly recommended.",
+0x18768c@mhfpac.bin,‾C00Stop the Tutorial?,
+0x187694@mhfpac.bin,‾C00Are you sure?,
+0x18769c@mhfpac.bin,"‾C00Talking to the Apprentice Felyne
+again will allow you to restart",
+0x1876a4@mhfpac.bin,"‾C05Warning!
+‾C00Services for Hunter Ranks 5 or higher cannot be
+used on your current plan.
+Would you like to change to the ‾C02Hunter Life Plan‾C00?
+
+Change Member Rank ‾C05(your browser will be opened.)‾C00
+Close
+
+‾C05If you change to a new plan, you will need to
+quit the game and log in again.",
+0x1876ac@mhfpac.bin,"‾C05Warning!
+‾C00The items currently in your Item Bag will be
+‾C02registered as an Item Set‾C00.
+
+OK to overwrite?",
+0x1876b4@mhfpac.bin,"‾C05Warning!
+‾C00Your Item Set will be‾C04placed in your Item Bag‾C00.
+
+OK to replace the current contents of your Item Bag?",
+0x1876bc@mhfpac.bin,"‾C05You don't have enough Makeover Points!
+‾C00You can get Makeover Points by buying the Makeover
+Service.
+
+Buy the Makeover Service‾C05(Your browser will be opened.)‾C00
+View Details Online ‾C05(Your browser will be opened.)‾C00
+Close",
+0x1876c4@mhfpac.bin,"‾C05Warning!
+‾C00If you leave the room, your current makeover will be
+saved.
+‾C04Your Makeover Points will be used up.‾C00.
+‾C02You will not be able to undo a Makeover
+once it has been saved.
+
+Is this OK?",
+0x1876cc@mhfpac.bin,"‾C05Final Check!
+‾C02Your Makeover will be fixed and saved.
+
+‾C00Are you sure you want to proceed?",
+0x1876d4@mhfpac.bin,‾C00,
+0x1876dc@mhfpac.bin,"‾C05Pioneer info for the selected options will be reset.
+‾C02* Once reset, the previous info cannot be restored.
+‾C02* When you reset Pioneer info, it is assessed and
+you will receive CP based on the results.
+
+Is this OK?",
+0x1876e4@mhfpac.bin,‾C00The selected options have been reset.,
+0x1876ec@mhfpac.bin,"‾C00Unable to acquire Versus Tournament Information.
+Please check the Versus Tournament Board.",
+0x1876f4@mhfpac.bin,‾C00Tough weapons cannot be used on this Quest.,
+0x1876fc@mhfpac.bin,"‾C00The text you entered contains words that cannot be
+used in MHF-Z, so you will be unable to use it in-game.",
+0x187704@mhfpac.bin,"‾C00The text you entered contains words that cannot be
+used on Xbox Live, so you will be unable to use it
+in-game.",
+0x18770c@mhfpac.bin,"‾C00
+Learn more at the Official Website.
+‾C05(Launch Web Browser/NOT FUNCTIONAL!)‾C00",
+0x187714@mhfpac.bin,"‾C05ご注意！
+‾C00現在のお客様のコースだけでは
+このサービスのご利用はできません。
+
+‾C02Ｌラスタ同行券‾C00を所持または
+‾C02アシストコース‾C00を別途ご購入いただく事で
+サービスを利用する事ができます。
+
+購入する‾C05（ブラウザ起動）‾C00
+Webで詳細‾C05（ブラウザ起動）‾C00
+閉じる
+
+‾C05コースをご購入された場合は、
+広場入口のガイドから「利用権情報の更新」を選ぶか
+ゲームを終了して再ログインして下さい。",
+0x18771c@mhfpac.bin,"‾C05Switching Pioneer info for the selected options.
+‾C02* Once switched, previous Pioneer info cannot
+be restored.
+
+‾C00Is this OK?",
+0x187724@mhfpac.bin,‾C00Switching of the selected options has been completed.,
+0x18772c@mhfpac.bin,"‾C00The assessment results were:
+
+‾C00.
+‾C00Is this OK?",
+0x187734@mhfpac.bin,"‾C00Unable to initiate this Quest. It can only be
+initiated from the Internet Caf.s indicated.",
+0x18773c@mhfpac.bin,"‾C05Warning!
+‾C00You are unable to use this service on your
+current plan.
+
+You can use this service by purchasing the
+‾C02Extra Plan‾C00.
+
+Purchase ‾C05 (Your browser will be opened.)‾C00
+View Details Online ‾C05(Your browser will be opened.)‾C00
+Close
+
+‾C05If you change to a new plan, you will need to
+quit the game and log in again.",
+0x187744@mhfpac.bin,"‾C00 Due to the Competitive nature of these quests, we want to make
+sure that everyone has a friendly rival experience.
+Make sure to respect your fellow competitors and
+refrain from any sabotaging or harmful bullying.
+
+If you can accept these basic ground rules, then 
+we wish you a good competition and may the
+better Hunter win!
+
+‾C05Let's get along and have a good Hunt! ‾C00",
+0x18774c@mhfpac.bin,"‾C00マイトレポイント　　‾C05  30ポイント‾C00を　　　　　
+‾C00ギルド貢献ポイント　‾C053000ポイント‾C00に交換します
+
+‾C00‾C051度交換すると元に戻すことはできません
+
+‾C00
+‾C00
+‾C00
+‾C00
+‾C00よろしいですか？",
+0x187754@mhfpac.bin,"‾C05大討伐に参加します
+
+‾C00ラヴィエンテとラヴィエンテ亜種の
+どちらかの大討伐に参加できます。
+どちらの大討伐に参加しますか？
+ラヴィエンテ
+
+ラヴィエンテ亜種
+ラヴィエンテはHR17から、
+ラヴィエンテ亜種はHR100から
+参加可能です。",
+0x18775c@mhfpac.bin,"‾C05ご注意！
+
+‾C05アイテムセット5〜24‾C00を削除することで
+追加アイテムボックスを4ページ追加することが可能です。
+実行しますか？
+‾C05削除したアイテムセットは復元することはできません。‾C00",
+0x187764@mhfpac.bin,"‾C00{u4}を作ると、
+マイトレポイント‾C05{u6}ポイント‾C00を消費します。
+よろしいですか？",
+0x18776c@mhfpac.bin,"‾C05ご注意！
+
+‾C00追加アイテムボックスを4ページ(すべて)削除することで
+‾C05アイテムセット5〜24‾C00を追加することが可能です。
+実行しますか？",
+0x187774@mhfpac.bin,"‾C00追加アイテムボックスを4ページ追加しました。
+‾C05(アイテムセット5〜24を削除)‾C00",
+0x18777c@mhfpac.bin,"‾C00追加アイテムボックスを4ページ削除しました。
+‾C05(アイテムセット5〜24を追加)‾C00",
+0x187784@mhfpac.bin,"‾C00追加アイテムボックスを削除するには
+‾C00追加アイテムボックス内を空にして下さい。",
+0x18778c@mhfpac.bin,‾C00シリーズクエストのダウンロードに失敗しました。,
+0x187794@mhfpac.bin,‾C00{u8}とお別れしますか？,
+0x18779c@mhfpac.bin,‾C00{u8}と本当にお別れしても良いですか？,
+0x1877a4@mhfpac.bin,"‾C00‾C05ホルク‾C00がやって来ました！
+
+これからのハンター生活において
+あなたの心強い仲間となるべく、
+‾C05ホルク‾C00がマイシリーズ内の
+「‾C05マイホルク‾C00」にやって来ました。
+
+エサを与えたり訓練の指示を行い、
+「‾C05学びの書‾C00」を装着させて
+あなただけのホルクに育てましょう。
+成長の結果は、クエスト中の行動で
+体感できます。
+
+詳しくは、‾C05マイホルク‾C00にいる管理担当
+「‾C05ホルク教官‾C00」にお尋ねください。
+
+Webで詳細‾C05(ブラウザ起動)
+‾C00閉じる",
+0x1877ac@mhfpac.bin,"‾C05ご注意！
+‾C00現在のお客様のコースでは
+このサービスのご利用はできません。
+
+‾C02エクストラ継続コース‾C00を別途ご購入いただく事で
+サービスを利用する事ができます。
+
+購入する‾C05（ブラウザ起動）‾C00
+Webで詳細‾C05（ブラウザ起動）‾C00
+閉じる
+
+
+‾C05コースをご購入された場合は、
+ゲームを終了して再ログインして下さい。",
+0x1877b4@mhfpac.bin,"‾C00これはミッション対象外の
+クエストです。",
+0x1877bc@mhfpac.bin,"‾C00デイリークエストに参加する
+権利がありません。",
+0x1877c4@mhfpac.bin,‾C00  参加人数が不足しています。,
+0x1877cc@mhfpac.bin,"‾C00‾C05注意‾C00
+
+現在は退出制限発生中につき、
+この状態で部屋を退出する場合は
+狩猟技段位ポイントがマイナスされます。
+それでも退出しますか？",
+0x1877d4@mhfpac.bin,"‾C00今回の狩猟技昇段試合は
+終了しました。
+パーティーを解散し、
+メゼポルタ広場に戻ります。
+(３秒後に自動的に退出します)",
+0x1877dc@mhfpac.bin,"‾C00ミッション中は
+装備の変更ができません。
+ミッションをキャンセルしてから
+やり直してください。",
+0x1877e4@mhfpac.bin,‾C00部屋に入室できませんでした。,
+0x1877ec@mhfpac.bin,"‾C00現在装備している
+武器種のＳＲが不足しているため
+これ以上受けることが
+出来ません。",
+0x1877f4@mhfpac.bin,"‾C00現在装備している
+武器種の秘伝書育成を、
+これ以上受けることが
+出来ません。",
+0x1877fc@mhfpac.bin,"‾C00現在表示している
+章に切り替えますか？",
+0x187804@mhfpac.bin,"‾C00現在表示中の章です。
+切り替えできません。",
+0x18780c@mhfpac.bin,‾C00クエストに出発します。,
+0x187814@mhfpac.bin,‾C00処理に失敗しました。,
+0x18781c@mhfpac.bin,‾C00クエストスタート準備中。,
+0x187824@mhfpac.bin,"‾C00クエスト出発準備状態になります。
+一度決定するとキャンセルできません。
+よろしいですか？",
+0x18782c@mhfpac.bin,"‾C00‾C02You might need to move
+between Worlds & Lands‾C00
+Are you sure?",
+0x187834@mhfpac.bin,"‾C00＜入団希望の登録にあたって＞
+猟団への入団希望の登録を行います。
+条件を設定して登録をすると、
+猟団長からショートメールやチャットで
+猟団への勧誘をうけることができる
+「入団希望一覧」に表示されます。
+
+ステキな猟団との出会いがありますように！
+
+‾C05＜ご注意＞‾C00
+・登録後、２ヵ月以上ログインしないと、
+自動的に登録が解除されます。
+・登録後、いずれかの猟団に加入申請
+すると、自動的に登録が解除されます。",
+0x18783c@mhfpac.bin,"‾C00すでに猟団に加入されているため、
+入団希望の登録を行うことはできません。",
+0x187844@mhfpac.bin,"‾C00「設定なし」の項目があるため、
+登録を完了できません。
+全ての項目を設定してください。",
+0x18784c@mhfpac.bin,"‾C00＜入団希望の登録解除について＞
+入団希望の登録解除を行います。
+解除をすると「入団希望一覧」に
+表示されなくなります。
+
+入団希望の登録解除を行いますか？",
+0x187854@mhfpac.bin,‾C00入団希望の登録を解除しました。,
+0x18785c@mhfpac.bin,‾C00入団希望の登録が完了しました。,
+0x187864@mhfpac.bin,‾C00条件に一致する登録者がいません。,
+0x18786c@mhfpac.bin,"‾C00＜入団希望一覧について＞
+ここから猟団の入団希望一覧を確認できます。
+入団希望一覧からは、猟団員になって欲しい
+ハンターを探し、そのハンターにショートメールを
+送ったり、お互いログイン中であればチャットで
+猟団への勧誘をすることができます。
+
+ステキな猟団員との出会いがありますように！
+
+‾C05＜ご注意＞‾C00
+・ショートメールやチャットは、
+繰り返し送信したりしないよう
+節度をもって行ってください。
+・ショートメールやチャットを送る時には、
+MHF利用規約を遵守してください。",
+0x187874@mhfpac.bin,"‾C00すでに登録済みのため、
+入団希望の登録を行うことはできません。",
+0x18787c@mhfpac.bin,"‾C00入団希望の登録を行っていないので、
+登録を解除することはできません。",
+0x187884@mhfpac.bin,"‾C00猟団に加入していないので、
+猟団部屋に入ることができません。",
+0x18788c@mhfpac.bin,"‾C00まだ猟団部屋が存在しないので、
+猟団部屋に入ることができません。",
+0x187894@mhfpac.bin,"‾C00猟団に加入していないので、
+ポイントを寄付することはできません。",
+0x18789c@mhfpac.bin,"‾C00猟団に加入していないので、
+猟団イベント支援を行うことができません。",
+0x1878a4@mhfpac.bin,"‾C00同盟は猟団長しか作成することが
+できません。",
+0x1878ac@mhfpac.bin,"‾C00同盟に加入申請中か、すでに同盟を作成
+または加入しているため使用できません。",
+0x1878b4@mhfpac.bin,"‾C00猟団ランクが不足しているので、
+同盟を作成することができません。",
+0x1878bc@mhfpac.bin,"‾C00装飾品の回収先がいっぱいです！
+このまま強化をすると
+装飾品を失ってしまいますが
+強化を続けてよろしいですか？",
+0x1878c4@mhfpac.bin,"‾C00‾C05注意‾C00
+
+狩猟技昇段試合会場では
+ラスタはクエストに参加することができません。
+パートニャーはクエストに参加することができません。
+ホルクはクエストに参加することができません。
+フィーチャー ウェポンは、無効です。
+秘伝食事効果は、無効です。",
+0x1878cc@mhfpac.bin,"‾C00ジャンプ先が【狩猟技昇段試合会場】のため
+ジャンプできません。",
+0x1878d4@mhfpac.bin,‾C00Update your subscription?,
+0x1878dc@mhfpac.bin,‾C00Subscription updated.,
+0x1878e4@mhfpac.bin,"‾C00Subscription update failed.
+Please, try again after a while.",
+0x1878ec@mhfpac.bin,"‾C00Subscription could not be updated.
+Please, re-log in to update it.",
+0x1878f4@mhfpac.bin,‾C00【狩猟技昇段試合会場】では使用できません。,
+0x1878fc@mhfpac.bin,‾C00契約金が不足しています。,
+0x187904@mhfpac.bin,"‾C05この操作を行なうと指定のシジルは失われます。
+‾C00「はい」を選択すると、即座にシジルデータは　
+消去されます。操作を取り消すことはできません。
+また、消去されたシジルデータは復旧することは
+できません。　　　　　　　　　　　　　　　　　
+よろしいですか？",
+0x18790c@mhfpac.bin,"‾C00装飾品の回収先がいっぱいです！
+アイテムボックスに空きを作ってください",
+0x187914@mhfpac.bin,"‾C00‾C05注意‾C00
+
+１度焼き付けたシジルを取り外すには、
+専用のアイテムが必要になります。
+
+一部レベルの無い武器については
+例外としてアイテムは不要となります。
+
+よろしいですか？",
+0x18791c@mhfpac.bin,"‾C00‾C05注意‾C00
+
+一度焼き付けたシジルの取り外しには、
+専用のアイテムが必要になります。
+
+一部レベルの無い武器については
+例外としてアイテムは不要となります。
+
+また、上書きして焼き付ける場合、
+古いシジルは無くなり、
+二度と使用できなくなります。
+
+よろしいですか？",
+0x187924@mhfpac.bin,"‾C05Ｇｚの所持できる上限を超えようとしています。　
+‾C00選択されたアイテムの売却を行った場合、　　　　
+超過分のＧｚは失われます。　　　　　　　　　　
+
+
+‾C05この操作を行なうと指定のアイテムは失われます。
+‾C00「はい」を選択すると、即座に武具データは　　　
+消去されます。操作を取り消すことはできません。
+また、消去された武具データは復旧することは　　
+できません。　　　　　　　　　　　　　　　　　
+よろしいですか？",
+0x18792c@mhfpac.bin,"‾C05Ｇｚの所持できる上限を超えようとしています。　
+‾C00選択されたアイテムの売却を行った場合、　　　　
+超過分のＧｚは失われます。　　　　　　　　　　
+
+
+‾C05この操作を行なうと指定のアイテムは失われます。
+‾C00「はい」を選択すると、即座にアイテムデータは　
+消去されます。操作を取り消すことはできません。
+また、消去されたアイテムデータは復旧することは
+できません。　　　　　　　　　　　　　　　　　
+よろしいですか？",
+0x187934@mhfpac.bin,"‾C05Ｇｚの所持できる上限を超えようとしています。　
+‾C00選択されたアイテムの売却を行った場合、　　　　
+超過分のＧｚは失われます。　　　　　　　　　　
+
+
+‾C05この操作を行なうと指定のシジルは失われます。
+‾C00「はい」を選択すると、即座にシジルデータは　
+消去されます。操作を取り消すことはできません。
+また、消去されたシジルデータは復旧することは
+できません。　　　　　　　　　　　　　　　　　
+よろしいですか？",
+0x18793c@mhfpac.bin,"‾C00Course effects to increase attack
+and ""Halk Pot"" effects does not
+apply to this Quest.",
+0x187944@mhfpac.bin,"‾C00このクエストはプーギーやホルクなどの
+同行が無効になります。",
+0x18794c@mhfpac.bin,"‾C00このクエストはコース効果による
+攻撃力の向上、及び元気のみなもとの
+効果が適用されません。
+
+
+このクエストはプーギーやホルクなどの
+同行が無効になります。",
+0x187954@mhfpac.bin,"‾C05ご注意！
+
+‾C00現在のお客様のコースでは
+このサービスのご利用はできません。
+‾C02ハンターライフコース‾C00に変更しますか？
+
+会員ランクを変更する‾C05（ブラウザ起動）‾C00
+閉じる
+
+‾C05コースを変更された場合は、
+ゲームを終了して再ログインして下さい。",
+0x18795c@mhfpac.bin,"‾C05ご注意！
+
+‾C00現在のお客様のコースでは
+ＨＲ５以上のサービスのご利用はできません。
+‾C02ハンターライフコース‾C00に変更しますか？
+
+会員ランクを変更する‾C05（ブラウザ起動）‾C00
+閉じる
+
+‾C05コースを変更された場合は、
+ゲームを終了して再ログインして下さい。",
+0x187964@mhfpac.bin,"You won't be able to operate the game
+during the upload process.
+Continue?",
+0x18796c@mhfpac.bin,"‾C00≪%s≫
+Claiming【%s】.
+Are you sure?
+Receiving Amount：%d Total",
+0x187974@mhfpac.bin,"‾C00受取可能な全ての
+≪%s≫を受取ります。
+よろしいですか？
+受取り個数：%d個",
+0x18797c@mhfpac.bin,"‾C00≪%s≫を
+%d個受取りました。
+
+{k01}閉じる",
+0x187984@mhfpac.bin,"‾C05アイテムボックスに空きがありません。
+
+{k01}閉じる",
+0x18798c@mhfpac.bin,"‾C05何らかの異常で受取りできませんでした。
+
+{k01}閉じる",
+0x187994@mhfpac.bin,‾C00カプリンクの特典受け取りを行います。,
+0x18799c@mhfpac.bin,"‾C00特典は、受け取りに来た
+キャラクターの所持する
+アイテムボックスへ送られます。
+
+よろしいですか？",
+0x1879a4@mhfpac.bin,"‾C05受取可能な特典はありません。
+
+
+{k01}閉じる",
+0x1879ac@mhfpac.bin,‾C05There are no items to be claimed.,
+0x1879b4@mhfpac.bin,"‾C00条件達成により特典を
+受け取ることができます。
+
+受け取りますか？",
+0x1879bc@mhfpac.bin,‾C05Receipt deadline has passed.,
+0x1879c4@mhfpac.bin,‾C05Cannot be claimed again.,
+0x1879cc@mhfpac.bin,"‾C05Warning！
+Benefits will be sent to the
+‾C02Temp Storage‾C00 as there's no space to recieve them.
+
+‾C05Items
+‾C02Free some space in the Item Box
+to be able to receive it again.
+‾C05Points
+‾C02Make sure you are able to receive
+any more points and try again.
+
+Item and Points can be ‾C02receipt within the deadline‾C00.",
+0x1879d4@mhfpac.bin,‾C05Successful received the benefits.,
+0x1879dc@mhfpac.bin,"‾C05Item Claim Confirmation
+<Items, Weapons and Armors>
+will be sent to the ‾C02Item Box‾C00.
+
+<Points> and <Box Expansions>
+will be given to the hunter.
+
+‾C05 <Premium Gacha Coins> ‾C00
+‾C05 <Trial Gacha Coins> ‾C00
+‾C05 <Frontier Points> ‾C00
+will be granted to your account.
+
+For ‾C02Items and Armor,
+when the Item Box is full,
+the reward will not be received. ‾C00
+Do you want to claim the reward?",
+0x1879e4@mhfpac.bin,‾C00カプトモ登録を完了しました。,
+0x1879ec@mhfpac.bin,‾C00本当に無視していいですか？,
+0x1879f4@mhfpac.bin,‾C00無視しました。,
+0x1879fc@mhfpac.bin,"‾C00毎日特典を獲得しますか？ 
+
+‾C05利用権の更新が行われていない場合、
+‾C05正しく特典が獲得できない場合があります。",
+0x187a04@mhfpac.bin,"‾C00公式サイト上に設置されている、
+‾C00対象情報を表示します。
+‾C05(ブラウザを起動します)",
+0x187a0c@mhfpac.bin,"‾C05お知らせ
+一時保管アイテムが有ります。
+＜アイテムや武器・防具＞は
+‾C02アイテムボックス‾C00に送られます。
+
+＜ポイント＞はキャラクターに付与されます。
+
+‾C05＜きんぴか小判Ｇ＞‾C00
+‾C05＜おためし小判Ｇ＞‾C00
+‾C05＜フロンティアポイント＞‾C00
+はアカウントに付与されます。
+
+‾C02アイテムや武具の場合
+アイテムボックスがいっぱいだと
+アイテムが送信されませんのでご注意下さい。‾C00",
+0x187a14@mhfpac.bin,"‾C02条件を満たしていないため
+報酬をもらう権限がありません。
+‾C00詳細を確認します。",
+0x187a1c@mhfpac.bin,‾C00この会話から退室しますか？,
+0x187a24@mhfpac.bin,‾C00退室しました。,
+0x187a2c@mhfpac.bin,‾C0011桁のカプトモパスを指定してください。,
+0x187a34@mhfpac.bin,‾C00すでに対象を無視設定しているので実行できません。,
+0x187a3c@mhfpac.bin,‾C00対象の情報が取得できないため実行できません。,
+0x187a44@mhfpac.bin,‾C00文字数が上限を超えました。,
+0x187a4c@mhfpac.bin,‾C00無効なカプトモ申請です。,
+0x187a54@mhfpac.bin,‾C05No claimable items.,
+0x187a5c@mhfpac.bin,‾C05No claimable subscriptions.,
+0x187a64@mhfpac.bin,‾C00,
+0x187a6c@mhfpac.bin,‾C00,
+0x187a74@mhfpac.bin,‾C00,
+0x187a7c@mhfpac.bin,‾C00,
+0x187a84@mhfpac.bin,‾C05課金条件が一致しません。,
+0x187a8c@mhfpac.bin,‾C05HRが一致しません。,
+0x187a94@mhfpac.bin,‾C05SRが一致しません。,
+0x187a9c@mhfpac.bin,‾C05GRが一致しません。,
+0x187aa4@mhfpac.bin,‾C05受取条件が一致しません。,
+0x187aac@mhfpac.bin,‾C05受取条件を満たしていません。,
+0x187ab4@mhfpac.bin,‾C00Set this goal?,
+0x187abc@mhfpac.bin,"‾C00既に猟団目標が設定されています。
+新たに設定するためには目標を達成するか、
+設定中の目標を取り消してください。",
+0x187ac4@mhfpac.bin,"‾C00猟団目標の設定は
+‾C05猟団長‾C00もしくは‾C05副猟団長‾C00しかできません。",
+0x187acc@mhfpac.bin,"‾C00‾C05猟団目標とは？‾C00
+
+猟団メンバー全員が協力して
+ひとつの目標達成を目指します。
+目標を達成することで、ギルドから
+猟団支援効果を受け取ることができます。
+
+達成後すぐに次の目標を始めることができるので、
+精力的に挑戦しましょう！",
+0x187ad4@mhfpac.bin,‾C00開催されていません。,
+0x187adc@mhfpac.bin,"‾C00利用権購入ページを表示します。
+‾C05（ブラウザを起動します）
+‾C00
+‾C02※ここからは武具などの詳細性能を
+確認することができません。
+性能につきましては、ゲーム外のブラウザ
+または武具工房などでご確認ください。‾C00",
+0x187ae4@mhfpac.bin,"‾C00‾C05ご注意！‾C00
+購入したコースの適用や
+武具の受取を行うためには、
+「‾C02利用権情報の更新‾C00」を行う必要があります。
+‾C05※通信状況により、更新を行っても
+反映されない場合があります。
+その際は時間をおいて、再度お試しください。‾C00",
+0x187aec@mhfpac.bin,"‾C00‾C05猟団支援効果とは？‾C00
+
+猟団支援効果は猟団部屋から出発した
+クエストで発揮されます。
+最大で10件まで受け取ることができますが、
+同一効果はレベル10が上限です。
+
+支援効果を貯めて、猟団の結束力を高めましょう！",
+0x187af4@mhfpac.bin,‾C00報酬を受け取りました。,
+0x187afc@mhfpac.bin,‾C00報酬を受け取れませんでした。,
+0x187b04@mhfpac.bin,"‾C00猟団トレジャー
+メニューに戻りますか？",
+0x187b0c@mhfpac.bin,"‾C00お宝発見報告
+メニューに戻りますか？",
+0x187b14@mhfpac.bin,"‾C00このお宝を探しに行くのを
+止めますか？",
+0x187b1c@mhfpac.bin,"‾C00探しに行くお宝を
+これに変更しますか？",
+0x187b24@mhfpac.bin,"‾C00猟団トレジャー隊出発します。
+よろしいですか？",
+0x187b2c@mhfpac.bin,"‾C05アイテム≪%s≫を%d個使用して
+戻り時間をスキップします！！
+
+よろしいですか？",
+0x187b34@mhfpac.bin,"‾C02戻り時間をスキップするためには
+アイテム≪%s≫が%d個必要です。",
+0x187b3c@mhfpac.bin,‾C00Hire this Felyne?,
+0x187b44@mhfpac.bin,‾C00Confirm Name?,
+0x187b4c@mhfpac.bin,‾C02サーバーとの通信に失敗しました,
+0x187b54@mhfpac.bin,"‾C05！！疲労度の高いパートニャーがいます！！
+
+‾C00猟団ポイントを消費して
+パートニャーの疲労度を回復しましょう。
+‾C00
+‾C05消費ポイント　　　%d(%dx%d匹)
+‾C00
+‾C06所持猟団ポイント　　　%d
+‾C00
+猟団ポイントを消費して出発しますか？",
+0x187b5c@mhfpac.bin,"‾C00ハード制限により選択した
+ワールドへの移動はできません。",
+0x187b64@mhfpac.bin,"‾C00指定した猟団ポイントを使用して
+アクティブカウントを補填します。
+
+よろしいですか？",
+0x187b6c@mhfpac.bin,‾C00アクティブカウントの補填が完了しました。,
+0x187b74@mhfpac.bin,‾C00アクティブカウントの補填に失敗しました。,
+0x187b7c@mhfpac.bin,"‾C02不正な処理が検出されました。
+
+お問い合わせください。",
+0x187b84@mhfpac.bin,"‾C00ランドへ移動(別の広場)
+
+ワールドへ移動(別の区画)
+
+クエストボードへ移動
+
+求人板へ移動
+
+マイハウスへ移動
+
+武具工房へ移動
+
+‾C05くじを引きに行く‾C00
+
+猟団部屋へ移動
+
+ ‾C00{k00} 決定    {k01} 戻る",
+0x187b8c@mhfpac.bin,"‾C00ランドへ移動(別の広場)
+
+ワールドへ移動(別の区画)
+
+クエストボードへ移動
+
+求人板へ移動
+
+マイハウスへ移動
+
+武具工房へ移動
+
+‾C05くじを引きに行く‾C00
+
+ ‾C00{k00} 決定    {k01} 戻る",
+0x187b94@mhfpac.bin,‾C00ゲーム招待は１日に１回しか送信できません,
+0x187b9c@mhfpac.bin,‾C00カプトークの最大参加人数を超えています,
+0x187ba4@mhfpac.bin,"‾C00復帰区利用期限がきれました。
+復帰区以外のメゼポルタ広場をご利用ください。",
+0x187bac@mhfpac.bin,"‾C05Move to Return World?
+
+‾C00There are exclusive content access
+available in the Return World for:
+‾C04・Returning Hunters
+‾C04・New Hunters",
+0x187bb4@mhfpac.bin,‾C00復帰区を利用する権限がありません,
+0x187bbc@mhfpac.bin,‾C00復帰区でクエストを受注する権限がありません,
+0x187bc4@mhfpac.bin,"‾C00このワールドではＧ級昇格試験を受注できません。
+Ｇ級クエストが受注できるワールドに移動して、
+再度Ｇ級受付嬢に話しかけてください。",
+0x187bcc@mhfpac.bin,"‾C05Item Claim Confirmation‾C00
+‾C00＜Item＞‾C00
+will be sent to the‾C02Item Box‾C00.
+
+＜Point＞ will be given to your character.
+
+‾C05＜Premium Gacha Coin＞‾C00
+‾C05＜Trial Gacha Coin＞‾C00
+‾C05＜Frontier Point＞‾C00
+will be granted to your account.
+
+‾C02Please note that
+Items won't be received if
+the Item Box is full.
+‾C00Would you like to claim it?",
+0x187bd4@mhfpac.bin,"‾C00きんぴか小判Ｇが不足していますので、
+このサービスのご利用はできません。
+
+きんぴか小判Ｇを別途ご購入いただく事で
+サービスを利用する事ができます。
+
+購入する‾C05（ブラウザ起動）‾C00
+Webで詳細‾C05（ブラウザ起動）‾C00
+閉じる
+
+‾C05きんぴか小判Ｇをご購入された場合は、
+ハリセンネコもおしくは広場入口のガイドから
+「利用権情報の更新」を選び
+きんぴか小判Ｇを受け取ってください。‾C00",
+0x187bdc@mhfpac.bin,"‾C05Ｇ遷悠クエスト‾C00の報酬１０枠確定ブーストが終了しました。
+これより、クエスト報酬は３枠⇒２枠⇒１枠となります。 
+ブースト回数は‾C05『毎日特典』‾C00の獲得でチャージされます。
+
+‾C05先行狩猟チケット‾C00を消費するクエストや、
+‾C05狩人応援コース‾C00利用時は、１０枠確定で報酬が受け取れます。",
+0x187be4@mhfpac.bin,"‾C05遷悠クエスト‾C00の報酬１０枠確定ブーストが終了しました。
+これより、クエスト報酬は３枠⇒２枠⇒１枠となります。 
+ブースト回数は‾C05『毎日特典』‾C00の獲得でチャージされます。
+
+‾C05先行狩猟チケット‾C00を消費するクエストや、
+‾C05狩人応援コース‾C00利用時は、１０枠確定で報酬が受け取れます。",
+0x187bec@mhfpac.bin,‾C05No available subscriptions to be claimed.,
+0x187bf4@mhfpac.bin,"‾C05レジェンドラスタ２人と契約が可能です。‾C00
+
+アシストコース、または狩人応援コースの
+有効期間中は、
+レジェンドラスタ２人と契約することができます。",
+0x187bfc@mhfpac.bin,"‾C00契約順番により、
+メインＬラスタ、サブＬラスタで分けられ、
+メインＬラスタで登録されているレジェンドラスタが
+優先して同行します。",
+0x187c04@mhfpac.bin,"‾C05契約順は、レジェンドラスタメニューの
+「契約順を変更する」から変更できます。
+
+レジェンドラスタの解約は、
+レジェンドラスタ受付、または
+レジェンドラスタメニューより行えます。",
+0x187c0c@mhfpac.bin,"‾C05ご注意！
+
+‾C00受け取ったコースの適用を行うため、
+「‾C02利用権情報の更新‾C00」を行います。
+
+‾C05※通信状況により、更新を行っても
+反映されない場合があります。
+その際は時間をおいて、再度お試しください。",
+0x187c14@mhfpac.bin,"‾C05受取確認
+
+‾C00この効果は＜アカウント＞に付与されます。
+
+
+‾C05%s
+
+
+‾C00受け取りますか？",
+0x187c1c@mhfpac.bin,"‾C05内容の確認
+
+‾C00下記を受け取りました。
+
+‾C05%s
+‾C00%s
+
+‾C00有効期限は「個人ステータス＞課金情報」
+または「個人ステータス＞その他」でも
+確認できます。",
+0x187c24@mhfpac.bin,"‾C05ご注意！
+
+‾C00下記のコースが有効です。
+
+‾C05%s
+‾C00%s
+
+‾C00上記の有効期限が切れてから
+もう一度お受け取り下さい。",
+0x187c2c@mhfpac.bin,"‾C05ご注意！
+
+‾C00受け取った猟団ポイントは、
+再ログイン後に反映されます。",
+0x187c34@mhfpac.bin,"‾C05ご注意！
+
+‾C00公認ネットカフェから接続しているので、
+受け取ることが出来ません。
+
+公認ネットカフェ以外から接続して
+もう一度お受け取り下さい。",
+0x187c3c@mhfpac.bin,"‾C05受取確認
+
+‾C00この効果は＜キャラクター＞に付与されます。
+また、この効果は‾C02受け取った後すぐに‾C00発動します。
+‾C02※「後で発動」は出来ません！
+
+‾C05%s
+
+‾C00受け取りますか？",
+0x187c44@mhfpac.bin,"‾C05内容の確認
+
+‾C00下記を受け取りました。
+
+‾C05%s
+‾C00%s
+
+‾C00有効期限は「個人ステータス＞ポイント等」で
+確認できます。",
+0x187c4c@mhfpac.bin,"‾C05お知らせ
+
+‾C00一時保管されている利用権が有るので受け取ります。
+受け取ったコースの適用を行うため、
+「‾C02利用権情報の更新‾C00」を行います。
+
+‾C05※通信状況により、更新を行っても
+反映されない場合があります。
+その際は時間をおいて、再度お試しください。
+
+‾C02※利用権が重複している場合には、効果が延長されません。
+十分にご注意ください。",
+0x187c54@mhfpac.bin,"‾C05ご注意！
+
+‾C00下記の効果が有効です。
+
+‾C05%s
+‾C00%s
+
+‾C00上記の有効期限が切れてから
+もう一度お受け取り下さい。",
+0x187c5c@mhfpac.bin,"‾C00調査依頼書を達成していません。
+
+‾C05※新しい依頼書は現在の依頼書を完了
+しないと入手することはできません。",
+0x187c64@mhfpac.bin,"‾C00指定した猟団ポイントを寄付します。
+
+‾C05※上限に達していた場合は差額が返却されます。
+
+※期間中に依頼書を入手できなかった場合、
+寄付された猟団ポイントは返却されます。
+
+‾C00よろしいですか？",
+0x187c6c@mhfpac.bin,"‾C00新規・復帰ハンターの皆さまへ
+
+こちらのメニューより
+＜新規チュートリアル＞をご覧になりたい場合は、
+‾C05＜復帰区＞へ移動して‾C00
+‾C05＜復帰区チュートリアル＞を終えてから‾C00
+もう一度選んでください。",
+0x187c74@mhfpac.bin,"‾C05猟団狩人ブーストを発動させますか？
+‾C00発動させると６０分間、
+猟団員全員の猟団狩人珠
+獲得量が上昇します。",
+0x187c7c@mhfpac.bin,"‾C05猟団狩人ブーストを
+発動させることができません。
+‾C00「猟団狩人珠の情報」から発動可能に
+なるまでの時間を確認できます。",
+0x187c84@mhfpac.bin,"‾C05現在、猟団狩人ブーストは発動中です。
+‾C00「猟団狩人珠の情報」から
+残り時間を確認できます。",
+0x187c8c@mhfpac.bin,"‾C05猟団狩人ブーストを
+発動させることができません。
+‾C00猟団狩人ブーストを発動できるのは
+猟団長か副猟団長だけです。",
+0x187c94@mhfpac.bin,‾C00調査依頼書を全て達成しました。,
+0x187c9c@mhfpac.bin,"‾C05アイテムボックスがいっぱいです。
+整理してから、再度報酬を受け取ってください。",
+0x187ca4@mhfpac.bin,‾C00異なるポータルのカプトモパスは入力できません。,
+0x187cac@mhfpac.bin,‾C00この猟団への加入を承諾しますか？,
+0x187cb4@mhfpac.bin,"‾C00上記のハンターを猟団に勧誘します。
+よろしいですか？",
+0x187cbc@mhfpac.bin,‾C00猟団への加入を承諾しますか？,
+0x187cc4@mhfpac.bin,"‾C00このハンターに対する勧誘を取り消します。
+よろしいですか？
+
+‾C05※取り消しの際、相手に通知のメールが送られます。",
+0x187ccc@mhfpac.bin,"‾C00猟団への勧誘に失敗しました。
+
+‾C05※自分が猟団に加入していません。",
+0x187cd4@mhfpac.bin,"‾C00猟団への勧誘に失敗しました。
+
+‾C05※「猟団に勧誘」を行う権限がありません。",
+0x187cdc@mhfpac.bin,"‾C00猟団への勧誘に失敗しました。
+
+‾C05※このハンターはすでに猟団に加入しています。",
+0x187ce4@mhfpac.bin,"‾C00猟団への勧誘に失敗しました。
+
+‾C05※このハンターは現在猟団に勧誘中です。",
+0x187cec@mhfpac.bin,"‾C00猟団への勧誘に失敗しました。
+
+‾C05※勧誘できるハンターが最大数に達しています。",
+0x187cf4@mhfpac.bin,"‾C00猟団への勧誘に失敗しました。
+
+‾C05※相手にメールが送れない状態にあります。",
+0x187cfc@mhfpac.bin,"‾C00猟団への勧誘に失敗しました。
+
+‾C05※通信状況を確認し、もう一度行ってください。",
+0x187d04@mhfpac.bin,"‾C00勧誘への返答に失敗しました。
+
+‾C05※この勧誘は無効になっています。",
+0x187d0c@mhfpac.bin,"‾C00猟団への加入に失敗しました。
+
+‾C05※既に猟団に加入しています。",
+0x187d14@mhfpac.bin,"‾C00猟団への加入に失敗しました。
+
+‾C05※猟団側に確認を行ってください。",
+0x187d1c@mhfpac.bin,"‾C00勧誘への返答に失敗しました。
+
+‾C05※通信状況を確認し、もう一度行ってください。",
+0x187d24@mhfpac.bin,"‾C00猟団への加入に失敗しました。
+
+‾C05※現在、猟団に加入することができません。",
+0x187d2c@mhfpac.bin,"‾C00勧誘の取り消しができませんでした。
+
+‾C05※既に返答が行われている可能性があります。",
+0x187d34@mhfpac.bin,"‾C00勧誘の取り消しができませんでした。
+
+‾C05※勧誘取り消しの権限がありません。",
+0x187d3c@mhfpac.bin,"‾C00勧誘の取り消しができませんでした。
+
+‾C05※勧誘取り消しの権限がありません。",
+0x187d44@mhfpac.bin,"‾C00勧誘の取り消しができませんでした。
+
+‾C05※通信状況を確認し、もう一度行ってください。",
+0x187d4c@mhfpac.bin,"‾C00権限の変更に失敗しました。
+
+‾C05※猟団長でなければ変更ができません。",
+0x187d54@mhfpac.bin,"‾C00権限の変更に失敗しました。
+
+‾C05※対象者はすでに猟団員ではない可能性があります。",
+0x187d5c@mhfpac.bin,‾C00猟団に勧誘しました。,
+0x187d64@mhfpac.bin,‾C00猟団への加入を承諾しました！,
+0x187d6c@mhfpac.bin,‾C00猟団への加入を辞退しました。,
+0x187d74@mhfpac.bin,‾C00猟団への勧誘を取り消しました。,
+0x187d7c@mhfpac.bin,"‾C00景品は「一時保管庫」に保管されています。
+今すぐ景品をアイテムボックスに送りますか？
+
+‾C05※景品はいつでも「一時保管庫」メニューから受け取れます。‾C00",
+0x187d84@mhfpac.bin,‾C00変更を反映しますか？,
+0x187d8c@mhfpac.bin,"‾C05復帰猟団（入団と構成）
+‾C00
+・‾C05復帰ハンターのみ‾C00で構成される猟団です。　　　　　　　
+・団長・副団長はなく、‾C05全員が団員‾C00の気軽な猟団です。　　
+・ハンターのランクに合わせて‾C05ＨＲ‾C00か‾C05Ｇ級‾C00に分かれます。　
+・猟団員は‾C05３０名‾C00です。　　　　　　　　　　　　　　　　
+・退団・再加入は‾C05自由‾C00にできます。　　　　　　　　　　　
+・退団のペナルティーはありません。　　　　　　　　　　
+・団員に空きができても、新たな団員が補充されます。　　
+・復帰ハンターの条件が切れれば‾C05自動退団‾C00です。",
+0x187d94@mhfpac.bin,"‾C05復帰猟団（特典）
+‾C00
+・最初から‾C05猟団部屋（Lv.3）ランク14相当‾C00の機能が使えます。 　　 
+・通常の猟団ポイント(ＲＰ)に加え、‾C0510分で1ＲＰ‾C00たまります。 　　
+・専用の‾C05復帰猟団チャット‾C00が利用できます。　　　　　　　　　　　
+・ヘルプ設定した仲間のクエストに‾C05@hereでジャンプ‾C00できます。 　　
+・‾C05コミュニケーションログ‾C00で仲間の動向がわかります。　　　　　　
+・復帰区でも猟団部屋の作成ができ、そのまま‾C05入室‾C00ができます。　　
+
+※復帰猟団部屋では、‾C05利用制限‾C00されている機能があります。　　　
+※一部のクエストでは、ログ表示、@here表示は出ません。",
+0x187d9c@mhfpac.bin,Would you like to join the ‾C05Return Clan‾C00?,
+0x187da4@mhfpac.bin,"‾C05注意！
+‾C00
+すでに通常猟団に入団しています！
+
+今入団している‾C05通常猟団を退団‾C00して
+復帰猟団へ入団しますか？",
+0x187dac@mhfpac.bin,"‾C00入団中の猟団で‾C05猟団長‾C00だと‾C05団長交代‾C00になります。
+また、退団した際に団員が残らない場合は、
+その猟団は‾C05強制解散‾C00になります。
+
+本当に今の‾C05通常猟団を退団‾C00して
+復帰猟団へ入団しますか？",
+0x187db4@mhfpac.bin,"‾C05入団おめでとうございます！
+‾C00【まずは使ってみよう！】
+‾C00
+‾C05★復帰猟団チャット★‾C00
+猟団チャットで挨拶してみましょう！
+他にもチャットには‾C05仲間の行動情報‾C00が流れたり、
+クエストの‾C05ヘルプ募集‾C00もできるからとても便利！
+
+‾C05★復帰猟団部屋★‾C00
+部屋へは猟団受付の＜‾C05猟団部屋に入る‾C00＞か、
+広場にある通路から行きます。
+
+＜メニュー＞の＜猟団＞もチェック！",
+0x187dbc@mhfpac.bin,"‾C00今回、復帰猟団に入団をしなくても
+下記の手段で再度、‾C05復帰猟団へ入団‾C00ができます！
+
+広場の猟団受付のメニューの
+＜‾C05猟団に入団する‾C00＞を選択することで、
+ここと同じ入団の説明を聞くことができます。
+
+また、復帰ハンター中は‾C05ワールド・ランド移動‾C00の際に
+一定回数同じ説明が表示されます。",
+0x187dc4@mhfpac.bin,"‾C05復帰ハンター‾C00のみなさん
+
+同じ‾C05復帰ハンター仲間で集まる‾C00事ができて、
+しかも専用の‾C05特典が満載‾C00な復帰猟団へは、
+このメッセージを進めることで入団ができます。
+
+もし復帰猟団への興味や入団の希望があるならば、
+このチャンスに是非‾C05入団‾C00しましょう！
+
+※この表示は復帰ハンター中、1ログインで3回表示されます。
+※＜今は入団しない＞で、そのログイン中は非表示にします。",
+0x187dcc@mhfpac.bin,"‾C00復帰猟団入団の条件が
+満たされているため、
+はじめに‾C05復帰猟団の説明‾C00を行います。
+
+復帰猟団に入団しない場合は、
+通常猟団の‾C05猟団を探す‾C00に移ります。",
+0x187dd4@mhfpac.bin,"‾C00復帰猟団入団の条件が
+満たされているため、
+‾C05復帰猟団の説明‾C00を行います。",
+0x187ddc@mhfpac.bin,"‾C00かんたん操作未対応の武器種が
+指定されたクエストは受けられません。",
+0x187de4@mhfpac.bin,"‾C05復帰猟団の猟団成果に関して
+
+‾C00復帰猟団の特性上、＜猟団長の権限が必要＞
+＜報酬期間が決まっている＞＜RPの消費がある＞
+などの要素への参加を制限しています。
+
+
+‾C05天廊遠征録　猟団調査依頼は受けられません。
+‾C00調査依頼が発生しないため、支援効果や報酬が発生しません。
+
+‾C05猟団征伐戦への参加はできません。
+‾C00実績ポイントの獲得ができないため、マッチングが行われません。
+
+‾C05航路クエスト受付　取扱いクエストの受注ができません。
+‾C00受付のクエストの受注、猟団狩人珠の利用ができません。
+
+‾C05公式狩猟大会‾C0は‾C05巨大魚杯‾C00のみ参加できます。",
+0x187dec@mhfpac.bin,"‾C05【%s】‾C00に祈りを込めます。
+変更は一日に一回までです。
+よろしいですか？
+
+また、選択後、歌玉を‾C051個以上獲得しないと‾C00
+戦歌の章で祈歌効果を得ることはできませんので
+ご注意ください",
+0x187df4@mhfpac.bin,"‾C00祈りを捧げる祈珠を
+‾C05【%s】‾C00に変更します。
+変更は一日に一回までです。よろしいですか？",
+0x187dfc@mhfpac.bin,"‾C00歌の恩恵効果を使いますか？
+‾C02※一度発動したら変更できません‾C00",
+0x187e04@mhfpac.bin,‾C00効果を発動しました。,
+0x187e0c@mhfpac.bin,‾C00効果を発動できませんでした。,
+0x187e14@mhfpac.bin,"‾C05色の変更に失敗しました。
+本日はすでに色を変更しています。‾C00",
+0x187e1c@mhfpac.bin,‾C00祈珠のレベルが最大のため、選択できません。,
+0x187e24@mhfpac.bin,‾C00この章では祈珠を決定することができません。,
+0x187e2c@mhfpac.bin,‾C00この祈珠はすでに選択されています。,
+0x187e34@mhfpac.bin,"‾C00現在、祈珠情報の集計中です。
+完了するまでの間、祈珠選択ができません。
+少し間をおいてから再度操作を行ってください。",
+0x187e3c@mhfpac.bin,"‾C05ＰＳ４で『モンハンＦ』みんなでテスト‾C00
+ご参加ありがとうございます。
+みんなでテストでは、初回プレイ時にキャラクターの
+ハンターランクを変更することが可能です。
+
+ＨＲ１でプレイを開始
+‾C05※製品版と同じプレイを希望する方向け。‾C00
+ＧＲ１でプレイを開始
+‾C05※すぐに高難易度のクエストをプレイしたい方向け。‾C00
+‾C05※Ｇ級クエストは、入門区では受注できません。‾C00
+
+‾C05ハンターランクの変更は、
+‾C05確定するとその後変更することはできません。",
+0x187e44@mhfpac.bin,Moving to ‾C05Special Clan Hall‾C00.,
+0x187e4c@mhfpac.bin,"‾C05レジェンドラスタ３人と契約が可能です。‾C00
+
+Ｎブーストコースと、アシストコース
+または狩人応援コースの有効期間中、
+もしくはＬラスタ同行券の所持で、
+レジェンドラスタ３人と契約することができます。",
+0x187e54@mhfpac.bin,"‾C00契約順番により、
+メインＬラスタ、サブＬラスタで分けられ、
+メインＬラスタで登録されているレジェンドラスタが
+優先して同行します。",
+0x187e5c@mhfpac.bin,"‾C05契約順は、レジェンドラスタメニューの
+「契約順を変更する」から変更できます。
+
+レジェンドラスタの解約は、
+レジェンドラスタ受付、または
+レジェンドラスタメニューより行えます。",
+0x187e64@mhfpac.bin,"‾C00ログを取得しています。
+しばらくお待ちください。",
+0x187e6c@mhfpac.bin,"‾C00‾C05注意‾C00
+
+外装の使い回しはできません。
+‾C05装着済の外装を外したり、
+上書きすると元の外装は破棄されます。
+
+‾C00よろしいですか？",
+0x187e74@mhfpac.bin,この狩衛士を同行しますか？,
+0x187e7c@mhfpac.bin,"ギルド貢献ポイントが不足しているため
+狩衛士の同行ができません。",
+0x187e84@mhfpac.bin,"ＨＲ帯のハンターは
+狩衛士を同行させることはできません。
+
+ＧＲハンターのみ同行可能です。",
+0x187e8c@mhfpac.bin,"現在、狩衛士を同行中です。
+
+同行期間
+%04d/%d/%d　%02d:%02dまで
+
+‾C05期間終了後、
+‾C05狩衛士は自動で解散します。",
+0x187e94@mhfpac.bin,"決定後、再設定はできません。
+再設定が可能になるのは同行期間終了後です。
+
+同行期間
+%04d/%d/%d　%02d:%02dまで",
+0x187e9c@mhfpac.bin,"‾C00Retrieving Map information.
+Please wait.",
+0x187ea4@mhfpac.bin,‾C00Failed to retrieve Map information.,
+0x187eac@mhfpac.bin,‾C00Failed to retrieve log.,
+0x187eb4@mhfpac.bin,"‾C00ＨＲ帯の迎撃戦クエストには
+狩衛士を同行させることはできません。
+受注しますか？",
+0x187ebc@mhfpac.bin,"‾C00該当条件のパーティーが見つかりませんでした。
+しばらくしてからお試しください。",
+0x187ec4@mhfpac.bin,"‾C00クイックパーティー用のワールドが満員です。
+しばらくしてからもう一度試して下さい。",
+0x187ecc@mhfpac.bin,"‾C00検索に失敗しました。
+もう一度試して下さい。",
+0x187ed4@mhfpac.bin,"‾C05ご注意！
+ボックス内の武具に装着されている、
+全ての装飾品を外します。
+
+‾C02ハンター、ラスタが装備中の武具は
+一括回収の対象外となります。‾C00
+
+アイテムボックスが一杯の場合、
+装飾品が外れない事があります。
+
+よろしいですか？",
+0x187edc@mhfpac.bin,このキャラクターではこれ以上ページを拡張できません。,
+0x187ee4@mhfpac.bin,戦績情報を取得中・・・,
+0x187eec@mhfpac.bin,装備情報を取得中・・・,
+0x187ef4@mhfpac.bin,戦績情報の取得に失敗しました,
+0x187efc@mhfpac.bin,装備情報の取得に失敗しました,
+0x187f04@mhfpac.bin,‾C00会話イベントをスキップしますか？,
+0x187f0c@mhfpac.bin,"‾C00‾C05Warning‾C00
+Rastas cannot join the quest.
+Partnyas cannot join the quest.
+Halk cannot join the quest.
+""Soul Revival"" (or equivalent) effects will be disabled.
+""Halk Pot"" effects will be disabled.",
+0x187f14@mhfpac.bin,"‾C05最終確認！
+‾C02イメチェンを確定して、保存します。
+
+‾C00本当によろしいですか？",
+0x187f1c@mhfpac.bin,"‾C05Warning! ‾C00
+You can claim this reward for your account.
+
+If you have more characters,
+only 1 can receive this reward.
+
+No other characters will be able to claim
+this reward until it is renewed.
+
+This reward can be claimed every day at 0:00 and 12:00.",
+0x187f24@mhfpac.bin,"‾C05≪先に進みます≫‾C00
+
+「はい」を選択後、約１０秒後に移動します。
+
+‾C02注意！‾C00
+移動はハンター全員で行われます。
+操作途中のハンターがいた場合、
+強制で取り消し操作となるので、
+全員で相談してから確定させましょう。
+
+よろしいですか？",
+0x187f2c@mhfpac.bin,"‾C05注意！‾C00
+おすそわけアイテムを受け取る権利は
+アカウントに付与されます。
+
+複数のキャラクターを所有している場合は、
+１体のみがアイテムを受け取ることができます。
+
+受け取りの権利が更新されるまで、
+他のキャラクターは、アイテムを受け取ることができません。
+
+受け取りの権利は毎日０時と１２時に更新されます。",
+0x187f34@mhfpac.bin,‾C00アイテムが登録されていません。,
+0x187f3c@mhfpac.bin,"‾C05%dP‾C08(Current Koryo Points:%dP)
+
+
+‾C00is required.
+‾C00Do you want to draw once?",
+0x187f44@mhfpac.bin,"‾C05""%s""‾C00
+をすべて""%s""と交換します。
+よろしいですか？",
+0x187f4c@mhfpac.bin,‾C00COG IDを確認できない、またはフレンド申請に失敗しています。,
+0x187f54@mhfpac.bin,"‾C05≪先に進みます≫‾C00
+
+「はい」を選択後、約１０秒後に移動します。
+
+‾C02注意！‾C00
+選択後、取り消しをすることはできません。
+選択後もアイテム購入等できますが、
+移動時間に達した時点で
+強制取り消し操作となります。
+
+よろしいですか？",
+0x187f5c@mhfpac.bin,‾C05交換条件を満たしていません。,
+0x187f64@mhfpac.bin,‾C05必要アイテムが不足しています。,
+0x187f6c@mhfpac.bin,"‾C05ご注意！
+ボックス内の武器に焼き付けられている、
+全てのシジルを外します。
+
+‾C02ハンターが装備中の武器は
+一括回収の対象外となります。‾C00
+
+シジルボックスが一杯の場合、
+シジルが外れない事があります。
+
+よろしいですか？",
+0x187f74@mhfpac.bin,‾C05これ以上交換できません。,
+0x187f7c@mhfpac.bin,"‾C05アイテム交換確認
+＜アイテムや武器・防具＞は
+‾C02アイテムボックス‾C00に送られます。
+
+＜ポイント＞や＜ボックス拡張サービス＞は
+キャラクターに付与されます。
+
+‾C05＜きんぴか小判Ｇ＞‾C00
+‾C05＜おためし小判Ｇ＞‾C00
+‾C05＜フロンティアポイント＞‾C00
+はアカウントに付与されます。
+
+‾C02アイテムや武具の場合
+アイテムボックスがいっぱいだと
+アイテムが送信されませんのでご注意下さい。‾C00
+アイテムを消費して交換しますか？",
+0x187f84@mhfpac.bin,"‾C05交換確認
+
+‾C00この効果は＜アカウント＞に付与されます。
+
+
+‾C05%s
+
+
+‾C00アイテムを消費して交換しますか？",
+0x187f8c@mhfpac.bin,"‾C05注意！
+特典を受取るための空きがないので
+特典は‾C02一時的に保管‾C00されます。
+
+‾C05特典アイテムの場合
+‾C02アイテムボックスに空きを作ってから
+再度、受取りをおこなってください。
+‾C05特典ポイントの場合
+‾C02特典ポイント数を受取れる状態にして
+再度、受取りをおこなってください。",
+0x187f94@mhfpac.bin,"‾C05ご注意！
+
+‾C00下記のコースが有効です。
+
+‾C05%s
+‾C00%s
+
+‾C00上記の有効期限が切れてから
+もう一度交換して下さい。",
+0x187f9c@mhfpac.bin,"‾C00現在大変混み合っています。
+しばらくしてからもう一度試して下さい。",
+0x187fa4@mhfpac.bin,"‾C00部屋の作成に失敗しました。
+しばらくしてからもう一度試して下さい。",
+0x187fac@mhfpac.bin,"‾C00制限時間が0になっても人数がそろわなかったので、
+メゼポルタフェスタ広場へ戻ります。",
+0x187fb4@mhfpac.bin,‾C00Moving to Mezeporta Festival.,
+0x187fbc@mhfpac.bin,‾C00Entering Mezeporta Festival.,
+0x187fc4@mhfpac.bin,‾C00現在いるメゼポルタフェスタ広場には、移動できません。,
+0x187fcc@mhfpac.bin,‾C00満室になってしまったため、再検索いたします。,
+0x187fd4@mhfpac.bin,‾C00通信待機中です・・・,

@@ -1,0 +1,4 @@
+location,source,target
+0x1814c0@mhfpac.bin,"Discard<join at=""1578180"">Swap<join at=""1578184"">Send",
+0x1814cc@mhfpac.bin,"‾C10Discard<join at=""1578192"">Swap<join at=""1578196"">Send",
+0x1814d8@mhfpac.bin,"Discard<join at=""1578204"">Swap<join at=""1578208"">‾C10Send",

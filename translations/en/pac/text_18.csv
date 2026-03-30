@@ -1,0 +1,7 @@
+location,source,target
+0x181620@mhfpac.bin,"Discard<join at=""1578532"">Give<join at=""1578536"">Swap<join at=""1578540"">Bind F Key",
+0x181630@mhfpac.bin,"Discard<join at=""1578548"">‾C10Give<join at=""1578552"">‾C00Swap<join at=""1578556"">Bind F Key",
+0x181640@mhfpac.bin,"‾C10Discard<join at=""1578564"">Give<join at=""1578568"">Swap<join at=""1578572"">Bind F Key",
+0x181650@mhfpac.bin,"Discard<join at=""1578580"">Give<join at=""1578584"">Swap<join at=""1578588"">‾C10F Key Bind",
+0x181660@mhfpac.bin,"Discard<join at=""1578596"">‾C10Give<join at=""1578600"">‾C00Swap<join at=""1578604"">‾C10F Key Bind",
+0x181670@mhfpac.bin,"‾C10Discard<join at=""1578612"">Give<join at=""1578616"">Swap<join at=""1578620"">‾C10F Key Bind",

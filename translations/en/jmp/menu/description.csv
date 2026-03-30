@@ -1,0 +1,41 @@
+location,source,target
+0x7d4@mhfjmp.bin,"Jump to another Land
+in the same World.",
+0x80c@mhfjmp.bin,Jump to another Mezeporta World.,
+0x844@mhfjmp.bin,Jump to Quest Board.,
+0x87c@mhfjmp.bin,Jump to Bounty Board.,
+0x8b4@mhfjmp.bin,Jump to your Clan Hall.,
+0x8ec@mhfjmp.bin,Jump to House.,
+0x924@mhfjmp.bin,"Jump to Workshop.
+（Cannot be used during Mission）",
+0x95c@mhfjmp.bin,"Jump to Harisen Felyne (Workshop).
+（Cannot be used during Mission）",
+0x994@mhfjmp.bin,Jump to Mezeporta Square.,
+0x9cc@mhfjmp.bin,"Jump to Pallone Caravan.
+（Unavailable in Novice World）
+（Unlocked at HR2）",
+0xa04@mhfjmp.bin,"Jump to Gallery.
+（Unavailable in Novice World）",
+0xa3c@mhfjmp.bin,Jump to Garden.,
+0xa74@mhfjmp.bin,"Jump to Tore.
+（Unlocked at HR4）",
+0xaac@mhfjmp.bin,"Jump to Support.
+（Unavailable on another's
+　Facilities）",
+0xae4@mhfjmp.bin,"Jump to Missions.
+（Unlocked at HR5）",
+0xb1c@mhfjmp.bin,"Jump to Public Bar.
+（Public Bar―My Facilities Only）",
+0xb54@mhfjmp.bin,"Jump to Exchange Bar.
+（Exchange Bar―My Facilities Only）",
+0xb8c@mhfjmp.bin,"Jump to Public Bar Entrance.
+（Tavern World Only）",
+0xbc4@mhfjmp.bin,"Jump to Exchange Bar Entrance.
+（Cities World Only）",
+0xbfc@mhfjmp.bin,Jump to Quest Board.,
+0xc34@mhfjmp.bin,Jump to Boss Kiel.,
+0xc6c@mhfjmp.bin,"Jump to another Mezeporta Fest
+in the same World.",
+0xca4@mhfjmp.bin,"Jump to another Land
+in the same World.",
+0xcdc@mhfjmp.bin,Jump to another Mezeporta World.,

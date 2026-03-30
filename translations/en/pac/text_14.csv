@@ -1,0 +1,5 @@
+location,source,target
+0x18e600@mhfpac.bin,"Status<join at=""1631748"">受信制限<join at=""1631752"">‾C10制限解除",
+0x18e60c@mhfpac.bin,"Status<join at=""1631760"">‾C10受信制限<join at=""1631764"">制限解除",
+0x18e618@mhfpac.bin,"Status<join at=""1631772"">‾C10受信制限‾C00<join at=""1631776"">制限解除",
+0x18e624@mhfpac.bin,制限解除,
