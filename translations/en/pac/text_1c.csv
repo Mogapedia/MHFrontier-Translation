@@ -1,13 +1,13 @@
 location,source,target
-0x181500@mhfpac.bin,"Discard<join at=""1578244"">Give<join at=""1578248"">Swap<join at=""1578252"">Send<join at=""1578256"">Bind F Key",
-0x181514@mhfpac.bin,"Discard<join at=""1578264"">‾C10Give<join at=""1578268"">‾C00Swap<join at=""1578272"">Send<join at=""1578276"">Bind F Key",
-0x181528@mhfpac.bin,"‾C10Discard<join at=""1578284"">Give<join at=""1578288"">Swap<join at=""1578292"">Send<join at=""1578296"">Bind F Key",
-0x18153c@mhfpac.bin,"Discard<join at=""1578304"">Give<join at=""1578308"">Swap<join at=""1578312"">Send<join at=""1578316"">‾C10F Key Bind",
-0x181550@mhfpac.bin,"Discard<join at=""1578324"">‾C10Give<join at=""1578328"">‾C00Swap<join at=""1578332"">Send<join at=""1578336"">‾C10F Key Bind",
-0x181564@mhfpac.bin,"‾C10Discard<join at=""1578344"">Give<join at=""1578348"">Swap<join at=""1578352"">Send<join at=""1578356"">‾C10F Key Bind",
-0x181578@mhfpac.bin,"Discard<join at=""1578364"">Give<join at=""1578368"">Swap<join at=""1578372"">‾C10Send‾C00<join at=""1578376"">Bind F Key",
-0x18158c@mhfpac.bin,"Discard<join at=""1578384"">‾C10Give<join at=""1578388"">‾C00Swap<join at=""1578392"">‾C10Send‾C00<join at=""1578396"">Bind F Key",
-0x1815a0@mhfpac.bin,"‾C10Discard<join at=""1578404"">Give<join at=""1578408"">Swap<join at=""1578412"">‾C10Send‾C00<join at=""1578416"">Bind F Key",
-0x1815b4@mhfpac.bin,"Discard<join at=""1578424"">Give<join at=""1578428"">Swap<join at=""1578432"">‾C10Send‾C00<join at=""1578436"">‾C10F Key Bind",
-0x1815c8@mhfpac.bin,"Discard<join at=""1578444"">‾C10Give<join at=""1578448"">‾C00Swap<join at=""1578452"">‾C10Send‾C00<join at=""1578456"">‾C10F Key Bind",
-0x1815dc@mhfpac.bin,"‾C10Discard<join at=""1578464"">Give<join at=""1578468"">Swap<join at=""1578472"">‾C10Send‾C00<join at=""1578476"">‾C10F Key Bind",
+0x181500@mhfpac.bin,"Discard<join at=""1578244"">Give<join at=""1578248"">Swap<join at=""1578252"">Send<join at=""1578256"">Bind F Key","Discard<join at=""1578244"">Give<join at=""1578248"">Swap<join at=""1578252"">Send<join at=""1578256"">Bind F Key"
+0x181514@mhfpac.bin,"Discard<join at=""1578264"">‾C10Give<join at=""1578268"">‾C00Swap<join at=""1578272"">Send<join at=""1578276"">Bind F Key","Discard<join at=""1578264"">‾C10Give<join at=""1578268"">‾C00Swap<join at=""1578272"">Send<join at=""1578276"">Bind F Key"
+0x181528@mhfpac.bin,"‾C10Discard<join at=""1578284"">Give<join at=""1578288"">Swap<join at=""1578292"">Send<join at=""1578296"">Bind F Key","‾C10Discard<join at=""1578284"">Give<join at=""1578288"">Swap<join at=""1578292"">Send<join at=""1578296"">Bind F Key"
+0x18153c@mhfpac.bin,"Discard<join at=""1578304"">Give<join at=""1578308"">Swap<join at=""1578312"">Send<join at=""1578316"">‾C10F Key Bind","Discard<join at=""1578304"">Give<join at=""1578308"">Swap<join at=""1578312"">Send<join at=""1578316"">‾C10F Key Bind"
+0x181550@mhfpac.bin,"Discard<join at=""1578324"">‾C10Give<join at=""1578328"">‾C00Swap<join at=""1578332"">Send<join at=""1578336"">‾C10F Key Bind","Discard<join at=""1578324"">‾C10Give<join at=""1578328"">‾C00Swap<join at=""1578332"">Send<join at=""1578336"">‾C10F Key Bind"
+0x181564@mhfpac.bin,"‾C10Discard<join at=""1578344"">Give<join at=""1578348"">Swap<join at=""1578352"">Send<join at=""1578356"">‾C10F Key Bind","‾C10Discard<join at=""1578344"">Give<join at=""1578348"">Swap<join at=""1578352"">Send<join at=""1578356"">‾C10F Key Bind"
+0x181578@mhfpac.bin,"Discard<join at=""1578364"">Give<join at=""1578368"">Swap<join at=""1578372"">‾C10Send‾C00<join at=""1578376"">Bind F Key","Discard<join at=""1578364"">Give<join at=""1578368"">Swap<join at=""1578372"">‾C10Send‾C00<join at=""1578376"">Bind F Key"
+0x18158c@mhfpac.bin,"Discard<join at=""1578384"">‾C10Give<join at=""1578388"">‾C00Swap<join at=""1578392"">‾C10Send‾C00<join at=""1578396"">Bind F Key","Discard<join at=""1578384"">‾C10Give<join at=""1578388"">‾C00Swap<join at=""1578392"">‾C10Send‾C00<join at=""1578396"">Bind F Key"
+0x1815a0@mhfpac.bin,"‾C10Discard<join at=""1578404"">Give<join at=""1578408"">Swap<join at=""1578412"">‾C10Send‾C00<join at=""1578416"">Bind F Key","‾C10Discard<join at=""1578404"">Give<join at=""1578408"">Swap<join at=""1578412"">‾C10Send‾C00<join at=""1578416"">Bind F Key"
+0x1815b4@mhfpac.bin,"Discard<join at=""1578424"">Give<join at=""1578428"">Swap<join at=""1578432"">‾C10Send‾C00<join at=""1578436"">‾C10F Key Bind","Discard<join at=""1578424"">Give<join at=""1578428"">Swap<join at=""1578432"">‾C10Send‾C00<join at=""1578436"">‾C10F Key Bind"
+0x1815c8@mhfpac.bin,"Discard<join at=""1578444"">‾C10Give<join at=""1578448"">‾C00Swap<join at=""1578452"">‾C10Send‾C00<join at=""1578456"">‾C10F Key Bind","Discard<join at=""1578444"">‾C10Give<join at=""1578448"">‾C00Swap<join at=""1578452"">‾C10Send‾C00<join at=""1578456"">‾C10F Key Bind"
+0x1815dc@mhfpac.bin,"‾C10Discard<join at=""1578464"">Give<join at=""1578468"">Swap<join at=""1578472"">‾C10Send‾C00<join at=""1578476"">‾C10F Key Bind","‾C10Discard<join at=""1578464"">Give<join at=""1578468"">Swap<join at=""1578472"">‾C10Send‾C00<join at=""1578476"">‾C10F Key Bind"

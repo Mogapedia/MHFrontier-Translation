@@ -1,4 +1,4 @@
 location,source,target
-0x1788e0@mhfpac.bin,Attack Type,
-0x1788f0@mhfpac.bin,Movement Type,
-0x178900@mhfpac.bin,Padless Type,
+0x1788e0@mhfpac.bin,Attack Type,Attack Type
+0x1788f0@mhfpac.bin,Movement Type,Movement Type
+0x178900@mhfpac.bin,Padless Type,Padless Type

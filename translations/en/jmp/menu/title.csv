@@ -1,25 +1,25 @@
 location,source,target
-0x7d0@mhfjmp.bin,Change Land,
-0x808@mhfjmp.bin,Change World,
-0x840@mhfjmp.bin,Quest Board,
-0x878@mhfjmp.bin,Bounty Board,
-0x8b0@mhfjmp.bin,Clan Hall,
-0x8e8@mhfjmp.bin,House,
-0x920@mhfjmp.bin,Workshop,
-0x958@mhfjmp.bin,Harisen Felyne,
-0x990@mhfjmp.bin,Mezeporta Square,
-0x9c8@mhfjmp.bin,Pallone Caravan,
-0xa00@mhfjmp.bin,Gallery,
-0xa38@mhfjmp.bin,Garden,
-0xa70@mhfjmp.bin,Tore,
-0xaa8@mhfjmp.bin,Support,
-0xae0@mhfjmp.bin,Missions,
-0xb18@mhfjmp.bin,Public Bar,
-0xb50@mhfjmp.bin,Exchange Bar,
-0xb88@mhfjmp.bin,Public Bar Entrance,
-0xbc0@mhfjmp.bin,Exchange Bar Entrance,
-0xbf8@mhfjmp.bin,Quest Board,
-0xc30@mhfjmp.bin,Boss Kiel,
-0xc68@mhfjmp.bin,Jump to Clan Hall,
-0xca0@mhfjmp.bin,Change Land,
-0xcd8@mhfjmp.bin,Change World,
+0x7d0@mhfjmp.bin,Change Land,Change Land
+0x808@mhfjmp.bin,Change World,Change World
+0x840@mhfjmp.bin,Quest Board,Quest Board
+0x878@mhfjmp.bin,Bounty Board,Bounty Board
+0x8b0@mhfjmp.bin,Clan Hall,Clan Hall
+0x8e8@mhfjmp.bin,House,House
+0x920@mhfjmp.bin,Workshop,Workshop
+0x958@mhfjmp.bin,Harisen Felyne,Harisen Felyne
+0x990@mhfjmp.bin,Mezeporta Square,Mezeporta Square
+0x9c8@mhfjmp.bin,Pallone Caravan,Pallone Caravan
+0xa00@mhfjmp.bin,Gallery,Gallery
+0xa38@mhfjmp.bin,Garden,Garden
+0xa70@mhfjmp.bin,Tore,Tore
+0xaa8@mhfjmp.bin,Support,Support
+0xae0@mhfjmp.bin,Missions,Missions
+0xb18@mhfjmp.bin,Public Bar,Public Bar
+0xb50@mhfjmp.bin,Exchange Bar,Exchange Bar
+0xb88@mhfjmp.bin,Public Bar Entrance,Public Bar Entrance
+0xbc0@mhfjmp.bin,Exchange Bar Entrance,Exchange Bar Entrance
+0xbf8@mhfjmp.bin,Quest Board,Quest Board
+0xc30@mhfjmp.bin,Boss Kiel,Boss Kiel
+0xc68@mhfjmp.bin,Jump to Clan Hall,Jump to Clan Hall
+0xca0@mhfjmp.bin,Change Land,Change Land
+0xcd8@mhfjmp.bin,Change World,Change World
