@@ -1,0 +1,18 @@
+location,source,target
+0x18ef7c0@mhfdat-jp.bin,未設定,Not set
+0x18ef7d4@mhfdat-jp.bin,なし,None
+0x18ef7e8@mhfdat-jp.bin,HR1以上,HR1 or higher
+0x18ef7fc@mhfdat-jp.bin,HR2以上,HR2 or higher
+0x18ef810@mhfdat-jp.bin,HR3以上,HR3 or higher
+0x18ef824@mhfdat-jp.bin,HR4以上,HR4 or higher
+0x18ef838@mhfdat-jp.bin,HR5以上,HR5 or higher
+0x18ef84c@mhfdat-jp.bin,HR6以上,HR6 or higher
+0x18ef860@mhfdat-jp.bin,HR7以上,HR7 or higher
+0x18ef874@mhfdat-jp.bin,GR1以上,GR1 or higher
+0x18ef888@mhfdat-jp.bin,GR100以上,GR100 or higher
+0x18ef89c@mhfdat-jp.bin,GR200以上,GR200 or higher
+0x18ef8b0@mhfdat-jp.bin,GR400以上,GR400 or higher
+0x18ef8c4@mhfdat-jp.bin,GR600以上,GR600 or higher
+0x18ef8d8@mhfdat-jp.bin,GR800以上,GR800 or higher
+0x18ef8ec@mhfdat-jp.bin,GR999,GR999
+0x18ef900@mhfdat-jp.bin,不明,Unknown

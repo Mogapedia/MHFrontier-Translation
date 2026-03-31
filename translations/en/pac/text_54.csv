@@ -1,0 +1,74 @@
+location,source,target
+0x16ef60@mhfpac.bin,"None<join at=""1503076"">",
+0x16ef68@mhfpac.bin,"歩行<join at=""1503084"">押下中は前方に
+歩行",
+0x16ef70@mhfpac.bin,"ダッシュ<join at=""1503092"">押下中は前方に
+ダッシュ",
+0x16ef78@mhfpac.bin,"回避<join at=""1503100"">方向カーソルの向
+いている方へ回避",
+0x16ef80@mhfpac.bin,"Reset Camera<join at=""1503108"">カメラを前方へ
+リセット",
+0x16ef88@mhfpac.bin,"カメラ・反時計<join at=""1503116"">カメラの角度が
+反時計回りに回転",
+0x16ef90@mhfpac.bin,"カメラ・時計<join at=""1503124"">カメラの角度が
+時計回りに回転",
+0x16ef98@mhfpac.bin,"<join at=""1503132"">",
+0x16efa0@mhfpac.bin,"<join at=""1503140"">",
+0x16efa8@mhfpac.bin,"カメラ・上昇<join at=""1503148"">カメラの角度が
+上昇",
+0x16efb0@mhfpac.bin,"カメラ・下降<join at=""1503156"">カメラの角度が
+下降",
+0x16efb8@mhfpac.bin,"弾の選択・上送り<join at=""1503164"">クエスト中に
+弾を選択",
+0x16efc0@mhfpac.bin,"弾の選択・下送り<join at=""1503172"">クエスト中に
+弾を選択",
+0x16efc8@mhfpac.bin,"前方向設定攻撃<join at=""1503180"">ゲームパッドの右
+スティック前と同じ",
+0x16efd0@mhfpac.bin,"後方向設定攻撃<join at=""1503188"">ゲームパッドの右
+スティック後ろと同じ",
+0x16efd8@mhfpac.bin,"右方向設定攻撃<join at=""1503196"">ゲームパッドの右
+スティック右と同じ",
+0x16efe0@mhfpac.bin,"左方向設定攻撃<join at=""1503204"">ゲームパッドの右
+スティック左と同じ",
+0x16efe8@mhfpac.bin,"特殊攻撃１<join at=""1503212"">ゲームパッドの
+Ｒ１ボタンと同じ",
+0x16eff0@mhfpac.bin,"特殊攻撃２<join at=""1503220"">ゲームパッドの
+Ｒ３ボタンと同じ",
+0x16eff8@mhfpac.bin,"全方向設定<join at=""1503228"">向きを決定",
+0x16f000@mhfpac.bin,"全方向設定攻撃<join at=""1503236"">ゲームパッドの右
+スティックと同じ",
+0x16f008@mhfpac.bin,"カメラ左右設定<join at=""1503244"">カメラを時計回り・
+反時計回りに回転",
+0x16f010@mhfpac.bin,"Use Item<join at=""1503252"">アイテムを使用する",
+0x16f018@mhfpac.bin,"Attack<join at=""1503260"">攻撃に使用",
+0x16f020@mhfpac.bin,"カメラ<join at=""1503268"">カメラ移動",
+0x16f028@mhfpac.bin,"コンボパレット再生<join at=""1503276"">セット番号を順次再生",
+0x16f030@mhfpac.bin,"アイテムの選択・右<join at=""1503284"">回転で選択（右送り)",
+0x16f038@mhfpac.bin,"アイテムの選択・左<join at=""1503292"">回転で選択（左送り)",
+0x16f040@mhfpac.bin,"コンボの選択・昇順<join at=""1503300"">コンボパレットの選択
+（昇順)",
+0x16f048@mhfpac.bin,"コンボの選択・降順<join at=""1503308"">コンボパレットの選択
+（降順)",
+0x16f050@mhfpac.bin,"カメラの上下左右設定<join at=""1503316"">カメラの移動
+エイミングの操作",
+0x16f058@mhfpac.bin,"オブジェクトアクセス<join at=""1503324"">採取や剥ぎ取り動作",
+0x16f060@mhfpac.bin,"アイテム選択<join at=""1503332"">テーブルを左右に回転",
+0x16f068@mhfpac.bin,"コンボパレット再生<join at=""1503340"">セット番号を順次再生",
+0x16f070@mhfpac.bin,"ダッシュ<join at=""1503348"">押下中はダッシュ",
+0x16f078@mhfpac.bin,"回避行動<join at=""1503356"">進行方法へ回避
+停止時はしゃがむ",
+0x16f080@mhfpac.bin,"特殊行動<join at=""1503364"">武器毎に特殊行動",
+0x16f088@mhfpac.bin,"弾丸ビン剣晶選択<join at=""1503372"">テーブルを上下へ回転",
+0x16f090@mhfpac.bin,"カメラ左右移動<join at=""1503380"">スコープモードや照準
+移動時は上下移動可",
+0x16f098@mhfpac.bin,"Guard<join at=""1503388"">防御態勢を取る",
+0x16f0a0@mhfpac.bin,"Reload<join at=""1503396"">弾丸の装填",
+0x16f0a8@mhfpac.bin,"Charge<join at=""1503404"">強い打撃技を放つ",
+0x16f0b0@mhfpac.bin,"Guard<join at=""1503412"">防御態勢を取る",
+0x16f0b8@mhfpac.bin,"Guard<join at=""1503420"">防御態勢を取る",
+0x16f0c0@mhfpac.bin,"Reload<join at=""1503428"">弾丸の装填",
+0x16f0c8@mhfpac.bin,"Demon Mode<join at=""1503436"">一時攻撃力を増す",
+0x16f0d0@mhfpac.bin,"Spirit Blade<join at=""1503444"">ゲージ消費斬撃",
+0x16f0d8@mhfpac.bin,"演奏開始<join at=""1503452"">狩猟補助の旋律を演奏",
+0x16f0e0@mhfpac.bin,"Guard<join at=""1503460"">防御態勢を取る",
+0x16f0e8@mhfpac.bin,"Take Aim<join at=""1503468"">矢の軌道目安を表示",
