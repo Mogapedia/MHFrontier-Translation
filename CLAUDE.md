@@ -17,9 +17,10 @@ practical risk is very low:
 
 - Other Monster Hunter fan-translation repos host JP source publicly:
   [NSACloud/MHR-EFX-Translator](https://github.com/NSACloud/MHR-EFX-Translator)
-  (Rise EFX strings), [L-StarJP/Monster-Hunter-Diary-Poka-Poka-Airou-Village-DX-English-translation-3DS](https://github.com/L-StarJP/Monster-Hunter-Diary-Poka-Poka-Airou-Village-DX-English-translation-3DS)
-  (full 3DS spinoff translation), [xl3lackout/MHFZ-Ferias-English-Project](https://github.com/xl3lackout/MHFZ-Ferias-English-Project)
-  (translation of the JP Ferias MHF-Z info site).
+  (TSV of Rise EFX JP→EN strings) and
+  [xl3lackout/MHFZ-Ferias-English-Project](https://github.com/xl3lackout/MHFZ-Ferias-English-Project)
+  (HTML pages translating the JP Ferias MHF-Z info site, original JP text
+  preserved alongside the English).
 - Capcom's MH-related enforcement has targeted ROMs, asset rips, and server
   emulators — never translation source strings. MHF was shut down in 2019
   with no successor, so the preservation defense is strong.

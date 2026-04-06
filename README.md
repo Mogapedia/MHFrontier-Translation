@@ -61,11 +61,11 @@ These strings are Capcom's, but hosting them here is consistent with
 established community practice for Monster Hunter fan translations on GitHub:
 
 - [NSACloud/MHR-EFX-Translator](https://github.com/NSACloud/MHR-EFX-Translator)
-  ships JP→EN string tables for Monster Hunter Rise EFX files.
-- [L-StarJP/Monster-Hunter-Diary-Poka-Poka-Airou-Village-DX-English-translation-3DS](https://github.com/L-StarJP/Monster-Hunter-Diary-Poka-Poka-Airou-Village-DX-English-translation-3DS)
-  hosts a full English translation of the 3DS spinoff including JP source.
+  ships a JP→EN TSV (`translationCache.tsv`) with thousands of Monster Hunter
+  Rise EFX source strings.
 - [xl3lackout/MHFZ-Ferias-English-Project](https://github.com/xl3lackout/MHFZ-Ferias-English-Project)
-  translates the Japanese Ferias MHF-Z information site, with JP text in repo.
+  translates the Japanese Ferias MHF-Z info site; the per-page HTML files
+  contain the original Japanese descriptions alongside the English.
 
 Capcom's MH-related enforcement has historically targeted ROMs, asset rips,
 and server emulators — never translation source strings — and MHF was
