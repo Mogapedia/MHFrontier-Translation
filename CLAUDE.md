@@ -9,23 +9,29 @@ Per-section CSV translations of Monster Hunter Frontier text, organized as
 [FrontierTextHandler](../../tools/FrontierTextHandler) (see sibling
 `mhfrontier/tools/FrontierTextHandler/CLAUDE.md`).
 
-## Copyright: do not commit raw Japanese source text
+## Copyright posture on Japanese source text
 
-The original Japanese strings in the `source` column belong to Capcom. The
-copyright risk of redistributing them in this repo is low but real, and worth
-keeping deliberate:
+The original Japanese strings in the `source` column belong to Capcom, but
+hosting them here is consistent with established community practice and the
+practical risk is very low:
 
-- **Avoid bulk-importing JP source text** into commits whenever possible.
-  Prefer storing only `location` + `target` once a clean tooling path exists,
-  or hashing/eliding the source column.
-- **Never paste large blocks of JP text** into issues, PR descriptions, or
-  CLAUDE memory.
-- The current `translations/fr/` files do contain JP source as a transitional
-  measure (needed for human reviewers and for migration). Plan to remove or
-  hash the source column before any future bulk re-extraction.
+- Sibling projects already host JP source publicly: `Frontier-Translation-Weblate`,
+  `FrontierTextHandler` (per-section CSV outputs), `Erupe` (Go enums and packet
+  strings), `mhf-patterns` (ImHex patterns).
+- Weblate-based fan translations of other JP games (FFXI, Trails, Yakuza, …)
+  have hosted source strings on GitHub for years without incident.
+- Capcom's MH-related enforcement has targeted ROMs, asset rips, and server
+  emulators — never translation source strings. MHF was shut down in 2019
+  with no successor, so the preservation defense is strong.
+- Short UI strings (item names, skill names, menu labels) have weak-to-no
+  copyright protection individually.
 
-When in doubt, treat JP `source` cells as proprietary and minimize their
-footprint.
+**Practical guidance**: commit JP source freely for item names, skill names,
+armor/weapon names, and UI strings. Be more deliberate about bulk-importing
+**scenario scripts, NPC monologues, and quest dialogue** — these are the only
+category where the creative-content argument has any weight. Even there, the
+risk is low; just avoid pasting huge blocks into public issue trackers or
+commit messages where they'd be indexed without context.
 
 ## Layout
 
