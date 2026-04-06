@@ -3,6 +3,7 @@ name: Release translations
 on:
   push:
     branches: [main]
+    tags: ['v*']
   workflow_dispatch:
 
 jobs:
@@ -36,7 +37,8 @@ jobs:
             translations.json
             translations-translated.json
 
-      - name: Create release
+      - name: Create rolling release (main pushes)
+        if: github.ref_type == 'branch'
         uses: softprops/action-gh-release@v2
         with:
           tag_name: latest
@@ -67,3 +69,22 @@ jobs:
             translations.json
             translations-translated.json
           make_latest: true
+
+      - name: Create tagged release (v* tags)
+        if: github.ref_type == 'tag'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.ref_name }}
+          name: ${{ github.ref_name }}
+          generate_release_notes: true
+          body: |
+            Immutable tagged release built from `${{ github.sha }}`.
+
+            - `translations.json` — all strings (source + target)
+            - `translations-translated.json` — translated strings only
+
+            Requires [FrontierTextHandler](https://github.com/Houmgaor/FrontierTextHandler) ≥ 1.5.0 (index-keyed CSV format).
+          files: |
+            translations.json
+            translations-translated.json
+          make_latest: false
