@@ -54,20 +54,29 @@ Termes officiels Capcom FR (référence : Monster Hunter Wilds).
 | 穿龍棍 | Tonfa | **Tonfa** | exclusif MHF — terme Mogapédia |
 | マグネットスパイク | Magnet Spike | **Pieu magnétique** | exclusif MHF — vérifier Mogapédia avant usage massif |
 
-## 2. Statuts & altérations
+## 2. Statuts d'affliction
+
+| JP | EN | **FR** | Notes |
+|---|---|---|---|
+| 毒 | Poison | **Poison** | |
+| 麻痺 | Paralysis | **Paralysie** | |
+| 睡眠 | Sleep | **Sommeil** | |
+| 気絶 | Stun | **Étourdissement** | |
+| 爆破 | Blast | **Explosion** | terme Wilds officiel |
+| 出血 | Bleeding | **Hémorragie** | jamais « Saignement » |
+| 防御down | Defense Down | **Défense diminuée** | |
+
+## 2bis. Fléaux élémentaires (やられ状態)
+
+Capcom FR utilise la forme **Fléau-X** (trait d'union, capitale).
 
 | JP | EN | **FR** |
 |---|---|---|
-| 毒 | Poison | **Poison** |
-| 麻痺 | Paralysis | **Paralysie** |
-| 睡眠 | Sleep | **Sommeil** |
-| 気絶 | Stun | **Étourdissement** |
-| 防御down | Defense Down | **Défense diminuée** |
-| 龍属性やられ | Dragonblight | **Malédiction draconique** |
-| 火やられ | Fireblight | **Embrasement** |
-| 水やられ | Waterblight | **Trempé** |
-| 雷やられ | Thunderblight | **Foudroiement** |
-| 氷やられ | Iceblight | **Gelure** |
+| 火やられ | Fireblight | **Fléau-Feu** |
+| 水やられ | Waterblight | **Fléau-Eau** |
+| 雷やられ | Thunderblight | **Fléau-Foudre** |
+| 氷やられ | Iceblight | **Fléau-Glace** |
+| 龍属性やられ | Dragonblight | **Fléau-Dragon** |
 
 ## 3. Éléments
 
@@ -99,15 +108,23 @@ Termes officiels Capcom FR (référence : Monster Hunter Wilds).
 |---|---|---|
 | 回復薬 | Potion | **Potion** |
 | 回復薬グレート | Mega Potion | **Méga potion** |
+| 秘薬 | Max Potion | **Potion secrète** |
+| 古びた秘薬 | Ancient Potion | **Potion ancestrale** |
 | 解毒薬 | Antidote | **Antidote** |
+| 栄養剤 | Nutrients | **Nutriments** |
+| 栄養剤グレート | Mega Nutrients | **Méga nutriments** |
 | 強走薬 | Dash Juice | **Boisson tonique** |
+| 強走薬グレート | Mega Dash Juice | **Méga boisson tonique** |
 | クーラードリンク | Cool Drink | **Boisson fraîche** |
 | ホットドリンク | Hot Drink | **Boisson chaude** |
-| 鬼人薬 | Demondrug | **Potion démoniaque** |
-| 硬化薬 | Armorskin | **Potion d'armure** |
+| 鬼人薬 | Demondrug | **Drogue du démon** |
+| 鬼人薬グレート | Mega Demondrug | **Méga drogue du démon** |
+| 硬化薬 | Armorskin | **Pilule armure** |
+| 硬化薬グレート | Mega Armorskin | **Méga pilule armure** |
 | 生肉 | Raw Meat | **Viande crue** |
 | 焼き肉 | Well-done Steak | **Viande grillée** |
 | ペイントボール | Paintball | **Bombe peinture** |
+| 千里眼の薬 | Psychoserum | **Sérum psychique** |
 
 Pour les noms d'objets, suivre la convention Mogapédia : aligner en
 priorité sur les pages existantes du wiki. En cas de doute, garder
