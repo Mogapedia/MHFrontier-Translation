@@ -102,4 +102,4 @@ jobs:
             translations.json
             translations-fr.json.gz
             translations-en.json.gz
-          make_latest: false
+          make_latest: true
