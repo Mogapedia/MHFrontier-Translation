@@ -19,45 +19,44 @@ or sections, **PATCH** = fixes to existing translations.
 
 ### Added
 
-- `scripts/migrate_join_markers.py`: one-shot `<join>` to `{j}` migration.
-
-### Fixed
-
-- Repaired 36 truncated `‾C0` terminal color markers.
-- Tagged releases now marked as "latest" on GitHub.
-
-## [0.1.0] - 2026-04-12
-
-First tagged release. Requires **FrontierTextHandler >= 1.5.1**.
-
-### Format
-
-- Migrated CSV key format from `location` (byte offsets) to `index`
-  (stable pointer-table slots). Indexes survive upstream string-length
-  changes that used to shift raw byte offsets.
-- Untranslated rows now have empty `target` instead of copying `source`.
-
-### Added
-
-- **en/**: bootstrapped English translations from patched binary (~42.8%
-  coverage, 97,672 / 228,211 translatable strings).
-- **fr/**: seeded French item names from Ezemania binary and Spartcon
-  import (~1.4% coverage, 3,090 / 228,211 strings).
+- **fr/**: seeded French item names from Ezemania binary.
+- **fr/**: imported Spartcon FR item descriptions.
 - **fr/**: translated items/name rows 0-150 (consumables, ammo, tools).
 - `docs/glossary.fr.md`: canonical French terminology reference.
 - `docs/style.fr.md`: French style guide (tone, typography, control codes).
+- `scripts/migrate_join_markers.py`: one-shot `<join>` to `{j}` migration.
+- Per-language gzipped launcher payloads in release artifacts.
+
+### Fixed
+
+- Realigned 15 misplaced "Monster List book" entries in en/dat/items.
+- Repaired 36 truncated `‾C0` terminal color markers.
+- Excluded untranslatable rows (control-code-only, dummy, partial
+  pass-throughs) from coverage statistics.
+- Tagged releases now marked as "latest" on GitHub.
+
+## [0.1.0] - 2026-04-06
+
+First tagged release. Requires **FrontierTextHandler >= 1.5.0**.
+
+### Added
+
+- **en/**: bootstrapped English translations from patched binary.
+- **fr/**: populated source strings for all 48 translatable sections.
 - `scripts/validate.py`: CSV format validation.
 - `scripts/stats.py`: coverage statistics generator.
-- `scripts/export_json.py`: JSON export with per-language gzipped payloads.
+- `scripts/export_json.py`: JSON export for downstream consumers.
 - `scripts/build_bins.py`: build game-ready binaries from CSVs.
 - `scripts/migrate_to_index.py`: one-shot legacy location-to-index migration.
 - GitHub Pages dashboard with per-section progress bars.
-- CI: validation on PRs, rolling + tagged releases with JSON artifacts.
+- CI: validation on PRs, immutable tagged releases.
+
+### Changed
+
+- Migrated CSV key format from `location` (byte offsets) to `index`
+  (stable pointer-table slots).
 
 ### Fixed
 
 - Recovered 130 JP source rows polluted by old English fan-translation
   (matched against v2064 Wii U dump).
-- Realigned 15 misplaced "Monster List book" entries in en/dat/items.
-- Excluded untranslatable rows (control-code-only, dummy, partial
-  pass-throughs) from coverage statistics.
