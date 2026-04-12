@@ -13,18 +13,18 @@ index,source,target
 11,斬属性以外でも尻尾切断可能,You can cut a tail with every weapon
 12,回復速度：中,Regeneration: Mid
 13,回復速度：速,Regeneration: Fast
-14,怯ませやすさ：微,Scared: Weak
-15,怯ませやすさ：小,Scared: Low
-16,怯ませやすさ：中,Scared: Mid
-17,怯ませやすさ：大,Scared: High
-18,怯ませやすさ：微,Scared: Weak
-19,怯ませやすさ：小,Scared: Low
-20,怯ませやすさ：中,Scared: Mid
-21,怯ませやすさ：大,Scared: High
-22,怯ませやすさ：微,Scared: Weak
-23,怯ませやすさ：小,Scared: Low
-24,怯ませやすさ：中,Scared: Mid
-25,怯ませやすさ：大,Scared: High
+14,怯ませやすさ：微,Flinch: Weak
+15,怯ませやすさ：小,Flinch: Low
+16,怯ませやすさ：中,Flinch: Mid
+17,怯ませやすさ：大,Flinch: High
+18,怯ませやすさ：微,Flinch: Weak
+19,怯ませやすさ：小,Flinch: Low
+20,怯ませやすさ：中,Flinch: Mid
+21,怯ませやすさ：大,Flinch: High
+22,怯ませやすさ：微,Flinch: Weak
+23,怯ませやすさ：小,Flinch: Low
+24,怯ませやすさ：中,Flinch: Mid
+25,怯ませやすさ：大,Flinch: High
 26,ダメージ増加：小,Damages Increase: Low
 27,ダメージ増加：中,Damages Increase: Mid
 28,ダメージ増加：大,Damages Increase: High
@@ -37,12 +37,12 @@ index,source,target
 35,持続時間延長：小,Duration UP: Low
 36,持続時間延長：中,Duration UP: Mid
 37,持続時間延長：大,Duration UP: High
-38,耐性低下：小,Parts Weaken: Low
-39,耐性低下：中,Parts Weaken: Mid
-40,耐性低下：大,Parts Weaken: High
-41,耐性低下：小,Parts Weaken: Low
-42,耐性低下：中,Parts Weaken: Mid
-43,耐性低下：大,Parts Weaken: High
+38,耐性低下：小,Status Res Down: Low
+39,耐性低下：中,Status Res Down: Mid
+40,耐性低下：大,Status Res Down: High
+41,耐性低下：小,Status Res Down: Low
+42,耐性低下：中,Status Res Down: Mid
+43,耐性低下：大,Status Res Down: High
 44,ダメージ増加：小,Damages Increase: Low
 45,ダメージ増加：中,Damages Increase: Mid
 46,ダメージ増加：大,Damages Increase: High
