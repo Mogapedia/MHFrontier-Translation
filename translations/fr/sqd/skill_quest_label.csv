@@ -1,81 +1,81 @@
 index,source,target
-0,ダミー,
-1,発動可能クエスト回数：5回,
-2,発動可能クエスト回数：10回,
-3,発動可能クエスト回数：20回,
-4,反動：-1/装填速度：-1,
-5,反動：-1/装填速度：-1,
-6,反動：-2/装填速度：-2,
-7,反動：-3/装填速度：-2,
-8,反動：-3/装填速度：-3,
-9,反動：-4/装填速度：-3,
-10,反動：-4/装填速度：-4,
-11,斬属性以外でも尻尾切断可能,
-12,回復速度：中,
-13,回復速度：速,
-14,怯ませやすさ：微,
-15,怯ませやすさ：小,
-16,怯ませやすさ：中,
-17,怯ませやすさ：大,
-18,怯ませやすさ：微,
-19,怯ませやすさ：小,
-20,怯ませやすさ：中,
-21,怯ませやすさ：大,
-22,怯ませやすさ：微,
-23,怯ませやすさ：小,
-24,怯ませやすさ：中,
-25,怯ませやすさ：大,
-26,ダメージ増加：小,
-27,ダメージ増加：中,
-28,ダメージ増加：大,
-29,ダメージ増加：小,
-30,ダメージ増加：中,
-31,ダメージ増加：大,
-32,ダメージ増加：小,
-33,ダメージ増加：中,
-34,ダメージ増加：大,
-35,持続時間延長：小,
-36,持続時間延長：中,
-37,持続時間延長：大,
-38,耐性低下：小,
-39,耐性低下：中,
-40,耐性低下：大,
-41,耐性低下：小,
-42,耐性低下：中,
-43,耐性低下：大,
-44,ダメージ増加：小,
-45,ダメージ増加：中,
-46,ダメージ増加：大,
-47,ダメージ増加：小,
-48,ダメージ増加：中,
-49,ダメージ増加：大,
-50,時間経過によるエリア移動無効,
-51,交換品目追加：レベル1,
-52,交換品目追加：レベル2,
-53,交換品目追加：レベル3,
-54,攻撃力上昇：小,
-55,攻撃力上昇：中,
-56,攻撃力上昇：大,
-57,「女神の赦し」,
-58,「女神の抱擁」,
-59,「女神の抱擁」＋力尽きるのを1度回避,
-60,会心率上昇：小,
-61,会心率上昇：中,
-62,会心率上昇：大,
-63,火耐性上昇：小,
-64,火耐性上昇：中,
-65,火耐性上昇：大,
-66,水耐性上昇：小,
-67,水耐性上昇：中,
-68,水耐性上昇：大,
-69,氷耐性上昇：小,
-70,氷耐性上昇：中,
-71,氷耐性上昇：大,
-72,雷耐性上昇：小,
-73,雷耐性上昇：中,
-74,雷耐性上昇：大,
-75,龍耐性上昇：小,
-76,龍耐性上昇：中,
-77,龍耐性上昇：大,
-78,全耐性上昇：小,
-79,全耐性上昇：大,
+0,ダミー,Données factices
+1,発動可能クエスト回数：5回,Nombre de quêtes pouvant être activées : 5
+2,発動可能クエスト回数：10回,Nombre de quêtes pouvant être activées : 10
+3,発動可能クエスト回数：20回,Nombre de quêtes pouvant être activées : 20
+4,反動：-1/装填速度：-1,Recul : -1 / Vitesse de rechargement : -1
+5,反動：-1/装填速度：-1,Recul : -1 / Vitesse de rechargement : -1
+6,反動：-2/装填速度：-2,Recul : -2 / Vitesse de rechargement : -2
+7,反動：-3/装填速度：-2,Recul : -3 / Vitesse de rechargement : -2
+8,反動：-3/装填速度：-3,Recul : -3 / Vitesse de rechargement : -3
+9,反動：-4/装填速度：-3,Recul : -4 / Vitesse de rechargement : -3
+10,反動：-4/装填速度：-4,Recul : -4 / Vitesse de rechargement : -4
+11,斬属性以外でも尻尾切断可能,La queue peut etre sectionnee meme avec des armes non-tranchantes
+12,回復速度：中,Vitesse de récupération : moyenne
+13,回復速度：速,Vitesse de récupération : rapide
+14,怯ませやすさ：微,Taux de vacillement : Légère
+15,怯ませやすさ：小,Taux de vacillement : Faible
+16,怯ませやすさ：中,Taux de vacillement : Moyenne
+17,怯ませやすさ：大,Taux de vacillement : Élevée
+18,怯ませやすさ：微,Taux de vacillement : Légère
+19,怯ませやすさ：小,Taux de vacillement : Faible
+20,怯ませやすさ：中,Taux de vacillement : Moyenne
+21,怯ませやすさ：大,Taux de vacillement : Élevée
+22,怯ませやすさ：微,Taux de vacillement : Légère
+23,怯ませやすさ：小,Taux de vacillement : Faible
+24,怯ませやすさ：中,Taux de vacillement : Moyenne
+25,怯ませやすさ：大,Taux de vacillement : Élevée
+26,ダメージ増加：小,Augmentation des dégâts : Faible
+27,ダメージ増加：中,Augmentation des dégâts : Moyenne
+28,ダメージ増加：大,Augmentation des dégâts : Importante
+29,ダメージ増加：小,Augmentation des dégâts : Faible
+30,ダメージ増加：中,Augmentation des dégâts : Moyenne
+31,ダメージ増加：大,Augmentation des dégâts : Importante
+32,ダメージ増加：小,Augmentation des dégâts : Faible
+33,ダメージ増加：中,Augmentation des dégâts : Moyenne
+34,ダメージ増加：大,Augmentation des dégâts : Importante
+35,持続時間延長：小,Prolongation de la durée : Faible
+36,持続時間延長：中,Durée d'extension : Moyenne
+37,持続時間延長：大,Durée d'extension : importante
+38,耐性低下：小,Diminution de la résistance : faible
+39,耐性低下：中,Diminution de la résistance : Moyenne
+40,耐性低下：大,Diminution de la résistance : importante
+41,耐性低下：小,Diminution de la résistance : faible
+42,耐性低下：中,Diminution de la résistance : Moyenne
+43,耐性低下：大,Diminution de la résistance : importante
+44,ダメージ増加：小,Augmentation des dégâts : Faible
+45,ダメージ増加：中,Augmentation des dégâts : Moyenne
+46,ダメージ増加：大,Augmentation des dégâts : Importante
+47,ダメージ増加：小,Augmentation des dégâts : Faible
+48,ダメージ増加：中,Augmentation des dégâts : Moyenne
+49,ダメージ増加：大,Augmentation des dégâts : Importante
+50,時間経過によるエリア移動無効,Désactive le changement de zone
+51,交換品目追加：レベル1,Objets d'échange ajoutés : Niveau 1
+52,交換品目追加：レベル2,Objets d'échange ajoutés : Niveau 2
+53,交換品目追加：レベル3,Objets d'échange ajoutés : Niveau 3
+54,攻撃力上昇：小,Augmentation de la puissance d'attaque : Faible
+55,攻撃力上昇：中,Augmentation de la puissance d'attaque : Moyenne
+56,攻撃力上昇：大,Augmentation de la puissance d'attaque : Importante
+57,「女神の赦し」,« Le pardon de la déesse »
+58,「女神の抱擁」,« L'étreinte de la déesse »
+59,「女神の抱擁」＋力尽きるのを1度回避,« L’étreinte de la déesse » + Éviter l’épuisement une fois
+60,会心率上昇：小,Augmentation du taux de coup critique : faible
+61,会心率上昇：中,Hausse des taux de coup critique : moyenne
+62,会心率上昇：大,Hausse des taux de coup critique : Forte
+63,火耐性上昇：小,Résistance accrue au feu : Petite
+64,火耐性上昇：中,Résistance accrue au feu : Moyenne
+65,火耐性上昇：大,Résistance accrue au feu : Grande
+66,水耐性上昇：小,Résistance accrue à l'eau : Petit
+67,水耐性上昇：中,Résistance à l'eau accrue : Moyenne
+68,水耐性上昇：大,Résistance accrue à l'eau : Grande
+69,氷耐性上昇：小,Résistance accrue au gel : Petite
+70,氷耐性上昇：中,Résistance accrue au gel : Moyenne
+71,氷耐性上昇：大,Résistance accrue au gel : Grande
+72,雷耐性上昇：小,Augmentation de la résistance à la foudre : Faible
+73,雷耐性上昇：中,Augmentation de la résistance à la foudre : Moyenne
+74,雷耐性上昇：大,Augmentation de la résistance à la foudre : Grande
+75,龍耐性上昇：小,Augmentation de la résistance au Dragon : Faible
+76,龍耐性上昇：中,Augmentation de la résistance au Dragon : Moyenne
+77,龍耐性上昇：大,Augmentation de la résistance au Dragon  : Grande
+78,全耐性上昇：小,Résistances élémentaires + : Petite
+79,全耐性上昇：大,Résistances élémentaires + : Grandes
