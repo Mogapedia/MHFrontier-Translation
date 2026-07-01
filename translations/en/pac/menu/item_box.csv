@@ -1,0 +1,7 @@
+index,source,target
+0,アイテムをしまう,Deposit Item
+1,アイテムを取り出す,Take Item
+2,アイテムを整理する,Organise Items
+3,アイテムを売る,Sell Items
+4,アイテムボックスに送る,Send to Item Box
+5,ボックス内調合,Combination

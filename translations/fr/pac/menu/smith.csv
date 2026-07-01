@@ -1,0 +1,23 @@
+index,source,target
+0,武器生産,Créer
+1,武器強化,Améliorer
+2,防具生産,Créer
+3,防具強化,Améliorer
+4,装飾品の生産,Créer joyau
+5,装飾品の装着,Équiper joyau
+6,装飾品の回収,Enlever joyau
+7,装飾品の破棄,Détruire joyau
+8,頭パーツ生産,Tête
+9,胴パーツ生産,Torse
+10,腕パーツ生産,Bras
+11,腰パーツ生産,Tassette
+12,脚パーツ生産,Jambière
+13,スキルカフの生産,Créer bracelet
+14,スキルカフの装着,Équiper bracelet
+15,スキルカフの回収,Retirer bracelet
+16,生産できるスキルカフはありません,Aucun bracelet ne peut être créé.
+17,{K011}強化詳細,{K011}Infos
+18,強化詳細,Infos
+19,シジルの生産,Créer Sceau
+20,シジルの焼付,Équiper Sceau
+21,シジルの回収,Enlever Sceau

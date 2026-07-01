@@ -1,0 +1,12 @@
+index,source,target
+0,{c05}オプション{/c},{c05}Options{/c}
+1,{c05}オプションメニュー{/c},{c05}Options Menu{/c}
+2,表示(ロビー),Display (Display)
+3,表示(クエスト・共通),"Display (Gen, Quests)"
+4,操作,Input Options
+5,ＮＰＣ同行設定,NPC Settings
+6,チャット,Chat
+7,サウンド,Sound
+8,スクリーンショット投稿,Post Screenshot
+9,表示(グラフィック),Display (High Grade)
+10,その他,Other

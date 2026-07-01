@@ -1,0 +1,23 @@
+index,source,target
+0,武器生産,Create Weapon
+1,武器強化,Upgrade Weapon
+2,防具生産,Create Armour
+3,防具強化,Upgrade Armour
+4,装飾品の生産,Create Deco
+5,装飾品の装着,Insert Deco
+6,装飾品の回収,Remove Deco
+7,装飾品の破棄,Destroy Deco
+8,頭パーツ生産,Head Armour
+9,胴パーツ生産,Chest Armour
+10,腕パーツ生産,Arm Armour
+11,腰パーツ生産,Waist Armour
+12,脚パーツ生産,Leg Armour
+13,スキルカフの生産,Create Cuff
+14,スキルカフの装着,Equip Skill Cuff
+15,スキルカフの回収,Remove Skill Cuff
+16,生産できるスキルカフはありません,No Cuffs can be created
+17,{K011}強化詳細,{K011} Details
+18,強化詳細,Details
+19,シジルの生産,Sigil Production
+20,シジルの焼付,Brand Sigil
+21,シジルの回収,Remove Sigil

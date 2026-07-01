@@ -1,0 +1,12 @@
+index,source,target
+0,{c05}オプション{/c},{c05}Options{/c}
+1,{c05}オプションメニュー{/c},{c05}Options{/c}
+2,表示(ロビー),Affichage(Ville)
+3,表示(クエスト・共通),"Affichage(Quêtes, Gén.)"
+4,操作,Paramètres des touches
+5,ＮＰＣ同行設定,Paramètres des PNJ
+6,チャット,Chat
+7,サウンド,Volume
+8,スクリーンショット投稿,Poster une capture
+9,表示(グラフィック),Affichage(High Grade)
+10,その他,Autres
