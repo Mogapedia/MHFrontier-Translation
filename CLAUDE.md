@@ -71,7 +71,9 @@ scripts/
   kana.py                  ← katakana → Latin transliteration (etymology restoration)
   fix_accents.py           ← restore French accents / œ ligature in targets
   item_descriptions.py     ← fill repeated item descriptions from a phrase table
+  clean_en_targets.py      ← blank en/ targets that don't translate their source
 docs/
+  en_orphan_fragments.csv  ← English fragments removed by clean_en_targets.py
   item_descriptions.fr.csv ← distinct item-description strings → FR
   armor_vocab.fr.json      ← closed vocabularies: slots (+gender), colours, tiers
   armor_series.fr.csv      ← series stem → FR, with `origin` trust level
@@ -199,6 +201,28 @@ turn out to be common nouns.
    mismatched row counts would need sequence alignment or a fresh
    unpatched PC JP dump. After the index-format migration, any future fix
    should re-extract with `--with-index` and run `migrate_to_index.py`.
+
+   The mirror-image problem is much larger and lives in the **target**
+   column. `translations/en/` was bootstrapped (7379bfb) from that same
+   patched binary, which is not the build the `source` column came from, so
+   a large part of `target` holds text belonging to other rows: Japanese
+   from a different pointer table, and ~155 rows of Traditional Chinese from
+   the Taiwanese release. `scripts/clean_en_targets.py --survey` measures it:
+
+   | section | filled | not a translation |
+   |---|---:|---:|
+   | `dat/equipment/description` | 54165 | 47163 (87%) — **cleaned** |
+   | `dat/armors/*` | ~67000 | ~10300 (16%) |
+   | `dat/weapons/*/name` | 18985 | 2905 (15%) |
+   | other sections | — | <1% |
+
+   Only `dat/equipment/description` has been cleaned. The armour and weapon
+   *name* sections are not prose and the heuristic was tuned on prose, so
+   they need their own check before anything is blanked there.
+
+   This never affected the coverage figures — `stats.py` already refuses to
+   count a target containing CJK — but it corrupts translation-memory
+   lookups, `export_json.py`, and any build reading `target` directly.
 2. **Dummy rows** (1,211 in `dat/items/source`): literal `dummy` strings in
    the binary. Confirmed as real unimplemented item-source slots — fixed-
    size pointer table padded with `dummy` for unused entries. Safe to leave
