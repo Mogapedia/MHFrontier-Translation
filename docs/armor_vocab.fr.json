@@ -5,9 +5,12 @@
     "  Gender and number drive colour-adjective agreement, so they must be right.",
     "colours: the four agreement forms (ms/fs/mp/fp). Invariable adjectives",
     "  (azur, orange, rose, emeraude, jade) simply repeat the same form.",
-    "tiers: upgrade-stage codes. HS = 狩護 (premium armour), GS/GP = G級狩護.",
-    "  Kept as opaque codes pending a decision on how to render 狩護 in French;",
-    "  changing the value here changes all ~18000 affected names at once.",
+    "tiers: upgrade-stage codes. HS = 狩護 (Chassegarde), GS/GP = G級狩護.",
+    "  The codes are deliberately kept as-is: they are already Latin letters in",
+    "  the Japanese source (ラヴィHSアーム), the English patch keeps them, and every",
+    "  wiki including the Japanese ones uses them. « Chassegarde » translates the",
+    "  word where it is spelled out (the ≪…≫ markers in equipment descriptions),",
+    "  it does not recode these 18038 names. See glossary.fr.md §7.",
     "classes: weapon-class marker after the colon (EN patch uses BM/GN)."
   ],
   "slots": {
