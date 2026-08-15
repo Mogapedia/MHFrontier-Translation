@@ -1,0 +1,748 @@
+section,index,source,orphan_target
+dat/equipment/description,1439,0,Forged in a far-off land.{j}された頭防具。多種多様な狩り{j}に対応している。
+dat/equipment/description,1440,0,Forged in a far-off land.{j}された頭防具。多種多様な狩り{j}に対応している。
+dat/equipment/description,1568,ダミー,A mask only those with{j}hearts as pure as a clear{j}blue sky can hope to wear.
+dat/equipment/description,1804,ダミー,For Hunter Fest winners.{j}Dramatically drops in power{j}after the Prize Fest.
+dat/equipment/description,1876,とても高級な素材を使用して{j}制作された頭防具。使用者の{j}動きを力強く支えてくれる。,エルペの素材を使った髪飾り。{j}髪をしなやかにまとめるため、{j}into a hair decoration.
+dat/equipment/description,1877,とても高級な素材を使用して{j}制作された頭防具。使用者の{j}動きを力強く支えてくれる。,エルペの素材を使った髪飾り。{j}髪をしなやかにまとめるため、{j}into a hair decoration.
+dat/equipment/description,1878,とても高級な素材を使用して{j}制作された頭防具。使用者の{j}動きを力強く支えてくれる。,オルガロンの素材を用いて{j}defensive hair decoration.{j}気持ちが高ぶってくる。
+dat/equipment/description,1879,とても高級な素材を使用して{j}制作された頭防具。使用者の{j}動きを力強く支えてくれる。,オルガロンの素材を用いて{j}defensive hair decoration.{j}気持ちが高ぶってくる。
+dat/equipment/description,1880,とても高級な素材を使用して{j}制作された頭防具。使用者の{j}動きを力強く支えてくれる。,ラヴィエンテの素材を{j}defensive hair decoration.{j}我慢強くなれる気がする。
+dat/equipment/description,1881,とても高級な素材を使用して{j}制作された頭防具。使用者の{j}動きを力強く支えてくれる。,ラヴィエンテの素材を{j}defensive hair decoration.{j}我慢強くなれる気がする。
+dat/equipment/description,1990,冒険屋に配置した店番アイルー{j}が体を張り、手に入れた素材で{j}生産が可能となった頭用装備。,しなやかな響狼の雰囲気を{j}そのままに表現した頭防具。{j}{c07}SP Armor: Red{/c}
+dat/equipment/description,1991,採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる頭防具。至高の逸品。,しなやかな響狼の雰囲気を{j}そのままに表現した頭防具。{j}{c07}SP Armor: Black{/c}
+dat/equipment/description,1992,採集を極め、さらなる高みへ{j}到達したハンターだけが装備{j}できる頭防具。至高の逸品。,しなやかな響狼の雰囲気を{j}そのままに表現した頭防具。{j}{c07}SP Armor: Purple{/c}
+dat/equipment/description,1993,呑竜素材のヌメリを丹念に{j}取り除き特殊な加工を施す{j}ことで誕生した優秀な頭防具。,不思議な力を与えるという{j}響狼素材を使った頭防具。{j}{c07}SP Armor: Red{/c}
+dat/equipment/description,1994,加工に手間のかかる呑竜素材を{j}大量に用いた頭防具。注文の{j}際に嫌な顔をされることも…。,不思議な力を与えるという{j}響狼素材を使った頭防具。{j}{c07}SP Armor: Black{/c}
+dat/equipment/description,1995,蛮竜素材の頭防具。装備する{j}者の闘志を奮い立たせ、対峙{j}する者に鋭い威圧感を与える。,不思議な力を与えるという{j}響狼素材を使った頭防具。{j}{c07}SP Armor: Purple{/c}
+dat/equipment/description,1996,蛮竜素材の頭防具。装備する{j}者の闘志を奮い立たせ、対峙{j}する者に鋭い威圧感を与える。,モスの頭部を模した頭防具。{j}いつでもどこでもモス気分！{j}{c07}SP Armor: White{/c}
+dat/equipment/description,1997,火の力を秘めた攻撃に対する{j}耐性を備えた特殊なピアス。,モスの頭部を模した頭防具。{j}いつでもどこでもモス気分！{j}{c07}SP Armor: Yellow{/c}
+dat/equipment/description,2331,神秘的な力を宿したピアス。{j}ハンターの潜在能力を引き{j}出す。,Hypnocatrice headgear.{j}用装備。眠鳥の威圧感を持つ。{j}{c07}SP Armor: Green{/c}
+dat/equipment/description,2332,神秘的な力を宿したピアス。{j}ハンターの潜在能力を引き{j}出す。,Hypnocatrice headgear.{j}用装備。眠鳥の威圧感を持つ。{j}{c07}SP Armor: Red{/c}
+dat/equipment/description,2333,神秘的な力を宿したピアス。{j}ハンターの潜在能力を引き{j}出す。,Hypnocatrice headgear.{j}用装備。眠鳥の威圧感を持つ。{j}{c07}SP Armor: Yellow{/c}
+dat/equipment/description,2340,熟練の武具職人が丹精込めて{j}仕上げた最高品質の頭装備。{j}狩猟技術の研鑽に役立つ。,エルペの素材を使った髪飾り。{j}髪をしなやかにまとめるため、{j}into a hair decoration.
+dat/equipment/description,2341,熟練の武具職人が丹精込めて{j}仕上げた最高品質の頭装備。{j}狩猟技術の研鑽に役立つ。,エルペの素材を使った髪飾り。{j}髪をしなやかにまとめるため、{j}into a hair decoration.
+dat/equipment/description,2374,跳緋獣の素材を使った髪飾り。{j}丈夫な糸によりまとめた髪は{j}激しい動きでも崩れない。,片手剣技を習得し始めた者が{j}may even dream of donning{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,2375,不思議な力が宿る頭防具。{j}身に纏う者の能力を高める。{j}{c02}≪剛種防具≫{/c},双剣技を習得し始めた者が{j}may even dream of donning{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,2376,不思議な力が宿る頭防具。{j}身に纏う者の能力を高める。{j}{c02}≪剛種防具≫{/c},大剣技を習得し始めた者が{j}may even dream of donning{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,2377,偉大なるハンターに仕えた従{j}者が己の正装として考案した{j}頭防具。即座に狩猟へ赴ける。,太刀技を習得し始めた者が{j}may even dream of donning{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,2378,偉大なるハンターに仕えた従{j}者が己の正装として考案した{j}頭防具。即座に狩猟へ赴ける。,鎚技を習得し始めた者が{j}may even dream of donning{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,2379,東方より伝来した頭防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。,狩猟笛技を習得し始めた者が{j}may even dream of donning{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,2380,東方より伝来した頭防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。,槍技を習得し始めた者が{j}may even dream of donning{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,2381,東方より伝来した頭防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。,銃槍技を習得し始めた者が{j}may even dream of donning{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,2382,東方より伝来した頭防具。強{j}靭な繊維を用いた特殊な製法{j}で織られ、軽さにも定評が。,軽銃技を習得し始めた者が{j}may even dream of donning{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,2383,遠方大陸からの遊客が残した{j}裁縫技術を用いて作られた頭{j}用の軽装束。,重銃技を習得し始めた者が{j}may even dream of donning{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,2384,遠方大陸からの遊客が残した{j}裁縫技術を用いて作られた頭{j}用の軽装束。,弓技を習得し始めた者が{j}may even dream of donning{j}練習用の頭防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,2405,ギルドへの貢献度に応じて{j}贈られる頭防具。高度な{j}狩猟技術を持つ狩人の証。,遺跡で発見された破片を元に{j}模造し、組み上げた狩猟用の{j}prefer to work alone.
+dat/equipment/description,2406,ギルドへの貢献度に応じて{j}贈られる頭防具。高度な{j}狩猟技術を持つ狩人の証。,遺跡で発見された破片を元に{j}模造し、組み上げた狩猟用の{j}prefer to work alone.
+dat/equipment/description,2512,初心者から熟練者まで幅広く{j}愛用される頭防具。,Forged in a far-off land.{j}された頭防具。多種多様な狩り{j}に対応している。
+dat/equipment/description,2532,勇猛果敢な剣士が好んで{j}装備する頭防具。,"From novices to old hands,{j}愛用される頭防具。"
+dat/equipment/description,2533,勇猛果敢な射撃手が好んで{j}装備する頭防具。,"From novices to old hands,{j}愛用される頭防具。"
+dat/equipment/description,2572,ガレオスの素材で作られた{j}頭用装備。大きなヒレの飾り{j}が誇らしげに輝く。,見た目とは裏腹に高い性能を{j}誇る不思議な頭防具。{j}{c07}SP Armor: Rainbow{/c}
+dat/equipment/description,2573,ドドブランゴの素材で作られ{j}た頭用装備。異国の神を模し{j}たデザインは威厳が溢れる。,新米狩人のために用意された{j}シンプルな頭防具。{j}Pretty good for the price.
+dat/equipment/description,2608,動きやすさだけではなく、{j}耐久性も重視されて開発{j}されたこだわりの頭防具。,黒鎧竜の素材を用いて新たに{j}作成された頭防具。従来より{j}slimline than ever.
+dat/equipment/description,2609,動きやすさだけではなく、{j}耐久性も重視されて開発{j}されたこだわりの頭防具。,黒鎧竜の素材を用いて新たに{j}作成された頭防具。従来より{j}slimline than ever.
+dat/equipment/description,2758,狩人になるための特別訓練を{j}受けた者の頭防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c},Sturdy kit said to have been{j}worn by those on the front-{j}頭防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,2760,狩人になるための特別訓練を{j}受けた者の頭防具。連携を重{j}要視している。{c11}≪ＨＣ防具≫{/c},Designed for Hunters in hot{j}pursuit of their prey. At{j}発揮される。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,5899,ダミー,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,7469,0,Secret Wyverian techniques{j}gift this armor the power{j}of blue Lunastra flame.
+dat/equipment/description,7470,0,"Hewn from the Chameleos, it{j}recalls armor worn by sharp-{j}shooting Snipers of old."
+dat/equipment/description,7471,0,"Adapted by the Smithy to{j}enhance attack support,{j}among other improvements."
+dat/equipment/description,7472,0,This beautiful item is born{j}from a craftsman's dreams.{j}{c07}SP Armor: Red{/c}
+dat/equipment/description,7473,0,High-density metal offers{j}superb defense without{j}hindering Hunter mobility.
+dat/equipment/description,7474,0,Armor made of Genprey parts.{j}Its most distinctive feature{j}is the metal breast plate.
+dat/equipment/description,7475,0,"Armor sourced from the Yian{j}Kut-Ku. Chunky and sturdy,{j}but still light."
+dat/equipment/description,7476,0,"Made from the Basarios.{j}Though it's heavy-duty kit,{j}its quality makes it light."
+dat/equipment/description,7477,0,Made using only the best{j}Cephalos parts. Its fin{j}epaulets are its trademark.
+dat/equipment/description,7478,0,A suit of Plesioth scales{j}adorned with fins and a{j}downright stylish collar.
+dat/equipment/description,7479,0,Chest armor covered in{j}rubbery Gypceros hide.{j}Resistant to thunder.
+dat/equipment/description,7480,0,Wear this armor to hear the{j}heartbeat of the Fatalis. It{j}may give you nightmares...
+dat/equipment/description,7481,0,"Made from common-or-garden{j}Velociprey parts, but it's{j}both durable and balanced."
+dat/equipment/description,9419,ダミー,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,9754,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。
+dat/equipment/description,9755,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。
+dat/equipment/description,9756,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。
+dat/equipment/description,9757,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,9758,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,9759,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,9760,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。
+dat/equipment/description,9761,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。
+dat/equipment/description,9762,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。
+dat/equipment/description,9763,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,9764,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,9765,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,9766,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。
+dat/equipment/description,9767,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。
+dat/equipment/description,9768,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。
+dat/equipment/description,9769,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,9770,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,9771,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,9772,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。
+dat/equipment/description,9773,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。
+dat/equipment/description,9774,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。
+dat/equipment/description,9775,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,9776,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,9777,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,9778,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,9779,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪狩護防具≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,9780,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,9781,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,9782,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,9783,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,9784,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。若者に評価が高い。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,9785,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。{c11}≪狩護防具≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,9786,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,9787,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,9788,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,9789,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,9790,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。若者に評価が高い。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,9791,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。{c11}≪狩護防具≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,9792,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,9793,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,9794,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,9795,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,9796,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。若者に評価が高い。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,9797,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。{c11}≪狩護防具≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,9798,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,9799,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,9800,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,9801,独自のセンスを磨きあげた{j}職人の手により造られた{j}頭防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,10154,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。
+dat/equipment/description,10155,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。
+dat/equipment/description,10156,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。
+dat/equipment/description,10157,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,10158,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,10159,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,10160,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。
+dat/equipment/description,10161,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。
+dat/equipment/description,10162,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。
+dat/equipment/description,10163,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,10164,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,10165,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,10166,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。
+dat/equipment/description,10167,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。
+dat/equipment/description,10168,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。
+dat/equipment/description,10169,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,10170,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,10171,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,10172,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。
+dat/equipment/description,10173,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。
+dat/equipment/description,10174,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。
+dat/equipment/description,10175,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,10176,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,10177,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した頭防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,10178,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,10179,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪狩護防具≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,10180,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,10181,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,10182,耐久力の高さもさること{j}ながら、軽量化も図った{j}最新鋭の頭防具。,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,10183,耐久力の高さもさること{j}ながら、軽量化も図った{j}最新鋭の頭防具。,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,10184,耐久力の高さもさること{j}ながら、軽量化も図った{j}最新鋭の頭防具。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,10185,耐久力の高く、軽量化も{j}施された最新鋭の頭防具。{j}{c11}≪狩護防具≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,10186,耐久力の高く、軽量化も{j}施された最新鋭の頭防具。{j}{c11}≪Ｇ級狩護≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,10187,耐久力の高く、軽量化も{j}施された最新鋭の頭防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,10188,耐久力の高さもさること{j}ながら、軽量化も図った{j}最新鋭の頭防具。,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,10189,耐久力の高さもさること{j}ながら、軽量化も図った{j}最新鋭の頭防具。,EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,10190,耐久力の高さもさること{j}ながら、軽量化も図った{j}最新鋭の頭防具。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,10191,耐久力の高く、軽量化も{j}施された最新鋭の頭防具。{j}{c11}≪狩護防具≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,10192,耐久力の高く、軽量化も{j}施された最新鋭の頭防具。{j}{c11}≪Ｇ級狩護≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,10193,耐久力の高く、軽量化も{j}施された最新鋭の頭防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した頭防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,10200,照雷鳥をモチーフにした{j}頭防具。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した頭防具。
+dat/equipment/description,11644,ダミー,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。
+dat/equipment/description,11645,ダミー,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,12293,ダミー,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。
+dat/equipment/description,12294,ダミー,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。
+dat/equipment/description,13002,0,"Made using secret methods,{j}this Vespoid kit is strong{j}against physical strikes."
+dat/equipment/description,13003,0,Kut-Ku-sourced chest armor.{j}Its distinctive colors speak{j}of the land of its origin.
+dat/equipment/description,13384,0,Made from Blangonga parts.{j}Their simple design protects{j}the arms from frostbite.
+dat/equipment/description,13385,0,The latest in armor. Made{j}of a new light yet durable{j}Hunter-friendly material.
+dat/equipment/description,13386,0,Dress for Mezeporta Square{j}in this armor.{j}Boasts first-rate specs.
+dat/equipment/description,13387,0,Gauntlets with a noble air.{j}Their fine craftsmanship far{j}exceeds that of normal gear.
+dat/equipment/description,13388,0,Worn by Guild researchers{j}when monitoring monsters.{j}Surprisingly robust.
+dat/equipment/description,13389,0,"Woven from incredibly{j}durable cloth, they're{j}light and loved by all."
+dat/equipment/description,13390,0,Gauntlets awarded for a true{j}Hunter's contribution to{j}the Guild.
+dat/equipment/description,13391,0,Gauntlets awarded for a true{j}Hunter's contribution to{j}the Guild.
+dat/equipment/description,13392,0,Gauntlets awarded for a true{j}Hunter's contribution to{j}the Guild.
+dat/equipment/description,13393,0,Gauntlets awarded for a true{j}Hunter's contribution to{j}the Guild.
+dat/equipment/description,13394,0,Brawler gauntlets full of{j}the menace of the Akantor.{j}{c07}SP Armor: Black{/c}
+dat/equipment/description,13395,0,Brawler gauntlets full of{j}the menace of the Akantor.{j}{c07}SP Armor: Red{/c}
+dat/equipment/description,13396,0,Brawler gauntlets full of{j}the menace of the Akantor.{j}{c07}SP Armor: White{/c}
+dat/equipment/description,13397,0,Sniper gauntlets full of{j}the menace of the Akantor.{j}{c07}SP Armor: Black{/c}
+dat/equipment/description,13398,0,Sniper gauntlets full of{j}the menace of the Akantor.{j}{c07}SP Armor: Red{/c}
+dat/equipment/description,13403,0,Sturdy kit said to have been{j}worn by those on the front-{j}lines of ancient battles.
+dat/equipment/description,13404,0,Sturdy kit said to have been{j}worn by those on the front-{j}腕防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,13405,0,Designed for Snipers in hot{j}腕防具。持久戦で真価が{j}its best in long battles.
+dat/equipment/description,13406,0,Designed for Snipers in hot{j}腕防具。持久戦で真価が{j}発揮される。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,13925,0,Your pulse will race as you{j}don this healing armor with{j}the power of Fatalis wings.
+dat/equipment/description,13926,0,"Crafted in a far-off forge,{j}this cutting-edge armor{j}conceals secret features."
+dat/equipment/description,13927,0,An overseas organization's{j}official armor that has been{j}revamped for Hunter usage.
+dat/equipment/description,13928,0,"Light, hi-tech waist armor{j}that will give you a Felyne-{j}like explorer's spirit."
+dat/equipment/description,13929,0,"Light, hi-tech waist armor{j}that will give you a Felyne-{j}like explorer's spirit."
+dat/equipment/description,13930,0,"Woven from incredibly{j}durable cloth, it is{j}light, and loved by all."
+dat/equipment/description,13931,0,"Woven from incredibly{j}durable cloth, it is{j}light, and loved by all."
+dat/equipment/description,13932,0,"Woven from incredibly{j}durable cloth, it is{j}light, and loved by all."
+dat/equipment/description,13933,0,"Woven from incredibly{j}durable cloth, it is{j}light, and loved by all."
+dat/equipment/description,13934,0,"Woven from incredibly{j}durable cloth, it is{j}light, and loved by all."
+dat/equipment/description,13935,0,"Woven from incredibly{j}durable cloth, it is{j}light, and loved by all."
+dat/equipment/description,13936,0,"Woven from incredibly{j}durable cloth, it is{j}light, and loved by all."
+dat/equipment/description,13937,0,"Woven from incredibly{j}durable cloth, it is{j}light, and loved by all."
+dat/equipment/description,13938,0,"Woven from incredibly{j}durable cloth, it is{j}light, and loved by all."
+dat/equipment/description,13939,0,"Woven from incredibly{j}durable cloth, it is{j}light, and loved by all."
+dat/equipment/description,13940,0,For Hunter Fest losers.{j}Dramatically drops in power{j}when the Prize Fest ends.
+dat/equipment/description,13947,0,"Refined craftsmanship gives{j}this gold, gleaming gear a{j}rare quality and class."
+dat/equipment/description,14581,0,Leg armor from the Sky King.{j}All the world's fire would{j}not leave a mark on it.
+dat/equipment/description,14582,0,Symbolizes a Den's bonds.{j}We All Walk Together is{j}inscribed on the knees.
+dat/equipment/description,14583,0,Made from Lavasioth parts.{j}Their incredible lightness{j}keeps Hunters nimble.
+dat/equipment/description,14584,0,Fine armor from the East.{j}Designed to enhance skill{j}with ranged weapons.
+dat/equipment/description,14585,0,Made for Hunters who crave{j}more power. They will even{j}enhance your weapons.
+dat/equipment/description,14586,0,Foes who face these will{j}tremble at their menacing{j}adornments and style.
+dat/equipment/description,14587,0,Foes who face these will{j}tremble at their menacing{j}adornments and style.
+dat/equipment/description,14588,0,Foes who face these will{j}tremble at their menacing{j}adornments and style.
+dat/equipment/description,14589,0,Foes who face these will{j}tremble at their menacing{j}adornments and style.
+dat/equipment/description,14590,0,Foes who face these will{j}tremble at their menacing{j}adornments and style.
+dat/equipment/description,14591,0,Foes who face these will{j}tremble at their menacing{j}adornments and style.
+dat/equipment/description,14592,0,Foes who face these will{j}tremble at their menacing{j}adornments and style.
+dat/equipment/description,14593,0,Foes who face these will{j}tremble at their menacing{j}adornments and style.
+dat/equipment/description,14829,0,Foes who face these will{j}tremble at their menacing{j}adornments and style.
+dat/equipment/description,14834,0,Foes who face these will{j}tremble at their menacing{j}adornments and style.
+dat/equipment/description,14835,0,Only masters of the Hammer{j}may even dream of donning{j}this magnificent legwear.
+dat/equipment/description,14936,0,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,14937,0,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,15077,古くから儀式などで用いられ{j}てきた伝統的な胴防具。現代{j}風にアレンジされている。,新米狩人のために用意された{j}シンプルな胴防具。{j}Pretty good for the price.
+dat/equipment/description,15078,古くから儀式などで用いられ{j}てきた伝統的な胴防具。現代{j}風にアレンジされている。,新米狩人のために用意された{j}シンプルな胴防具。{j}Pretty good for the price.
+dat/equipment/description,15265,0,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,15267,0,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,16440,子供たちを喜ばせるために{j}設計された服。身に付けると{j}異世界の住人気分を味わえる。,試練を乗り越えんとする者の{j}みに与えられるという胴防具。{j}{c07}SP Armor: Yellow{/c}
+dat/equipment/description,16441,子供たちを喜ばせるために{j}設計された服。身に付けると{j}異世界の住人気分を味わえる。,試練を乗り越えんとする者の{j}みに与えられるという胴防具。{j}{c07}SP Armor: Red{/c}
+dat/equipment/description,16442,子供たちを喜ばせるために{j}設計された服。身に付けると{j}異世界の住人気分を味わえる。,試練を乗り越えんとする者の{j}みに与えられるという胴防具。{j}{c07}SP Armor: Blue{/c}
+dat/equipment/description,16443,子供たちを喜ばせるために{j}設計された服。身に付けると{j}異世界の住人気分を味わえる。,エビの殻を精巧な技術で{j}仕上げた丈夫な胴装備。{j}{c07}SP Armor: Black{/c}
+dat/equipment/description,16444,子供たちを喜ばせるために{j}設計された服。身に付けると{j}異世界の住人気分を味わえる。,エビの殻を精巧な技術で{j}仕上げた丈夫な胴装備。{j}{c07}SP Armor: Green{/c}
+dat/equipment/description,16445,子供たちを喜ばせるために{j}設計された服。身に付けると{j}異世界の住人気分を味わえる。,エビの殻を精巧な技術で{j}仕上げた丈夫な胴装備。{j}{c07}SP Armor: Blue{/c}
+dat/equipment/description,16446,子供たちを喜ばせるために{j}設計された服。身に付けると{j}異世界の住人気分を味わえる。,エビの殻を層状に重ねて{j}仕上げた胴装備。{j}{c07}SP Armor: Black{/c}
+dat/equipment/description,16447,子供たちを喜ばせるために{j}設計された服。身に付けると{j}異世界の住人気分を味わえる。,エビの殻を層状に重ねて{j}仕上げた胴装備。{j}{c07}SP Armor: Green{/c}
+dat/equipment/description,16448,希少価値の高い革を{j}惜しみなく使用した{j}武具工房謹製の高級胴防具。,エビの殻を層状に重ねて{j}仕上げた胴装備。{j}{c07}SP Armor: Blue{/c}
+dat/equipment/description,16452,異質な素材を組合わせて制作{j}した胴防具。製法を工夫する{j}ことにより、性能が向上した。,"Gear for hunting in packs,{j}it's ideally suited to{j}特に罠類の扱いに長ける。"
+dat/equipment/description,16453,異質な素材を組合わせて制作{j}した胴防具。製法を工夫する{j}ことにより、性能が向上した。,"Gear for hunting in packs,{j}it's ideally suited to{j}特に罠類の扱いに長ける。"
+dat/equipment/description,16458,素材の性能を極限まで引き出{j}して生成された胴防具。武具{j}職人の英知が結集されている。,Made from the finest items.{j}The fresh design is sure to{j}熟練狩人にも勇気を与える。
+dat/equipment/description,16542,装備するだけで、体が軽く{j}なり、身のこなしが鋭くなる{j}という跳緋獣素材の胴防具。,Made from the Hypnocatrice.{j}用装備。陽の光に輝く羽毛が{j}特徴。{c07}ＳＰ防具：緑{/c}
+dat/equipment/description,16543,装備するだけで、体が軽く{j}なり、身のこなしが鋭くなる{j}という跳緋獣素材の胴防具。,Made from the Hypnocatrice.{j}用装備。陽の光に輝く羽毛が{j}特徴。{c07}ＳＰ防具：赤{/c}
+dat/equipment/description,16544,不思議な力が宿る胴防具。{j}身に纏う者の能力を高める。{j}{c02}≪剛種防具≫{/c},Made from the Hypnocatrice.{j}用装備。陽の光に輝く羽毛が{j}特徴。{c07}ＳＰ防具：黄{/c}
+dat/equipment/description,16565,高名なデザイナーが考案した{j}汎用性の高い胴防具。比較的{j}武器種を選ばずに使用できる。,片手剣技を習得し始めた者が{j}may even dream of donning{j}練習用の胴防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,16566,高名なデザイナーが考案した{j}汎用性の高い胴防具。比較的{j}武器種を選ばずに使用できる。,双剣技を習得し始めた者が{j}may even dream of donning{j}練習用の胴防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,16567,高名なデザイナーが考案した{j}汎用性の高い胴防具。比較的{j}武器種を選ばずに使用できる。,大剣技を習得し始めた者が{j}may even dream of donning{j}練習用の胴防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,16568,高名なデザイナーが考案した{j}汎用性の高い胴防具。比較的{j}武器種を選ばずに使用できる。,太刀技を習得し始めた者が{j}may even dream of donning{j}練習用の胴防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,16569,高名なデザイナーが考案した{j}汎用性の高い胴防具。比較的{j}武器種を選ばずに使用できる。,鎚技を習得し始めた者が{j}may even dream of donning{j}練習用の胴防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,16570,高名なデザイナーが考案した{j}汎用性の高い胴防具。比較的{j}武器種を選ばずに使用できる。,狩猟笛技を習得し始めた者が{j}may even dream of donning{j}練習用の胴防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,16571,高名なデザイナーが考案した{j}汎用性の高い胴防具。比較的{j}武器種を選ばずに使用できる。,槍技を習得し始めた者が{j}may even dream of donning{j}練習用の胴防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,16572,ギルドへの貢献度に応じて{j}贈られる胴防具。高度な{j}狩猟技術を持つ狩人の証。,銃槍技を習得し始めた者が{j}may even dream of donning{j}練習用の胴防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,16573,ギルドへの貢献度に応じて{j}贈られる胴防具。高度な{j}狩猟技術を持つ狩人の証。,軽銃技を習得し始めた者が{j}may even dream of donning{j}練習用の胴防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,16574,ギルドへの貢献度に応じて{j}贈られる胴防具。高度な{j}狩猟技術を持つ狩人の証。,重銃技を習得し始めた者が{j}may even dream of donning{j}練習用の胴防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,16575,ギルドへの貢献度に応じて{j}贈られる胴防具。高度な{j}狩猟技術を持つ狩人の証。,弓技を習得し始めた者が{j}may even dream of donning{j}練習用の胴防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,16594,強く威厳を感じさせる胴防具。{j}耐久性向上のための特殊な{j}加工が施されている。,遺跡で発見された破片を元に{j}模造し、組み上げた狩猟用の{j}lines of ancient battles.
+dat/equipment/description,16595,強く威厳を感じさせる胴防具。{j}耐久性向上のための特殊な{j}加工が施されている。,遺跡で発見された破片を元に{j}模造し、組み上げた狩猟用の{j}lines of ancient battles.
+dat/equipment/description,16703,動き易さを極限まで追求した{j}獰竜素材の胴防具。{j}鋭い動きが身に付くという。,Made for Hunters who crave{j}為に作られた胴装備。その{j}enhance your weapons.
+dat/equipment/description,16704,動き易さを極限まで追求した{j}獰竜素材の胴防具。{j}鋭い動きが身に付くという。,Made for Hunters who crave{j}為に作られた胴装備。その{j}enhance your weapons.
+dat/equipment/description,16745,動きやすさだけではなく、{j}耐久性も重視されて開発{j}されたこだわりの胴防具。,Given to Dojo graduates so{j}魂のこもった胴用装備。{j}{c07}SP Armor: White{/c}
+dat/equipment/description,16746,動きやすさだけではなく、{j}耐久性も重視されて開発{j}されたこだわりの胴防具。,Given to Dojo graduates so{j}魂のこもった胴用装備。{j}{c07}SP Armor: Black{/c}
+dat/equipment/description,16747,動きやすさだけではなく、{j}耐久性も重視されて開発{j}されたこだわりの胴防具。,Given to Dojo graduates so{j}魂のこもった胴用装備。{j}{c07}SP Armor: Blue{/c}
+dat/equipment/description,16748,動きやすさだけではなく、{j}耐久性も重視されて開発{j}されたこだわりの胴防具。,Seaworthy armor making the{j}イイトコどりをした胴用装備。{j}{c07}SP Armor: White{/c}
+dat/equipment/description,16749,近距離での狩猟を想定し、{j}東方の技術を取り入れつつ{j}開発が進められた胴防具。,Seaworthy armor making the{j}イイトコどりをした胴用装備。{j}{c07}SP Armor: Green{/c}
+dat/equipment/description,16750,近距離での狩猟を想定し、{j}東方の技術を取り入れつつ{j}開発が進められた胴防具。,Seaworthy armor making the{j}イイトコどりをした胴用装備。{j}{c07}SP Armor: Yellow{/c}
+dat/equipment/description,16767,遠方大陸の学徒が着ていた{j}制服を改修した軽装の胴用{j}防具。わりと涼しい。,黒鎧竜の素材を用いて新たに{j}作成された胴防具。従来より{j}slimline than ever.
+dat/equipment/description,16768,遠方大陸の学徒が着ていた{j}制服を改修した軽装の胴用{j}防具。わりと涼しい。,黒鎧竜の素材を用いて新たに{j}作成された胴防具。従来より{j}slimline than ever.
+dat/equipment/description,16887,装備すると、アイルーの如き{j}飽くなき探究心が宿る胴防具。{j}軽量で動き易い。{c11}≪ＨＣ防具≫{/c},Sturdy kit said to have been{j}worn by those on the front-{j}胴防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,16888,装備すると、アイルーの如き{j}飽くなき探究心が宿る胴防具。{j}機能を追及し軽量で動き易い。,Designed for Snipers in hot{j}胴防具。持久戦で真価が{j}its best in long battles.
+dat/equipment/description,16889,装備すると、アイルーの如き{j}飽くなき探究心が宿る胴防具。{j}軽量で動き易い。{c11}≪ＨＣ防具≫{/c},Designed for Snipers in hot{j}胴防具。持久戦で真価が{j}発揮される。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,23590,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。
+dat/equipment/description,23591,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。
+dat/equipment/description,23592,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。
+dat/equipment/description,23593,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,23594,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23595,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23596,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。
+dat/equipment/description,23597,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。
+dat/equipment/description,23598,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。
+dat/equipment/description,23599,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,23600,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23601,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23602,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。
+dat/equipment/description,23603,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。
+dat/equipment/description,23604,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。
+dat/equipment/description,23605,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,23606,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23607,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23608,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。
+dat/equipment/description,23609,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。
+dat/equipment/description,23610,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。
+dat/equipment/description,23611,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,23612,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23613,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23614,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪Ｇ級狩護≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,23615,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪Ｇ級狩護≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,23616,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,23617,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,23618,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23619,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23620,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪Ｇ級狩護≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,23621,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪Ｇ級狩護≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,23622,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,23623,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,23624,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23625,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23626,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪Ｇ級狩護≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,23627,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪Ｇ級狩護≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,23628,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,23629,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,23630,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23631,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23632,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪Ｇ級狩護≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,23633,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪Ｇ級狩護≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,23634,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,23635,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,23636,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23637,独自のセンスを磨きあげた{j}職人の手により造られた{j}胴防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23974,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。
+dat/equipment/description,23975,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。
+dat/equipment/description,23976,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。
+dat/equipment/description,23977,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,23978,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23979,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23980,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。
+dat/equipment/description,23981,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。
+dat/equipment/description,23982,耐久力の高さもさること{j}ながら、軽量化も図った{j}最新鋭の胴防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。
+dat/equipment/description,23983,耐久力の高さもさること{j}ながら、軽量化も図った{j}最新鋭の胴防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,23984,耐久力の高さもさること{j}ながら、軽量化も図った{j}最新鋭の胴防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23985,耐久力の高く、軽量化も{j}施された最新鋭の胴防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23986,耐久力の高く、軽量化も{j}施された最新鋭の胴防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。
+dat/equipment/description,23987,耐久力の高く、軽量化も{j}施された最新鋭の胴防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。
+dat/equipment/description,23988,耐久力の高さもさること{j}ながら、軽量化も図った{j}最新鋭の胴防具。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。
+dat/equipment/description,23989,耐久力の高さもさること{j}ながら、軽量化も図った{j}最新鋭の胴防具。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,23990,耐久力の高さもさること{j}ながら、軽量化も図った{j}最新鋭の胴防具。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23991,耐久力の高く、軽量化も{j}施された最新鋭の胴防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,23992,耐久力の高く、軽量化も{j}施された最新鋭の胴防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。
+dat/equipment/description,23993,耐久力の高く、軽量化も{j}施された最新鋭の胴防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。
+dat/equipment/description,24000,漆黒に包まれた胴防具。{j}古来より伝わる手法により{j}造られたもの。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,24001,漆黒に包まれた胴防具。{j}古来より伝わる手法により{j}造られたもの。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した胴防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,24002,漆黒に包まれた胴防具。{j}古来より伝わる手法により{j}造られたもの。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,24003,漆黒に包まれた胴防具。{j}古来より伝わる手法により{j}造られたもの。{c11}≪狩護防具≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,24004,漆黒に包まれた胴防具。{j}古来より伝わる手法により{j}造られたもの。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,24005,漆黒に包まれた胴防具。{j}古来より伝わる手法により{j}造られたもの。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,24006,漆黒に包まれた胴防具。{j}古来より伝わる手法により{j}造られたもの。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,24007,権力の象徴とされている{j}胴防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,24008,権力の象徴とされている{j}胴防具。絶対的な力を{j}持つ証。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,24009,権力の象徴とされている{j}胴防具。絶対的な力を{j}持つ証。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,24010,権力の象徴とされている{j}胴防具。絶対的な力を{j}持つ証。{c11}≪狩護防具≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,24011,権力の象徴とされている{j}胴防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,24012,権力の象徴とされている{j}胴防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,24013,権力の象徴とされている{j}胴防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,24014,権力の象徴とされている{j}胴防具。絶対的な力を{j}持つ証。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,24015,権力の象徴とされている{j}胴防具。絶対的な力を{j}持つ証。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,24016,権力の象徴とされている{j}胴防具。絶対的な力を{j}持つ証。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,24017,権力の象徴とされている{j}胴防具。絶対的な力を{j}持つ証。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,24018,権力の象徴とされている{j}胴防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,24019,権力の象徴とされている{j}胴防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,24020,権力の象徴とされている{j}胴防具。絶対的な力を{j}持つ証。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,24021,古き時代より愛用されて{j}いる胴防具。職人たち{j}の技術の結晶。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,24022,古き時代より愛用されて{j}いる胴防具。職人たち{j}の技術の結晶。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した胴防具。
+dat/equipment/description,24023,古き時代より愛用されて{j}いる胴防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,24024,古き時代より愛用されて{j}いる胴防具。職人たち{j}の技術の結晶。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,24025,古き時代より愛用されて{j}いる胴防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}人型兵器を模した胴防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,28554,古くから儀式などで用いられ{j}てきた伝統的な腕防具。現代{j}風にアレンジされている。,新米狩人のために用意された{j}シンプルな腕防具。{j}Pretty good for the price.
+dat/equipment/description,28555,古くから儀式などで用いられ{j}てきた伝統的な腕防具。現代{j}風にアレンジされている。,新米狩人のために用意された{j}シンプルな腕防具。{j}Pretty good for the price.
+dat/equipment/description,29909,舞踊や祝いの席などで、まれ{j}に使用される腕防具。動きや{j}すいよう技巧をこらしてある。,試練を乗り越えんとする者の{j}みに与えられるという腕防具。{j}{c07}SP Armor: Yellow{/c}
+dat/equipment/description,29910,舞踊や祝いの席などで、まれ{j}に使用される腕防具。動きや{j}すいよう技巧をこらしてある。,試練を乗り越えんとする者の{j}みに与えられるという腕防具。{j}{c07}SP Armor: Red{/c}
+dat/equipment/description,29911,舞踊や祝いの席などで、まれ{j}に使用される腕防具。動きや{j}すいよう技巧をこらしてある。,試練を乗り越えんとする者の{j}みに与えられるという腕防具。{j}{c07}SP Armor: Blue{/c}
+dat/equipment/description,29912,舞踊や祝いの席などで、まれ{j}に使用される腕防具。動きや{j}すいよう技巧をこらしてある。,金属とエビの殻をベースに{j}作られた堅牢な腕装備。{j}{c07}SP Armor: Black{/c}
+dat/equipment/description,29913,高級布材で作られた軽装狩猟{j}装備。様々な局面に対応でき{j}るように細工されている。,金属とエビの殻をベースに{j}作られた堅牢な腕装備。{j}{c07}SP Armor: Green{/c}
+dat/equipment/description,29914,高級布材で作られた軽装狩猟{j}装備。様々な局面に対応でき{j}るように細工されている。,金属とエビの殻をベースに{j}作られた堅牢な腕装備。{j}{c07}SP Armor: Blue{/c}
+dat/equipment/description,29915,高級布材で作られた軽装狩猟{j}装備。様々な局面に対応でき{j}るように細工されている。,キングロブスタの殻と金属を{j}組み合わせてできた腕装備。{j}{c07}SP Armor: Black{/c}
+dat/equipment/description,29916,高級布材で作られた軽装狩猟{j}装備。様々な局面に対応でき{j}るように細工されている。,キングロブスタの殻と金属を{j}組み合わせてできた腕装備。{j}{c07}SP Armor: Green{/c}
+dat/equipment/description,29917,高級布材で作られた軽装狩猟{j}装備。様々な局面に対応でき{j}るように細工されている。,キングロブスタの殻と金属を{j}組み合わせてできた腕装備。{j}{c07}SP Armor: Blue{/c}
+dat/equipment/description,29921,高級布材で作られた軽装狩猟{j}装備。様々な局面に対応でき{j}るように細工されている。,"Gear for hunting in packs,{j}it's ideally suited to{j}特に罠類の扱いに長ける。"
+dat/equipment/description,29922,高級布材で作られた軽装狩猟{j}装備。様々な局面に対応でき{j}るように細工されている。,"Gear for hunting in packs,{j}it's ideally suited to{j}特に罠類の扱いに長ける。"
+dat/equipment/description,29927,高級布材で作られた軽装狩猟{j}装備。様々な局面に対応でき{j}るように細工されている。,Made from the finest items.{j}Its fresh design is sure to{j}熟練狩人にも勇気を与える。
+dat/equipment/description,30011,高名なデザイナーが考案した{j}汎用性の高い腕防具。比較的{j}武器種を選ばずに使用できる。,Made from the Hypnocatrice.{j}衝撃吸収性に優れている。{j}{c07}SP Armor: Green{/c}
+dat/equipment/description,30012,高名なデザイナーが考案した{j}汎用性の高い腕防具。比較的{j}武器種を選ばずに使用できる。,Made from the Hypnocatrice.{j}衝撃吸収性に優れている。{j}{c07}SP Armor: Red{/c}
+dat/equipment/description,30013,高名なデザイナーが考案した{j}汎用性の高い腕防具。比較的{j}武器種を選ばずに使用できる。,Made from the Hypnocatrice.{j}衝撃吸収性に優れている。{j}{c07}SP Armor: Yellow{/c}
+dat/equipment/description,30034,まるで身体の一部であるかの{j}ように重さを感じさせないと{j}評判の腕防具。,片手剣技を習得し始めた者が{j}may even dream of donning{j}練習用の腕防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,30035,強く威厳を感じさせる腕防具。{j}耐久性向上のための特殊な{j}加工が施されている。,双剣技を習得し始めた者が{j}may even dream of donning{j}練習用の腕防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,30036,強く威厳を感じさせる腕防具。{j}耐久性向上のための特殊な{j}加工が施されている。,大剣技を習得し始めた者が{j}may even dream of donning{j}練習用の腕防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,30037,強く威厳を感じさせる腕防具。{j}耐久性向上のための特殊な{j}加工が施されている。,太刀技を習得し始めた者が{j}may even dream of donning{j}練習用の腕防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,30038,強く威厳を感じさせる腕防具。{j}耐久性向上のための特殊な{j}加工が施されている。,鎚技を習得し始めた者が{j}may even dream of donning{j}練習用の腕防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,30039,強く威厳を感じさせる腕防具。{j}耐久性向上のための特殊な{j}加工が施されている。,狩猟笛技を習得し始めた者が{j}may even dream of donning{j}練習用の腕防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,30040,強く威厳を感じさせる腕防具。{j}耐久性向上のための特殊な{j}加工が施されている。,槍技を習得し始めた者が{j}may even dream of donning{j}練習用の腕防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,30041,強く威厳を感じさせる腕防具。{j}耐久性向上のための特殊な{j}加工が施されている。,銃槍技を習得し始めた者が{j}may even dream of donning{j}練習用の腕防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,30042,強く威厳を感じさせる腕防具。{j}耐久性向上のための特殊な{j}加工が施されている。,軽銃技を習得し始めた者が{j}may even dream of donning{j}練習用の腕防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,30043,強く威厳を感じさせる腕防具。{j}耐久性向上のための特殊な{j}加工が施されている。,重銃技を習得し始めた者が{j}may even dream of donning{j}練習用の腕防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,30044,強く威厳を感じさせる腕防具。{j}耐久性向上のための特殊な{j}加工が施されている。,弓技を習得し始めた者が{j}may even dream of donning{j}練習用の腕防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,30063,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}腕防具。わりとオシャレ。,遺跡で発見された破片を元に{j}模造し、組み上げた狩猟用の{j}lines of ancient battles.
+dat/equipment/description,30064,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}腕防具。わりとオシャレ。,遺跡で発見された破片を元に{j}模造し、組み上げた狩猟用の{j}lines of ancient battles.
+dat/equipment/description,30172,イャンクック亜種をモチーフ{j}にした狩猟装備。その見た目{j}で若者の間で人気上昇中。,Made for Hunters who crave{j}為に作られた腕装備。その{j}enhance your weapons.
+dat/equipment/description,30173,イャンクック亜種をモチーフ{j}にした狩猟装備。その見た目{j}で若者の間で人気上昇中。,Made for Hunters who crave{j}為に作られた腕装備。その{j}enhance your weapons.
+dat/equipment/description,30214,遠方大陸の学徒が着ていた{j}制服を改修した軽装の腕用{j}防具。わりと涼しい。,Given to Dojo graduates so{j}魂のこもった腕用装備。{j}{c07}SP Armor: White{/c}
+dat/equipment/description,30215,遠方大陸の学徒が着ていた{j}制服を改修した軽装の腕用{j}防具。わりと涼しい。,Given to Dojo graduates so{j}魂のこもった腕用装備。{j}{c07}SP Armor: Black{/c}
+dat/equipment/description,30216,遠方大陸の学徒が着ていた{j}制服を改修した軽装の腕用{j}防具。わりと涼しい。,Given to Dojo graduates so{j}魂のこもった腕用装備。{j}{c07}SP Armor: Blue{/c}
+dat/equipment/description,30236,高度な技術で精錬した{j}金属を用いた重厚な腕防具。{j}着るには相当の筋力が不可欠。,黒鎧竜の素材を用いて新たに{j}作成された腕防具。従来より{j}slimline than ever.
+dat/equipment/description,30237,非常に頑丈な繊維で織られた{j}腕防具。軽く丈夫な為、狩人{j}から旅人まで愛好者は多い。,黒鎧竜の素材を用いて新たに{j}作成された腕防具。従来より{j}slimline than ever.
+dat/equipment/description,37063,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。
+dat/equipment/description,37064,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。
+dat/equipment/description,37065,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。
+dat/equipment/description,37066,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,37067,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37068,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37069,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。
+dat/equipment/description,37070,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。
+dat/equipment/description,37071,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。
+dat/equipment/description,37072,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,37073,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37074,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37075,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。
+dat/equipment/description,37076,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。
+dat/equipment/description,37077,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。
+dat/equipment/description,37078,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,37079,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37080,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37081,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。
+dat/equipment/description,37082,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。
+dat/equipment/description,37083,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。
+dat/equipment/description,37084,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,37085,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37086,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37087,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37088,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37089,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37090,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,37091,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37092,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37093,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37094,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37095,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。若者に評価が高い。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37096,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,37097,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37098,独自のセンスを磨きあげた{j}職人の手により造られた{j}腕防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37099,異邦より来訪したハンターが{j}着ていた腕防具。狩猟に{j}おいて軽快な身動きが可能。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37100,異邦より来訪したハンターが{j}着ていた腕防具。狩猟に{j}おいて軽快な身動きが可能。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37101,異邦より来訪したハンターが{j}着ていた腕防具。狩猟に{j}おいて軽快な身動きが可能。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37102,異邦より来訪したハンターが{j}着ていた腕防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,37103,異邦より来訪したハンターが{j}着ていた腕防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37104,異邦より来訪したハンターが{j}着ていた腕防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37105,異邦より来訪したハンターが{j}着ていた腕防具。狩猟に{j}おいて軽快な身動きが可能。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37106,異邦より来訪したハンターが{j}着ていた腕防具。狩猟に{j}おいて軽快な身動きが可能。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37107,異邦より来訪したハンターが{j}着ていた腕防具。狩猟に{j}おいて軽快な身動きが可能。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37108,異邦より来訪したハンターが{j}着ていた腕防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,37109,異邦より来訪したハンターが{j}着ていた腕防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37110,異邦より来訪したハンターが{j}着ていた腕防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37453,漆黒に包まれた腕防具。{j}古来より伝わる手法により{j}造られたもの。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。
+dat/equipment/description,37454,漆黒に包まれた腕防具。{j}古来より伝わる手法により{j}造られたもの。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,37455,漆黒に包まれた腕防具。{j}古来より伝わる手法により{j}造られたもの。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37456,漆黒に包まれた腕防具。{j}古来より伝わる手法により{j}造られたもの。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37457,漆黒に包まれた腕防具。{j}古来より伝わる手法により{j}造られたもの。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。
+dat/equipment/description,37458,漆黒に包まれた腕防具。{j}古来より伝わる手法により{j}造られたもの。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。
+dat/equipment/description,37459,漆黒に包まれた腕防具。{j}古来より伝わる手法により{j}造られたもの。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。
+dat/equipment/description,37460,権力の象徴とされている{j}腕防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,37461,権力の象徴とされている{j}腕防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37462,権力の象徴とされている{j}腕防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腕防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37463,権力の象徴とされている{j}腕防具。絶対的な力を{j}持つ証。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。
+dat/equipment/description,37464,権力の象徴とされている{j}腕防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。
+dat/equipment/description,37465,権力の象徴とされている{j}腕防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。
+dat/equipment/description,37466,権力の象徴とされている{j}腕防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,37467,権力の象徴とされている{j}腕防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37468,権力の象徴とされている{j}腕防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37469,権力の象徴とされている{j}腕防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。
+dat/equipment/description,37470,権力の象徴とされている{j}腕防具。絶対的な力を{j}持つ証。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。
+dat/equipment/description,37471,権力の象徴とされている{j}腕防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。
+dat/equipment/description,37472,権力の象徴とされている{j}腕防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,37473,権力の象徴とされている{j}腕防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37474,古き時代より愛用されて{j}いる腕防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腕防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37475,古き時代より愛用されて{j}いる腕防具。職人たち{j}の技術の結晶。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37476,古き時代より愛用されて{j}いる腕防具。職人たち{j}の技術の結晶。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37477,古き時代より愛用されて{j}いる腕防具。職人たち{j}の技術の結晶。{c11}≪狩護防具≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37478,古き時代より愛用されて{j}いる腕防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,37479,古き時代より愛用されて{j}いる腕防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37480,古き時代より愛用されて{j}いる腕防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37481,古き時代より愛用されて{j}いる腕防具。職人たち{j}の技術の結晶。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37482,古き時代より愛用されて{j}いる腕防具。職人たち{j}の技術の結晶。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37483,古き時代より愛用されて{j}いる腕防具。職人たち{j}の技術の結晶。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37484,古き時代より愛用されて{j}いる腕防具。職人たち{j}の技術の結晶。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,37485,古き時代より愛用されて{j}いる腕防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37486,古き時代より愛用されて{j}いる腕防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37487,古き時代より愛用されて{j}いる腕防具。職人たち{j}の技術の結晶。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37488,素材の持つ長所を最大限に{j}活かした腕防具。瑠璃色の{j}輝きが一段と目を惹く。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37489,素材の持つ長所を最大限に{j}活かした腕防具。瑠璃色の{j}輝きが一段と目を惹く。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37490,素材の持つ長所を最大限に{j}活かした腕防具。瑠璃色の{j}輝きが一段と目を惹く。,EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,37491,素材の持つ長所を最大限に{j}活かした腕防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37492,素材の持つ長所を最大限に{j}活かした腕防具。瑠璃色の{j}輝きが一段と目を惹く。,EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37493,素材の持つ長所を最大限に{j}活かした腕防具。瑠璃色の{j}輝きが一段と目を惹く。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37494,素材の持つ長所を最大限に{j}活かした腕防具。瑠璃色の{j}輝きが一段と目を惹く。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37495,素材の持つ長所を最大限に{j}活かした腕防具。{j}{c11}≪狩護防具≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腕防具。
+dat/equipment/description,37496,雄火竜と雌火竜、双方の{j}要素を取り入れ、最大にまで{j}活かしつくした腕防具。,EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,37497,雄火竜と雌火竜、双方の{j}要素を取り入れ、最大にまで{j}活かしつくした腕防具。,EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,37498,雄火竜と雌火竜、双方の{j}要素を取り入れ、最大にまで{j}活かしつくした腕防具。,EVAと呼ばれる異世界の{j}人型兵器を模した腕防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,42033,古くから儀式などで用いられ{j}てきた伝統的な腰防具。現代{j}風にアレンジされている。,新米狩人のために用意された{j}シンプルな腰防具。{j}Pretty good for the price.
+dat/equipment/description,42034,古くから儀式などで用いられ{j}てきた伝統的な腰防具。現代{j}風にアレンジされている。,新米狩人のために用意された{j}シンプルな腰防具。{j}Pretty good for the price.
+dat/equipment/description,43540,武具工房の作業着を狩猟用に{j}改良した腰防具。親方の愛と{j}熱い魂で今にも火傷しそう。,試練を乗り越えんとする者の{j}みに与えられるという腰防具。{j}{c07}SP Armor: Yellow{/c}
+dat/equipment/description,43541,武具工房の作業着を狩猟用に{j}改良した腰防具。親方の愛と{j}熱い魂で今にも火傷しそう。,試練を乗り越えんとする者の{j}みに与えられるという腰防具。{j}{c07}SP Armor: Red{/c}
+dat/equipment/description,43542,武具工房の作業着を狩猟用に{j}改良した腰防具。親方の愛と{j}熱い魂で今にも火傷しそう。,試練を乗り越えんとする者の{j}みに与えられるという腰防具。{j}{c07}SP Armor: Blue{/c}
+dat/equipment/description,43546,武具工房の作業着を狩猟用に{j}改良した腰防具。親方の愛と{j}熱い魂で今にも火傷しそう。,丈夫なエビの殻を工房の精巧な{j}技術で加工した腰装備。{j}{c07}SP Armor: Black{/c}
+dat/equipment/description,43547,武具工房の作業着を狩猟用に{j}改良した腰防具。親方の愛と{j}熱い魂で今にも火傷しそう。,丈夫なエビの殻を工房の精巧な{j}技術で加工した腰装備。{j}{c07}SP Armor: Green{/c}
+dat/equipment/description,43548,武具工房の作業着を狩猟用に{j}改良した腰防具。親方の愛と{j}熱い魂で今にも火傷しそう。,丈夫なエビの殻を工房の精巧な{j}技術で加工した腰装備。{j}{c07}SP Armor: Blue{/c}
+dat/equipment/description,43552,武具工房の作業着を狩猟用に{j}改良した腰防具。親方の愛と{j}熱い魂で今にも火傷しそう。,"Gear for hunting in packs,{j}it's ideally suited to{j}特に罠類の扱いに長ける。"
+dat/equipment/description,43553,武具工房の作業着を狩猟用に{j}改良した腰防具。親方の愛と{j}熱い魂で今にも火傷しそう。,"Gear for hunting in packs,{j}it's ideally suited to{j}特に罠類の扱いに長ける。"
+dat/equipment/description,43558,武具工房の親方の作業着を{j}極限まで改良。その装着感は{j}餓えた狼の如し、と親方の言。,"Made from the finest items,{j}Their fresh design emboldens{j}熟練狩人にも勇気を与える。"
+dat/equipment/description,43642,まるで身体の一部であるかの{j}ように重さを感じさせないと{j}評判の腰防具。,Supple Hypnocatrice armor.{j}備。柔軟性の高い一品。{j}{c07}SP Armor: Green{/c}
+dat/equipment/description,43643,まるで身体の一部であるかの{j}ように重さを感じさせないと{j}評判の腰防具。,Supple Hypnocatrice armor.{j}備。柔軟性の高い一品。{j}{c07}SP Armor: Red{/c}
+dat/equipment/description,43644,まるで身体の一部であるかの{j}ように重さを感じさせないと{j}評判の腰防具。,Supple Hypnocatrice armor.{j}備。柔軟性の高い一品。{j}{c07}SP Armor: Yellow{/c}
+dat/equipment/description,43648,強く威厳を感じさせる腰防具。{j}耐久性向上のための特殊な{j}加工が施されている。,ベルキュロス素材の腰装備。{j}衝撃の吸収性がとても高い。{j}{c07}SP Armor: Black{/c}
+dat/equipment/description,43649,強く威厳を感じさせる腰防具。{j}耐久性向上のための特殊な{j}加工が施されている。,ベルキュロス素材の腰装備。{j}衝撃の吸収性がとても高い。{j}{c07}SP Armor: Red{/c}
+dat/equipment/description,43650,強く威厳を感じさせる腰防具。{j}耐久性向上のための特殊な{j}加工が施されている。,ベルキュロス素材の腰装備。{j}衝撃の吸収性がとても高い。{j}{c07}SP Armor: Purple{/c}
+dat/equipment/description,43665,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}腰防具。わりとオシャレ。,片手剣技を習得し始めた者が{j}may even dream of donning{j}練習用の腰防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,43666,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}腰防具。わりとオシャレ。,双剣技を習得し始めた者が{j}may even dream of donning{j}練習用の腰防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,43667,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}腰防具。わりとオシャレ。,大剣技を習得し始めた者が{j}may even dream of donning{j}練習用の腰防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,43668,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}腰防具。わりとオシャレ。,太刀技を習得し始めた者が{j}may even dream of donning{j}練習用の腰防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,43669,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}腰防具。わりとオシャレ。,鎚技を習得し始めた者が{j}may even dream of donning{j}練習用の腰防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,43670,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}腰防具。わりとオシャレ。,狩猟笛技を習得し始めた者が{j}may even dream of donning{j}練習用の腰防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,43671,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}腰防具。わりとオシャレ。,槍技を習得し始めた者が{j}may even dream of donning{j}練習用の腰防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,43672,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}腰防具。わりとオシャレ。,銃槍技を習得し始めた者が{j}may even dream of donning{j}練習用の腰防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,43673,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}腰防具。わりとオシャレ。,軽銃技を習得し始めた者が{j}may even dream of donning{j}練習用の腰防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,43674,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}腰防具。わりとオシャレ。,重銃技を習得し始めた者が{j}may even dream of donning{j}練習用の腰防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,43675,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}腰防具。わりとオシャレ。,弓技を習得し始めた者が{j}may even dream of donning{j}練習用の腰防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,43694,別世界に住む気ままな貴族が{j}戦闘時に纏った衣装。{j}“夜の女王”,遺跡で発見された破片を元に{j}模造し、組み上げた狩猟用の{j}lines of ancient battles.
+dat/equipment/description,43695,別世界に住む気ままな貴族が{j}戦闘時に纏った衣装。{j}“夜の女王”,遺跡で発見された破片を元に{j}模造し、組み上げた狩猟用の{j}lines of ancient battles.
+dat/equipment/description,43845,とても高い強度を誇る狩猟用{j}の腰用装備。見た目で侮って{j}はいけない。,Given to Dojo graduates so{j}魂のこもった腰用装備。{j}{c07}SP Armor: White{/c}
+dat/equipment/description,43846,高度な技術で精錬した{j}金属を用いた重厚な腰防具。{j}着るには相当の筋力が不可欠。,Given to Dojo graduates so{j}魂のこもった腰用装備。{j}{c07}SP Armor: Black{/c}
+dat/equipment/description,43847,高度な技術で精錬した{j}金属を用いた重厚な腰防具。{j}着るには相当の筋力が不可欠。,Given to Dojo graduates so{j}魂のこもった腰用装備。{j}{c07}SP Armor: Blue{/c}
+dat/equipment/description,44001,片手剣技を極めた者だけが{j}身に付けることを許された{j}至極の腰防具。,Sturdy kit said to have been{j}worn by those on the front-{j}腰防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,44002,片手剣技を極めた者だけが{j}身に付けることを許された{j}至極の腰防具。,Designed for Snipers in hot{j}腰防具。持久戦で真価が{j}its best in long battles.
+dat/equipment/description,44003,双剣技を極めた者だけが{j}身に付けることを許された{j}至極の腰防具。,Designed for Snipers in hot{j}腰防具。持久戦で真価が{j}発揮される。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,50689,独自のセンスを磨きあげた{j}職人の手により造られた{j}腰防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。
+dat/equipment/description,50690,独自のセンスを磨きあげた{j}職人の手により造られた{j}腰防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。
+dat/equipment/description,50691,独自のセンスを磨きあげた{j}職人の手により造られた{j}腰防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。
+dat/equipment/description,50692,独自のセンスを磨きあげた{j}職人の手により造られた{j}腰防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,50693,独自のセンスを磨きあげた{j}職人の手により造られた{j}腰防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,50694,独自のセンスを磨きあげた{j}職人の手により造られた{j}腰防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,50695,独自のセンスを磨きあげた{j}職人の手により造られた{j}腰防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。
+dat/equipment/description,50696,独自のセンスを磨きあげた{j}職人の手により造られた{j}腰防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。
+dat/equipment/description,50697,独自のセンスを磨きあげた{j}職人の手により造られた{j}腰防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。
+dat/equipment/description,50698,独自のセンスを磨きあげた{j}職人の手により造られた{j}腰防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,50699,独自のセンスを磨きあげた{j}職人の手により造られた{j}腰防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,50700,独自のセンスを磨きあげた{j}職人の手により造られた{j}腰防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,50701,独自のセンスを磨きあげた{j}職人の手により造られた{j}腰防具。若者に評価が高い。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。
+dat/equipment/description,50702,独自のセンスを磨きあげた{j}職人の手により造られた{j}腰防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。
+dat/equipment/description,50703,独自のセンスを磨きあげた{j}職人の手により造られた{j}腰防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。
+dat/equipment/description,50704,独自のセンスを磨きあげた{j}職人の手により造られた{j}腰防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,50705,異邦より来訪したハンターが{j}着ていた腰防具。狩猟に{j}おいて軽快な身動きが可能。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,50706,異邦より来訪したハンターが{j}着ていた腰防具。狩猟に{j}おいて軽快な身動きが可能。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,50707,異邦より来訪したハンターが{j}着ていた腰防具。狩猟に{j}おいて軽快な身動きが可能。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。
+dat/equipment/description,50708,異邦より来訪したハンターが{j}着ていた腰防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。
+dat/equipment/description,50709,異邦より来訪したハンターが{j}着ていた腰防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。
+dat/equipment/description,50710,異邦より来訪したハンターが{j}着ていた腰防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,50711,異邦より来訪したハンターが{j}着ていた腰防具。狩猟に{j}おいて軽快な身動きが可能。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,50712,異邦より来訪したハンターが{j}着ていた腰防具。狩猟に{j}おいて軽快な身動きが可能。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,50713,異邦より来訪したハンターが{j}着ていた腰防具。狩猟に{j}おいて軽快な身動きが可能。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,50714,異邦より来訪したハンターが{j}着ていた腰防具。{j}{c11}≪狩護防具≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,50715,異邦より来訪したハンターが{j}着ていた腰防具。{j}{c11}≪Ｇ級狩護≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,50716,異邦より来訪したハンターが{j}着ていた腰防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,50717,ダンボールという異世界の{j}素材を使って作られた{j}腰防具。結構、暖かい。,EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,50718,ダンボールという異世界の{j}素材を使って作られた{j}腰防具。結構、暖かい。,EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,50719,ダンボールという異世界の{j}素材を使って作られた{j}腰防具。結構、暖かい。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,50720,ダンボールという異世界の{j}素材を使って作られた{j}腰防具。{c11}≪狩護防具≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,50721,ダンボールという異世界の{j}素材を使って作られた{j}腰防具。{c11}≪Ｇ級狩護≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,50722,ダンボールという異世界の{j}素材を使って作られた{j}腰防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,50723,虫の民を守るための防具。{j}{c04}≪遷悠防具：{j}状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,50724,虫の民を守るための防具。{j}{c04}≪遷悠防具：{j}状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,50725,虫の民を守るための防具。{j}{c04}≪遷悠防具：{j}状態異常攻撃強化≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,50726,虫の民を守るための防具。{j}{c04}≪遷悠防具：{j}状態異常攻撃強化≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,50727,鍛えられた野生の装甲は、飛{j}竜の牙でも貫けない。{c04}≪遷悠{j}防具：状態異常攻撃強化≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,50728,鍛えられた野生の装甲は、飛{j}竜の牙でも貫けない。{c04}≪遷悠{j}防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,50729,鍛えられた野生の装甲は、飛{j}竜の牙でも貫けない。{c04}≪遷悠{j}防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,50730,鍛えられた野生の装甲は、飛{j}竜の牙でも貫けない。{c04}≪遷悠{j}防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,50731,ブッ飛ばされても決して汚れ{j}ることなどない一流品。{c04}≪遷{j}悠防具：状態異常攻撃強化≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,50732,ブッ飛ばされても決して汚れ{j}ることなどない一流品。{c04}≪遷{j}悠防具：状態異常攻撃強化≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,50733,ブッ飛ばされても決して汚れ{j}ることなどない一流品。{c04}≪遷{j}悠防具：状態異常攻撃強化≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,50734,ブッ飛ばされても決して汚れ{j}ることなどない一流品。{c04}≪遷{j}悠防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,50735,優雅さと美しさと職人の誇りが{j}詰まった一流品。{c04}≪遷悠{j}防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,50736,優雅さと美しさと職人の誇りが{j}詰まった一流品。{c04}≪遷悠{j}防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,51077,権力の象徴とされている{j}腰防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。
+dat/equipment/description,51078,権力の象徴とされている{j}腰防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。
+dat/equipment/description,51079,権力の象徴とされている{j}腰防具。絶対的な力を{j}持つ証。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。
+dat/equipment/description,51080,古き時代より愛用されて{j}いる腰防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,51081,古き時代より愛用されて{j}いる腰防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,51082,古き時代より愛用されて{j}いる腰防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,51083,古き時代より愛用されて{j}いる腰防具。職人たち{j}の技術の結晶。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。
+dat/equipment/description,51084,古き時代より愛用されて{j}いる腰防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。
+dat/equipment/description,51085,古き時代より愛用されて{j}いる腰防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。
+dat/equipment/description,51086,古き時代より愛用されて{j}いる腰防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,51087,古き時代より愛用されて{j}いる腰防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,51088,古き時代より愛用されて{j}いる腰防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した腰防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,51089,古き時代より愛用されて{j}いる腰防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。
+dat/equipment/description,51090,古き時代より愛用されて{j}いる腰防具。職人たち{j}の技術の結晶。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。
+dat/equipment/description,51091,古き時代より愛用されて{j}いる腰防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。
+dat/equipment/description,51092,古き時代より愛用されて{j}いる腰防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,51093,古き時代より愛用されて{j}いる腰防具。職人たち{j}の技術の結晶。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,51094,素材の持つ長所を最大限に{j}活かした腰防具。瑠璃色の{j}輝きが一段と目を惹く。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,51095,素材の持つ長所を最大限に{j}活かした腰防具。瑠璃色の{j}輝きが一段と目を惹く。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。
+dat/equipment/description,51096,素材の持つ長所を最大限に{j}活かした腰防具。瑠璃色の{j}輝きが一段と目を惹く。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。
+dat/equipment/description,51097,素材の持つ長所を最大限に{j}活かした腰防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。
+dat/equipment/description,51098,素材の持つ長所を最大限に{j}活かした腰防具。瑠璃色の{j}輝きが一段と目を惹く。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,51099,素材の持つ長所を最大限に{j}活かした腰防具。瑠璃色の{j}輝きが一段と目を惹く。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,51100,素材の持つ長所を最大限に{j}活かした腰防具。瑠璃色の{j}輝きが一段と目を惹く。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した腰防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,51101,素材の持つ長所を最大限に{j}活かした腰防具。{j}{c11}≪狩護防具≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,51102,雄火竜と雌火竜、双方の{j}要素を取り入れ、最大にまで{j}活かしつくした腰防具。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,51103,雄火竜と雌火竜、双方の{j}要素を取り入れ、最大にまで{j}活かしつくした腰防具。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,51104,雄火竜と雌火竜、双方の{j}要素を取り入れ、最大にまで{j}活かしつくした腰防具。,EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,51105,雄火竜と雌火竜、双方の{j}要素を取り入れ、最大にまで{j}活かしつくした腰防具。,EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,51106,雄火竜と雌火竜、双方の{j}要素を取り入れ、最大にまで{j}活かしつくした腰防具。,EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,51107,雄火竜と雌火竜、双方の{j}要素を取り入れ、最大にまで{j}活かしつくした腰防具。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,51108,魅力的なデザインと肌触り{j}の良い質感が人気の腰防具。{j}若者の間で話題となっている。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,51109,魅力的なデザインと肌触り{j}の良い質感が人気の腰防具。{j}若者の間で話題となっている。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,51110,魅力的なデザインと肌触り{j}の良い質感が人気の腰防具。{j}若者の間で話題となっている。,EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,51111,魅力的なデザインと肌触り{j}の良い質感が人気の腰防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,51112,魅力的なデザインと肌触り{j}の良い質感が人気の腰防具。{j}若者の間で話題となっている。,EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,51113,魅力的なデザインと肌触り{j}の良い質感が人気の腰防具。{j}若者の間で話題となっている。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,51114,魅力的なデザインと肌触り{j}の良い質感が人気の腰防具。{j}若者の間で話題となっている。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,51115,魅力的なデザインと肌触り{j}の良い質感が人気の腰防具。{j}若者の間で話題となっている。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,51116,魅力的なデザインと肌触り{j}の良い質感が人気の腰防具。{j}若者の間で話題となっている。,EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,51117,魅力的なデザインと肌触り{j}の良い質感が人気の腰防具。{j}若者の間で話題となっている。,EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,51118,魅力的なデザインと肌触り{j}の良い質感が人気の腰防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,51119,魅力的なデザインと肌触り{j}の良い質感が人気の腰防具。{j}若者の間で話題となっている。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,51120,魅力的なデザインと肌触り{j}の良い質感が人気の腰防具。{j}若者の間で話題となっている。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,51121,魅力的なデザインと肌触り{j}の良い質感が人気の腰防具。{j}若者の間で話題となっている。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した腰防具。
+dat/equipment/description,51122,白を基調に上品なデザイン{j}へ仕上げた腰防具。華麗な{j}身のこなしを実現。,EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,51123,白を基調に上品なデザイン{j}へ仕上げた腰防具。華麗な{j}身のこなしを実現。,EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,51124,白を基調に上品なデザイン{j}へ仕上げた腰防具。華麗な{j}身のこなしを実現。,EVAと呼ばれる異世界の{j}人型兵器を模した腰防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,55757,桃色の竜が力を授けた脚装備。{j}武器を手に乱舞する姿は、水{j}面に映る炎の揺らめきのよう。,新米狩人のために用意された{j}シンプルな脚防具。{j}Pretty good for the price.
+dat/equipment/description,55758,ダイミョウザザミの素材を使{j}用した脚用装備。軽やかな{j}ステップの実現こそ勝利の鍵。,新米狩人のために用意された{j}シンプルな脚防具。{j}Pretty good for the price.
+dat/equipment/description,56987,華麗な脚技が得意な格闘家が{j}長く愛用したという。{j}天裂く嵐脚。,最先端の技術で作られた{j}脚装備。見た目とは裏腹に{j}high degree of mobility.
+dat/equipment/description,57114,薄手だが丈夫な新素材で作ら{j}れた最新の脚用装備。狩猟を助{j}ける様々な工夫が施してある。,試練を乗り越えんとする者の{j}みに与えられるという脚防具。{j}{c07}SP Armor: Yellow{/c}
+dat/equipment/description,57115,薄手だが丈夫な新素材で作ら{j}れた最新の脚用装備。狩猟を助{j}ける様々な工夫が施してある。,試練を乗り越えんとする者の{j}みに与えられるという脚防具。{j}{c07}SP Armor: Red{/c}
+dat/equipment/description,57116,眠鳥の素材を用いた脚用装備。{j}随所に仕込まれた柔軟な羽毛{j}が特徴。{c07}ＳＰ防具：緑{/c},試練を乗り越えんとする者の{j}みに与えられるという脚防具。{j}{c07}SP Armor: Blue{/c}
+dat/equipment/description,57117,眠鳥の素材を用いた脚用装備。{j}随所に仕込まれた柔軟な羽毛{j}が特徴。{c07}ＳＰ防具：赤{/c},エビの殻を層状に重ねて{j}強度を増した脚装備。{j}{c07}SP Armor: Black{/c}
+dat/equipment/description,57118,眠鳥の素材を用いた脚用装備。{j}随所に仕込まれた柔軟な羽毛{j}が特徴。{c07}ＳＰ防具：黄{/c},エビの殻を層状に重ねて{j}強度を増した脚装備。{j}{c07}SP Armor: Green{/c}
+dat/equipment/description,57119,ベルキュロス素材の脚防具。{j}丈夫だが履き心地は軽い。{j}{c07}ＳＰ防具：黒{/c},エビの殻を層状に重ねて{j}強度を増した脚装備。{j}{c07}SP Armor: Blue{/c}
+dat/equipment/description,57120,ベルキュロス素材の脚防具。{j}丈夫だが履き心地は軽い。{j}{c07}ＳＰ防具：赤{/c},堅牢なエビの殻と精巧な{j}技術が生み出した脚装備。{j}{c07}SP Armor: Black{/c}
+dat/equipment/description,57121,ベルキュロス素材の脚防具。{j}丈夫だが履き心地は軽い。{j}{c07}ＳＰ防具：紫{/c},堅牢なエビの殻と精巧な{j}技術が生み出した脚装備。{j}{c07}SP Armor: Green{/c}
+dat/equipment/description,57122,ベルキュロス素材の脚装備。{j}履き心地が良く、軽い。{j}{c07}ＳＰ防具：黒{/c},堅牢なエビの殻と精巧な{j}技術が生み出した脚装備。{j}{c07}SP Armor: Blue{/c}
+dat/equipment/description,57126,熟練の武具職人が丹精込めて{j}仕上げた最高品質の脚装備。{j}狩猟技術の研鑽に役立つ。,"Gear for hunting in packs,{j}it's ideally suited to{j}特に罠類の扱いに長ける。"
+dat/equipment/description,57127,神々しいまでの威厳に満ちた{j}純白の脚用防具。着用者の{j}心も洗われる。,"Gear for hunting in packs,{j}it's ideally suited to{j}特に罠類の扱いに長ける。"
+dat/equipment/description,57132,地の女王の猛烈な脚力を宿し{j}た防具。踏みしめる大地まで{j}が味方についたような心強さ。,"Made from the finest items,{j}Their fresh design emboldens{j}熟練狩人にも勇気を与える。"
+dat/equipment/description,57216,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}脚防具。わりとオシャレ。,Hypnocatrice legwear whose{j}flexible feathers mean it{j}が特徴。{c07}ＳＰ防具：緑{/c}
+dat/equipment/description,57217,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}脚防具。わりとオシャレ。,Hypnocatrice legwear whose{j}flexible feathers mean it{j}が特徴。{c07}ＳＰ防具：赤{/c}
+dat/equipment/description,57218,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}脚防具。わりとオシャレ。,Hypnocatrice legwear whose{j}flexible feathers mean it{j}が特徴。{c07}ＳＰ防具：黄{/c}
+dat/equipment/description,57219,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}脚防具。わりとオシャレ。,ベルキュロス素材の脚防具。{j}丈夫だが履き心地は軽い。{j}{c07}SP Armor: Black{/c}
+dat/equipment/description,57220,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}脚防具。わりとオシャレ。,ベルキュロス素材の脚防具。{j}丈夫だが履き心地は軽い。{j}{c07}SP Armor: Red{/c}
+dat/equipment/description,57221,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}脚防具。わりとオシャレ。,ベルキュロス素材の脚防具。{j}丈夫だが履き心地は軽い。{j}{c07}SP Armor: Purple{/c}
+dat/equipment/description,57222,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}脚防具。わりとオシャレ。,ベルキュロス素材の脚装備。{j}履き心地が良く、軽い。{j}{c07}SP Armor: Black{/c}
+dat/equipment/description,57223,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}脚防具。わりとオシャレ。,ベルキュロス素材の脚装備。{j}履き心地が良く、軽い。{j}{c07}SP Armor: Red{/c}
+dat/equipment/description,57224,闘技場に放ったモンスターの{j}討伐時間を競い合う競技用の{j}脚防具。わりとオシャレ。,ベルキュロス素材の脚装備。{j}履き心地が良く、軽い。{j}{c07}SP Armor: Purple{/c}
+dat/equipment/description,57239,別世界に住む人ではない{j}貴族が着用したという礼装。{j}“闇の貴公子”,片手剣技を習得し始めた者が{j}may even dream of donning{j}練習用の脚防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,57240,別世界に住む人ではない{j}貴族が着用したという礼装。{j}“闇の貴公子”,双剣技を習得し始めた者が{j}may even dream of donning{j}練習用の脚防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,57241,別世界に住む人ではない{j}貴族が着用したという礼装。{j}“闇の貴公子”,大剣技を習得し始めた者が{j}may even dream of donning{j}練習用の脚防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,57242,別世界に住む人ではない{j}貴族が着用したという礼装。{j}“闇の貴公子”,太刀技を習得し始めた者が{j}may even dream of donning{j}練習用の脚防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,57243,別世界に住む人ではない{j}貴族が着用したという礼装。{j}“闇の貴公子”,鎚技を習得し始めた者が{j}may even dream of donning{j}練習用の脚防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,57244,別世界に住む人ではない{j}貴族が着用したという礼装。{j}“闇の貴公子”,狩猟笛技を習得し始めた者が{j}may even dream of donning{j}練習用の脚防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,57245,別世界に住む人ではない{j}貴族が着用したという礼装。{j}“闇の貴公子”,槍技を習得し始めた者が{j}may even dream of donning{j}練習用の脚防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,57246,別世界に住む人ではない{j}貴族が着用したという礼装。{j}“闇の貴公子”,銃槍技を習得し始めた者が{j}may even dream of donning{j}練習用の脚防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,57247,別世界に住む人ではない{j}貴族が着用したという礼装。{j}“闇の貴公子”,軽銃技を習得し始めた者が{j}may even dream of donning{j}練習用の脚防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,57248,別世界に住む気ままな貴族が{j}戦闘時に纏った衣装。{j}“夜の女王”,重銃技を習得し始めた者が{j}may even dream of donning{j}練習用の脚防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,57249,別世界に住む気ままな貴族が{j}戦闘時に纏った衣装。{j}“夜の女王”,弓技を習得し始めた者が{j}may even dream of donning{j}練習用の脚防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,57268,華麗にして精強な脚用装備。{j}放たれるオーラは、相対した{j}ものを圧倒することだろう。,遺跡で発見された破片を元に{j}模造し、組み上げた狩猟用の{j}lines of ancient battles.
+dat/equipment/description,57269,華麗にして精強な脚用装備。{j}放たれるオーラは、相対した{j}ものを圧倒することだろう。,遺跡で発見された破片を元に{j}模造し、組み上げた狩猟用の{j}lines of ancient battles.
+dat/equipment/description,57575,狩猟笛技を極めた者だけが{j}身に付けることを許された{j}至極の脚防具。,Sturdy kit said to have been{j}worn by those on the front{j}脚防具。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,57576,狩猟笛技を極めた者だけが{j}身に付けることを許された{j}至極の脚防具。,Designed for Snipers in hot{j}脚防具。持久戦で真価が{j}its best in long battles.
+dat/equipment/description,57577,狩猟笛技を極めた者だけが{j}身に付けることを許された{j}至極の脚防具。,Designed for Snipers in hot{j}脚防具。持久戦で真価が{j}発揮される。{c11}≪ＨＣ防具≫{/c}
+dat/equipment/description,64281,異邦より来訪したハンターが{j}着ていた脚防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。
+dat/equipment/description,64282,異邦より来訪したハンターが{j}着ていた脚防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。
+dat/equipment/description,64283,異邦より来訪したハンターが{j}着ていた脚防具。狩猟に{j}おいて軽快な身動きが可能。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。
+dat/equipment/description,64284,異邦より来訪したハンターが{j}着ていた脚防具。狩猟に{j}おいて軽快な身動きが可能。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,64285,異邦より来訪したハンターが{j}着ていた脚防具。狩猟に{j}おいて軽快な身動きが可能。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64286,異邦より来訪したハンターが{j}着ていた脚防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64287,異邦より来訪したハンターが{j}着ていた脚防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。
+dat/equipment/description,64288,異邦より来訪したハンターが{j}着ていた脚防具。{j}{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。
+dat/equipment/description,64289,ダンボールという異世界の{j}素材を使って作られた{j}脚防具。結構、暖かい。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。
+dat/equipment/description,64290,ダンボールという異世界の{j}素材を使って作られた{j}脚防具。結構、暖かい。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,64291,ダンボールという異世界の{j}素材を使って作られた{j}脚防具。結構、暖かい。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64292,ダンボールという異世界の{j}素材を使って作られた{j}脚防具。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64293,ダンボールという異世界の{j}素材を使って作られた{j}脚防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。
+dat/equipment/description,64294,ダンボールという異世界の{j}素材を使って作られた{j}脚防具。{c11}≪Ｇ級狩護≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。
+dat/equipment/description,64295,大自然に立つ覇王の姿に昆虫{j}たちは皆ひれ伏す。{c04}≪遷悠{j}防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。
+dat/equipment/description,64296,大自然に立つ覇王の姿に昆虫{j}たちは皆ひれ伏す。{c04}≪遷悠{j}防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,64297,大自然に立つ覇王の姿に昆虫{j}たちは皆ひれ伏す。{c04}≪遷悠{j}防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64298,大自然に立つ覇王の姿に昆虫{j}たちは皆ひれ伏す。{c04}≪遷悠{j}防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64299,その歩みの先に、昆虫たちの{j}豊かな世界が生まれる。{c04}≪遷{j}悠防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。
+dat/equipment/description,64300,その歩みの先に、昆虫たちの{j}豊かな世界が生まれる。{c04}≪遷{j}悠防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。
+dat/equipment/description,64301,その歩みの先に、昆虫たちの{j}豊かな世界が生まれる。{c04}≪遷{j}悠防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。
+dat/equipment/description,64302,その歩みの先に、昆虫たちの{j}豊かな世界が生まれる。{c04}≪遷{j}悠防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,64303,その軽やかな走りは、まるで{j}花園を舞う蝶のよう。{c04}≪遷悠{j}防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64304,その軽やかな走りは、まるで{j}花園を舞う蝶のよう。{c04}≪遷悠{j}防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64305,その軽やかな走りは、まるで{j}花園を舞う蝶のよう。{c04}≪遷悠{j}防具：状態異常攻撃強化≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64306,その軽やかな走りは、まるで{j}花園を舞う蝶のよう。{c04}≪遷悠{j}防具：状態異常攻撃強化≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64307,リッチハンターも納得の高級{j}品だけが持つ履き心地。{c04}≪遷{j}悠防具：状態異常攻撃強化≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64308,リッチハンターも納得の高級{j}品だけが持つ履き心地。{c04}≪遷{j}悠防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,64309,リッチハンターも納得の高級{j}品だけが持つ履き心地。{c04}≪遷{j}悠防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64310,リッチハンターも納得の高級{j}品だけが持つ履き心地。{c04}≪遷{j}悠防具：状態異常攻撃強化≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64311,天に舞う雄火竜と地を轟かす{j}雌火竜を職人の手により{j}剛健に仕上げた脚防具。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64312,天に舞う雄火竜と地を轟かす{j}雌火竜を職人の手により{j}剛健に仕上げた脚防具。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64313,天に舞う雄火竜と地を轟かす{j}雌火竜を職人の手により{j}剛健に仕上げた脚防具。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64314,天に舞う雄火竜と地を轟かす{j}雌火竜を職人の手により{j}剛健に仕上げた脚防具。,EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,64315,天に舞う雄火竜と地を轟かす{j}雌火竜を職人の手により{j}剛健に仕上げた脚防具。,EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64316,天に舞う雄火竜と地を轟かす{j}雌火竜を職人の手により{j}剛健に仕上げた脚防具。,EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64317,力の象徴とされている脚防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64318,力の象徴とされている脚防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64319,力の象徴とされている脚防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64320,力の象徴とされている脚防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,64321,力の象徴とされている脚防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64322,力の象徴とされている脚防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64323,力の象徴とされている脚防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64324,力の象徴とされている脚防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64325,力の象徴とされている脚防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64326,力の象徴とされている脚防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,64327,力の象徴とされている脚防具。{j}周囲に畏敬の念と安心感を抱{j}かせるという。{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64328,力の象徴とされている脚防具。{j}畏敬の念とともに、周囲に{j}安心感をも抱かせるという。,EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64669,素材の持つ長所を最大限に{j}活かした脚防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。
+dat/equipment/description,64670,素材の持つ長所を最大限に{j}活かした脚防具。瑠璃色の{j}輝きが一段と目を惹く。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。
+dat/equipment/description,64671,素材の持つ長所を最大限に{j}活かした脚防具。瑠璃色の{j}輝きが一段と目を惹く。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。
+dat/equipment/description,64672,素材の持つ長所を最大限に{j}活かした脚防具。瑠璃色の{j}輝きが一段と目を惹く。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,64673,素材の持つ長所を最大限に{j}活かした脚防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64674,雄火竜と雌火竜、双方の{j}要素を取り入れ、最大にまで{j}活かしつくした脚防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64675,雄火竜と雌火竜、双方の{j}要素を取り入れ、最大にまで{j}活かしつくした脚防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。
+dat/equipment/description,64676,雄火竜と雌火竜、双方の{j}要素を取り入れ、最大にまで{j}活かしつくした脚防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。
+dat/equipment/description,64677,雄火竜と雌火竜、双方の{j}要素を取り入れ、最大にまで{j}活かしつくした脚防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。
+dat/equipment/description,64678,雄火竜と雌火竜、双方の{j}要素を取り入れ、最大にまで{j}活かしつくした脚防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,64679,雄火竜と雌火竜、双方の{j}要素を取り入れ、最大にまで{j}活かしつくした脚防具。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64680,魅力的なデザインと肌触り{j}の良い質感が人気の脚防具。{j}若者の間で話題となっている。,EVAと呼ばれる異世界の{j}兵器を操る少年の衣服を{j}模した脚防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64681,魅力的なデザインと肌触り{j}の良い質感が人気の脚防具。{j}若者の間で話題となっている。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。
+dat/equipment/description,64682,魅力的なデザインと肌触り{j}の良い質感が人気の脚防具。{j}若者の間で話題となっている。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。
+dat/equipment/description,64683,魅力的なデザインと肌触り{j}の良い質感が人気の脚防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。
+dat/equipment/description,64684,魅力的なデザインと肌触り{j}の良い質感が人気の脚防具。{j}若者の間で話題となっている。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,64685,魅力的なデザインと肌触り{j}の良い質感が人気の脚防具。{j}若者の間で話題となっている。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64686,魅力的なデザインと肌触り{j}の良い質感が人気の脚防具。{j}若者の間で話題となっている。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64687,魅力的なデザインと肌触り{j}の良い質感が人気の脚防具。{j}若者の間で話題となっている。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。
+dat/equipment/description,64688,魅力的なデザインと肌触り{j}の良い質感が人気の脚防具。{j}若者の間で話題となっている。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。
+dat/equipment/description,64689,魅力的なデザインと肌触り{j}の良い質感が人気の脚防具。{j}若者の間で話題となっている。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。
+dat/equipment/description,64690,魅力的なデザインと肌触り{j}の良い質感が人気の脚防具。{j}{c11}≪狩護防具≫{/c},EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。{c11}≪狩護防具≫{/c}
+dat/equipment/description,64691,魅力的なデザインと肌触り{j}の良い質感が人気の脚防具。{j}若者の間で話題となっている。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64692,魅力的なデザインと肌触り{j}の良い質感が人気の脚防具。{j}若者の間で話題となっている。,EVAと呼ばれる異世界の{j}兵器を操る少女の衣服を{j}模した脚防具。{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64693,魅力的なデザインと肌触り{j}の良い質感が人気の脚防具。{j}若者の間で話題となっている。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64694,白を基調に上品なデザイン{j}へ仕上げた脚防具。華麗な{j}身のこなしを実現。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64695,白を基調に上品なデザイン{j}へ仕上げた脚防具。華麗な{j}身のこなしを実現。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64696,白を基調に上品なデザイン{j}へ仕上げた脚防具。華麗な{j}身のこなしを実現。,EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,64697,白を基調に上品なデザイン{j}へ仕上げた脚防具。華麗な{j}身のこなしを実現。,EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64698,白を基調に上品なデザイン{j}へ仕上げた脚防具。華麗な{j}身のこなしを実現。,EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64699,白を基調に上品なデザイン{j}へ仕上げた脚防具。華麗な{j}身のこなしを実現。,異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64700,氷牙竜の甲殻で固めた脚用{j}装備。{c04}≪遷悠防具：{j}氷属性攻撃強化【大】≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64701,氷牙竜の甲殻で固めた脚用{j}装備。{c04}≪遷悠防具：{j}氷属性攻撃強化【大】≫{/c},異世界の少年が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64702,氷牙竜の甲殻で固めた脚用{j}装備。{c04}≪遷悠防具：{j}氷属性攻撃強化【大】≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,64703,氷牙竜の甲殻で固めた脚用{j}装備。{c04}≪遷悠防具：{j}氷属性攻撃強化【大】≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64704,氷牙竜の甲殻で固めた脚用{j}装備。{c04}≪遷悠防具：{j}氷属性攻撃強化【大】≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64705,氷牙竜の甲殻で固めた脚用{j}装備。{c04}≪遷悠防具：{j}氷属性攻撃強化【大】≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64706,氷牙竜の甲殻で固めた脚用{j}装備。{c04}≪遷悠防具：{j}氷属性攻撃強化【大】≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64707,氷牙竜の甲殻で固めた脚用{j}装備。{c04}≪遷悠防具：{j}氷属性攻撃強化【大】≫{/c},異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64708,平和を守りし遠国の騎士団に{j}受け継がれる脚防具。どんな{j}困難も乗り越えられるという。,EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,64709,平和を守りし遠国の騎士団に{j}受け継がれる脚防具。どんな{j}困難も乗り越えられるという。,EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64710,平和を守りし遠国の騎士団に{j}受け継がれる脚防具。どんな{j}困難も乗り越えられるという。,EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64711,平和を守りし遠国の騎士団に{j}受け継がれる脚防具。どんな{j}困難も乗り越えられるという。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64712,平和を守りし遠国の騎士団に{j}受け継がれる脚防具。どんな{j}困難も乗り越えられるという。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64713,平和を守りし遠国の騎士団に{j}受け継がれる脚防具。どんな{j}困難も乗り越えられるという。,異世界の少女が搭乗していた{j}EVAと呼ばれる人型兵器を{j}模した脚防具。
+dat/equipment/description,64714,天廊にて発見された古代人の{j}技術を利用し造りあげた{j}脚防具。{c19}≪天廊防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪狩護防具≫{/c}
+dat/equipment/description,64715,天廊にて発見された古代人の{j}技術を利用し造りあげた{j}脚防具。{c19}≪天廊防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/equipment/description,64716,天廊にて発見された古代人の{j}技術を利用し造りあげた{j}脚防具。{c19}≪天廊防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
