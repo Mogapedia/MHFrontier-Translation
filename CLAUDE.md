@@ -69,9 +69,46 @@ scripts/
   armor_names.py           ← deterministic FR armour-name generator
   resolve_series.py        ← fill the armour series-stem table
   kana.py                  ← katakana → Latin transliteration (etymology restoration)
+  fix_accents.py           ← restore French accents / œ ligature in targets
 docs/
   armor_vocab.fr.json      ← closed vocabularies: slots (+gender), colours, tiers
   armor_series.fr.csv      ← series stem → FR, with `origin` trust level
+  capcom_items.fr.csv      ← 1472 official Capcom JP→FR item names
+  capcom_conflicts.fr.csv  ← where this repo disagrees with Capcom (unresolved)
+```
+
+## Capcom's official French as a reference
+
+`docs/capcom_items.fr.csv` pairs Japanese item names with Capcom's own
+French localisation, taken from the shipped Rise/Sunbreak string tables.
+This is the authority `glossary.fr.md` rule #1 already points at
+("si Capcom a traduit le terme en FR dans un jeu officiel récent, utiliser
+ce terme tel quel"), in a form that can actually be checked against.
+
+It fills almost none of the backlog — MHF's untranslated items are the
+MHF-exclusive long tail. Its use is **auditing what is already translated**.
+`docs/capcom_conflicts.fr.csv` records 202 rows where this repo differs:
+
+- **158 `terminology`** — genuine disagreements (強走薬 is *Boisson tonique*
+  here, *Potion vitalité* for Capcom). Note `glossary.fr.md` §5 currently
+  enshrines several of these against its own rule #1. Left unresolved on
+  purpose: MHF predates Rise and some choices may be deliberate.
+- **44 `abbreviation`** — Capcom's UI truncations (*Potion ancest.*); the
+  fuller repo form is usually preferable.
+
+## French accents
+
+Part of the corpus was seeded from an ASCII-folded binary, so it carried
+`Ecaille`, `Oeuf`, `tenacite`. `scripts/fix_accents.py` restores them, but
+only where the fix is unambiguous: the bare form must not itself be a French
+word, exactly one accented word may fold to it, and proper nouns (armour
+stems, monster names) are excluded. Words with more than one candidate —
+`medaille` (médaille/médaillé), `peche` (pêche/péché) — are reported, never
+guessed.
+
+```bash
+python scripts/fix_accents.py --report
+python scripts/fix_accents.py --apply
 ```
 
 ## Armour names are generated, not translated
