@@ -88,39 +88,33 @@ This is the authority `glossary.fr.md` rule #1 already points at
 ce terme tel quel"), in a form that can actually be checked against.
 
 It fills almost none of the backlog — MHF's untranslated items are the
-MHF-exclusive long tail. Its use is **auditing what is already translated**.
-`docs/capcom_conflicts.fr.csv` records 202 rows where this repo differs:
+MHF-exclusive long tail. Its use is **auditing what is already translated**,
+and that audit has now been acted on.
 
-- **158 `terminology`** — genuine disagreements (強走薬 is *Boisson tonique*
-  here, *Potion vitalité* for Capcom). Note `glossary.fr.md` §5 currently
-  enshrines several of these against its own rule #1. Left unresolved on
-  purpose: MHF predates Rise and some choices may be deliberate.
-- **44 `abbreviation`** — Capcom's UI truncations (*Potion ancest.*); the
-  fuller repo form is usually preferable.
+### Which Capcom generation wins
 
-## Repeated item descriptions
+Part of the repo's French came from the PSP games: « Pilule armure »,
+« Drogue du démon », « Piège à choc » are genuine Capcom French, but from
+the Freedom generation. MHF is contemporary with those games, which is an
+argument for keeping them.
 
-`dat/items/description` is written from a small stock of boilerplate: its
-16696 untranslated rows collapse to 7443 distinct strings, and one string
-("Ｇ級防具を精錬することで作られた装飾品。") accounts for 1952 of them.
-`docs/item_descriptions.fr.csv` holds one row per distinct string; fill `fr`
-and `--apply` writes it everywhere that string occurs.
+That is **not** the choice made here. Those localisations were done from
+English under time pressure and are markedly weaker than the recent ones;
+matching the era would freeze a worse translation in place. The current
+vocabulary (Wilds, else Rise/Sunbreak) wins, even against an authentic
+period term. An era-accurate set may return later as an optional
+**nostalgia layer**, never as the reference.
 
-5838 rows are constant strings and can be translated directly. The other
-10858 contain a katakana run — usually an item or series name that has to be
-resolved before the sentence can be written — and are marked `has_var` and
-left for later.
+157 item names were updated accordingly, and `glossary.fr.md` §5 was
+corrected to match. Capcom's UI truncations were expanded where the
+~24-character budget allows — MHF's limits are not Rise's — so the repo
+carries « Sphère d'armure dense » where Capcom ships « Sph. arm. dense ».
 
-**Control codes are verified, not trusted.** An entry whose `{j}`, `{cNN}`
-and `{/c}` markers do not match the source exactly is refused and `--apply`
-aborts. A dropped colour span corrupts the rendered text with no
-compile-time warning, so this is the one rule that cannot be left to care.
-
-```bash
-python scripts/item_descriptions.py --emit
-python scripts/item_descriptions.py --report
-python scripts/item_descriptions.py --apply
-```
+`docs/capcom_conflicts.fr.csv` now holds 65 rows, none of them real
+disagreements: 59 are Capcom truncations against the repo's fuller form,
+and 6 are the same thing miscategorised by the comparison (an apostrophe
+splits a word, so « Sphère d'armure dense » does not register as an
+expansion of « Sph. arm. dense »).
 
 ## French accents
 

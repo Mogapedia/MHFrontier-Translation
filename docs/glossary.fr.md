@@ -28,6 +28,27 @@ Casse : règle Capcom/Mogapédia = **majuscule initiale uniquement**,
 comme les noms de lieux. « Fusarbalète léger », jamais « Fusarbalète
 Léger ».
 
+### Pourquoi le vocabulaire récent, et pas celui de l'époque
+
+Une partie du fonds FR de ce dépôt vient des jeux PSP (MHF2 / MHFU) :
+« Pilule armure », « Drogue du démon », « Piège à choc » sont bien du
+Capcom officiel, mais de la génération Freedom. MHF est contemporain de
+ces jeux, ce qui pourrait plaider pour eux.
+
+Ce n'est pas le choix retenu. Ces localisations ont été faites depuis
+l'anglais, dans des délais courts, et sont de qualité nettement
+inférieure aux versions récentes. Coller à l'époque reviendrait à figer
+une traduction moins bonne. **Le vocabulaire courant (Wilds, sinon
+Rise/Sunbreak) l'emporte**, y compris contre un terme d'époque
+authentique.
+
+Un jeu de termes « d'époque » reste envisageable plus tard comme
+**couche nostalgie** optionnelle, en variante — pas comme référence
+principale.
+
+Référence vérifiable : [`capcom_items.fr.csv`](capcom_items.fr.csv)
+(1472 paires JP→FR officielles).
+
 ---
 
 ## 1. Classes d'armes (武器種)
@@ -113,14 +134,14 @@ Capcom FR utilise la forme **Fléau-X** (trait d'union, capitale).
 | 解毒薬 | Antidote | **Antidote** |
 | 栄養剤 | Nutrients | **Nutriments** |
 | 栄養剤グレート | Mega Nutrients | **Méga nutriments** |
-| 強走薬 | Dash Juice | **Boisson tonique** |
-| 強走薬グレート | Mega Dash Juice | **Méga boisson tonique** |
+| 強走薬 | Dash Juice | **Potion vitalité** |
+| 強走薬グレート | Mega Dash Juice | **Potion vitalité+** |
 | クーラードリンク | Cool Drink | **Boisson fraîche** |
 | ホットドリンク | Hot Drink | **Boisson chaude** |
-| 鬼人薬 | Demondrug | **Drogue du démon** |
-| 鬼人薬グレート | Mega Demondrug | **Méga drogue du démon** |
-| 硬化薬 | Armorskin | **Pilule armure** |
-| 硬化薬グレート | Mega Armorskin | **Méga pilule armure** |
+| 鬼人薬 | Demondrug | **Potion du démon** |
+| 鬼人薬グレート | Mega Demondrug | **Potion du démon+** |
+| 硬化薬 | Armorskin | **Potion de pierre** |
+| 硬化薬グレート | Mega Armorskin | **Potion pierre+** |
 | 生肉 | Raw Meat | **Viande crue** |
 | 焼き肉 | Well-done Steak | **Viande grillée** |
 | ペイントボール | Paintball | **Bombe peinture** |
