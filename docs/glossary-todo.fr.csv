@@ -1,0 +1,60 @@
+tier,jp,en_hint,occurrences,fr,note
+A-slot-noun,アーム,arms,5958,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,ガード,guard,4739,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,コート,coat,4444,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,コイル,coil,3818,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,フット,feet,3623,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,メイル,mail,3549,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,スーツ,suit,3093,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,ブーツ,boots,3069,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,ヘッド,head,2992,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,ヘルム,helm,2936,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,キャップ,cap,2269,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,グリーヴ,greaves,2152,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,レジスト,vest,2090,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,ベスト,vest,2017,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,レギンス,leggings,1868,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,フォールド,faulds,1352,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,マスク,mask,1205,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,篭手,kote,938,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,ピアス,piercing,701,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,ベルト,belt,655,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,ウエスト,waist,465,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,ハール,haar,425,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,ハット,hat,408,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+A-slot-noun,バンド,band,188,,"nom de piece; ferme; レジスト et ベスト = tous deux ""vest"" en EN -> a distinguer"
+B-colour,青,,5203,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
+B-colour,赤,,5103,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
+B-colour,白,,4857,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
+B-colour,黒,,3935,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
+B-colour,緑,,1953,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
+B-colour,紫,,1739,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
+B-colour,黄,,1219,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
+B-colour,紅,,1004,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
+B-colour,金,,825,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
+B-colour,茶,,685,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
+B-colour,蒼,,627,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
+B-colour,橙,,475,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
+B-colour,銀,,407,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
+B-colour,桃,,345,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
+B-colour,碧,,135,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
+B-colour,翠,,2,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
+C-tier-marker,Ｆ,,8412,,F (Forward)
+C-tier-marker,HS,,6571,,= 狩護 premium armour
+C-tier-marker,GS,,5787,,= G級狩護
+C-tier-marker,FZ,,5729,,FZ
+C-tier-marker,GP,,5680,,= G級狩護 (variante)
+C-tier-marker,F,,5071,,F (Forward)
+C-tier-marker,HC,,1829,,Hardcore / 剛種
+C-tier-marker,Ｚ,,442,,Z
+D-mhf-mechanic,狩護,HS,19993,,armure premium (kadaka) ajoutee en Forward.5 ; +20 def/piece ; derive des HC
+D-mhf-mechanic,Ｇ級狩護,GS/GP,11467,,stade final des armures premium ; 狩護 + proprietes G
+D-mhf-mechanic,辿異,Zenith,5812,,"Mogapedia = ""Zenith"" (Monstre Zenith / Espece Zenith) - CONFIRME"
+D-mhf-mechanic,装飾品,decoration/jewel,7343,,joyaux sertis ; distinct de 装飾 (ornement descriptif)
+D-mhf-mechanic,至極,Ultimate/Supr.,2560,,"arme/armure de maitrise d'arme : ""X技を極めた者だけが..."""
+D-mhf-mechanic,生産券,Ticket (Tkt),2434,,bon de fabrication ; suffixe systematique de nom d'objet
+D-mhf-mechanic,精錬,smelt/refine,2328,,"distinct de 調合 (=Combiner, deja au glossaire)"
+D-mhf-mechanic,遷悠,Exotic,1213,,遷悠玉=Exotic Gem ; armures a slot de competence ≪遷悠防具：X≫
+D-mhf-mechanic,狩人祭,Hunter Fest,1206,,confirme par server/Erupe/docs/hunting-tournament.md
+D-mhf-mechanic,逸品,fine piece,1973,,"emphatique de description, pas un mecanisme"
+D-mhf-mechanic,秘伝,Secret / Hiden,487,,秘伝書 = Secret Notes Book ; 秘伝の証【序/破/急】
