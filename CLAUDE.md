@@ -70,7 +70,9 @@ scripts/
   resolve_series.py        ← fill the armour series-stem table
   kana.py                  ← katakana → Latin transliteration (etymology restoration)
   fix_accents.py           ← restore French accents / œ ligature in targets
+  item_descriptions.py     ← fill repeated item descriptions from a phrase table
 docs/
+  item_descriptions.fr.csv ← distinct item-description strings → FR
   armor_vocab.fr.json      ← closed vocabularies: slots (+gender), colours, tiers
   armor_series.fr.csv      ← series stem → FR, with `origin` trust level
   capcom_items.fr.csv      ← 1472 official Capcom JP→FR item names
@@ -95,6 +97,30 @@ MHF-exclusive long tail. Its use is **auditing what is already translated**.
   purpose: MHF predates Rise and some choices may be deliberate.
 - **44 `abbreviation`** — Capcom's UI truncations (*Potion ancest.*); the
   fuller repo form is usually preferable.
+
+## Repeated item descriptions
+
+`dat/items/description` is written from a small stock of boilerplate: its
+16696 untranslated rows collapse to 7443 distinct strings, and one string
+("Ｇ級防具を精錬することで作られた装飾品。") accounts for 1952 of them.
+`docs/item_descriptions.fr.csv` holds one row per distinct string; fill `fr`
+and `--apply` writes it everywhere that string occurs.
+
+5838 rows are constant strings and can be translated directly. The other
+10858 contain a katakana run — usually an item or series name that has to be
+resolved before the sentence can be written — and are marked `has_var` and
+left for later.
+
+**Control codes are verified, not trusted.** An entry whose `{j}`, `{cNN}`
+and `{/c}` markers do not match the source exactly is refused and `--apply`
+aborts. A dropped colour span corrupts the rendered text with no
+compile-time warning, so this is the one rule that cannot be left to care.
+
+```bash
+python scripts/item_descriptions.py --emit
+python scripts/item_descriptions.py --report
+python scripts/item_descriptions.py --apply
+```
 
 ## French accents
 
