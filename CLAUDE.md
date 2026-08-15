@@ -69,9 +69,72 @@ scripts/
   armor_names.py           ← deterministic FR armour-name generator
   resolve_series.py        ← fill the armour series-stem table
   kana.py                  ← katakana → Latin transliteration (etymology restoration)
+  fix_accents.py           ← restore French accents / œ ligature in targets
+  item_descriptions.py     ← fill repeated item descriptions from a phrase table
 docs/
+  item_descriptions.fr.csv ← distinct item-description strings → FR
   armor_vocab.fr.json      ← closed vocabularies: slots (+gender), colours, tiers
   armor_series.fr.csv      ← series stem → FR, with `origin` trust level
+  capcom_items.fr.csv      ← 1472 official Capcom JP→FR item names
+  capcom_conflicts.fr.csv  ← where this repo disagrees with Capcom (unresolved)
+```
+
+## Capcom's official French as a reference
+
+`docs/capcom_items.fr.csv` pairs Japanese item names with Capcom's own
+French localisation, taken from the shipped Rise/Sunbreak string tables.
+This is the authority `glossary.fr.md` rule #1 already points at
+("si Capcom a traduit le terme en FR dans un jeu officiel récent, utiliser
+ce terme tel quel"), in a form that can actually be checked against.
+
+It fills almost none of the backlog — MHF's untranslated items are the
+MHF-exclusive long tail. Its use is **auditing what is already translated**.
+`docs/capcom_conflicts.fr.csv` records 202 rows where this repo differs:
+
+- **158 `terminology`** — genuine disagreements (強走薬 is *Boisson tonique*
+  here, *Potion vitalité* for Capcom). Note `glossary.fr.md` §5 currently
+  enshrines several of these against its own rule #1. Left unresolved on
+  purpose: MHF predates Rise and some choices may be deliberate.
+- **44 `abbreviation`** — Capcom's UI truncations (*Potion ancest.*); the
+  fuller repo form is usually preferable.
+
+## Repeated item descriptions
+
+`dat/items/description` is written from a small stock of boilerplate: its
+16696 untranslated rows collapse to 7443 distinct strings, and one string
+("Ｇ級防具を精錬することで作られた装飾品。") accounts for 1952 of them.
+`docs/item_descriptions.fr.csv` holds one row per distinct string; fill `fr`
+and `--apply` writes it everywhere that string occurs.
+
+5838 rows are constant strings and can be translated directly. The other
+10858 contain a katakana run — usually an item or series name that has to be
+resolved before the sentence can be written — and are marked `has_var` and
+left for later.
+
+**Control codes are verified, not trusted.** An entry whose `{j}`, `{cNN}`
+and `{/c}` markers do not match the source exactly is refused and `--apply`
+aborts. A dropped colour span corrupts the rendered text with no
+compile-time warning, so this is the one rule that cannot be left to care.
+
+```bash
+python scripts/item_descriptions.py --emit
+python scripts/item_descriptions.py --report
+python scripts/item_descriptions.py --apply
+```
+
+## French accents
+
+Part of the corpus was seeded from an ASCII-folded binary, so it carried
+`Ecaille`, `Oeuf`, `tenacite`. `scripts/fix_accents.py` restores them, but
+only where the fix is unambiguous: the bare form must not itself be a French
+word, exactly one accented word may fold to it, and proper nouns (armour
+stems, monster names) are excluded. Words with more than one candidate —
+`medaille` (médaille/médaillé), `peche` (pêche/péché) — are reported, never
+guessed.
+
+```bash
+python scripts/fix_accents.py --report
+python scripts/fix_accents.py --apply
 ```
 
 ## Armour names are generated, not translated

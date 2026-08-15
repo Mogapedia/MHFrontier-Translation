@@ -1,0 +1,203 @@
+section,index,jp,repo_fr,capcom_fr,kind
+dat/items/name,28,いにしえの秘薬,Potion ancestrale,Potion ancest.,abbreviation
+dat/items/name,507,とがった爪,Griffe aceree,Griffe acérée,abbreviation
+dat/items/name,196,アオキノコ,Champi bleu,Champignon bleu,abbreviation
+dat/items/name,430,アルビノの中落ち,Os pale,Os pâle,abbreviation
+dat/items/name,311,アルビノエキス,Extrait pale,Extrait pâle,abbreviation
+dat/items/name,45,シビレ生肉,Viande paralysante,Viande paral.,abbreviation
+dat/items/name,242,ドスキレアジ,G.poissaiguiseur,G. poissaiguis.,abbreviation
+dat/items/name,248,ドス大食いマグロ,G.thon glouton,G. thon glouton,abbreviation
+dat/items/name,445,上質なねじれた角,Corne majestueuse,Corne majest.,abbreviation
+dat/items/name,958,上質な毛皮,Pelage de qualité,Pel. de qualité,abbreviation
+dat/items/name,194,厳選キノコ,Champi parfait,Champignon parf.,abbreviation
+dat/items/name,573,古龍の血,Sang drag ancien,Sang dr. ancien,abbreviation
+dat/items/name,955,堅牢な骨,Os resistos,Os résistos,abbreviation
+dat/items/name,14723,天空の龍神玉,Sphere-dragon ciel,Sphère-dragon Ciel,abbreviation
+dat/items/name,435,岩竜の堅殻,Cuirasse Basarios,Cuir. Basarios,abbreviation
+dat/items/name,975,岩竜の涙,Larmes Basarios,Larme Basarios,abbreviation
+dat/items/name,434,岩竜の甲殻,Cara. Basarios,Carap. Basarios,abbreviation
+dat/items/name,666,支給用大タル爆弾,Grd bombe baril X,G. bombe baril X,abbreviation
+dat/items/name,199,毒テングダケ,Champi véneneux,Champi vénéneux,abbreviation
+dat/items/name,26,漢方薬,Remède d'herbes,Remède d'herbe,abbreviation
+dat/items/name,409,火竜の上鱗,Eca. Rathalos+,Éc. Rathalos+,abbreviation
+dat/items/name,413,火竜の堅殻,Cuirasse Rathalos,Cuirasse Ratha.,abbreviation
+dat/items/name,412,火竜の甲殻,Cara. Rathalos,Carap. Rathalos,abbreviation
+dat/items/name,408,火竜の鱗,Eca. Rathalos,Écaille Rathalos,abbreviation
+dat/items/name,193,特産キノコ,Champi spécial,Champignon spéc.,abbreviation
+dat/items/name,233,秘密のポーチ,Poche secrete,Poche secrète,abbreviation
+dat/items/name,446,角竜の甲殻,Cara. Diablos,Carapace Diablos,abbreviation
+dat/items/name,448,角竜の背甲,Vertebre Diablos,Vertèbre Diablos,abbreviation
+dat/items/name,986,轟竜の上鱗,Eca. Tigrex+,Écaille Tigrex+,abbreviation
+dat/items/name,987,轟竜の甲殻,Cara. Tigrex,Carapace Tigrex,abbreviation
+dat/items/name,985,轟竜の鱗,Eca. Tigrex,Écaille Tigrex,abbreviation
+dat/items/name,13041,迅竜の尻尾,Queue Narga,Queue Nargacuga,abbreviation
+dat/items/name,13043,迅竜の鋭刃翼,Rasoir Narga,Rasoir Narga.,abbreviation
+dat/items/name,13044,迅竜の鋭牙,Croc Narga,Croc Nargacuga+,abbreviation
+dat/items/name,524,金獅子の尖爪,Griffe Rajang,Griffe Rajang+,abbreviation
+dat/items/name,521,金獅子の尖角,Corne Rajang,Corne Rajang+,abbreviation
+dat/items/name,522,金獅子の鋭牙,Croc Rajang,Croc Rajang+,abbreviation
+dat/items/name,393,雌火竜の上鱗,Eca. Rathian+,Écaille Rathian+,abbreviation
+dat/items/name,396,雌火竜の甲殻,Cara. Rathian,Carapace Rathian,abbreviation
+dat/items/name,392,雌火竜の鱗,Eca. Rathian,Écaille Rathian,abbreviation
+dat/items/name,12011,雷狼竜の天玉,Celemeraude Zin,Célémeraude Zinogre,abbreviation
+dat/items/name,12006,雷狼竜の尖角,Corne Zinogre,Corne Zinogre+,abbreviation
+dat/items/name,12007,雷狼竜の重殻,Cortex Zino,Cortex Zinogre,abbreviation
+dat/items/name,526,黄金の毛,Peau d'Or Rajang,Peau d'or Rajang,abbreviation
+dat/items/name,122,LV1 回復弾,Mun. Soin Nv1,Guérison,terminology
+dat/items/name,111,LV1 徹甲榴弾,Antibl. Nv1,Antiblindage,terminology
+dat/items/name,114,LV1 拡散弾,Frag Nv1,Fragmentation,terminology
+dat/items/name,108,LV1 散弾,Plomb Nv1,Grenaille,terminology
+dat/items/name,124,LV1 毒弾,Mun. Pois. Nv1,Toxique,terminology
+dat/items/name,128,LV1 睡眠弾,Mun. Som. Nv1,Somnifère,terminology
+dat/items/name,105,LV1 貫通弾,Perç. Nv1,Perforant,terminology
+dat/items/name,102,LV1 通常弾,Norm. Nv1,Normal,terminology
+dat/items/name,126,LV1 麻痺弾,Mun. Para Nv1,Paralysant,terminology
+dat/items/name,123,LV2 回復弾,Mun. Soin Nv2,Guérison II,terminology
+dat/items/name,112,LV2 徹甲榴弾,Antibl. Nv2,Antiblindage II,terminology
+dat/items/name,115,LV2 拡散弾,Frag Nv2,Fragmentation II,terminology
+dat/items/name,109,LV2 散弾,Plomb Nv2,Grenaille II,terminology
+dat/items/name,125,LV2 毒弾,Mun. Pois. Nv2,Toxique II,terminology
+dat/items/name,129,LV2 睡眠弾,Mun. Som. Nv2,Somnifère II,terminology
+dat/items/name,106,LV2 貫通弾,Perç. Nv2,Perforant II,terminology
+dat/items/name,103,LV2 通常弾,Norm. Nv2,Normal II,terminology
+dat/items/name,127,LV2 麻痺弾,Mun. Para Nv2,Paralysant II,terminology
+dat/items/name,113,LV3 徹甲榴弾,Antibl. Nv3,Antiblindage III,terminology
+dat/items/name,116,LV3 拡散弾,Frag Nv3,Fragmen. III,terminology
+dat/items/name,110,LV3 散弾,Plomb Nv3,Grenaille III,terminology
+dat/items/name,107,LV3 貫通弾,Perç. Nv3,Perforant III,terminology
+dat/items/name,104,LV3 通常弾,Norm. Nv3,Normal III,terminology
+dat/items/name,75,こやし玉,Bombe puante,Bombe de bouse,terminology
+dat/items/name,48,こんがり肉,Steak bien cuit,Steak à point,terminology
+dat/items/name,58,こんがり魚,Poisson bien cuit,Poisson gourmet,terminology
+dat/items/name,431,アルビノの霜降り,Steak pale,Viande albinos,terminology
+dat/items/name,340,ガウシカの角,Bois Anteka,Corne Anteka,terminology
+dat/items/name,746,ギルドチケット,Tck Bronze Guilde,Ticket Guilde,terminology
+dat/items/name,85,シビレ罠,Piège à choc,Piège électroch.,terminology
+dat/items/name,88,タルの蓋,Couvercle de baril,Couvercle baril,terminology
+dat/items/name,83,トラップツール,Comp. piège,Kit de piège,terminology
+dat/items/name,187,ネムリ草,Herbe sommeil,Herbe du sommeil,terminology
+dat/items/name,428,ブヨブヨした皮,Peau flasque,Cuir flasque,terminology
+dat/items/name,280,ポポノタン,Langue Popo,Langue de Popo,terminology
+dat/items/name,198,マヒダケ,Champipara,Champaralysie,terminology
+dat/items/name,78,モドリ玉,Sphère de retour,Téléportogène,terminology
+dat/items/name,74,モンスターのフン,Excrément,Bouse,terminology
+dat/items/name,24,モンスターの体液,Fluide de monstre,Liquide monstre,terminology
+dat/items/name,25,モンスターの濃汁,Bouillon de monstre,Bouillon monstre,terminology
+dat/items/name,221,ユニオン鉱石,Minerai union,Fucium,terminology
+dat/items/name,30,元気ドリンコ,Boisson d'énergie,Boisson éner.,terminology
+dat/items/name,6752,凍結袋,Poche permafrost,Poche de glace,terminology
+dat/items/name,36,力の爪,Talon de force,Griffe de force,terminology
+dat/items/name,35,力の護符,Charme de force,Amulette force,terminology
+dat/items/name,744,勇気の証,Mention speciale,Certif. champion,terminology
+dat/items/name,15053,千刃竜の斬刃鱗,Trancheur Sere +,Trancheur Seregios+,terminology
+dat/items/name,15056,千刃竜の斬翼爪,Broyeur Sere +,Broyeur Seregios+,terminology
+dat/items/name,15059,千刃竜の断刀角,Ecarteleur Sere+,Écarteleur Seregios+,terminology
+dat/items/name,15054,千刃竜の破刃,Aerolame Sere +,Aérolame Seregios+,terminology
+dat/items/name,15058,千刃竜の絶槍尾,Empaleur Sere +,Empaleur Seregios+,terminology
+dat/items/name,15057,千刃竜の鏡玉,Écraseur Sere +,Œil Seregios,terminology
+dat/items/name,15055,千刃竜の閃裂爪,Dépeceur Sere +,Dépeceur Seregios+,terminology
+dat/items/name,13060,堅鎧玉,Sph. armure dure,Sph. arm. dense,terminology
+dat/items/name,93,大タル爆弾,Bombe baril G,G. bombe baril,terminology
+dat/items/name,94,大タル爆弾Ｇ,Bombe baril G+,Méga bombe baril,terminology
+dat/items/name,14223,天廻龍の光虹翼,Ailette Shagaru,Ailette S. Magala,terminology
+dat/items/name,14222,天廻龍の剛浄爪,Purifieur Shag,Purif. S. Magala,terminology
+dat/items/name,14226,天廻龍の剛角,Vouge Shagaru,Vouge S. Magala,terminology
+dat/items/name,14220,天廻龍の厚鱗,Éclat Shagaru,Éclat S. Magala,terminology
+dat/items/name,14224,天廻龍の天鱗,Mante Shagaru,Mante S. Magala,terminology
+dat/items/name,14221,天廻龍の重殻,Cortex Shagaru,Cortex S. Magala,terminology
+dat/items/name,14225,天廻龍の靭尾,Fouet Shagaru,Fouet S. Magala,terminology
+dat/items/name,38,守りの爪,Talon d'armure,Griffe défense,terminology
+dat/items/name,37,守りの護符,Charme d'armure,Amulette défense,terminology
+dat/items/name,91,小タル爆弾,Bombe baril P,Bombe baril,terminology
+dat/items/name,13059,尖鎧玉,Sph. armure avc,Sph. arm. acér.,terminology
+dat/items/name,14722,嵐気胞塊,Vésicule temp. +,Vésicule tempête+,terminology
+dat/items/name,14724,嵐龍の凄尾,Fouet Amatsu,Queue-temp Amatsu,terminology
+dat/items/name,137,強撃ビン,Enduit force,Fiole de force,terminology
+dat/items/name,13,強走薬,Boisson tonique,Potion vitalité,terminology
+dat/items/name,207,忍耐の種,Graine de ténacité,Graine ténacité,terminology
+dat/items/name,2041,応急薬グレート,Méga potion X,Premiers soins+,terminology
+dat/items/name,130,捕獲用麻酔弾,Mun. tranq.,Tranquillisant,terminology
+dat/items/name,923,春夜鯉,Carpe printemps,Carpe de print.,terminology
+dat/items/name,77,毒けむり玉,Bombe fum. poison,Bombe de poison,terminology
+dat/items/name,138,毒ビン,Enduit poison,Fiole de poison,terminology
+dat/items/name,44,毒生肉,Viande empoisonnée,Viande poison,terminology
+dat/items/name,118,水冷弾,Mun. Eau,Aquatique,terminology
+dat/items/name,12364,氷牙竜の上毛皮,Peau Barioth +,Pelage Barioth+,terminology
+dat/items/name,12362,氷牙竜の堅殻,Cuirasse Barioth,Carapace Barioth,terminology
+dat/items/name,12368,氷牙竜の尻尾,Queue Barioth +,Queue Barioth,terminology
+dat/items/name,12369,氷牙竜の鋭爪,Griffe Barioth +,Griffe Barioth+,terminology
+dat/items/name,120,氷結弾,Mun. Glace,Cryogénique,terminology
+dat/items/name,79,消臭玉,Désodorisant,Déodorant,terminology
+dat/items/name,121,滅龍弾,Mun. Dragon,Dragon,terminology
+dat/items/name,117,火炎弾,Mun. Feu,Incendiaire,terminology
+dat/items/name,974,火竜の延髄,Trc Cele Wyv. de Feu,Medulla Rath,terminology
+dat/items/name,406,火竜の翼爪,Griffe Wyv. de feu,Serre Rath,terminology
+dat/items/name,407,火竜の骨髄,Moelle Wyv. de feu,Moelle Rath,terminology
+dat/items/name,571,炎龍の塵粉,Poudre drag feu,Poudre Teostra,terminology
+dat/items/name,572,炎龍の宝玉,Joyau drag feu,Joyau Teostra,terminology
+dat/items/name,195,熟成キノコ,Champi ancien,Champi. unique,terminology
+dat/items/name,951,爆炎袋,Sac infernal,Poche infernale,terminology
+dat/items/name,310,狂走エキス,Extrait sprint,Extrait vitalité,terminology
+dat/items/name,950,猛毒袋,Sac de toxine,Poche de toxine,terminology
+dat/items/name,12917,獄炎の厚龍鱗,Éclat Teostra,Éclat infernal,terminology
+dat/items/name,574,獄炎の龍鱗,Écaille dra feu+,Écaille Teostra+,terminology
+dat/items/name,921,獄炎石,Pierre-lave,Pierre de lave,terminology
+dat/items/name,12374,琥珀色の重牙,Def. ambre ldes,Croc lourd d'ambre,terminology
+dat/items/name,12366,琥珀色の鋭牙,Defenses ambre,Croc d'ambre+,terminology
+dat/items/name,13062,真鎧玉,Sph. armure pure,Sphère d'armure pure,terminology
+dat/items/name,140,睡眠ビン,Enduit sommeil,Fiole de sommeil,terminology
+dat/items/name,133,硬化弾,Mun. armure,Peau-de-pierre,terminology
+dat/items/name,18,硬化薬,Pilule armure,Potion de pierre,terminology
+dat/items/name,19,硬化薬グレート,Méga pilule armure,Potion pierre+,terminology
+dat/items/name,136,空きビン,Bouteille vide,Fiole vide,terminology
+dat/items/name,324,竜玉,Pierre de wyverne,Gemme wyverne,terminology
+dat/items/name,313,竜骨【中】,Os de monstre [M],Os monstre (M),terminology
+dat/items/name,314,竜骨【大】,Os de monstre [G],Os monstre (G),terminology
+dat/items/name,312,竜骨【小】,Os de monstre [P],Os monstre (P),terminology
+dat/items/name,596,縞模様の皮,Peau tigree,Cuir rayé,terminology
+dat/items/name,754,肉球のスタンプ,Tampon Empreinte,Pattes-de-chat,terminology
+dat/items/name,182,落陽草,Herbe du soir,Herbe Sansoleil,terminology
+dat/items/name,449,角竜の堅甲,Thorax Diablos,Vertèb. Diablos+,terminology
+dat/items/name,451,角竜の牙,Croc Blos,Croc Diablos,terminology
+dat/items/name,13039,迅竜の上鱗,Écaille Narga,Écaille Narga.+,terminology
+dat/items/name,13040,迅竜の上黒毛,Fourrure Narga,Peau Nargacuga+,terminology
+dat/items/name,13050,迅竜の剛刃翼,Rasoir Narga+,Alfange Nargacuga,terminology
+dat/items/name,13046,迅竜の厚鱗,Écaille Narga+,Éclat Nargacuga,terminology
+dat/items/name,13052,迅竜の天鱗,Medulla Narga,Mante Nargacuga,terminology
+dat/items/name,13042,迅竜の尾棘,Poinqueue Narga,Piqueue Narga.,terminology
+dat/items/name,13045,迅竜の延髄,Moelle Narga,Medulla Narga.,terminology
+dat/items/name,13047,迅竜の豪黒毛,Fourrure Narga+,Fourrure Nargacuga,terminology
+dat/items/name,13049,迅竜の重尾棘,Poinqueue Narga+,Poinqueue Nargacuga,terminology
+dat/items/name,13051,迅竜の重牙,Croc Narga+,Croc lourd Nargacuga,terminology
+dat/items/name,13048,迅竜の靭尾,Queue Narga+,Fouet Nargacuga,terminology
+dat/items/name,13061,重鎧玉,Sph. armure lrde,Sph. arm. lourde,terminology
+dat/items/name,523,金獅子の黒毛,Peau noire Raj.,Four. noire Raj.,terminology
+dat/items/name,12900,鋼の厚龍鱗,Éclat Kushala,Éclat Daora,terminology
+dat/items/name,12902,鋼龍の剛爪,Serre Kushala,Serre Daora,terminology
+dat/items/name,12905,鋼龍の剛翼,Égide Kushala,Égide Daora,terminology
+dat/items/name,12904,鋼龍の剛角,Vouge Kushala,Vouge Daora,terminology
+dat/items/name,12901,鋼龍の重殻,Cortex Kushala,Cortex Daora,terminology
+dat/items/name,12906,鋼龍の靭尾,Fouet Kushala,Fouet Daora,terminology
+dat/items/name,72,閃光玉,Bombe éclair,Bombe flash,terminology
+dat/items/name,399,雌火竜の上棘,Aig. Rathian+,Pointe Rathian+,terminology
+dat/items/name,398,雌火竜の棘,Aig. Rathian,Pointe Rathian,terminology
+dat/items/name,12010,雷狼竜の雷電殻,Carap volt Zin,Électrichoc Zinogre,terminology
+dat/items/name,12008,雷狼竜の雷電毛,Fourr elect Zin,Four. élec. Zin.+,terminology
+dat/items/name,12002,雷狼竜の高電殻,Carap elect Zin,Carap. él. Zin.+,terminology
+dat/items/name,12000,雷狼竜の高電毛,Pelage Zinogre+,Fourr. élec. Zin.,terminology
+dat/items/name,119,電撃弾,Mun. Foudre,Foudre,terminology
+dat/items/name,952,電撃袋,Sac de foudre,Poche de foudre,terminology
+dat/items/name,563,霞龍の尖角,Corne Chameleos+,Pointe Chameleos,terminology
+dat/items/name,12909,霞龍の特上皮,Cuir Chameleos,Cuir fin Chameleos,terminology
+dat/items/name,132,鬼人弾,Mun. démon,Démon,terminology
+dat/items/name,15,鬼人薬,Drogue du démon,Potion du démon,terminology
+dat/items/name,16,鬼人薬グレート,Méga drogue du démon,Potion du démon+,terminology
+dat/items/name,139,麻痺ビン,Enduit para,F. de paralysie,terminology
+dat/items/name,13761,黒蝕竜の剛惨爪,Broyeur Gore,Broyeur G. Magala,terminology
+dat/items/name,13765,黒蝕竜の剛触角,Capteur Gore,Capteur G. Magala,terminology
+dat/items/name,13759,黒蝕竜の厚鱗,Éclat Gore,Éclat G. Magala,terminology
+dat/items/name,13763,黒蝕竜の天鱗,Mante Gore,Mante G. Magala,terminology
+dat/items/name,13762,黒蝕竜の暗黒翼,Eclipse Gore,Éclipse G. Magala,terminology
+dat/items/name,13760,黒蝕竜の重殻,Cortex Gore,Cortex G. Magala,terminology
+dat/items/name,13764,黒蝕竜の靭尾,Fouet Gore,Queue Gore Magala,terminology
+dat/items/name,208,龍殺しの実,Baie draconique,Baie-dragon,terminology

@@ -54,7 +54,7 @@ ETYMOLOGY = {
     # French
     "カーマイン": "Carmin", "クレール": "Clair", "レイジ": "Rage",
     "カオス": "Chaos", "デモン": "Demon", "マリン": "Marin",
-    "バンデ": "Bande", "シェリフ": "Sherif", "シエナ": "Sienne",
+    "バンデ": "Bande", "シェリフ": "Shérif", "シエナ": "Sienne",
     "テクスト": "Texte",
     # Germanic / English
     "ゴルト": "Gold", "ダスク": "Dusk", "アッシュ": "Ash",
