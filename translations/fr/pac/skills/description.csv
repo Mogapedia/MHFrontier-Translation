@@ -55,7 +55,7 @@ index,source,target
 {j}c
 ",
 5,"ac
-{j}{j}{j}{j}{j}昄tからは、
+{j}{j}{j}{j}{j}tからは、
 ミニゲームのゲーム内容や操作の確認
 を行うことはできません。各ゲームの
 受付に話しかけて、ゲームの説明を
@@ -162,7 +162,7 @@ index,source,target
 確認してください）
 {j}$",
 20,"c
-{j} ｺ{j} ｺ{j} ｺ{j}{j}‾ニゲームのゲーム内容や操作の確認
+{j} ｺ{j} ｺ{j} ｺ{j}{j}~ニゲームのゲーム内容や操作の確認
 を行うことはできません。各ゲームの
 受付に話しかけて、ゲームの説明を
 確認してください）
@@ -1004,7 +1004,7 @@ index,source,target
 属性の付いていない武器や、属性の通らない
 肉質に対してダメージを与えた場合には、
 無属性が蓄積されます。
-{j}{j}¥7{j}煦",
+{j}{j}\7{j}煦",
 123,"ac
 {j}`ｺ{j}`ｺ{j}`ｺ{j}{j}ﾃきます。
 
@@ -1154,7 +1154,7 @@ index,source,target
 {j}{j}{j}煦",
 139,"ac
 ",
-140,ﾄ{j}ﾄ{j}ﾄ{j}(�{j}{j}ﾄ{j}>L{j}ｨJ{j}瓖{j}ｴF{j}ｶ@{j}　,
+140,ﾄ{j}ﾄ{j}ﾄ{j}(�{j}{j}ﾄ{j}>L{j}ｨJ{j}{j}ｴF{j}ｶ@{j}　,
 141,OFF{j}90％{j}80％{j}70％{j}60％{j}50％{j}40％{j}30％{j}20％{j}10％{j}0％,
 142,"Ｇ級クエストで得られる素材をメイン
 に多くの素材から生産・強化すること
@@ -1702,7 +1702,7 @@ related information.{j}Renovation of My House.{j}Check information about Goocoos
 Contract expires on logging out.{j}Cancelled contract.{j}You have an existing contract with a player.
 Cancel temporary contract?{j}Contract has been cancelled.{j}Town Gear{j}Quest Gear{j}Sub Menu{j}Edit Comment{j}Change Wallpaper{j}Confirm Rasta{j}Add Friend{j}Invite to Clan{j}Add to Blacklist{j}Hunter Career{j}Equipment Status{j}Battle Results{j}【Results】{j}HS Rank：{j}VS Participation：{j}【Point Info】{j}G C Points　：{j}Tore Points ：{j}N Points　　：{j}【Remaining Uses】{j}Bonus Points　　：{j}Halk Pots　　 　：{j}Daily Quests　　：{j}%d Remaining{j}Ranking  ：{j}Caravan P：{j}Skill Pts Wep Hea Che Arm Wst Leg Cuff All{j}【Active Skill】{j}Skill Info{j}Skill Description{j}【開発用】ダミー０{j}やっとこのことでＧ級になったハンター。そこで待
 ち受けていたのは、更なる狩猟生活であった。
-飽くなき狩猟生活は続く……。頑張れハンター。{j}【開発用】ダミー２{j}１２３４５６７８９拾１２３４５６７８９弐１２３４５６７８９参{j}【開発用】ダミー４{j}【GR1 Path】{j}To G Rank Challenge{j}Beyond the Aurora{j}−−−−−−−−−−{j}【開発用】ダミー９{j}【%s】{j}【Basic Info】{j}G Rank (GR)：{j}Money (Gz)　：{j}【GRP Info】{j}To Next Class ：{j}−−−−−−−−−−{j}Great Arena：{j}Wins{j}{c05}VS Quests  ： {/c}%4d{c05}Win {/c}%4d{c05}Lose{/c}{j}{c05} (Invalid Quests： {/c}%4d{c05}){/c}{j}%d
+飽くなき狩猟生活は続く……。頑張れハンター。{j}【開発用】ダミー２{j}１２３４５６７８９拾１２３４５６７８９弐１２３４５６７８９参{j}【開発用】ダミー４{j}【GR1 Path】{j}To G Rank Challenge{j}Beyond the Aurora{j}－－－－－－－－－－{j}【開発用】ダミー９{j}【%s】{j}【Basic Info】{j}G Rank (GR)：{j}Money (Gz)　：{j}【GRP Info】{j}To Next Class ：{j}－－－－－－－－－－{j}Great Arena：{j}Wins{j}{c05}VS Quests  ： {/c}%4d{c05}Win {/c}%4d{c05}Lose{/c}{j}{c05} (Invalid Quests： {/c}%4d{c05}){/c}{j}%d
 (Next:%d){j}%d
 (Next:%d){j}Caravan Jewel Info：{j}Caravan Skill：{j}Deterioration Time：{j}＜Expired＞{j}Great Arena：　 F　　 W　　 L{j}（Total Time：　　Hrs 　　Min）{j}Great Slay P：{j}Server：{j}Gamer Card{j}Back{j}{c05}GR Suitability Lvl：{/c}　%s{j}None{j}【Conquest Support】{j}About Hybrid Elements{j}Check Hybrid Elements.{j}【Completion Support Effect】{j}【Return World】{j}%04d/%2d/%2d %02d:%02d{j}Extra Rights　　：{j}【Diva Song Effect】{j}【Boost Time】{j}Held Souls ：{j}Total Souls ：{j}Bond Points：{j}Great Caravan ：{j}Tower Survey ：{j}E. Conquest ：{j}Great Slaying ：{j}Bonus Info{j}Back{j}{c05}%-24s：{/c}%d Remaining{j}Koryo Point ：{j}Alias：{j}Title：{j}Combo Display：ON{j}Combo Display：OFF{j}Set the alias.{j}Set the title.{j}ON: Displays Alias & Title together
 OFF: Alias takes priority",

@@ -65,12 +65,6 @@ NAME_SECTIONS = {
     "dat/weapons/melee/name", "dat/weapons/ranged/name",
 }
 
-# The source column was decoded with the wrong Shift-JIS variant: CP932 maps
-# 0x8754-0x875D to Ⅰ-Ⅹ, another table maps them to these rare kanji. The
-# English column kept the right character, so normalise before comparing or
-# every numbered weapon looks like a mismatch.
-MOJIBAKE = {"貤": "Ⅰ", "賖": "Ⅱ", "賕": "Ⅲ", "賙": "Ⅳ",
-            "\U00027DA0": "Ⅴ", "賰": "Ⅵ"}
 HEX_ID = re.compile(r"^[0-9A-Fa-f]{4}・")
 
 # Kana, han and the bracket forms — but NOT ・ (U+30FB) or ー (U+30FC), which
@@ -78,11 +72,6 @@ HEX_ID = re.compile(r"^[0-9A-Fa-f]{4}・")
 # names ("Steel Bow・Armor Piercer").
 CJK_CHAR = re.compile(r"[぀-ゟ゠-ヺ一-鿿：【】]")
 
-
-def demojibake(s):
-    for bad, good in MOJIBAKE.items():
-        s = s.replace(bad, good)
-    return s
 
 
 def has_cjk(s):
@@ -104,8 +93,8 @@ def classify_name(source, target):
     a subset of the ones in its own source; a name belonging to another row
     brings in characters this source never had.
     """
-    src = demojibake(source.strip())
-    tgt = demojibake(target.strip())
+    src = source.strip()
+    tgt = target.strip()
 
     if src in PLACEHOLDER:
         return False, "source is a placeholder"

@@ -30,8 +30,9 @@ Rules when writing to these files:
 - An empty `target` means untranslated. Never copy `source` into `target`.
 - Run `python scripts/validate.py` before committing.
 
-**Required FTH version: ≥ 1.6.0.** Earlier releases do not understand `{j}` or
-`{cNN}`. Importing an index-keyed CSV requires `--xpath` so the importer can
+**Required FTH version: ≥ 1.8.0**, for the CP932 encoding fix (see "What not
+to trust" #3). ≥ 1.6.0 is the floor for understanding `{j}` and `{cNN}`.
+Importing an index-keyed CSV requires `--xpath` so the importer can
 resolve indexes against the live pointer table; here the xpath is implicit in
 the file path (`translations/fr/dat/armors/head.csv` → `dat/armors/head`) and
 `build_bins.py` derives it automatically.
@@ -63,6 +64,7 @@ scripts/
   clean_en_targets.py      ← blank en/ targets that don't translate their source
   migrate_to_index.py      ← one-shot: legacy location-keyed → index-keyed
   migrate_join_markers.py  ← one-shot: <join at="…"> → {j}
+  migrate_cp932.py         ← one-shot: re-decode text extracted as shift_jisx0213
 docs/
   glossary.fr.md           ← canonical FR terms — read before translating
   style.fr.md              ← tone, typography, length, control-code rule
@@ -202,22 +204,15 @@ python scripts/fix_accents.py --apply
 2. **Some `source` rows hold English, not Japanese** (~669 rows across 8
    sections), from the same patched binary. Fixing needs sequence alignment or
    a fresh unpatched JP dump.
-3. **Roman numerals are mojibake in `source`.** CP932 maps `0x8754`–`0x875D`
-   to Ⅰ–Ⅹ, but the extraction used a Shift-JIS table that maps them to rare
-   kanji instead. 10724 rows are affected across both languages:
+3. **Roman numerals were mojibake in `source` — fixed 2026-08.** FTH read game
+   text as `shift_jisx0213`; MHF is CP932. The two diverge in the
+   NEC-selected IBM-extended area, so `0xFA4A`–`0xFA53` (Ⅰ–Ⅹ) decoded as rare
+   kanji and `ダガダイアⅡ` was stored as `ダガダイア賖`. 14766 characters across
+   44 files were migrated by `scripts/migrate_cp932.py`.
 
-   | in `source` | should be | | in `source` | should be |
-   |---|---|---|---|---|
-   | 貤 | Ⅰ | | 𧶠 | Ⅴ |
-   | 賖 | Ⅱ | | 賰 | Ⅵ |
-   | 賕 | Ⅲ | | | |
-   | 賙 | Ⅳ | | | |
-
-   Searching for a weapon by its real name (`ダガダイアⅡ`) will therefore miss.
-   `MOJIBAKE` in `clean_en_targets.py` holds the mapping; `demojibake()`
-   normalises before comparing. The source column is not patched here — the
-   fix belongs upstream in the FTH extraction, and `source` is not edited in
-   this repo.
+   **This needs FTH ≥ 1.8.0.** Re-extracting with an older build reintroduces
+   the mojibake, and importing these CSVs into one will fail: the corrected
+   characters have no encoding under the old codec.
 4. **Placeholder rows**: `0`, `ダミー`, `dummy` are unused pointer-table slots.
    Leave the target empty; they do not render in-game.
 5. **Control-code-only rows** (`{j}`, `{cNN}`) are not translatable alone.

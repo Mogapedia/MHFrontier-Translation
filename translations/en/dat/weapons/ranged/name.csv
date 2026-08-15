@@ -77,18 +77,18 @@ index,source,target
 75,ハニーコーマー,Honeycomber
 76,グラビモスハウル,Gravios Howl
 77,三眼の獅子筒,Golden Lion
-78,ハンターボウ賕,Hunter Bow III
-79,ワイルドボウ賕,Wild Bow III
-80,パワーワイルドボウ賖,Power Wild Bow II
-81,クイーンブラスター賖,Queen Blaster II
-82,ハートショットボウ賖,Heart Shot Bow II
-83,プロミネンスボウ賖,Prominence Bow II
-84,ソニックボウ賕,Sonic Bow III
-85,ブロスホーンボウ賖,Blos Horn Bow II
+78,ハンターボウⅢ,Hunter Bow III
+79,ワイルドボウⅢ,Wild Bow III
+80,パワーワイルドボウⅡ,Power Wild Bow II
+81,クイーンブラスターⅡ,Queen Blaster II
+82,ハートショットボウⅡ,Heart Shot Bow II
+83,プロミネンスボウⅡ,Prominence Bow II
+84,ソニックボウⅢ,Sonic Bow III
+85,ブロスホーンボウⅡ,Blos Horn Bow II
 86,龍弓【山崩】,Dragon Bow【Landslide】
-87,勇気と希望の凄弓賖,Courageous Hope II
+87,勇気と希望の凄弓Ⅱ,Courageous Hope II
 88,龍弓【日輪】,Dragon Bow【Sunflower】
-89,殲滅と破壊の剛弓貤,Annihilation Bow I
+89,殲滅と破壊の剛弓Ⅰ,Annihilation Bow I
 90,勝利と栄光の勇弓,Victory＆Glory Bow
 91,ウラナイランプ,Blessed Lamp
 92,ド【烏】,Raven Do
@@ -106,36 +106,36 @@ index,source,target
 104,キングエビィーガン,King Lobster Gun
 105,ド【狼】,Wolf Do
 106,龍弓【月輪】,Dragon Bow【Full Moon】
-107,パワーハンターボウ賖,Power Hunter Bow II
-108,ハンターボウ貤,Hunter Bow I
-109,ハンターボウ賖,Hunter Bow II
-110,ワイルドボウ貤,Wild Bow I
-111,ワイルドボウ賖,Wild Bow II
-112,パワーワイルドボウ貤,Power Wild Bow I
-113,クイーンブラスター貤,Queen Blaster I
-114,ハートショットボウ貤,Heart Shot Bow I
-115,プロミネンスボウ貤,Prominence Bow I
-116,ソニックボウ貤,Sonic Bow I
-117,ソニックボウ賖,Sonic Bow II
-118,ブロスホーンボウ貤,Blos Horn Bow I
+107,パワーハンターボウⅡ,Power Hunter Bow II
+108,ハンターボウⅠ,Hunter Bow I
+109,ハンターボウⅡ,Hunter Bow II
+110,ワイルドボウⅠ,Wild Bow I
+111,ワイルドボウⅡ,Wild Bow II
+112,パワーワイルドボウⅠ,Power Wild Bow I
+113,クイーンブラスターⅠ,Queen Blaster I
+114,ハートショットボウⅠ,Heart Shot Bow I
+115,プロミネンスボウⅠ,Prominence Bow I
+116,ソニックボウⅠ,Sonic Bow I
+117,ソニックボウⅡ,Sonic Bow II
+118,ブロスホーンボウⅠ,Blos Horn Bow I
 119,龍弓【国崩】,"Dragon Bow ""Uprising"""
-120,勇気と希望の凄弓貤,Courageous Hope I
-121,パワーハンターボウ貤,Power Hunter Bow I
+120,勇気と希望の凄弓Ⅰ,Courageous Hope I
+121,パワーハンターボウⅠ,Power Hunter Bow I
 122,龍頭琴,Dragon Head
 123,マジナイランプ,Magic Lamp
 124,リアル＝ダオラ,Real=Daora
 125,アースイーター,Earth Eater
 126,ヘビィバスタークラブ,Heavy Buster Crab
 127,グラン＝ダオラ,Daora's Grande
-128,ウィングボウ貤,Wing Bow I
-129,ウィングボウ賖,Wing Bow II
-130,ウィングボウ賕,Wing Bow III
-131,ニクスファーボウ貤,Nix Farbow Ⅰ
-132,ニクスファーボウ賖,Nix Farbow ⅠⅠ
+128,ウィングボウⅠ,Wing Bow I
+129,ウィングボウⅡ,Wing Bow II
+130,ウィングボウⅢ,Wing Bow III
+131,ニクスファーボウⅠ,Nix Farbow Ⅰ
+132,ニクスファーボウⅡ,Nix Farbow ⅠⅠ
 133,グラキファーボウ,Icehide Bow
-134,鳥幣弓貤,Kut-Ku Bow Ⅰ
-135,鳥幣弓賖,Kut-Ku Bow Ⅱ
-136,鳥幣弓賕,Kut-Ku Bow Ⅲ
+134,鳥幣弓Ⅰ,Kut-Ku Bow Ⅰ
+135,鳥幣弓Ⅱ,Kut-Ku Bow Ⅱ
+136,鳥幣弓Ⅲ,Kut-Ku Bow Ⅲ
 137,青鳥幣弓,Blue Kut-Ku Bow
 138,ハートレスバンデージ,Heartless Bandage
 139,パワーサンド,Power Sand
@@ -144,10 +144,10 @@ index,source,target
 142,アイススロワー,Icethrower
 143,クイックボウ,Quick Bow
 144,フルフルボウ,Khezu Bow
-145,オオバサミ貤,Oobasami Ⅰ
-146,オオバサミ賖,Oobasami Ⅱ
-147,オオバサミ賕,Oobasami Ⅲ
-148,オオバサミ賙,Oobasami Ⅳ
+145,オオバサミⅠ,Oobasami Ⅰ
+146,オオバサミⅡ,Oobasami Ⅱ
+147,オオバサミⅢ,Oobasami Ⅲ
+148,オオバサミⅣ,Oobasami Ⅳ
 149,ダミー（ＬＢ）,
 150,アイルーラグドール,Felyne Ragdoll
 151,メラルーラグドール,Melynx Ragdoll
@@ -159,32 +159,32 @@ index,source,target
 157,ナナ＝アズールカノン,Lunastra's Azul Cannon
 158,テオ＝アーティレリ,Teostra's Artillery
 159,ナナホシ天砲,Seven Stars
-160,ハンターボウ賙,Hunter Bow Ⅳ
-161,ワイルドボウ賙,Wild Bow Ⅳ
-162,パワーハンターボウ賕,Power Hunter Bow Ⅲ
-163,クイーンブラスター賕,Queen Blaster Ⅲ
-164,プロミネンスボウ賕,Prominence Bow Ⅲ
+160,ハンターボウⅣ,Hunter Bow Ⅳ
+161,ワイルドボウⅣ,Wild Bow Ⅳ
+162,パワーハンターボウⅢ,Power Hunter Bow Ⅲ
+163,クイーンブラスターⅢ,Queen Blaster Ⅲ
+164,プロミネンスボウⅢ,Prominence Bow Ⅲ
 165,テオ＝フランマルス,Teostra's Flames
 166,レックスタンク,Tigrex Tank
 167,轟弩【戦虎】,Tigrex Wargun
 168,レックスハウル,Tigrex Howl
 169,ダミー(ＨＢ),
 170,轟砲【虎頭】,Tigrex Skull
-171,ティガアロー貤,Tigre Arrow Ⅰ
-172,ティガアロー賖,Tigre Arrow Ⅱ
+171,ティガアローⅠ,Tigre Arrow Ⅰ
+172,ティガアローⅡ,Tigre Arrow Ⅱ
 173,覇弓レラカムトルム,Bow of the Wind God
-174,ソニックボウ賙,Sonic Bow Ⅳ
+174,ソニックボウⅣ,Sonic Bow Ⅳ
 175,タツジンボウガン改,Expert Bowgun+
 176,ブリリアントボウ,Brilliant Bow
-177,スティールレイヴン貤,Steel Raven Ⅰ
+177,スティールレイヴンⅠ,Steel Raven Ⅰ
 178,イーオスマッシュ,Eos Mash
-179,スティールレイヴン賖,Steel Raven Ⅱ
-180,スティールレイヴン賕,Steel Raven Ⅲ
+179,スティールレイヴンⅡ,Steel Raven Ⅱ
+180,スティールレイヴンⅢ,Steel Raven Ⅲ
 181,老山龍砲・天,Heaven Lao-Shan Cannon
 182,老山龍砲・地,Earth Lao-Shan Cannon
-183,ソニックボウ𧶠,Sonic Bow Ⅴ
-184,オオバサミ𧶠,Mackerel V
-185,パワーワイルドボウ賕,Power Wild Bow Ⅲ
+183,ソニックボウⅤ,Sonic Bow Ⅴ
+184,オオバサミⅤ,Mackerel V
+185,パワーワイルドボウⅢ,Power Wild Bow Ⅲ
 186,ホワイトクレイドル,White Cradle
 187,ホワイトクレセント,White Crescent
 188,ローゼンクーゲル,Rosen Kugel
@@ -200,8 +200,8 @@ index,source,target
 198,鉄火ガン,Iron Fire Gun
 199,激流弓【海坊主】,"Torrent Bow ""Umibozu"""
 200,清流弓【人魚姫】,"Stream Bow ""Mermaid"""
-201,フルフルボウ賖,Khezu Bow Ⅱ
-202,フルフルボウ賕,Khezu Bow Ⅲ
+201,フルフルボウⅡ,Khezu Bow Ⅱ
+202,フルフルボウⅢ,Khezu Bow Ⅲ
 203,マントルイーターSP,Mantle Eater SP
 204,ムーンバスターSP,Moon Buster SP
 205,バスターカンセSP,Bustercanse SP
@@ -212,7 +212,7 @@ index,source,target
 210,グリーンパラソルSP,Green Parasol SP
 211,カイデンボウガン,Kaiden Bowgun
 212,蒼鳥幣弓,Blue Kut-Ku Coin Bow
-213,パワーハンターボウ賙,Power Hunter Bow IV
+213,パワーハンターボウⅣ,Power Hunter Bow IV
 214,神龍弓【日蝕】,"Dragon Bow ""Eclipse"""
 215,ガノスビロー,Plesioth Subillo
 216,ナナ＝アズールミシル,Lunastra's Azul Missile
@@ -227,11 +227,11 @@ index,source,target
 225,キャノンボウガンSP,Cannon Bowgun SP
 226,きんねこじゅうSP,Kinnekoju SP
 227,ラピードボウ,Rapid Bow
-228,スティールレイヴン賙,Steel Raven Ⅳ
-229,スティールパッファ貤,Steel Puffer Ⅰ
-230,スティールパッファ賖,Steel Puffer Ⅱ
-231,スティールパッファ賕,Steel Puffer Ⅲ
-232,スティールパッファ賙,Steel Puffer Ⅳ
+228,スティールレイヴンⅣ,Steel Raven Ⅳ
+229,スティールパッファⅠ,Steel Puffer Ⅰ
+230,スティールパッファⅡ,Steel Puffer Ⅱ
+231,スティールパッファⅢ,Steel Puffer Ⅲ
+232,スティールパッファⅣ,Steel Puffer Ⅳ
 233,メタルフレーム,Metal Frame
 234,アイスストーム,Ice Storm
 235,マイティキャスト,Mighty Cast
@@ -244,9 +244,9 @@ index,source,target
 242,カクトスイェーガー,Kaktus Jaeger
 243,黒塊弓,Black Block bow
 244,黒塊破弓,Black Block Broken Bow
-245,フルフルボウ賙,Khezu Bow Ⅳ
-246,オオバサミ賰,Mackerel Ⅵ
-247,ソニックボウ賰,Sonic Bow Ⅵ
+245,フルフルボウⅣ,Khezu Bow Ⅳ
+246,オオバサミⅥ,Mackerel Ⅵ
+247,ソニックボウⅥ,Sonic Bow Ⅵ
 248,カクトスボーゲン,Kaktus Bogen
 249,カクトスラケーテ,Kaktus Rakete
 250,クリムゾンデビルSP,Crimson Devil SP
@@ -260,8 +260,8 @@ index,source,target
 258,ギアノスマッシュ,Gia Smash
 259,カウチュアルク,Kautschuk
 260,カウチュクロワッサン,Elastikautschuk
-261,フルフルボウ𧶠,Khezu Bow V
-262,クイーンブラスター賙,Queen Blaster IV
+261,フルフルボウⅤ,Khezu Bow V
+262,クイーンブラスターⅣ,Queen Blaster IV
 263,ナナホシ怒砲SP,Raging Ladybug Gun SP
 264,レックスブラスターSP,Rex Blaster SP
 265,クックロアSP,Kut-Ku Roar
@@ -272,16 +272,16 @@ index,source,target
 270,ジェビアガン,Jebia Gun
 271,ジェビアファイア,Jebia Fire
 272,ワイルドファンガス,Wild Fungus
-273,スティールキリー貤,Steel Killi Ⅰ
-274,スティールキリー賖,Steel Killi Ⅱ
-275,スティールキリー賕,Steel Killi Ⅳ
-276,スティールキリー賙,Steel Killi Ⅳ
-277,ＶＬＳ−０２３３,VLS-0233
+273,スティールキリーⅠ,Steel Killi Ⅰ
+274,スティールキリーⅡ,Steel Killi Ⅱ
+275,スティールキリーⅢ,Steel Killi Ⅳ
+276,スティールキリーⅣ,Steel Killi Ⅳ
+277,ＶＬＳ－０２３３,VLS-0233
 278,カクトスズィッヘル,Kaktus Sichel
-279,シスネ＝ダオラ貤,Daora's Cisne Ⅰ
-280,シスネ＝ダオラ賖,Daora's Cisne Ⅱ
-281,プロミネンスボウ賙,Prominence Bow IV
-282,ティガアロー賕,Tigre Arrow III
+279,シスネ＝ダオラⅠ,Daora's Cisne Ⅰ
+280,シスネ＝ダオラⅡ,Daora's Cisne Ⅱ
+281,プロミネンスボウⅣ,Prominence Bow IV
+282,ティガアローⅢ,Tigre Arrow III
 283,アルギュ＝ダオラSP,Daora's Argen SP
 284,ラヴァタイラントSP,Lava Tyrant SP
 285,ナムアミランプSP,Living Lamp SP
@@ -296,9 +296,9 @@ index,source,target
 294,舞雷弓【千鶴】,Crane Thunderdance Bow
 295,真舞雷弓【紅鶴】,Flamingo Thunder Bow
 296,バール＝ダオラ,Daora's Vale
-297,キャラバンガン貤,Caravan Gun I
-298,キャラバンガン賖,Caravan Gun II
-299,キャラバンガン賕,Caravan Gun III
+297,キャラバンガンⅠ,Caravan Gun I
+298,キャラバンガンⅡ,Caravan Gun II
+299,キャラバンガンⅢ,Caravan Gun III
 300,ダミー(弓),
 301,真冥雷獄銃【鶫】,True Thrush Darkbolt Gun
 302,真冥雷獄銃【斑鳩】,True Dove Darkbolt Gun
@@ -349,146 +349,146 @@ index,source,target
 347,ダミー(弓),
 348,ダミー(弓),
 349,ダミー(弓),
-350,コケバサミSP貤,Moss Scissors SPⅠ
-351,コケバサミSP賖,Moss Scissors SPⅡ
-352,コケバサミSP賕,Moss Scissors SPⅢ
-353,コケバサミSP賙,Moss Scissors SPⅣ
-354,コケバサミSP𧶠,Moss Scissors SPⅤ
-355,コケバサミSP賰,Moss Scissors SPⅥ
-356,コケバサミSP賱,Moss Scissors SPⅦ
-357,モーヴブラスターSP貤,Mauve Blaster SPⅠ
-358,モーヴブラスターSP賖,Mauve Blaster SPⅡ
-359,モーヴブラスターSP賕,Mauve Blaster SPⅢ
-360,モーヴブラスターSP賙,Mauve Blaster SPⅣ
-361,モーヴブラスターSP𧶠,Mauve Blaster SPⅤ
-362,モーヴブラスターSP賰,Mauve Blaster SPⅥ
-363,モーヴブラスターSP賱,Mauve Blaster SPⅦ
-364,Ｐ・マスターボウSP貤,P.Master Bow SPⅠ
-365,Ｐ・マスターボウSP賖,P.Master Bow SPⅡ
-366,Ｐ・マスターボウSP賕,P.Master Bow SPⅢ
-367,Ｐ・マスターボウSP賙,P.Master Bow SPⅣ
-368,Ｐ・マスターボウSP𧶠,P.Master Bow SPⅤ
-369,Ｐ・マスターボウSP賰,P.Master Bow SPⅥ
-370,Ｐ・マスターボウSP賱,P.Master Bow SPⅦ
-371,ダークフルボウSP貤,Dark Full Bow SPⅠ
-372,ダークフルボウSP賖,Dark Full Bow SPⅡ
-373,ダークフルボウSP賕,Dark Full Bow SPⅢ
-374,ダークフルボウSP賙,Dark Full Bow SPⅣ
-375,ダークフルボウSP𧶠,Dark Full Bow SPⅤ
-376,ダークフルボウSP賰,Dark Full Bow SPⅥ
-377,ダークフルボウSP賱,Dark Full Bow SPⅦ
-378,ロングホーンボウSP貤,Long Horn Bow SPⅠ
-379,ロングホーンボウSP賖,Long Horn Bow SPⅡ
-380,ロングホーンボウSP賕,Long Horn Bow SPⅢ
-381,ロングホーンボウSP賙,Long Horn Bow SPⅣ
-382,ロングホーンボウSP𧶠,Long Horn Bow SPⅤ
-383,ロングホーンボウSP賰,Long Horn Bow SPⅥ
-384,ロングホーンボウSP賱,Long Horn Bow SPⅦ
-385,フリーゾンボウSP貤,Freezon Bow SPⅠ
-386,フリーゾンボウSP賖,Freezon Bow SPⅡ
-387,フリーゾンボウSP賕,Freezon Bow SPⅢ
-388,フリーゾンボウSP賙,Freezon Bow SPⅣ
-389,フリーゾンボウSP𧶠,Freezon Bow SPⅤ
-390,フリーゾンボウSP賰,Freezon Bow SPⅥ
-391,フリーゾンボウSP賱,Freezon Bow SPⅦ
-392,龍魂琴SP貤,Dragonsoul Bow SPⅠ
-393,龍魂琴SP賖,Dragonsoul Bow SPⅡ
-394,龍魂琴SP賕,Dragonsoul Bow SPⅢ
-395,龍魂琴SP賙,Dragonsoul Bow SPⅣ
-396,龍魂琴SP𧶠,Dragonsoul Bow SPⅤ
-397,龍魂琴SP賰,Dragonsoul Bow SPⅥ
-398,龍魂琴SP賱,Dragonsoul Bow SPⅦ
-399,フレイムビートSP貤,Flame Beat SP Ⅰ
-400,フレイムビートSP賖,Flame Beat SP Ⅱ
-401,フレイムビートSP賕,Flame Beat SP Ⅲ
-402,フレイムビートSP賙,Flame Beat SP Ⅳ
-403,フレイムビートSP𧶠,Flame Beat SP Ⅴ
-404,フレイムビートSP賰,Flame Beat SP Ⅵ
-405,フレイムビートSP賱,Flame Beat SP Ⅶ
-406,アクアフェザーSP貤,Aqua Feather SP Ⅰ
-407,アクアフェザーSP賖,Aqua Feather SP Ⅱ
-408,アクアフェザーSP賕,Aqua Feather SP Ⅲ
-409,アクアフェザーSP賙,Aqua Feather SP Ⅳ
-410,アクアフェザーSP𧶠,Aqua Feather SP Ⅴ
-411,アクアフェザーSP賰,Aqua Feather SP Ⅵ
-412,アクアフェザーSP賱,Aqua Feather SP Ⅶ
-413,黒鳥幣弓SP貤,Black Swan Gift SPⅠ
-414,黒鳥幣弓SP賖,Black Swan Gift SPⅡ
-415,黒鳥幣弓SP賕,Black Swan Gift SPⅢ
-416,黒鳥幣弓SP賙,Black Swan Gift SPⅣ
-417,黒鳥幣弓SP𧶠,Black Swan Gift SPⅤ
-418,黒鳥幣弓SP賰,Black Swan Gift SPⅥ
-419,黒鳥幣弓SP賱,Black Swan Gift SPⅦ
-420,止水弓SP貤,Still Water Bow SPⅠ
-421,止水弓SP賖,Still Water Bow SPⅡ
-422,止水弓SP賕,Still Water Bow SPⅢ
-423,止水弓SP賙,Still Water Bow SPⅣ
-424,止水弓SP𧶠,Still Water Bow SPⅤ
-425,止水弓SP賰,Still Water Bow SPⅥ
-426,止水弓SP賱,Still Water Bow SPⅦ
-427,ティガストリームSP貤,Tigre Stream SPⅠ
-428,ティガストリームSP賖,Tigre Stream SPⅡ
-429,ティガストリームSP賕,Tigre Stream SPⅢ
-430,ティガストリームSP賙,Tigre Stream SPⅣ
-431,ティガストリームSP𧶠,Tigre Stream SPⅤ
-432,ティガストリームSP賰,Tigre Stream SPⅥ
-433,ティガストリームSP賱,Tigre Stream SPⅦ
-434,ジェネレーターSP貤,Generator SPⅠ
-435,ジェネレーターSP賖,Generator SPⅡ
-436,ジェネレーターSP賕,Generator SPⅢ
-437,ジェネレーターSP賙,Generator SPⅣ
-438,ジェネレーターSP𧶠,Generator SPⅤ
-439,ジェネレーターSP賰,Generator SPⅥ
-440,ジェネレーターSP賱,Generator SPⅦ
-441,ブラックボーゲンSP貤,Black Bogen SPⅠ
-442,ブラックボーゲンSP賖,Black Bogen SPⅡ
-443,ブラックボーゲンSP賕,Black Bogen SPⅢ
-444,ブラックボーゲンSP賙,Black Bogen SPⅣ
-445,ブラックボーゲンSP𧶠,Black Bogen SPⅤ
-446,ブラックボーゲンSP賰,Black Bogen SPⅥ
-447,ブラックボーゲンSP賱,Black Bogen SPⅦ
-448,龍弓【陸崩】SP貤,Dragon Landslide Bow SPⅠ
-449,龍弓【陸崩】SP賖,Dragon Landslide Bow SPⅡ
-450,龍弓【陸崩】SP賕,Dragon Landslide Bow SPⅢ
-451,龍弓【陸崩】SP賙,Dragon Landslide Bow SPⅣ
-452,龍弓【陸崩】SP𧶠,Dragon Landslide Bow SPⅤ
-453,龍弓【陸崩】SP賰,Dragon Landslide Bow SPⅥ
-454,龍弓【陸崩】SP賱,Dragon Landslide Bow SPⅦ
-455,フェニックスロアSP貤,Phoenix Roar SPⅠ
-456,フェニックスロアSP賖,Phoenix Roar SPⅡ
-457,フェニックスロアSP賕,Phoenix Roar SPⅢ
-458,フェニックスロアSP賙,Phoenix Roar SPⅣ
-459,フェニックスロアSP𧶠,Phoenix Roar SPⅤ
-460,フェニックスロアSP賰,Phoenix Roar SPⅥ
-461,フェニックスロアSP賱,Phoenix Roar SPⅦ
-462,神龍弓【月蝕】SP貤,"Drgn God Bow""Eclipse""SPⅠ"
-463,神龍弓【月蝕】SP賖,"Drgn God Bow""Eclipse""SPⅡ"
-464,神龍弓【月蝕】SP賕,"Drgn God Bow""Eclipse""SPⅢ"
-465,神龍弓【月蝕】SP賙,"Drgn God Bow""Eclipse""SPⅣ"
-466,神龍弓【月蝕】SP𧶠,"Drgn God Bow""Eclipse""SPⅤ"
-467,神龍弓【月蝕】SP賰,"Drgn God Bow""Eclipse""SPⅥ"
-468,神龍弓【月蝕】SP賱,"Drgn God Bow""Eclipse""SPⅦ"
-469,ベルクシューターSP貤,Berg Shooter SPⅠ
-470,ベルクシューターSP賖,Berg Shooter SPⅡ
-471,ベルクシューターSP賕,Berg Shooter SPⅢ
-472,ベルクシューターSP賙,Berg Shooter SPⅣ
-473,ベルクシューターSP𧶠,Berg Shooter SPⅤ
-474,ベルクシューターSP賰,Berg Shooter SPⅥ
-475,ベルクシューターSP賱,Berg Shooter SPⅦ
-476,巨蟹弓SP貤,Cancer Bow SPⅠ
-477,巨蟹弓SP賖,Cancer Bow SPⅡ
-478,巨蟹弓SP賕,Cancer Bow SPⅢ
-479,巨蟹弓SP賙,Cancer Bow SPⅣ
-480,巨蟹弓SP𧶠,Cancer Bow SPⅤ
-481,巨蟹弓SP賰,Cancer Bow SPⅥ
-482,巨蟹弓SP賱,Cancer Bow SPⅦ
-483,緑塊弓SP貤,Jade Bow SPⅠ
-484,緑塊弓SP賖,Jade Bow SPⅡ
-485,緑塊弓SP賕,Jade Bow SPⅢ
-486,緑塊弓SP賙,Jade Bow SPⅣ
-487,緑塊弓SP𧶠,Jade Bow SPⅤ
-488,緑塊弓SP賰,Jade Bow SPⅥ
-489,緑塊弓SP賱,Jade Bow SPⅦ
+350,コケバサミSPⅠ,Moss Scissors SPⅠ
+351,コケバサミSPⅡ,Moss Scissors SPⅡ
+352,コケバサミSPⅢ,Moss Scissors SPⅢ
+353,コケバサミSPⅣ,Moss Scissors SPⅣ
+354,コケバサミSPⅤ,Moss Scissors SPⅤ
+355,コケバサミSPⅥ,Moss Scissors SPⅥ
+356,コケバサミSPⅦ,Moss Scissors SPⅦ
+357,モーヴブラスターSPⅠ,Mauve Blaster SPⅠ
+358,モーヴブラスターSPⅡ,Mauve Blaster SPⅡ
+359,モーヴブラスターSPⅢ,Mauve Blaster SPⅢ
+360,モーヴブラスターSPⅣ,Mauve Blaster SPⅣ
+361,モーヴブラスターSPⅤ,Mauve Blaster SPⅤ
+362,モーヴブラスターSPⅥ,Mauve Blaster SPⅥ
+363,モーヴブラスターSPⅦ,Mauve Blaster SPⅦ
+364,Ｐ・マスターボウSPⅠ,P.Master Bow SPⅠ
+365,Ｐ・マスターボウSPⅡ,P.Master Bow SPⅡ
+366,Ｐ・マスターボウSPⅢ,P.Master Bow SPⅢ
+367,Ｐ・マスターボウSPⅣ,P.Master Bow SPⅣ
+368,Ｐ・マスターボウSPⅤ,P.Master Bow SPⅤ
+369,Ｐ・マスターボウSPⅥ,P.Master Bow SPⅥ
+370,Ｐ・マスターボウSPⅦ,P.Master Bow SPⅦ
+371,ダークフルボウSPⅠ,Dark Full Bow SPⅠ
+372,ダークフルボウSPⅡ,Dark Full Bow SPⅡ
+373,ダークフルボウSPⅢ,Dark Full Bow SPⅢ
+374,ダークフルボウSPⅣ,Dark Full Bow SPⅣ
+375,ダークフルボウSPⅤ,Dark Full Bow SPⅤ
+376,ダークフルボウSPⅥ,Dark Full Bow SPⅥ
+377,ダークフルボウSPⅦ,Dark Full Bow SPⅦ
+378,ロングホーンボウSPⅠ,Long Horn Bow SPⅠ
+379,ロングホーンボウSPⅡ,Long Horn Bow SPⅡ
+380,ロングホーンボウSPⅢ,Long Horn Bow SPⅢ
+381,ロングホーンボウSPⅣ,Long Horn Bow SPⅣ
+382,ロングホーンボウSPⅤ,Long Horn Bow SPⅤ
+383,ロングホーンボウSPⅥ,Long Horn Bow SPⅥ
+384,ロングホーンボウSPⅦ,Long Horn Bow SPⅦ
+385,フリーゾンボウSPⅠ,Freezon Bow SPⅠ
+386,フリーゾンボウSPⅡ,Freezon Bow SPⅡ
+387,フリーゾンボウSPⅢ,Freezon Bow SPⅢ
+388,フリーゾンボウSPⅣ,Freezon Bow SPⅣ
+389,フリーゾンボウSPⅤ,Freezon Bow SPⅤ
+390,フリーゾンボウSPⅥ,Freezon Bow SPⅥ
+391,フリーゾンボウSPⅦ,Freezon Bow SPⅦ
+392,龍魂琴SPⅠ,Dragonsoul Bow SPⅠ
+393,龍魂琴SPⅡ,Dragonsoul Bow SPⅡ
+394,龍魂琴SPⅢ,Dragonsoul Bow SPⅢ
+395,龍魂琴SPⅣ,Dragonsoul Bow SPⅣ
+396,龍魂琴SPⅤ,Dragonsoul Bow SPⅤ
+397,龍魂琴SPⅥ,Dragonsoul Bow SPⅥ
+398,龍魂琴SPⅦ,Dragonsoul Bow SPⅦ
+399,フレイムビートSPⅠ,Flame Beat SP Ⅰ
+400,フレイムビートSPⅡ,Flame Beat SP Ⅱ
+401,フレイムビートSPⅢ,Flame Beat SP Ⅲ
+402,フレイムビートSPⅣ,Flame Beat SP Ⅳ
+403,フレイムビートSPⅤ,Flame Beat SP Ⅴ
+404,フレイムビートSPⅥ,Flame Beat SP Ⅵ
+405,フレイムビートSPⅦ,Flame Beat SP Ⅶ
+406,アクアフェザーSPⅠ,Aqua Feather SP Ⅰ
+407,アクアフェザーSPⅡ,Aqua Feather SP Ⅱ
+408,アクアフェザーSPⅢ,Aqua Feather SP Ⅲ
+409,アクアフェザーSPⅣ,Aqua Feather SP Ⅳ
+410,アクアフェザーSPⅤ,Aqua Feather SP Ⅴ
+411,アクアフェザーSPⅥ,Aqua Feather SP Ⅵ
+412,アクアフェザーSPⅦ,Aqua Feather SP Ⅶ
+413,黒鳥幣弓SPⅠ,Black Swan Gift SPⅠ
+414,黒鳥幣弓SPⅡ,Black Swan Gift SPⅡ
+415,黒鳥幣弓SPⅢ,Black Swan Gift SPⅢ
+416,黒鳥幣弓SPⅣ,Black Swan Gift SPⅣ
+417,黒鳥幣弓SPⅤ,Black Swan Gift SPⅤ
+418,黒鳥幣弓SPⅥ,Black Swan Gift SPⅥ
+419,黒鳥幣弓SPⅦ,Black Swan Gift SPⅦ
+420,止水弓SPⅠ,Still Water Bow SPⅠ
+421,止水弓SPⅡ,Still Water Bow SPⅡ
+422,止水弓SPⅢ,Still Water Bow SPⅢ
+423,止水弓SPⅣ,Still Water Bow SPⅣ
+424,止水弓SPⅤ,Still Water Bow SPⅤ
+425,止水弓SPⅥ,Still Water Bow SPⅥ
+426,止水弓SPⅦ,Still Water Bow SPⅦ
+427,ティガストリームSPⅠ,Tigre Stream SPⅠ
+428,ティガストリームSPⅡ,Tigre Stream SPⅡ
+429,ティガストリームSPⅢ,Tigre Stream SPⅢ
+430,ティガストリームSPⅣ,Tigre Stream SPⅣ
+431,ティガストリームSPⅤ,Tigre Stream SPⅤ
+432,ティガストリームSPⅥ,Tigre Stream SPⅥ
+433,ティガストリームSPⅦ,Tigre Stream SPⅦ
+434,ジェネレーターSPⅠ,Generator SPⅠ
+435,ジェネレーターSPⅡ,Generator SPⅡ
+436,ジェネレーターSPⅢ,Generator SPⅢ
+437,ジェネレーターSPⅣ,Generator SPⅣ
+438,ジェネレーターSPⅤ,Generator SPⅤ
+439,ジェネレーターSPⅥ,Generator SPⅥ
+440,ジェネレーターSPⅦ,Generator SPⅦ
+441,ブラックボーゲンSPⅠ,Black Bogen SPⅠ
+442,ブラックボーゲンSPⅡ,Black Bogen SPⅡ
+443,ブラックボーゲンSPⅢ,Black Bogen SPⅢ
+444,ブラックボーゲンSPⅣ,Black Bogen SPⅣ
+445,ブラックボーゲンSPⅤ,Black Bogen SPⅤ
+446,ブラックボーゲンSPⅥ,Black Bogen SPⅥ
+447,ブラックボーゲンSPⅦ,Black Bogen SPⅦ
+448,龍弓【陸崩】SPⅠ,Dragon Landslide Bow SPⅠ
+449,龍弓【陸崩】SPⅡ,Dragon Landslide Bow SPⅡ
+450,龍弓【陸崩】SPⅢ,Dragon Landslide Bow SPⅢ
+451,龍弓【陸崩】SPⅣ,Dragon Landslide Bow SPⅣ
+452,龍弓【陸崩】SPⅤ,Dragon Landslide Bow SPⅤ
+453,龍弓【陸崩】SPⅥ,Dragon Landslide Bow SPⅥ
+454,龍弓【陸崩】SPⅦ,Dragon Landslide Bow SPⅦ
+455,フェニックスロアSPⅠ,Phoenix Roar SPⅠ
+456,フェニックスロアSPⅡ,Phoenix Roar SPⅡ
+457,フェニックスロアSPⅢ,Phoenix Roar SPⅢ
+458,フェニックスロアSPⅣ,Phoenix Roar SPⅣ
+459,フェニックスロアSPⅤ,Phoenix Roar SPⅤ
+460,フェニックスロアSPⅥ,Phoenix Roar SPⅥ
+461,フェニックスロアSPⅦ,Phoenix Roar SPⅦ
+462,神龍弓【月蝕】SPⅠ,"Drgn God Bow""Eclipse""SPⅠ"
+463,神龍弓【月蝕】SPⅡ,"Drgn God Bow""Eclipse""SPⅡ"
+464,神龍弓【月蝕】SPⅢ,"Drgn God Bow""Eclipse""SPⅢ"
+465,神龍弓【月蝕】SPⅣ,"Drgn God Bow""Eclipse""SPⅣ"
+466,神龍弓【月蝕】SPⅤ,"Drgn God Bow""Eclipse""SPⅤ"
+467,神龍弓【月蝕】SPⅥ,"Drgn God Bow""Eclipse""SPⅥ"
+468,神龍弓【月蝕】SPⅦ,"Drgn God Bow""Eclipse""SPⅦ"
+469,ベルクシューターSPⅠ,Berg Shooter SPⅠ
+470,ベルクシューターSPⅡ,Berg Shooter SPⅡ
+471,ベルクシューターSPⅢ,Berg Shooter SPⅢ
+472,ベルクシューターSPⅣ,Berg Shooter SPⅣ
+473,ベルクシューターSPⅤ,Berg Shooter SPⅤ
+474,ベルクシューターSPⅥ,Berg Shooter SPⅥ
+475,ベルクシューターSPⅦ,Berg Shooter SPⅦ
+476,巨蟹弓SPⅠ,Cancer Bow SPⅠ
+477,巨蟹弓SPⅡ,Cancer Bow SPⅡ
+478,巨蟹弓SPⅢ,Cancer Bow SPⅢ
+479,巨蟹弓SPⅣ,Cancer Bow SPⅣ
+480,巨蟹弓SPⅤ,Cancer Bow SPⅤ
+481,巨蟹弓SPⅥ,Cancer Bow SPⅥ
+482,巨蟹弓SPⅦ,Cancer Bow SPⅦ
+483,緑塊弓SPⅠ,Jade Bow SPⅠ
+484,緑塊弓SPⅡ,Jade Bow SPⅡ
+485,緑塊弓SPⅢ,Jade Bow SPⅢ
+486,緑塊弓SPⅣ,Jade Bow SPⅣ
+487,緑塊弓SPⅤ,Jade Bow SPⅤ
+488,緑塊弓SPⅥ,Jade Bow SPⅥ
+489,緑塊弓SPⅦ,Jade Bow SPⅦ
 490,ダミー(弓),
 491,ダミー(弓),
 492,ダミー(弓),
@@ -649,9 +649,9 @@ index,source,target
 647,ダミー(弓),
 648,ダミー(弓),
 649,ダミー(弓),
-650,ぱらちゃんガン貤,Parachan Bow Ⅰ
-651,ぱらちゃんガン賖,Parachan Bow Ⅱ
-652,ぱらちゃんガン賕,Parachan Bow Ⅲ
+650,ぱらちゃんガンⅠ,Parachan Bow Ⅰ
+651,ぱらちゃんガンⅡ,Parachan Bow Ⅱ
+652,ぱらちゃんガンⅢ,Parachan Bow Ⅲ
 653,ソリッドカービン,Solid Carbine
 654,ソリッドカービン・改,Solid Carbine+
 655,カラビーナ・マテリ,Matter Carbine
@@ -661,19 +661,19 @@ index,source,target
 659,ナトラ・デス,Natra Death
 660,デトス・アーカム,Detoss Arkham
 661,カオス・アーミー,Chaos Army
-662,ソニックボウ賱,Sonic Bow VII
+662,ソニックボウⅦ,Sonic Bow VII
 663,神龍弓【燭陰】,"Dragon God Bow ""Zhulong"""
-664,パワーワイルドボウ賙,Power Wild Bow IV
-665,サフィールレイヴン貤,Saphire RavenⅠ
-666,サフィールレイヴン賖,Saphire Raven Ⅱ
-667,サフィールレイヴン賕,Saphire Raven Ⅲ
-668,サフィールレイヴン賙,Saphire Raven Ⅳ
+664,パワーワイルドボウⅣ,Power Wild Bow IV
+665,サフィールレイヴンⅠ,Saphire RavenⅠ
+666,サフィールレイヴンⅡ,Saphire Raven Ⅱ
+667,サフィールレイヴンⅢ,Saphire Raven Ⅲ
+668,サフィールレイヴンⅣ,Saphire Raven Ⅳ
 669,チタンフレームSP,Titan Flame SP
 670,テオ＝ヴェルメリオSP,Teostra's Flame SP
 671,天ヶ島SP,Sky's Isle SP
 672,メタルブレイズSP,Metal Blaze SP
-673,ＶＬＳ−００５２,VLS-0052
-674,ＶＬＳ−７３０５,VLS-7305
+673,ＶＬＳ－００５２,VLS-0052
+674,ＶＬＳ－７３０５,VLS-7305
 675,真舞雷弓【翔鶴】,Herald Thunderdance Bow
 676,リオテンペストSP,Fire Tempest SP
 677,Ｂ・フリルパラソルSP,B・Parasol SP
@@ -682,9 +682,9 @@ index,source,target
 680,コーラル・ストリバー,Coral Striker
 681,ジャスプ・ストリバー,Jasper Striker
 682,ラピス・ストリバー,Lapiz Striker
-683,サフィールパッファ貤,Sapphir Puffer Ⅰ
-684,サフィールパッファ賖,Sapphir Puffer Ⅱ
-685,サフィールパッファ賕,Sapphir Puffer Ⅲ
+683,サフィールパッファⅠ,Sapphir Puffer Ⅰ
+684,サフィールパッファⅡ,Sapphir Puffer Ⅱ
+685,サフィールパッファⅢ,Sapphir Puffer Ⅲ
 686,ナナ＝アルコイリスSP,Luna Rainbow Cannon SP
 687,ノブレシャヴァリー,Noble Chivalry
 688,メリオルシャヴァリー,Melor Chivalry
@@ -715,12 +715,12 @@ index,source,target
 713,にゃんにゃんファイア,Nyan Nyan Fire
 714,幻雷弓【雷破】,Phantom Thunderbreak Bow
 715,幻雷弓【雷霆】,Phantom Thunderstorm Bow
-716,オオバサミ賱,Daimyo Warbow Ⅶ
+716,オオバサミⅦ,Daimyo Warbow Ⅶ
 717,真蒼鳥幣弓,True Blue Kut-Ku Bow
-718,ルビーノレイヴン貤,Rubino Raven Ⅰ
-719,ルビーノレイヴン賖,Rubino Raven Ⅱ
-720,ルビーノレイヴン賕,Rubino Raven Ⅲ
-721,ルビーノレイヴン賙,Rubino Raven Ⅳ
+718,ルビーノレイヴンⅠ,Rubino Raven Ⅰ
+719,ルビーノレイヴンⅡ,Rubino Raven Ⅱ
+720,ルビーノレイヴンⅢ,Rubino Raven Ⅲ
+721,ルビーノレイヴンⅣ,Rubino Raven Ⅳ
 722,ガブラスプラッシュ,Remobra Plush
 723,ガブラストライク,Remombra Strike
 724,スフェン・ドライト,Sufendrit
@@ -737,9 +737,9 @@ index,source,target
 735,あくねこガン,Dark Cat Gun
 736,あかねこガン,Red Cat Gun
 737,あかねこグレネード,Red Cat Grenade Launcher
-738,サフィールキリー貤,Saphir Killy Ⅰ
-739,サフィールキリー賖,Saphir Killy Ⅱ
-740,サフィールキリー賕,Saphir Killy Ⅲ
+738,サフィールキリーⅠ,Saphir Killy Ⅰ
+739,サフィールキリーⅡ,Saphir Killy Ⅱ
+740,サフィールキリーⅢ,Saphir Killy Ⅲ
 741,クリムゾンパラソルSP,Crimson Parasol SP
 742,ドン・ボウ,Don Bow
 743,ドン・ミサイル,Don Missile
@@ -753,9 +753,9 @@ index,source,target
 751,テイルブラスター,Tail Blaster
 752,メラルーボウ,Melynx Bow
 753,メラルーボウ【猫被】,"Melynx Bow ""Cat Veil"""
-754,カーミン・ボウ貤,Carmine Bow Ⅰ
-755,カーミン・ボウ賖,Carmine Bow Ⅱ
-756,カーミン・ボウ賕,Carmine Bow Ⅲ
+754,カーミン・ボウⅠ,Carmine Bow Ⅰ
+755,カーミン・ボウⅡ,Carmine Bow Ⅱ
+756,カーミン・ボウⅢ,Carmine Bow Ⅲ
 757,クリムゾン・ボウ,Crimson Bow
 758,ペルレクーゲル,Perlenkugel
 759,ペルレプリーマ,Perle Prima
@@ -766,24 +766,24 @@ index,source,target
 764,ペルレズィッヘル,Perlen Sichel
 765,巨龍ガン,Great Dragon Gun
 766,ネブラグロブス,Nebula Globes
-767,ルビーノパッファ賙,Rubino Puffer Ⅳ
-768,ルビーノパッファ貤,Rubino Puffer Ⅰ
-769,ルビーノパッファ賖,Rubino Puffer Ⅱ
-770,ルビーノパッファ賕,Rubino Puffer Ⅲ
-771,スティールパッファ𧶠,Steel Puffer Ⅴ
+767,ルビーノパッファⅣ,Rubino Puffer Ⅳ
+768,ルビーノパッファⅠ,Rubino Puffer Ⅰ
+769,ルビーノパッファⅡ,Rubino Puffer Ⅱ
+770,ルビーノパッファⅢ,Rubino Puffer Ⅲ
+771,スティールパッファⅤ,Steel Puffer Ⅴ
 772,牙狼砲【陣風】,"Fanged Wolf Gun ""Gust"""
 773,牙狼砲【烈風】,"Fanged Wolf Gun ""Gale"""
 774,天狼砲【北斗】,"Sky Wolf Gun""Big Dipper"""
 775,フィラン・セット,Filan Set
 776,イームス・セット,Eames Set
 777,ヴィンズ・セット,Vinz Set
-778,スティールキリー𧶠,Purfa Set
+778,スティールキリーⅤ,Purfa Set
 779,牙狼弓【梅花】,"Fanged Wolf Gun""Blossom"""
 780,牙狼弓【桜花】,"Fanged Wolf Gun ""Sakura"""
 781,天狼弓【時雨】,"Sky Wolf Gun ""Rainfall"""
 782,天狼弓【村雨】,"Sky Wolf Gun ""Monsoon"""
-783,殲滅と破壊の剛弓賖,Annihilation Bow II
-784,フルフルボウ賰,Khezu Bow VI
+783,殲滅と破壊の剛弓Ⅱ,Annihilation Bow II
+784,フルフルボウⅥ,Khezu Bow VI
 785,ルナ・ベール,Lunar Bale
 786,ルナ・ゼーエン,Lunar Zien
 787,ルナ・ヴォワーレ,Lunar View
@@ -804,11 +804,11 @@ index,source,target
 802,星鷲弓・改,Aquila Bow+
 803,星鷲弓【満天】,"Aquila Bow ""Cosmic"""
 804,星鷲弓【天川】,"Aquila Bow ""Comet"""
-805,ソールスター貤,Soul Star I
-806,ソールスター賖,Soul Star II
-807,ソールスター賕,Soul Star III
+805,ソールスターⅠ,Soul Star I
+806,ソールスターⅡ,Soul Star II
+807,ソールスターⅢ,Soul Star III
 808,ソールプラネテス,Soul Planetes
-809,スティールレイヴン𧶠,Steel Raven Ⅴ
+809,スティールレイヴンⅤ,Steel Raven Ⅴ
 810,メラニンシューターSP,Melanin Shooter SP
 811,ブラッドバンデージSP,Blood Bandage SP
 812,星琴弓,Star Bow
@@ -840,10 +840,10 @@ index,source,target
 838,フラム・コム,Flamme Com
 839,フラム・レム,Flamme Rem
 840,フラム・フラム,Flamme Flamme
-841,ルビーノキリー貤,Rubino Killi Ⅰ
-842,ルビーノキリー賖,Rubino Killi Ⅱ
-843,ルビーノキリー賕,Rubino Killi Ⅲ
-844,ルビーノキリー賙,Rubino Killi Ⅳ
+841,ルビーノキリーⅠ,Rubino Killi Ⅰ
+842,ルビーノキリーⅡ,Rubino Killi Ⅱ
+843,ルビーノキリーⅢ,Rubino Killi Ⅲ
+844,ルビーノキリーⅣ,Rubino Killi Ⅳ
 845,大蛇ノ弓,Ophion Bow
 846,大蛇ノ弓【燦然】,"Ophion Bow ""Flash"""
 847,大蛇ノ弓【絢爛】,"Ophion Bow ""Shine"""
@@ -851,10 +851,10 @@ index,source,target
 849,炎妃弓【誘惑】,Luna's Temptation
 850,炎妃弓【媚態】,Luna's Coquetry
 851,フラッシュボウ,Flash Bow
-852,勇気と希望の凄弓賕,Courageous Hope III
-853,フォルテ・ボウ貤,Forte Bow I
-854,フォルテ・ボウ賖,Forte Bow II
-855,フォルテ・ボウ賕,Forte Bow III
+852,勇気と希望の凄弓Ⅲ,Courageous Hope III
+853,フォルテ・ボウⅠ,Forte Bow I
+854,フォルテ・ボウⅡ,Forte Bow II
+855,フォルテ・ボウⅢ,Forte Bow III
 856,フォルテラーダ,Forte Rada
 857,アスト＝サード,Asta's Third
 858,アスト＝セカンド,Asta's Second
@@ -864,18 +864,18 @@ index,source,target
 862,マグニ＝セカンド,Magni's Second
 863,マグニ＝ファースト,Magni's First
 864,シリウス＝テンペスト,Sirius Tempest
-865,ルビーノレイヴン𧶠,Rubino Raven Ⅴ
+865,ルビーノレイヴンⅤ,Rubino Raven Ⅴ
 866,ファストキャストSP,Fast Caster SP
 867,ゴールドアンブレラSP,Gold Umbrella SP
-868,キャラバン重砲貤,Caravan HBG Ⅰ
-869,キャラバン重砲賖,Caravan HBG Ⅱ
-870,キャラバン重砲賕,Caravan HBG Ⅲ
-871,キャラバンボウ貤,Caravan Bow Ⅰ
-872,キャラバンボウ賖,Caravan Bow Ⅱ
-873,キャラバンボウ賕,Caravan Bow Ⅲ
-874,キャラバンボウ賙,Caravan Bow Ⅳ
-875,キャラバンボウ𧶠,Caravan Bow Ⅴ
-876,キャラバンボウ賰,Caravan Bow Ⅵ
+868,キャラバン重砲Ⅰ,Caravan HBG Ⅰ
+869,キャラバン重砲Ⅱ,Caravan HBG Ⅱ
+870,キャラバン重砲Ⅲ,Caravan HBG Ⅲ
+871,キャラバンボウⅠ,Caravan Bow Ⅰ
+872,キャラバンボウⅡ,Caravan Bow Ⅱ
+873,キャラバンボウⅢ,Caravan Bow Ⅲ
+874,キャラバンボウⅣ,Caravan Bow Ⅳ
+875,キャラバンボウⅤ,Caravan Bow Ⅴ
+876,キャラバンボウⅥ,Caravan Bow Ⅵ
 877,殻王重砲【巨星】,Giant Star Shellking Hbg
 878,エクエスキャノン,Eques Cannon
 879,エクエスランチャー,Eques Launcher
@@ -883,8 +883,8 @@ index,source,target
 881,ストレガキャノン,Strega Cannon
 882,ストレガランチャー,Strega Launcher
 883,シュヴァルツヴィーゼ,Schwarze Wiese
-884,バスハープ貤,Radiant Sun Bowgun
-885,バスハープ賖,Radiant Sun Bowgun
+884,バスハープⅠ,Radiant Sun Bowgun
+885,バスハープⅡ,Radiant Sun Bowgun
 886,バスハープ・ジェミ,Radiant Sun Star Shot
 887,ブロスショット,Blos Shot
 888,ブロススフェラ,Blos Sphera
@@ -911,15 +911,15 @@ index,source,target
 909,シルトクレイン,Silt Crane
 910,シャールクレイン,Chariot Crane
 911,カストラクレイン,Castra Crane
-912,リューフ貤,Ryufu Ⅰ
-913,リューフ賖,Ryufu Ⅱ
-914,リューフ賕,Ryufu Ⅲ
+912,リューフⅠ,Ryufu Ⅰ
+913,リューフⅡ,Ryufu Ⅱ
+914,リューフⅢ,Ryufu Ⅲ
 915,リューフ・エンシャ,Ryufu Encha
-916,シトリアレイヴン貤,Citrine Raven Ⅰ
-917,シトリアレイヴン賖,Citrine Raven Ⅱ
-918,シトリアレイヴン賕,Citrine Raven Ⅲ
-919,シトリアレイヴン賙,Citrine Raven Ⅳ
-920,シトリアレイヴン𧶠,Citrine Raven Ⅴ
+916,シトリアレイヴンⅠ,Citrine Raven Ⅰ
+917,シトリアレイヴンⅡ,Citrine Raven Ⅱ
+918,シトリアレイヴンⅢ,Citrine Raven Ⅲ
+919,シトリアレイヴンⅣ,Citrine Raven Ⅳ
+920,シトリアレイヴンⅤ,Citrine Raven Ⅴ
 921,冥雷重砲【華鷹】,Hawk Darkbolt Gun
 922,真冥雷重砲【天鷹】,True Falcon Darkbolt Gun
 923,ガウシカラッシュ,Anteka Current
@@ -937,10 +937,10 @@ index,source,target
 935,ＥＢＸ【Ｃｏｒｅ】,"EBX ""Core"""
 936,ＥＢＸ【Ｐｒｏ】,"EBX ""Pro"""
 937,ＥＢＸ【Ｅｌｉｔｅ】,"EBX ""Elite"""
-938,シトリアパッファ貤,Citrine Puffer Ⅰ
-939,シトリアパッファ賖,Citrine Puffer Ⅱ
-940,シトリアパッファ賕,Citrine Puffer Ⅲ
-941,シトリアパッファ賙,Citrine Puffer Ⅳ
+938,シトリアパッファⅠ,Citrine Puffer Ⅰ
+939,シトリアパッファⅡ,Citrine Puffer Ⅱ
+940,シトリアパッファⅢ,Citrine Puffer Ⅲ
+941,シトリアパッファⅣ,Citrine Puffer Ⅳ
 942,冥雷銃【信天翁】,Albatros Darkbolt Gun
 943,真冥雷銃【金糸雀】,True Canary Darkbolt Gun
 944,カルドボウガン,Cardo Bowgun
@@ -952,8 +952,8 @@ index,source,target
 950,リップルストック,Rip Stock
 951,スヴェルストック,Schwer Stock
 952,ローグストック,Rogue Stock
-953,クリソス貤,Chrysos I
-954,クリソス賖,Chrysos II
+953,クリソスⅠ,Chrysos I
+954,クリソスⅡ,Chrysos II
 955,クリソス・グラヤ,Chrysos Graya
 956,冥雷弓【真鶴】,Vipio Darkbolt Bow
 957,冥雷弓【千鶴】,Crane Darkbolt Bow
@@ -961,9 +961,9 @@ index,source,target
 959,真冥雷凄弓【翔鶴】,True Shokaku DarkboltBow
 960,ネブラアルク,Nebula Ark
 961,ネブラハープ,Nebula Harp
-962,フルンチェリー貤,Furon Cherry Ⅰ
-963,フルンチェリー賖,Furon Cherry Ⅱ
-964,フルンチェリー賕,Furon Cherry Ⅲ
+962,フルンチェリーⅠ,Furon Cherry Ⅰ
+963,フルンチェリーⅡ,Furon Cherry Ⅱ
+964,フルンチェリーⅢ,Furon Cherry Ⅲ
 965,フルンブラッサム,Furon Blossom
 966,エクエスボウ,Eques Bow
 967,エクエスルーク,Eques Rook
@@ -985,9 +985,9 @@ index,source,target
 983,トーメントタスク,Torment Tusk
 984,トーメントホーン,Torment Horn
 985,トーメントアベンジャ,Torment Avenger
-986,ブロース貤,Blos I
-987,ブロース賖,Blos II
-988,ブロース賕,Blos III
+986,ブロースⅠ,Blos I
+987,ブロースⅡ,Blos II
+988,ブロースⅢ,Blos III
 989,ブロース・チリ,Fierce Blos
 990,ボルペストラーダ,Volpe Strada
 991,ボルペラビリント,Volpe Labyrinth
@@ -1013,16 +1013,16 @@ index,source,target
 1011,ソス・フェリ,Forse Ferro
 1012,ソス・アステ,Forse Acciaco
 1013,ソス・ギル,Forse Oro
-1014,シトリアキリー貤,Citrine Killi Ⅰ
-1015,シトリアキリー賖,Citrine Killi Ⅱ
-1016,シトリアキリー賕,Citrine Killi Ⅲ
-1017,シトリアキリー賙,Citrine Killi Ⅳ
+1014,シトリアキリーⅠ,Citrine Killi Ⅰ
+1015,シトリアキリーⅡ,Citrine Killi Ⅱ
+1016,シトリアキリーⅢ,Citrine Killi Ⅲ
+1017,シトリアキリーⅣ,Citrine Killi Ⅳ
 1018,殻王弓【鋼】,Steel Shellking Bow
 1019,殻王弓【鉄壁】,Iron Wall Shellking Bow
-1020,アミクスアルクス貤,Amicus Arc Ⅰ
-1021,アミクスアルクス賖,Amicus Arc Ⅱ
-1022,アミクスアルクス賕,Amicus Arc Ⅲ
-1023,アミクスアルクス賙,Amicus Arc Ⅳ
+1020,アミクスアルクスⅠ,Amicus Arc Ⅰ
+1021,アミクスアルクスⅡ,Amicus Arc Ⅱ
+1022,アミクスアルクスⅢ,Amicus Arc Ⅲ
+1023,アミクスアルクスⅣ,Amicus Arc Ⅳ
 1024,ドドンガ・イクリプス,Dodonga Eclipse
 1025,ネブラダ・テルム,Nebula Missile
 1026,ガノスバーグ,Plesioth Berg
@@ -1095,14 +1095,14 @@ index,source,target
 1093,カルドアルク,Cardo Arc
 1094,ロートミステル,Rote Mistel
 1095,ロートカピテル,Rotes Kapitel
-1096,アメシスレイヴン貤,Amethyst Raven Ⅰ
-1097,アメシスレイヴン賖,Amethyst Raven Ⅱ
-1098,アメシスレイヴン賕,Amethyst Raven Ⅲ
-1099,アメシスレイヴン賙,Amethyst Raven Ⅳ
-1100,アメシスレイヴン𧶠,Amethyst Raven Ⅴ
-1101,スェズ貤,Suez Ⅰ
-1102,スェズ賖,Suez Ⅱ
-1103,スェズ賕,Suez Ⅲ
+1096,アメシスレイヴンⅠ,Amethyst Raven Ⅰ
+1097,アメシスレイヴンⅡ,Amethyst Raven Ⅱ
+1098,アメシスレイヴンⅢ,Amethyst Raven Ⅲ
+1099,アメシスレイヴンⅣ,Amethyst Raven Ⅳ
+1100,アメシスレイヴンⅤ,Amethyst Raven Ⅴ
+1101,スェズⅠ,Suez Ⅰ
+1102,スェズⅡ,Suez Ⅱ
+1103,スェズⅢ,Suez Ⅲ
 1104,スェズ・シルカ,Suez Shilka
 1105,テオ＝ブレイズ,Teo's Blaze
 1106,炎妃重弩【愛執】,Luna's Dread
@@ -1115,10 +1115,10 @@ index,source,target
 1113,ストレガスコール,Strega Squall
 1114,ストレガペフティス,Strega Pephtis
 1115,シュヴァルツクラータ,Schwarzer Krater
-1116,アメシスパッファ貤,Amethyst Puffer Ⅰ
-1117,アメシスパッファ賖,Amethyst Puffer Ⅱ
-1118,アメシスパッファ賕,Amethyst Puffer Ⅲ
-1119,アメシスパッファ賙,Amethyst Puffer Ⅳ
+1116,アメシスパッファⅠ,Amethyst Puffer Ⅰ
+1117,アメシスパッファⅡ,Amethyst Puffer Ⅱ
+1118,アメシスパッファⅢ,Amethyst Puffer Ⅲ
+1119,アメシスパッファⅣ,Amethyst Puffer Ⅳ
 1120,アズマリーフ,Azuma Rifle
 1121,アズマデリーヴ,Azuma Derifle
 1122,バーティ・クェンネル,
@@ -1131,7 +1131,7 @@ index,source,target
 1129,レウスエール,Reus Yell
 1130,レウスハウル,Reus Howl
 1131,レウスロアー,Reus Roar
-1132,ＶＬＳ−７５０７,VLS-7507
+1132,ＶＬＳ－７５０７,VLS-7507
 1133,ヒメカ・バトゥラ,Himeka Battler
 1134,ヒメカ・ボドゥラ,
 1135,ヒメカ・マドゥラ,
@@ -1144,9 +1144,9 @@ index,source,target
 1142,サイ・シザー,Sigh Scissor
 1143,ガスプ・シザー,Gasp Scissor
 1144,チョーク・シザー,Choke Scissor
-1145,トーニル貤,Tonil Ⅰ
-1146,トーニル賖,Tonil Ⅱ
-1147,トーニル賕,Tonil Ⅲ
+1145,トーニルⅠ,Tonil Ⅰ
+1146,トーニルⅡ,Tonil Ⅱ
+1147,トーニルⅢ,Tonil Ⅲ
 1148,デストーニル,Destonil
 1149,弐拾式大筒重砲,Mk2 Heavy Bowgun
 1150,参拾式大筒重砲,Mk3 Heavy Bowgun
@@ -1167,10 +1167,10 @@ index,source,target
 1165,ベイビーガン,Baby Gun
 1166,ベイビーアサルト,Baby Assault
 1167,ベイビーブラスター,Baby Blaster
-1168,アメシスキリー貤,Amethyst Killi Ⅰ
-1169,アメシスキリー賖,Amethyst Killi Ⅱ
-1170,アメシスキリー賕,Amethyst Killi Ⅲ
-1171,アメシスキリー賙,Amethyst Killi Ⅳ
+1168,アメシスキリーⅠ,Amethyst Killi Ⅰ
+1169,アメシスキリーⅡ,Amethyst Killi Ⅱ
+1170,アメシスキリーⅢ,Amethyst Killi Ⅲ
+1171,アメシスキリーⅣ,Amethyst Killi Ⅳ
 1172,エクエスストリエ,Eques Story
 1173,エクエススローク,Eques Law
 1174,エクエスストラーダ,Eques Strada
@@ -1218,7 +1218,7 @@ index,source,target
 1216,工房長弓【翠雨】,"FctoryChiefLongbow""Rain"""
 1217,ヴァイスカピテル,Weiskapitel
 1218,シュヴァルツカピテル,Schwarzkapitel
-1219,アミクスアルクス𧶠,Amicus Arc Ⅴ
+1219,アミクスアルクスⅤ,Amicus Arc Ⅴ
 1220,相互ラグマ式放雷弓,
 1221,アルゲンキャノン,Argen Cannon
 1222,アルゲンランチャー,Argen Launcher
@@ -1305,9 +1305,9 @@ index,source,target
 1303,覇帝弓カンカムトルム,Akantor Supremacy
 1304,覇帝弓クンカムトルム,Akantor Commandment
 1305,覇帝弓アシカムトルム,Akantor Tyranny
-1306,ブレイブボウ貤,Brave Bow Ⅰ
-1307,ブレイブボウ賖,Brave Bow Ⅱ
-1308,ブレイブボウ賕,Brave Bow Ⅲ
+1306,ブレイブボウⅠ,Brave Bow Ⅰ
+1307,ブレイブボウⅡ,Brave Bow Ⅱ
+1308,ブレイブボウⅢ,Brave Bow Ⅲ
 1309,ブレイブシューター,Brave Shooter
 1310,射手翔弓・雷,Enki Stormbow
 1311,射手翔弓・雷【燦然】,Enki Fierce Stormbow
@@ -1329,7 +1329,7 @@ index,source,target
 1327,ヴァシムブラスター,Vashimu Blaster
 1328,黒弓【朧夜】,"Black Bow ""Mist"""
 1329,深流弓【竜宮】,"Deep Sea Bow ""Ryugu"""
-1330,ハートショットボウ賕,Heart Shot Bow III
+1330,ハートショットボウⅢ,Heart Shot Bow III
 1331,龍弓【城崩】,"Dragon Bow ""Ruins"""
 1332,フォルテアフラタス,Fortea Flatus
 1333,アートルマテリア,
@@ -1346,7 +1346,7 @@ index,source,target
 1344,覇導砲・沙阿弩,Awa Succession Bowgun
 1345,覇導砲・閻弩,Yama Succession Bowgun
 1346,クシャレラ＝カムイ,Kushala's Divinity
-1347,タンクメイジ賖,Tank Mage Ⅱ
+1347,タンクメイジⅡ,Tank Mage Ⅱ
 1348,ラヴァヘレティック,Lava Heretic
 1349,グラビモスヴォギト,Gravios Howl
 1350,大蛇ノ軽弩,Ophion Launcher
@@ -1360,7 +1360,7 @@ index,source,target
 1358,舞撃迅銃・氷,Waltz Iceshot
 1359,舞撃迅銃・氷【燦然】,Waltz Fierce Iceshot
 1360,舞撃迅銃・氷【絢爛】,Waltz Savage Iceshot
-1361,ＶＬＳ−９７０１,VLS-9701
+1361,ＶＬＳ－９７０１,VLS-9701
 1362,あかねこエターナル,Red Cat Eternal
 1363,黄金魚砲,Goldfish Cannon
 1364,きょうかんねこハウス,Today's Cat House
@@ -1406,7 +1406,7 @@ index,source,target
 1404,シュヴァルツニーゼン,Schwarzriesen
 1405,キャラバン轟砲,Caravan Roar Gun
 1406,シュヴァルツトラオム,Schwarzsturm
-1407,ＶＬＳ−９７００α,VLS-9700α
+1407,ＶＬＳ－９７００α,VLS-9700α
 1408,シュヴァルツトレーネ,Schwarztraene
 1409,黒弓【常闇】,"Black Bow ""Darkness"""
 1410,晶重弩,Crystal Heavy Bowgun
@@ -1440,7 +1440,7 @@ index,source,target
 1438,レブ・クロガル,
 1439,五拾式大筒重砲,5th Type Heavy Bowgun
 1440,零式大筒重砲,Zero Type Heavy Bowgun
-1441,Ｓ・アルバレスト賖,S.Arbalest Ⅱ
+1441,Ｓ・アルバレストⅡ,S.Arbalest Ⅱ
 1442,メガバスタークラブ,Mega Buster Crab
 1443,ガノスクリーム,Plesioth Scream
 1444,猪突軽弩・走,Reckless Wildboar Run
@@ -1499,20 +1499,20 @@ index,source,target
 1497,藍色ノ弓【冬】,"Indigo bow ""Winter"""
 1498,ラッシュボウ,Rush Bow
 1499,エクセレンボウ,Excellent Bow
-1500,パワーハンターボウ𧶠,Power Hunter Bow Ⅴ
+1500,パワーハンターボウⅤ,Power Hunter Bow Ⅴ
 1501,アートルマックス,
-1502,サフィールレイヴン𧶠,Sapphir Raven Ⅴ
+1502,サフィールレイヴンⅤ,Sapphir Raven Ⅴ
 1503,弩岩重弩【射】,
 1504,弩岩獄重弩【構射】,
 1505,弩岩獄重弩【狙熱射】,
 1506,殻王獄重砲【彗星】,Comet Sheelking Hbg
 1507,真舞雷極弓【瑞鶴】,True Crane Thunder Bow
-1508,エピドシスバスター貤,Epidemic Buster Ⅰ
-1509,エピドシスバスター賖,Epidemic Buster Ⅱ
-1510,エピドシスバスター賕,Epidemic Buster Ⅲ
-1511,カンビオデビル貤,Cambio Devil Ⅰ
-1512,カンビオデビル賖,Cambio Devil Ⅱ
-1513,カンビオデビル賕,Cambio Devil Ⅲ
+1508,エピドシスバスターⅠ,Epidemic Buster Ⅰ
+1509,エピドシスバスターⅡ,Epidemic Buster Ⅱ
+1510,エピドシスバスターⅢ,Epidemic Buster Ⅲ
+1511,カンビオデビルⅠ,Cambio Devil Ⅰ
+1512,カンビオデビルⅡ,Cambio Devil Ⅱ
+1513,カンビオデビルⅢ,Cambio Devil Ⅲ
 1514,シュヴァルツフレッサ,Schwarz Fressen
 1515,蒸気式機械重砲,Steamwork Heavy Bowgun
 1516,蒸気式機械重砲改,Steamwork Heavy Bowgun+
@@ -1520,8 +1520,8 @@ index,source,target
 1518,セラス式多属性砲,Seras Multi-Type Cannon
 1519,アルク式多重属性砲,Arc Multi_Type Cannon
 1520,クシャネ＝シリカ,Kushala's Silica
-1521,メルザ貤,Melza Ⅰ
-1522,メルザ賖,Melza Ⅱ
+1521,メルザⅠ,Melza Ⅰ
+1522,メルザⅡ,Melza Ⅱ
 1523,メルザ・ロー,Melza Low
 1524,ダミー,
 1525,ダミー,
@@ -1535,12 +1535,12 @@ index,source,target
 1533,ラブリーボウガン改,Lovely Bowgun+
 1534,ラブリーインパクト,Lovely Impact
 1535,ラブリーハート,Lovely Heart
-1536,エピドシスボウガン貤,Epidosis Bowgun I
-1537,エピドシスボウガン賖,Epidosis Bowgun II
-1538,エピドシスボウガン賕,Epidosis Bowgun III
-1539,カンビオピストル貤,Cambio Pistol I
-1540,カンビオピストル賖,Cambio Pistol II
-1541,カンビオピストル賕,Cambio Pistol III
+1536,エピドシスボウガンⅠ,Epidosis Bowgun I
+1537,エピドシスボウガンⅡ,Epidosis Bowgun II
+1538,エピドシスボウガンⅢ,Epidosis Bowgun III
+1539,カンビオピストルⅠ,Cambio Pistol I
+1540,カンビオピストルⅡ,Cambio Pistol II
+1541,カンビオピストルⅢ,Cambio Pistol III
 1542,シュヴァルツアウラ,Schwarzaura
 1543,カルドシュナット,
 1544,カルドリャトーナ,
@@ -1562,17 +1562,17 @@ index,source,target
 1560,多殻強弓【小判草】,"Great Taikun Bow ""Briza"""
 1561,多殻強弓【今芽樫】,"Great Taikun Bow ""Ubume"""
 1562,グルア＝ダオラ,Daora's Gurua
-1563,エピドシスボウ貤,Epidosis Bow I
-1564,エピドシスボウ賖,Epidosis Bow II
-1565,エピドシスボウ賕,Epidosis Bow III
-1566,カンビオボウ貤,Cambio Bow I
-1567,カンビオボウ賖,Cambio Bow II
-1568,カンビオボウ賕,Cambio Bow III
+1563,エピドシスボウⅠ,Epidosis Bow I
+1564,エピドシスボウⅡ,Epidosis Bow II
+1565,エピドシスボウⅢ,Epidosis Bow III
+1566,カンビオボウⅠ,Cambio Bow I
+1567,カンビオボウⅡ,Cambio Bow II
+1568,カンビオボウⅢ,Cambio Bow III
 1569,シュヴァルツライゼ,Schwarzriese
-1570,キャラバンボウ賱,Caravan Bow VII
-1571,リンク貤,Link Ⅰ
-1572,リンク賖,Link Ⅱ
-1573,リンク賕,Link Ⅲ
+1570,キャラバンボウⅦ,Caravan Bow VII
+1571,リンクⅠ,Link Ⅰ
+1572,リンクⅡ,Link Ⅱ
+1573,リンクⅢ,Link Ⅲ
 1574,リンク・ジャクソン,Link Jackson
 1575,アクア・シューター,Aqua Shooter
 1576,スワンプ・シューター,Swamp Shooter
@@ -1586,7 +1586,7 @@ index,source,target
 1584,コーロ・シューター,Koro Shooter
 1585,ウコバ・シューター,Ukoba Shooter
 1586,サルファ・シューター,Sulfur Shooter
-1587,ルビーノレイヴン賰,Rubino Raven VI
+1587,ルビーノレイヴンⅥ,Rubino Raven VI
 1588,ダミー,
 1589,ダミー,
 1590,ダミー,
@@ -1610,7 +1610,7 @@ index,source,target
 1608,レヴェリストライカ,Reverie Striker
 1609,クリムズンランカー,Crimson Ranka
 1610,トーメントランカー,Torment Ranka
-1611,ソニックボウ𧸐,Sonic Bow Ⅷ
+1611,ソニックボウⅧ,Sonic Bow Ⅷ
 1612,怒髪獄絶弓【千本桜】,
 1613,アグィラ＝ダオラ,Daora's Anguila
 1614,真舞雷極弓【鳳翔】,True Phoenix Thunder Bow
@@ -1628,9 +1628,9 @@ index,source,target
 1626,セントピリアビート,St.Piria Beat
 1627,セントピリアファング,St.Piria Fan
 1628,セントピリアマドネス,St.Piria Madness
-1629,プランダ貤,Plunderer Ⅰ
-1630,プランダ賖,Plunderer Ⅱ
-1631,プランダ賕,Plunderer Ⅲ
+1629,プランダⅠ,Plunderer Ⅰ
+1630,プランダⅡ,Plunderer Ⅱ
+1631,プランダⅢ,Plunderer Ⅲ
 1632,ラダ・ワスタ,
 1633,ソードオフモルタル,Sawed Off Mortar
 1634,ウィックドモルタル,Wicked Mortar
@@ -1669,10 +1669,10 @@ index,source,target
 1667,ノーブルスフェラ,Noble Brearth
 1668,アスールトゥインク,Azure Twinkle
 1669,ナナ＝アンヌエ,Luna's Anneue
-1670,パイル貤,Pile Ⅰ
-1671,パイル賖,Pile Ⅱ
-1672,パイル賕,Pile Ⅲ
-1673,パイル賙,Pile Ⅳ
+1670,パイルⅠ,Pile Ⅰ
+1671,パイルⅡ,Pile Ⅱ
+1672,パイルⅢ,Pile Ⅲ
+1673,パイルⅣ,Pile Ⅳ
 1674,パル・アトゥス,Pile Atus
 1675,イニティボウガン,Infinity Bowgun
 1676,アウィスボウガン,Awis Bowgun
@@ -1695,11 +1695,11 @@ index,source,target
 1693,ウェロ・エクサ,Vero Exa
 1694,ウェロ・キュペテ,Vero Cupid
 1695,イリク・エーリ,Iriku Eli
-1696,投影・偽螺旋剣貤,Fake Projection Ⅰ
-1697,投影・偽螺旋剣賖,Fake Projection Ⅱ
-1698,投影・偽螺旋剣賕,Fake Projection Ⅲ
-1699,投影・偽螺旋剣賙,Fake Projection Ⅳ
-1700,投影・偽螺旋剣𧶠,Fake Projection Ⅴ
+1696,投影・偽螺旋剣Ⅰ,Fake Projection Ⅰ
+1697,投影・偽螺旋剣Ⅱ,Fake Projection Ⅱ
+1698,投影・偽螺旋剣Ⅲ,Fake Projection Ⅲ
+1699,投影・偽螺旋剣Ⅳ,Fake Projection Ⅳ
+1700,投影・偽螺旋剣Ⅴ,Fake Projection Ⅴ
 1701,イニティボウ,Infinity Bow
 1702,アウィスシューター,Awis Shooter
 1703,ヴォーラボウ,Vola Bow
@@ -1710,9 +1710,9 @@ index,source,target
 1708,ベルムボウガンSP,Dark Curtain Bowgun SP
 1709,トレームボウガン,Tremor Bowgun
 1710,シプレラボウ,Shipler Bow
-1711,ベルムボウSP貤,Velum Bow SPⅠ
-1712,ベルムボウSP賙,Velum Bow SPⅣ
-1713,ベルムボウSP賱,Velum Bow SPⅦ
+1711,ベルムボウSPⅠ,Velum Bow SPⅠ
+1712,ベルムボウSPⅣ,Velum Bow SPⅣ
+1713,ベルムボウSPⅦ,Velum Bow SPⅦ
 1714,トレームボウ,Tremor Bow
 1715,ダミー,
 1716,ダミー,
@@ -1801,10 +1801,10 @@ index,source,target
 1799,アビサルフューリー,Abyssal Fury
 1800,レインオブフューリー,Raining Fury
 1801,ラビナスフューリー,Ravenous Fury
-1802,エイン貤,Ein Ⅰ
-1803,エイン賖,Ein Ⅱ
-1804,エイン賕,Ein Ⅲ
-1805,エイン賙,Ein Ⅳ
+1802,エインⅠ,Ein Ⅰ
+1803,エインⅡ,Ein Ⅱ
+1804,エインⅢ,Ein Ⅲ
+1805,エインⅣ,Ein Ⅳ
 1806,エイン・イラ,Ein Ira
 1807,ナッツ・ラッシュ,Nut Rush
 1808,ナッツ・アサルト,Nuts Assault
@@ -1858,7 +1858,7 @@ index,source,target
 1856,フューリ＝ドラグーン,Fury Dragoon
 1857,シリダル＝テンペスト,Siridial Tempest
 1858,フューリ＝テンペスト,Fury Tempest
-1859,スティールレイヴン賰,Steel Raven Ⅵ
+1859,スティールレイヴンⅥ,Steel Raven Ⅵ
 1860,ティタ・ルエーダ,Tita Ruda
 1861,ティタ・ソルタ,Tita Soldier
 1862,ティタ・デュチャ,Tita Ducha
@@ -2018,26 +2018,26 @@ index,source,target
 2016,デオギスアゴル,
 2017,デオギスアキュス,
 2018,ヴァシラツヴェルフ,
-2019,双聖器ニーズヘッグ貤,Twin Saints Nidhoggr Ⅰ
-2020,双聖器ニーズヘッグ賖,Twin Saints Nidhoggr Ⅱ
-2021,双聖器ニーズヘッグ賕,Twin Saints Nidhoggr Ⅲ
-2022,双聖器ニーズヘッグ賙,Twin Saints Nidhoggr Ⅳ
-2023,双聖器ニーズヘッグ𧶠,Twin Saints Nidhoggr Ⅴ
-2024,蛇弓ニーズヘッグ貤,Nidhoggr Snake Bow Ⅰ
-2025,蛇弓ニーズヘッグ賖,Nidhoggr Snake Bow Ⅱ
-2026,蛇弓ニーズヘッグ賕,Nidhoggr Snake Bow Ⅲ
-2027,蛇弓ニーズヘッグ賙,Nidhoggr Snake Bow Ⅳ
-2028,蛇弓ニーズヘッグ𧶠,Nidhoggr Snake Bow Ⅴ
-2029,ジェラシー貤,Jealousy Ⅰ
-2030,ジェラシー賖,Jealousy Ⅱ
-2031,ジェラシー賕,Jealousy Ⅲ
-2032,ジェラシー賙,Jealousy Ⅳ
-2033,ジェラシー𧶠,Jealousy Ⅴ
-2034,エピデミック貤,Epidemic Ⅰ
-2035,エピデミック賖,Epidemic Ⅱ
-2036,エピデミック賕,Epidemic Ⅲ
-2037,エピデミック賙,Epidemic Ⅳ
-2038,エピデミック𧶠,Epidemic Ⅴ
+2019,双聖器ニーズヘッグⅠ,Twin Saints Nidhoggr Ⅰ
+2020,双聖器ニーズヘッグⅡ,Twin Saints Nidhoggr Ⅱ
+2021,双聖器ニーズヘッグⅢ,Twin Saints Nidhoggr Ⅲ
+2022,双聖器ニーズヘッグⅣ,Twin Saints Nidhoggr Ⅳ
+2023,双聖器ニーズヘッグⅤ,Twin Saints Nidhoggr Ⅴ
+2024,蛇弓ニーズヘッグⅠ,Nidhoggr Snake Bow Ⅰ
+2025,蛇弓ニーズヘッグⅡ,Nidhoggr Snake Bow Ⅱ
+2026,蛇弓ニーズヘッグⅢ,Nidhoggr Snake Bow Ⅲ
+2027,蛇弓ニーズヘッグⅣ,Nidhoggr Snake Bow Ⅳ
+2028,蛇弓ニーズヘッグⅤ,Nidhoggr Snake Bow Ⅴ
+2029,ジェラシーⅠ,Jealousy Ⅰ
+2030,ジェラシーⅡ,Jealousy Ⅱ
+2031,ジェラシーⅢ,Jealousy Ⅲ
+2032,ジェラシーⅣ,Jealousy Ⅳ
+2033,ジェラシーⅤ,Jealousy Ⅴ
+2034,エピデミックⅠ,Epidemic Ⅰ
+2035,エピデミックⅡ,Epidemic Ⅱ
+2036,エピデミックⅢ,Epidemic Ⅲ
+2037,エピデミックⅣ,Epidemic Ⅳ
+2038,エピデミックⅤ,Epidemic Ⅴ
 2039,ナッケルＫＧバイパー,Knuckle KG Viper
 2040,ナッケルＫＧプロキシ,Knuckle KG Proxy
 2041,ナッケルＫＧマキシマ,Knuckle KG Maxima
@@ -2196,13 +2196,13 @@ index,source,target
 2194,ミナ・マルアノフ,Mina Maruanoff
 2195,ルオルティライフル,Loyalty Rifle
 2196,アゲロスランチャー,Agelos Launcher
-2197,ジェラシー賰,Jealousy Ⅵ
-2198,エピデミック賰,Epidemic Ⅵ
+2197,ジェラシーⅥ,Jealousy Ⅵ
+2198,エピデミックⅥ,Epidemic Ⅵ
 2199,ナーデルクルーガ,Nadel Klueger
 2200,ナーデルルーク,Nadel Rook
 2201,エイリア・ルジオ,
 2202,トーメン・ルジオ,
-2203,投影・偽螺旋剣賰,Fake Projection Ⅵ
+2203,投影・偽螺旋剣Ⅵ,Fake Projection Ⅵ
 2204,バル・アタクル,Baru Bloodattack
 2205,バル・ウルオル,Baru Blooddesire
 2206,バル・ツアンサル,Baru Blodimpulse
@@ -2318,7 +2318,7 @@ index,source,target
 2316,レブ・ベルタム,
 2317,シルターレブール,
 2318,トラヴァーレブール,
-2319,メルザ・ハイヤ−,Melza High
+2319,メルザ・ハイヤ－,Melza High
 2320,メロルザハイト,
 2321,メロルハイエスタ,
 2322,バルバロイ・ハーデス,Barbaroi Hades
@@ -2532,10 +2532,10 @@ index,source,target
 2530,クラン・スナイドル,
 2531,クリスチア・スペンサ,
 2532,クリスチア・エクレル,
-2533,マキナボウ貤,Machina Bow I
-2534,マキナボウ賖,Machina Bow Ⅱ
-2535,マキナボウ賕,Machina Bow Ⅲ
-2536,マキナボウ賙,Machina Bow Ⅳ
+2533,マキナボウⅠ,Machina Bow I
+2534,マキナボウⅡ,Machina Bow Ⅱ
+2535,マキナボウⅢ,Machina Bow Ⅲ
+2536,マキナボウⅣ,Machina Bow Ⅳ
 2537,マキナボウ・コーム,Comb Machina Bow
 2538,マキナボウ・パレア,Palea Machina Bow
 2539,シャンルミナーレ,Shan Luminare
@@ -2621,21 +2621,21 @@ index,source,target
 2619,ロートライゼ,Rote Reise
 2620,パルトナボウ,Partner Bow
 2621,パルトナルーク,Partner Rook
-2622,スティールパッファ賰,Steel Puffer Ⅵ
-2623,スティールパッファ賱,Steel Puffer Ⅶ
-2624,スティールパッファ𧸐,Steel Puffer Ⅷ
-2625,Ｒ．Ｏ．Ｓ．貤,R.O.S.Ⅰ
-2626,Ｒ．Ｏ．Ｓ．賖,R.O.S.Ⅱ
-2627,Ｒ．Ｏ．Ｓ．賕,R.O.S.Ⅲ
-2628,Ｒ．Ｏ．Ｓ．賙,R.O.S.Ⅳ
-2629,Ｒ．Ｏ．Ｓ．𧶠,R.O.S.Ⅴ
-2630,Ｒ．Ｏ．Ｓ．賰,R.O.S.Ⅵ
-2631,スターライトmk賕・貤,Starlight mkⅢ・Ⅰ
-2632,スターライトmk賕・賖,Starlight mkⅢ・Ⅱ
-2633,スターライトmk賕・賕,Starlight mkⅢ・Ⅲ
-2634,スターライトmk賕・賙,Starlight mkⅢ・Ⅳ
-2635,スターライトmk賕・𧶠,Starlight mkⅢ・Ⅴ
-2636,スターライトmk賕・賰,Starlight mkⅢ・Ⅵ
+2622,スティールパッファⅥ,Steel Puffer Ⅵ
+2623,スティールパッファⅦ,Steel Puffer Ⅶ
+2624,スティールパッファⅧ,Steel Puffer Ⅷ
+2625,Ｒ．Ｏ．Ｓ．Ⅰ,R.O.S.Ⅰ
+2626,Ｒ．Ｏ．Ｓ．Ⅱ,R.O.S.Ⅱ
+2627,Ｒ．Ｏ．Ｓ．Ⅲ,R.O.S.Ⅲ
+2628,Ｒ．Ｏ．Ｓ．Ⅳ,R.O.S.Ⅳ
+2629,Ｒ．Ｏ．Ｓ．Ⅴ,R.O.S.Ⅴ
+2630,Ｒ．Ｏ．Ｓ．Ⅵ,R.O.S.Ⅵ
+2631,スターライトmkⅢ・Ⅰ,Starlight mkⅢ・Ⅰ
+2632,スターライトmkⅢ・Ⅱ,Starlight mkⅢ・Ⅱ
+2633,スターライトmkⅢ・Ⅲ,Starlight mkⅢ・Ⅲ
+2634,スターライトmkⅢ・Ⅳ,Starlight mkⅢ・Ⅳ
+2635,スターライトmkⅢ・Ⅴ,Starlight mkⅢ・Ⅴ
+2636,スターライトmkⅢ・Ⅵ,Starlight mkⅢ・Ⅵ
 2637,ダミー,
 2638,ダミー,
 2639,ダミー,
@@ -2654,11 +2654,11 @@ index,source,target
 2652,シュメドルフィア,
 2653,シュメラフィウム,
 2654,ペタルデレーヴ,
-2655,ＧＬＳ−００７５,GLS-0075
-2656,ＧＬＳ−０４２２,GLS-0422
-2657,ＧＬＳ−７６０１,GLS-7601
-2658,ＧＬＳ−７６００β,GLS-7600β
-2659,ＧＬＳ−９８００Σ,GLS-9800Σ
+2655,ＧＬＳ－００７５,GLS-0075
+2656,ＧＬＳ－０４２２,GLS-0422
+2657,ＧＬＳ－７６０１,GLS-7601
+2658,ＧＬＳ－７６００β,GLS-7600β
+2659,ＧＬＳ－９８００Σ,GLS-9800Σ
 2660,フロルプシカ,Furoru Pistol
 2661,フロルプーリァ,Furoru Prayer
 2662,フロルクロペト,Furoru Bayonet
@@ -2726,24 +2726,24 @@ index,source,target
 2724,朱雀弓・火,Suzaku Fire Bow
 2725,クレセントボウ・火,Crescent Fire Bow
 2726,プリンシパリティ・火,Principal Purity・Fire
-2727,プリンシパリティ賖火,Principal Purity Ⅱ Fire
+2727,プリンシパリティⅡ火,Principal Purity Ⅱ Fire
 2728,プリマシューター・闇,Prima Shooter・Darkness
 2729,ハイドロアーク・闇,Hydro Arc・Darkness
 2730,ダミー,
 2731,朱雀弓・闇,Dark Suzaku Bow
 2732,クレセントボウ・闇,Crescent Darkness Bow
 2733,プリンシパリティ・闇,Principal Purity・Dark
-2734,プリンシパリティ賖闇,Principal Purity Ⅱ Dark
-2735,ヴォルフ貤,Wolf Ⅰ
-2736,ヴォルフ賖,Wolf Ⅱ
-2737,ヴォルフ賕,Wolf Ⅲ
-2738,ヴォルフ賙,Wolf Ⅳ
+2734,プリンシパリティⅡ闇,Principal Purity Ⅱ Dark
+2735,ヴォルフⅠ,Wolf Ⅰ
+2736,ヴォルフⅡ,Wolf Ⅱ
+2737,ヴォルフⅢ,Wolf Ⅲ
+2738,ヴォルフⅣ,Wolf Ⅳ
 2739,ヴォルフマーゲン,Wolfsmagen
 2740,ロートケープヒェン,Rotkaeppchen
-2741,テヒニクボウ貤,Technik Bow Ⅰ
-2742,テヒニクボウ賖,Technik Bow Ⅱ
-2743,テヒニクボウ賕,Technik Bow Ⅲ
-2744,テヒニクボウ賙,Technik Bow Ⅳ
+2741,テヒニクボウⅠ,Technik Bow Ⅰ
+2742,テヒニクボウⅡ,Technik Bow Ⅱ
+2743,テヒニクボウⅢ,Technik Bow Ⅲ
+2744,テヒニクボウⅣ,Technik Bow Ⅳ
 2745,テヒニクボウ・コーム,Kombo Technik Bow
 2746,テヒニクボウ・パレア,Parier Technik Bow
 2747,プテリュクス,
@@ -2775,14 +2775,14 @@ index,source,target
 2773,無式大筒重砲【欠番】,Typeless Heavy Bowgun
 2774,ルナ・リシエイン,Lunar Eclipse
 2775,キャラバン閃銃,Caravan Flash Gun
-2776,キャラバン閃銃賖,Caravan Flash Gun Ⅱ
-2777,キャラバン閃銃賕,Caravan Flash Gun Ⅲ
+2776,キャラバン閃銃Ⅱ,Caravan Flash Gun Ⅱ
+2777,キャラバン閃銃Ⅲ,Caravan Flash Gun Ⅲ
 2778,ダミー,
-2779,キャラバン轟砲賖,Caravan Roar Gun Ⅱ
-2780,キャラバン轟砲賕,Caravan Roar Gun Ⅲ
+2779,キャラバン轟砲Ⅱ,Caravan Roar Gun Ⅱ
+2780,キャラバン轟砲Ⅲ,Caravan Roar Gun Ⅲ
 2781,キャラバン燦弓,Caravan Sun Bow
-2782,キャラバン燦弓賖,Caravan Sun Bow Ⅱ
-2783,キャラバン燦弓賕,Caravan Sun Bow Ⅲ
+2782,キャラバン燦弓Ⅱ,Caravan Sun Bow Ⅱ
+2783,キャラバン燦弓Ⅲ,Caravan Sun Bow Ⅲ
 2784,くろねこ四番樽,Black Cat Barrel Mk4
 2785,くろねこ五番樽,Black Cat Barrel Mk5
 2786,くろねこ六番樽,Black Cat Barrel Mk6
@@ -2795,7 +2795,7 @@ index,source,target
 2793,アビサルアイルー,Abyssal Felyne
 2794,覇導砲・裏刃素,
 2795,龍頭琴・絢,Rapid Dragon Head
-2796,ＶＬＳ−９７００β,VLS-9700β
+2796,ＶＬＳ－９７００β,VLS-9700β
 2797,ジルバ・ヴァッフェ,Silverwaffe
 2798,アルジャンルー,
 2799,滅砲ディアブロス,Diablos Artillery
@@ -2834,10 +2834,10 @@ index,source,target
 2832,ザウリッター・ダスク,
 2833,ザウリッター・ソラシ,
 2834,ザウリッター・ケイオ,
-2835,ルブト貤,Lobo Ⅰ
-2836,ルブト賖,Lobo Ⅱ
-2837,ルブト賕,Lobo Ⅲ
-2838,ルブト賙,Lobo Ⅳ
+2835,ルブトⅠ,Lobo Ⅰ
+2836,ルブトⅡ,Lobo Ⅱ
+2837,ルブトⅢ,Lobo Ⅲ
+2838,ルブトⅣ,Lobo Ⅳ
 2839,ルブト・モーヴェ,Evil Lobo
 2840,ルブト・ダンジェ,Dangerous Lobo
 2841,ケット,
@@ -2878,15 +2878,15 @@ index,source,target
 2876,フルール・エクラ,Fleur Eclat
 2877,フルール・グロワール,Fleur Gloire
 2878,フルール・アムール,Fleur Amour
-2879,オレズバール貤,
-2880,オレズバール賖,
+2879,オレズバールⅠ,
+2880,オレズバールⅡ,
 2881,ダミー,
-2882,オレズバール賕,
-2883,オレズバール賙,
+2882,オレズバールⅢ,
+2883,オレズバールⅣ,
 2884,アリシ・ペザード,
 2885,アリシ・ヴェアラル,
-2886,スティールレイヴン賱,Steel Raven Ⅶ
-2887,スティールレイヴン𧸐,Steel Raven Ⅷ
+2886,スティールレイヴンⅦ,Steel Raven Ⅶ
+2887,スティールレイヴンⅧ,Steel Raven Ⅷ
 2888,オーロワスコール,
 2889,オーロワペフティス,
 2890,ゴルトグローネ,
@@ -2919,7 +2919,7 @@ index,source,target
 2917,メタルアヴェンジャー,Metal Avenger
 2918,ノヴァエラ,
 2919,シェオル,
-2920,スティールレイヴン贉,Steel Raven Ⅸ
+2920,スティールレイヴンⅨ,Steel Raven Ⅸ
 2921,ダミー,
 2922,炎角重砲【葦牙】,
 2923,炎角重砲【瑞枝】,
@@ -3003,49 +3003,49 @@ index,source,target
 3001,ダミー,
 3002,ダミー,
 3003,イーヴルアイズ,Evil Eyes
-3004,ドミナス貤,Dominus Ⅰ
-3005,ドミナス賖,Dominus ⅠⅠ
-3006,ドミナス賕,Dominus Ⅲ
+3004,ドミナスⅠ,Dominus Ⅰ
+3005,ドミナスⅡ,Dominus ⅠⅠ
+3006,ドミナスⅢ,Dominus Ⅲ
 3007,サンクタスドミナス,Sanctus Dominus
 3008,シェンドミナス,Shen Dominus
-3009,ケーニッヒ貤,Koenig Ⅰ
-3010,ケーニッヒ賖,Koenig Ⅱ
-3011,ケーニッヒ賕,Koenig Ⅲ
+3009,ケーニッヒⅠ,Koenig Ⅰ
+3010,ケーニッヒⅡ,Koenig Ⅱ
+3011,ケーニッヒⅢ,Koenig Ⅲ
 3012,ヴァイスケーニヒ,Weisskoenig
 3013,シュタインケーニヒ,Steinkoenig
-3014,ケーニギン貤,Koenigin Ⅰ
-3015,ケーニギン賖,Koenigin Ⅱ
-3016,ケーニギン賕,Koenigin Ⅲ
+3014,ケーニギンⅠ,Koenigin Ⅰ
+3015,ケーニギンⅡ,Koenigin Ⅱ
+3016,ケーニギンⅢ,Koenigin Ⅲ
 3017,シュバルトケーニギン,Schwarzkoenigin
 3018,ナハトケーニギン,Nachtkoenigin
-3019,リネージ貤,Lineage Ⅰ
-3020,リネージ賖,Lineage Ⅱ
-3021,リネージ賕,Lineage Ⅲ
+3019,リネージⅠ,Lineage Ⅰ
+3020,リネージⅡ,Lineage Ⅱ
+3021,リネージⅢ,Lineage Ⅲ
 3022,ハイリネージ,High Lineage
 3023,エンシェントリネージ,Ancient Lineage
-3024,レジーナ貤,Regina Ⅰ
-3025,レジーナ賖,Regina Ⅱ
-3026,レジーナ賕,Regina Ⅲ
+3024,レジーナⅠ,Regina Ⅰ
+3025,レジーナⅡ,Regina Ⅱ
+3026,レジーナⅢ,Regina Ⅲ
 3027,アーデルレジーナ,Adel Regina
 3028,イーアルレジーナ,Earl Regina
-3029,プランス貤,Prince Ⅰ
-3030,プランス賖,Prince Ⅱ
-3031,プランス賕,Prince Ⅲ
+3029,プランスⅠ,Prince Ⅰ
+3030,プランスⅡ,Prince Ⅱ
+3031,プランスⅢ,Prince Ⅲ
 3032,ピウスプランス,Pius Prince
 3033,アマブレプランス,Amber Prince
-3034,ソヴリン貤,Sovereign Ⅰ
-3035,ソヴリン賖,Sovereign Ⅱ
-3036,ソヴリン賕,Sovereign Ⅲ
+3034,ソヴリンⅠ,Sovereign Ⅰ
+3035,ソヴリンⅡ,Sovereign Ⅱ
+3036,ソヴリンⅢ,Sovereign Ⅲ
 3037,ロイヤルソヴリン,Royal Souvereign
 3038,インペリウム,Imperium
-3039,レガーリア貤,Regalia Ⅰ
-3040,レガーリア賖,Regalia Ⅱ
-3041,レガーリア賕,Regalia Ⅲ
+3039,レガーリアⅠ,Regalia Ⅰ
+3040,レガーリアⅡ,Regalia Ⅱ
+3041,レガーリアⅢ,Regalia Ⅲ
 3042,ディナトレガーリア,Dinar Regalia
 3043,ヒローツレガーリア,Hiroz Regalia
-3044,ノーブレス貤,Noblesse Ⅰ
-3045,ノーブレス賖,Noblesse Ⅱ
-3046,ノーブレス賕,Noblesse Ⅲ
+3044,ノーブレスⅠ,Noblesse Ⅰ
+3045,ノーブレスⅡ,Noblesse Ⅱ
+3046,ノーブレスⅢ,Noblesse Ⅲ
 3047,ノーブルローズ,Nobless Rose
 3048,ノブレスオブリージュ,Noblesse Oblige
 3049,レーサルリング,
@@ -3083,10 +3083,10 @@ index,source,target
 3081,リートスザオバー,
 3082,リートスグーテ,
 3083,ツーファルヴィミラ,
-3084,パタリャバール貤,
-3085,パタリャバール賖,
-3086,パタリャバール賕,
-3087,パタリャバール賙,
+3084,パタリャバールⅠ,
+3085,パタリャバールⅡ,
+3086,パタリャバールⅢ,
+3087,パタリャバールⅣ,
 3088,バリエ・ペザード,
 3089,バリエ・ヴェアラル,
 3090,イステ・コレッティ,Iste Coletti
@@ -3144,12 +3144,12 @@ index,source,target
 3142,熾凍久遠ノ弓・伍,Burning Frost Bow Five
 3143,熾凍久遠ノ弓・陸,Burning Frost Bow Six
 3144,熾凍久遠ノ弓・最果,Burning Frost Bow Neo
-3145,ポジトロンライフル貤,Positron Rifle Ⅰ
-3146,ポジトロンライフル賖,Positron Rifle Ⅱ
-3147,ポジトロンライフル賕,Positron Rifle Ⅲ
-3148,ポジトロンライフル賙,Positron Rifle Ⅳ
-3149,ポジトロンライフル𧶠,Positron Rifle Ⅴ
-3150,ポジトロンライフル賰,Positron Rifle Ⅵ
+3145,ポジトロンライフルⅠ,Positron Rifle Ⅰ
+3146,ポジトロンライフルⅡ,Positron Rifle Ⅱ
+3147,ポジトロンライフルⅢ,Positron Rifle Ⅲ
+3148,ポジトロンライフルⅣ,Positron Rifle Ⅳ
+3149,ポジトロンライフルⅤ,Positron Rifle Ⅴ
+3150,ポジトロンライフルⅥ,Positron Rifle Ⅵ
 3151,ルネインセクティア,Runein Sectia
 3152,イリゼインセクティア,Irisen Sectia
 3153,イモータルペイン,Immortal Pain
@@ -3204,10 +3204,10 @@ index,source,target
 3202,琥牙弓アルヴァランガ,Amber Arc Valanga
 3203,改ヒュージ・ニードル,Hyuji Needle+
 3204,改銀火竜重砲【冥帝】,
-3205,ハティエ貤,Heart Hit Ⅰ
-3206,ハティエ賖,Heart Hit Ⅱ
-3207,ハティエ賕,Heart Hit Ⅲ
-3208,ハティエ賙,Heart Hit Ⅳ
+3205,ハティエⅠ,Heart Hit Ⅰ
+3206,ハティエⅡ,Heart Hit Ⅱ
+3207,ハティエⅢ,Heart Hit Ⅲ
+3208,ハティエⅣ,Heart Hit Ⅳ
 3209,ハティエルン,
 3210,ハティエルクイーン,
 3211,ブルームスター,Bloom Star
@@ -3226,23 +3226,23 @@ index,source,target
 3224,ジョルノ・シ,Giorno Shi
 3225,ジョルノ・トゥイン,Giorno Twin
 3226,ジョルノ・ガラシア,Giorno Garashia
-3227,超電磁洋弓銃貤,Electromagnetic Bowgun Ⅰ
-3228,超電磁洋弓銃賖,Electromagnetic Bowgun Ⅱ
-3229,超電磁洋弓銃賕,Electromagnetic Bowgun Ⅲ
-3230,超電磁洋弓銃賙,Electromagnetic Bowgun Ⅳ
-3231,超電磁洋弓銃𧶠,Electromagnetic Bowgun Ⅴ
-3232,超電磁洋弓銃賰,Electromagnetic Bowgun Ⅵ
-3233,パローネ重砲貤,
-3234,パローネ重砲賖,
-3235,パローネ重砲賕,
+3227,超電磁洋弓銃Ⅰ,Electromagnetic Bowgun Ⅰ
+3228,超電磁洋弓銃Ⅱ,Electromagnetic Bowgun Ⅱ
+3229,超電磁洋弓銃Ⅲ,Electromagnetic Bowgun Ⅲ
+3230,超電磁洋弓銃Ⅳ,Electromagnetic Bowgun Ⅳ
+3231,超電磁洋弓銃Ⅴ,Electromagnetic Bowgun Ⅴ
+3232,超電磁洋弓銃Ⅵ,Electromagnetic Bowgun Ⅵ
+3233,パローネ重砲Ⅰ,
+3234,パローネ重砲Ⅱ,
+3235,パローネ重砲Ⅲ,
 3236,パローネ轟砲,
-3237,パローネガン貤,
-3238,パローネガン賖,
-3239,パローネガン賕,
+3237,パローネガンⅠ,
+3238,パローネガンⅡ,
+3239,パローネガンⅢ,
 3240,パローネ閃銃,
-3241,パローネボウ貤,
-3242,パローネボウ賖,
-3243,パローネボウ賕,
+3241,パローネボウⅠ,
+3242,パローネボウⅡ,
+3243,パローネボウⅢ,
 3244,パローネ燦弓,
 3245,クリーマディエス,
 3246,クリーマクレアティ,
@@ -3278,10 +3278,10 @@ index,source,target
 3276,ダミー,
 3277,ダミー,
 3278,至極冥雷弓【春告鳥】,Warbler Darkbolt Bow
-3279,キュティエ貤,Cutie I
-3280,キュティエ賖,Cutie II
-3281,キュティエ賕,Cutie III
-3282,キュティエ賙,Cutie IV
+3279,キュティエⅠ,Cutie I
+3280,キュティエⅡ,Cutie II
+3281,キュティエⅢ,Cutie III
+3282,キュティエⅣ,Cutie IV
 3283,キュティエルン,Affection
 3284,キュティエルクイーン,Cutie Queen
 3285,トドル・デザト,
@@ -3362,10 +3362,10 @@ index,source,target
 3360,帝征烈弓【信力】,Imperial Faith Bow
 3361,帝征始弓【勇力】,Imperial Courage Bow
 3362,絶帝征弓【百王】,Imperial 100-Kings Bow
-3363,トゥルペ貤,Tulpe Ⅰ
-3364,トゥルペ賖,Tulpe Ⅱ
-3365,トゥルペ賕,Tulpe Ⅲ
-3366,トゥルペ賙,Tulpe Ⅳ
+3363,トゥルペⅠ,Tulpe Ⅰ
+3364,トゥルペⅡ,Tulpe Ⅱ
+3365,トゥルペⅢ,Tulpe Ⅲ
+3366,トゥルペⅣ,Tulpe Ⅳ
 3367,トゥルペ・ラグジュ,Luxury Tulip
 3368,トゥルペ・ルスオ,
 3369,ダミー,
@@ -3385,15 +3385,15 @@ index,source,target
 3383,星河ノ架橋,Galaxy Bridge
 3384,星彩ノ架橋,Starlight Bridge
 3385,星霜ノ架橋,Stardust Bridge
-3386,ハセルヴォル貤,
-3387,ハセルヴォル賖,
-3388,ハセルヴォル賕,
-3389,ハセルヴォル賙,
-3390,ハセルヴォル𧶠,
-3391,ハセルヴォル賰,
-3392,ぱっちんグーク貤,Patchin Guuku Ⅰ
-3393,ぱっちんグーク賖,Patchin Guuku Ⅱ
-3394,ぱっちんグーク賕,Patchin Guuku Ⅲ
+3386,ハセルヴォルⅠ,
+3387,ハセルヴォルⅡ,
+3388,ハセルヴォルⅢ,
+3389,ハセルヴォルⅣ,
+3390,ハセルヴォルⅤ,
+3391,ハセルヴォルⅥ,
+3392,ぱっちんグークⅠ,Patchin Guuku Ⅰ
+3393,ぱっちんグークⅡ,Patchin Guuku Ⅱ
+3394,ぱっちんグークⅢ,Patchin Guuku Ⅲ
 3395,ハルド・プラタ,
 3396,ハルド・ズィルバ,
 3397,ハルド・アルジャン,
@@ -3507,15 +3507,15 @@ index,source,target
 3505,テオ＝プーシカ,Teostra's Cannon
 3506,ミラクルランプ,Miracle Lamp
 3507,コンヘラル＝ダオラ,Daora's Conheral
-3508,ルビーノキリー𧶠,Rubino Killi Ⅴ
-3509,ルビーノキリー賰,Rubino Killi Ⅵ
-3510,ルビーノパッファ𧶠,Rubino Puffer Ⅴ
-3511,ルビーノパッファ賰,Rubino Puffer Ⅵ
+3508,ルビーノキリーⅤ,Rubino Killi Ⅴ
+3509,ルビーノキリーⅥ,Rubino Killi Ⅵ
+3510,ルビーノパッファⅤ,Rubino Puffer Ⅴ
+3511,ルビーノパッファⅥ,Rubino Puffer Ⅵ
 3512,肉砲【こんがりＧ】,"Meat Cannon ""Well-DoneG"""
 3513,ジェビアピアース,Jebia Pierce
-3514,ルビーノレイヴン賱,Rubino Raven Ⅶ
-3515,ルビーノレイヴン𧸐,Rubino Raven Ⅷ
-3516,ルビーノレイヴン贉,Rubino Raven Ⅸ
+3514,ルビーノレイヴンⅦ,Rubino Raven Ⅶ
+3515,ルビーノレイヴンⅧ,Rubino Raven Ⅷ
+3516,ルビーノレイヴンⅨ,Rubino Raven Ⅸ
 3517,黒滅射弓・氷,Ruinate Frostbow
 3518,黒滅射弓・氷【燦然】,Ruinate Fierce Frostbow
 3519,黒滅射弓・氷【絢爛】,Ruinate Violent Frostbow
@@ -3547,10 +3547,10 @@ index,source,target
 3545,ソルエルミラニエ,
 3546,シュヴァルツザオバー,
 3547,ゲヴィッタヴィミラ,
-3548,チュリペ貤,Tulip Ⅰ
-3549,チュリペ賖,Tulip Ⅱ
-3550,チュリペ賕,Tulip Ⅲ
-3551,チュリペ賙,Tulip Ⅳ
+3548,チュリペⅠ,Tulip Ⅰ
+3549,チュリペⅡ,Tulip Ⅱ
+3550,チュリペⅢ,Tulip Ⅲ
+3551,チュリペⅣ,Tulip Ⅳ
 3552,チュリペ・ラグジュ,Luxury Tulip
 3553,チュリペ・ルスオ,
 3554,ダミー,
@@ -3747,18 +3747,18 @@ index,source,target
 3745,ヴォーラアロー・真,True Vola Arrow
 3746,アルヴォーラアロー,Alvola Arrow
 3747,ラブリーチャーム,Lovely Charm
-3748,星空ノ弓貤,Starry Sky Bow Ⅰ
-3749,星空ノ弓賖,Starry Sky Bow Ⅱ
-3750,星空ノ弓賕,Starry Sky Bow Ⅲ
-3751,星空ノ弓賙,Starry Sky Bow Ⅳ
-3752,星空ノ弓𧶠,Starry Sky Bow Ⅴ
-3753,星空ノ弓賰,Starry Sky Bow Ⅵ
-3754,夜空ノ弓貤,Night Sky Bow Ⅰ
-3755,夜空ノ弓賖,Night Sky Bow Ⅱ
-3756,夜空ノ弓賕,Night Sky Bow Ⅲ
-3757,夜空ノ弓賙,Night Sky Bow Ⅳ
-3758,夜空ノ弓𧶠,Night Sky Bow Ⅴ
-3759,夜空ノ弓賰,Night Sky Bow Ⅵ
+3748,星空ノ弓Ⅰ,Starry Sky Bow Ⅰ
+3749,星空ノ弓Ⅱ,Starry Sky Bow Ⅱ
+3750,星空ノ弓Ⅲ,Starry Sky Bow Ⅲ
+3751,星空ノ弓Ⅳ,Starry Sky Bow Ⅳ
+3752,星空ノ弓Ⅴ,Starry Sky Bow Ⅴ
+3753,星空ノ弓Ⅵ,Starry Sky Bow Ⅵ
+3754,夜空ノ弓Ⅰ,Night Sky Bow Ⅰ
+3755,夜空ノ弓Ⅱ,Night Sky Bow Ⅱ
+3756,夜空ノ弓Ⅲ,Night Sky Bow Ⅲ
+3757,夜空ノ弓Ⅳ,Night Sky Bow Ⅳ
+3758,夜空ノ弓Ⅴ,Night Sky Bow Ⅴ
+3759,夜空ノ弓Ⅵ,Night Sky Bow Ⅵ
 3760,ヴィッツボーン,Wisebourne
 3761,ヴィッツドリル,Wisedrill
 3762,ヴィッツメタル,Wisemetal
@@ -3766,12 +3766,12 @@ index,source,target
 3764,ダミー,
 3765,ダミー,
 3766,桃帝梓弓【春祭】,Festival Sakura Bow
-3767,グリムリーパー貤,Grim Reaper I
-3768,グリムリーパー賖,Grim Reaper II
-3769,グリムリーパー賕,Grim Reaper III
-3770,グリムリーパー賙,Grim Reaper IV
-3771,グリムリーパー𧶠,Grim Reaper V
-3772,グリムリーパー賰,Grim Reaper VI
+3767,グリムリーパーⅠ,Grim Reaper I
+3768,グリムリーパーⅡ,Grim Reaper II
+3769,グリムリーパーⅢ,Grim Reaper III
+3770,グリムリーパーⅣ,Grim Reaper IV
+3771,グリムリーパーⅤ,Grim Reaper V
+3772,グリムリーパーⅥ,Grim Reaper VI
 3773,暴乱ヲ鎮圧ス天雷弓,
 3774,THEオラクル,Le Lumiere
 3775,THEエデン,Le Vertu
@@ -3828,27 +3828,27 @@ index,source,target
 3826,絶爆狼軽弩ワシュ,Ex Burstwolf Lbg Washu
 3827,絶爆狼軽弩クテノ,Ex Burstwolf Lbg Kuteno
 3828,絶爆狼軽弩【ヒメル】,"Ex Burstwolf Lbg""Himmel"""
-3829,陽ヲモ葬ル聖ノ軽弩貤,Sacred Falling Sun Ⅰ
-3830,陽ヲモ葬ル聖ノ軽弩賖,Sacred Falling Sun Ⅱ
-3831,陽ヲモ葬ル聖ノ軽弩賕,Sacred Falling Sun Ⅲ
-3832,陽ヲモ葬ル聖ノ軽弩賙,Sacred Falling Sun Ⅳ
-3833,陽ヲモ葬ル聖ノ軽弩𧶠,Sacred Falling Sun Ⅴ
-3834,陽ヲモ葬ル聖ノ軽弩賰,Sacred Falling Sun Ⅵ
-3835,陽ヲモ葬ル聖ノ軽弩賱,Sacred Falling Sun Ⅶ
-3836,地ヲ崩ス聖ノ重砲貤,Sacred Crumbling Earth Ⅰ
-3837,地ヲ崩ス聖ノ重砲賖,Sacred Crumbling Earth Ⅱ
-3838,地ヲ崩ス聖ノ重砲賕,Sacred Crumbling Earth Ⅲ
-3839,地ヲ崩ス聖ノ重砲賙,Sacred Crumbling Earth Ⅳ
-3840,地ヲ崩ス聖ノ重砲𧶠,Sacred Crumbling Earth Ⅴ
-3841,地ヲ崩ス聖ノ重砲賰,Sacred Crumbling Earth Ⅵ
-3842,地ヲ崩ス聖ノ重砲賱,Sacred Crumbling Earth Ⅶ
-3843,風呼ブ夜聖ノ弓貤,Sacred Night Windvoice Ⅰ
-3844,風呼ブ夜聖ノ弓賖,Sacred Night Windvoice Ⅱ
-3845,風呼ブ夜聖ノ弓賕,Sacred Night Windvoice Ⅲ
-3846,風呼ブ夜聖ノ弓賙,Sacred Night Windvoice Ⅳ
-3847,風呼ブ夜聖ノ弓𧶠,Sacred Night Windvoice Ⅴ
-3848,風呼ブ夜聖ノ弓賰,Sacred Night Windvoice Ⅵ
-3849,風呼ブ夜聖ノ弓賱,Sacred Night Windvoice Ⅶ
+3829,陽ヲモ葬ル聖ノ軽弩Ⅰ,Sacred Falling Sun Ⅰ
+3830,陽ヲモ葬ル聖ノ軽弩Ⅱ,Sacred Falling Sun Ⅱ
+3831,陽ヲモ葬ル聖ノ軽弩Ⅲ,Sacred Falling Sun Ⅲ
+3832,陽ヲモ葬ル聖ノ軽弩Ⅳ,Sacred Falling Sun Ⅳ
+3833,陽ヲモ葬ル聖ノ軽弩Ⅴ,Sacred Falling Sun Ⅴ
+3834,陽ヲモ葬ル聖ノ軽弩Ⅵ,Sacred Falling Sun Ⅵ
+3835,陽ヲモ葬ル聖ノ軽弩Ⅶ,Sacred Falling Sun Ⅶ
+3836,地ヲ崩ス聖ノ重砲Ⅰ,Sacred Crumbling Earth Ⅰ
+3837,地ヲ崩ス聖ノ重砲Ⅱ,Sacred Crumbling Earth Ⅱ
+3838,地ヲ崩ス聖ノ重砲Ⅲ,Sacred Crumbling Earth Ⅲ
+3839,地ヲ崩ス聖ノ重砲Ⅳ,Sacred Crumbling Earth Ⅳ
+3840,地ヲ崩ス聖ノ重砲Ⅴ,Sacred Crumbling Earth Ⅴ
+3841,地ヲ崩ス聖ノ重砲Ⅵ,Sacred Crumbling Earth Ⅵ
+3842,地ヲ崩ス聖ノ重砲Ⅶ,Sacred Crumbling Earth Ⅶ
+3843,風呼ブ夜聖ノ弓Ⅰ,Sacred Night Windvoice Ⅰ
+3844,風呼ブ夜聖ノ弓Ⅱ,Sacred Night Windvoice Ⅱ
+3845,風呼ブ夜聖ノ弓Ⅲ,Sacred Night Windvoice Ⅲ
+3846,風呼ブ夜聖ノ弓Ⅳ,Sacred Night Windvoice Ⅳ
+3847,風呼ブ夜聖ノ弓Ⅴ,Sacred Night Windvoice Ⅴ
+3848,風呼ブ夜聖ノ弓Ⅵ,Sacred Night Windvoice Ⅵ
+3849,風呼ブ夜聖ノ弓Ⅶ,Sacred Night Windvoice Ⅶ
 3850,炯眼ヲ粛静ス重砲,Solemn Eyes Cannon
 3851,アズラクブラッサー,
 3852,ルラキブラッサー,
@@ -3859,10 +3859,10 @@ index,source,target
 3857,ガルボイエグディラ,
 3858,ニリィエグディラ,
 3859,灼零エルゼアロー,
-3860,えるぜりおんグーク貤,Elzelion Guuku Ⅰ
-3861,えるぜりおんグーク賖,Elzelion Guuku Ⅱ
-3862,えるぜりおんグーク賕,Elzelion Guuku Ⅲ
-3863,えるぜりおんグーク賙,Elzelion Guuku Ⅳ
+3860,えるぜりおんグークⅠ,Elzelion Guuku Ⅰ
+3861,えるぜりおんグークⅡ,Elzelion Guuku Ⅱ
+3862,えるぜりおんグークⅢ,Elzelion Guuku Ⅲ
+3863,えるぜりおんグークⅣ,Elzelion Guuku Ⅳ
 3864,えるぜグークグワワッ,Elze Guuku Kuak Kuak
 3865,アイルーボウ・ニャ,Felyne Bow・Nya
 3866,メラルーボウ・ニャ,Melynx Bow・Nya
@@ -3898,7 +3898,7 @@ index,source,target
 3896,ベイビーアタック,Baby Attack
 3897,ベイビーボディ,Baby Body
 3898,ベイビープーギー,Baby Poogie
-3899,投影・偽螺旋剣賱,Fake Projection Ⅶ
+3899,投影・偽螺旋剣Ⅶ,Fake Projection Ⅶ
 3900,ファータ・ルーメン,Fatal Lumen
 3901,フルール・リュミエ,Fleur Lumier
 3902,イモータルソロウ,Immortal Sorrow
@@ -4101,25 +4101,25 @@ index,source,target
 4099,ハリネ・ガリア,Harine・Garlia
 4100,ハリネ・コーフ,Harine・Kouf
 4101,ハリネ・ロザラー,Harine・Rosara
-4102,千ノ敵ヲ破リシ戦車賖,Thousand Enemy Tank Ⅱ
-4103,千ノ敵ヲ破リシ戦車賕,Thousand Enemy Tank Ⅲ
-4104,千ノ敵ヲ破リシ戦車賙,Thousand Enemy Tank Ⅳ
-4105,千ノ敵ヲ破リシ戦車𧶠,Thousand Enemy Tank Ⅴ
-4106,千ノ敵ヲ破リシ戦車貤,Thousand Enemy Tank Ⅰ
-4107,ゴルカノン貤,Goru Cannon Ⅰ
-4108,ゴルカノン賖,Goru Cannon Ⅱ
-4109,ゴルカノン賕,Goru Cannon Ⅲ
+4102,千ノ敵ヲ破リシ戦車Ⅱ,Thousand Enemy Tank Ⅱ
+4103,千ノ敵ヲ破リシ戦車Ⅲ,Thousand Enemy Tank Ⅲ
+4104,千ノ敵ヲ破リシ戦車Ⅳ,Thousand Enemy Tank Ⅳ
+4105,千ノ敵ヲ破リシ戦車Ⅴ,Thousand Enemy Tank Ⅴ
+4106,千ノ敵ヲ破リシ戦車Ⅰ,Thousand Enemy Tank Ⅰ
+4107,ゴルカノンⅠ,Goru Cannon Ⅰ
+4108,ゴルカノンⅡ,Goru Cannon Ⅱ
+4109,ゴルカノンⅢ,Goru Cannon Ⅲ
 4110,ゴルカノン・ゼロ,"Goru Cannon ""Zero"""
-4111,アルカノン貤,Aru Cannon Ⅰ
-4112,アルカノン賖,Aru Cannon Ⅱ
-4113,アルカノン賕,Aru Cannon Ⅲ
+4111,アルカノンⅠ,Aru Cannon Ⅰ
+4112,アルカノンⅡ,Aru Cannon Ⅱ
+4113,アルカノンⅢ,Aru Cannon Ⅲ
 4114,アルカノン・ゼロ,"Aru Cannon ""Zero"""
-4115,樽ラッピーキャノン貤,Barrel Rapidcannon Ⅰ
-4116,樽ラッピーキャノン賖,Barrel Rapidcannon Ⅱ
-4117,樽ラッピーキャノン賕,Barrel Rapidcannon Ⅲ
-4118,樽ラッピーキャノン賙,Barrel Rapidcannon Ⅳ
-4119,樽ラッピーキャノン𧶠,Barrel Rapidcannon Ⅴ
-4120,樽ラッピーキャノン賰,Barrel Rapidcannon Ⅵ
+4115,樽ラッピーキャノンⅠ,Barrel Rapidcannon Ⅰ
+4116,樽ラッピーキャノンⅡ,Barrel Rapidcannon Ⅱ
+4117,樽ラッピーキャノンⅢ,Barrel Rapidcannon Ⅲ
+4118,樽ラッピーキャノンⅣ,Barrel Rapidcannon Ⅳ
+4119,樽ラッピーキャノンⅤ,Barrel Rapidcannon Ⅴ
+4120,樽ラッピーキャノンⅥ,Barrel Rapidcannon Ⅵ
 4121,喰血絶銃スピーズ,"Bloodeating Gun ""Spice"""
 4122,喰血絶銃スリト,"Bloodeating Gun ""Sweet"""
 4123,喰血絶銃スフラン,"Bloodeating Gun ""Suflan"""

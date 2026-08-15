@@ -64,12 +64,12 @@ from the {c05}General Store{/c}."
 23,"{c05}≪総合ショップ≫
 {/c}から入手可能。","Available for purchase 
 from the {c05}General Store{/c}."
-24,"{c05}≪ＨＲ1〜2≫{/c}の
+24,"{c05}≪ＨＲ1～2≫{/c}の
 {c05}≪ランゴスタ≫≪カンタロス≫{/c}や
 {c05}≪Ｎポイント交換≫{/c}から入手可能。","Found in {c05}[HR 1-2] 
 {/c}Trading: {c05}Npoints {/c}or
 Carve {c05}Vespoid {/c}or {c05}Hornetaur{/c}."
-25,"{c05}≪ＨＲ3〜4≫{/c}の
+25,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ランゴスタ≫≪カンタロス≫{/c}や
 {c05}≪Ｎポイント交換≫{/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Trading: {c05}Npoints {/c}or
@@ -109,7 +109,7 @@ from the {c05}General Store{/c}."
 39,"{c05}≪総合ショップ≫
 {/c}から入手可能。","Available for purchase 
 from the {c05}General Store{/c}."
-40,"{c05}≪ＨＲ1〜4≫{/c}の
+40,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ブルファンゴ≫≪アプトノス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Bullfango 
@@ -673,7 +673,7 @@ Trading [HR3+]: {c05}Npoints{/c}."
 {c02}持ち帰り不可。","{c05}Account Item 
 {c02}Cannot be brought 
 back from quests{/c}."
-225,"{c05}≪ＨＲ1〜2≫{/c}の
+225,"{c05}≪ＨＲ1～2≫{/c}の
 {c05}≪沼地≫{/c}での{c05}≪採掘≫{/c}や
 {c05}≪Ｎポイント交換≫{/c}から入手可能。","Found in {c05}[HR1-2] 
 {/c}Mining: {c05}Swamp {/c}or
@@ -887,12 +887,12 @@ Trading: {c05}Npoints{/c}."
 {c05}≪採取≫{/c}
 することで入手可能。","Gathering: {c05}Great Forest {/c}or 
 {c05}Tower{/c}."
-279,"{c05}≪ＨＲ1〜4≫{/c}の
+279,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ケルビ≫≪ガウシカ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Kelbi 
 {/c}and {c05}Anteka{/c}."
-280,"{c05}≪ＨＲ1〜4≫{/c}の
+280,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ポポ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Popo{/c}."
@@ -901,7 +901,7 @@ Trading: {c05}Npoints{/c}."
 {c05}≪Ｎポイント交換≫{/c}から入手可能。","Pickling: 
 {c05}Yellow Mocha Pot {/c}or 
 Trading: {c05}Npoints{/c}."
-282,"{c05}≪ＨＲ1〜4≫{/c}の
+282,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ガブラス≫
 {/c}から入手可能。","Found in {c05}[HR1-4] 
 {/c}Carve from {c05}Remobra{/c}."
@@ -962,21 +962,21 @@ Purchase: {c05}Grocery Store{/c}."
 {c05}Guild Grocery Store 
 {/c}or from certain quests."
 301,dummy,
-302,"{c05}≪ＨＲ1〜4≫{/c}の
+302,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ドスランポス≫{/c}を捕獲
 することで入手可能。","Found in {c05}[HR1-4] 
 {/c}Obtain from {c05}Velocidrome 
 {c03} [Capture]{/c}."
-303,"{c05}≪ＨＲ1〜4≫{/c}の
+303,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ドスイーオス≫
 {/c}から入手可能。","Found in {c05}[HR1-4] 
 {/c}Carve from {c05}Ioprey{/c}."
-304,"{c05}≪ＨＲ1〜4≫{/c}の
+304,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ドスゲネポス≫
 {/c}から入手可能。","Found in {c05}[HR1-4] 
 {/c}Obtain from {c05}Gendrome{/c}."
 305,dummy,
-306,"{c05}≪ＨＲ1〜4≫{/c}の
+306,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ヒプノック≫
 {/c}から入手可能。","Found in {c05}[HR1-4] 
 {/c}Obtain from {c05}Hypnoc{/c}."
@@ -986,27 +986,27 @@ Purchase: {c05}Grocery Store{/c}."
 {/c}から入手可能。","Found in {c05}[HR2] 
 {/c}Obtain from {c05}Rathian
 {/c}Or from {c05}Gravios{/c}."
-309,"{c05}≪ＨＲ2〜4≫{/c}の
+309,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪フルフル≫≪フルフル亜種≫
 {/c}から入手可能。","Found in {c05}[HR2-4] 
 {/c}Obtain from {c05}Khezu
 {/c}Or {c05}Red Khezu{/c}."
-310,"{c05}≪ＨＲ2〜4≫{/c}の
+310,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ゲリョス≫≪ゲリョス亜種≫
 {/c}から入手可能。","Found in {c05}[HR2-4] 
 {/c}Obtain from {c05}Gypceros
 {/c}Or {c05}Purple Grypceros{/c}."
-311,"{c05}≪ＨＲ2〜4≫{/c}の
+311,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪フルフル≫≪フルフル亜種≫
 {/c}から入手可能。","Found in {c05}[HR2-4] 
 {/c}Obtain from {c05}Khezu
 {/c}Or {c05}Red Khezu{/c}."
-312,"{c05}≪ＨＲ1〜4≫{/c}の
+312,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ポポ≫≪アプケロス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Popo 
 {/c}and {c05}Apceros{/c}."
-313,"{c05}≪ＨＲ1〜4≫{/c}の
+313,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪アプケロス≫≪ブルック≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Apceros
@@ -1016,11 +1016,11 @@ Purchase: {c05}Grocery Store{/c}."
 {/c}から入手可能。","Found in {c05}[HR2] 
 {/c}Obtain from {c05}Basarios
 {/c}Or {c05}Gravios{/c}."
-315,"{c05}≪ＨＲ3〜4≫{/c}の
+315,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪バサルモス≫
 {/c}から入手可能。","Found in {c05}[HR3-4] 
 {/c}Obtain from {c05}Basarios{/c}."
-316,"{c05}≪ＨＲ2〜4≫{/c}の
+316,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪テオ・テスカトル≫
 {/c}から入手可能。","Found in {c05}[HR2-4] 
 {/c}Obtain from {c05}Teostra{/c}."
@@ -1035,17 +1035,17 @@ Purchase: {c05}Grocery Store{/c}."
 {c05}≪密林≫{/c}で
 {c05}≪採取≫{/c}することで入手可能。","Found in {c05}[HR3 +] {/c}
 Gathering: {c05}Jungle{/c}."
-320,"{c05}≪ＨＲ1〜4≫{/c}の
+320,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ブルック≫≪エルペ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Burukku 
 {/c}or {c05}Erupe{/c}."
-321,"{c05}≪ＨＲ1〜4≫{/c}の
+321,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ガミザミ≫≪ドスファンゴ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Bulldrome
 {/c}or {c05}Hermitaur{/c}."
-322,"{c05}≪ＨＲ1〜4≫{/c}の
+322,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪沼地探索≫{/c}の報酬
 から入手可能。","Found in {c05}[HR1-4] 
 {/c}Obtain as an {c05}Area Reward
@@ -1055,7 +1055,7 @@ Gathering: {c05}Jungle{/c}."
 することで入手可能。","Gathering: {c05}Great Forest 
 {/c}Area Reward: 
 {c05}Great Forest{/c}."
-324,"{c05}≪ＨＲ3〜4≫{/c}の
+324,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ガノトトス≫≪グラビモス≫
 {/c}から入手可能。","Found in {c05}[HR3-4] 
 {/c}Obtain from {c05}Plesioth
@@ -1076,7 +1076,7 @@ back from quests{/c}."
 {c02}持ち帰り不可。","{c05}Account Item 
 {c02}Cannot be brought 
 back from quests{/c}."
-329,"{c05}≪ＨＲ2〜4≫{/c}の
+329,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪雪山≫{/c}での{c05}≪採掘≫{/c}や
 {c05}≪クシャルダオラ≫{/c}から入手可能。","Found in {c05}[HR2-4]{/c} 
 Obtain from {c05}Kushala Daora 
@@ -1085,196 +1085,196 @@ Obtain from {c05}Kushala Daora
 {c02}持ち帰り不可。","{c05}Account Item 
 {c02}Cannot be brought 
 back from quests{/c}."
-331,"{c05}≪ＨＲ1〜4≫{/c}の
+331,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪モス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Mosswine{/c}."
-332,"{c05}≪ＨＲ1〜4≫{/c}の
+332,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪モス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Mosswine{/c}."
-333,"{c05}≪ＨＲ1〜4≫{/c}の
+333,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ブルファンゴ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Bullfango{/c}."
-334,"{c05}≪ＨＲ1〜4≫{/c}の
+334,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ドスファンゴ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Bulldrome{/c}."
-335,"{c05}≪ＨＲ1〜4≫{/c}の
+335,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ドスファンゴ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Bulldrome{/c}."
-336,"{c05}≪ＨＲ3〜4≫{/c}の
+336,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ドスファンゴ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Bulldrome{/c}."
-337,"{c05}≪ＨＲ3〜4≫{/c}の
+337,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ランポス≫≪ドスランポス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Velociprey 
 {/c}or {c05}Velocidrome{/c}."
-338,"{c05}≪ＨＲ1〜4≫{/c}の
+338,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ケルビ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Kelbi{/c}."
-339,"{c05}≪ＨＲ1〜4≫{/c}の
+339,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ガウシカ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Anteka{/c}."
-340,"{c05}≪ＨＲ1〜4≫{/c}の
+340,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ガウシカ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Anteka{/c}."
-341,"{c05}≪ＨＲ1〜4≫{/c}の
+341,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ランポス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Velociprey{/c}."
-342,"{c05}≪ＨＲ1〜4≫{/c}の
+342,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ランポス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Velociprey{/c}."
-343,"{c05}≪ＨＲ3〜4≫{/c}の
+343,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ランポス≫≪ドスランポス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Velociprey 
 {/c}or {c05}Velocidrome{/c}."
-344,"{c05}≪ＨＲ1〜4≫{/c}の
+344,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ランポス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Velociprey{/c}."
-345,"{c05}≪ＨＲ1〜4≫{/c}の
+345,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ドスランポス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Velocidrome{/c}."
-346,"{c05}≪ＨＲ1〜2≫{/c}の
+346,"{c05}≪ＨＲ1～2≫{/c}の
 {c05}≪ドスランポス≫
 {/c}から入手可能。","Found in {c05}[HR 1-2] 
 {/c}Obtain from {c05}Velocidrome{/c}."
-347,"{c05}≪ＨＲ3〜4≫{/c}の
+347,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ドスランポス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Velocidrome{/c}."
-348,"{c05}≪ＨＲ1〜4≫{/c}の
+348,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ドスランポス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Velocidrome{/c}."
 349,dummy,
 350,dummy,
-351,"{c05}≪ＨＲ1〜4≫{/c}の
+351,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ゲネポス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Genprey{/c}."
-352,"{c05}≪ＨＲ1〜4≫{/c}の
+352,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ゲネポス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Genprey{/c}."
-353,"{c05}≪ＨＲ3〜4≫{/c}の
+353,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ゲネポス≫≪ドスゲネポス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Genprey 
 {/c}or {c05}Gendrome{/c}."
-354,"{c05}≪ＨＲ1〜4≫{/c}の
+354,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ゲネポス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Genprey{/c}."
-355,"{c05}≪ＨＲ1〜4≫{/c}の
+355,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ドスゲネポス≫
 {/c}から入手可能。","Found in {c05}[HR1-4] 
 {/c}Obtain from {c05}Gendrome{/c}."
-356,"{c05}≪ＨＲ1〜4≫{/c}の
+356,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ドスゲネポス≫
 {/c}から入手可能。","Found in {c05}[HR1-4] 
 {/c}Obtain from {c05}Gendrome{/c}."
-357,"{c05}≪ＨＲ1〜4≫{/c}の
+357,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪イーオス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Ioprey{/c}."
-358,"{c05}≪ＨＲ1〜4≫{/c}の
+358,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪イーオス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Ioprey{/c}."
-359,"{c05}≪ＨＲ3〜4≫{/c}の
+359,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪イーオス≫≪ドスイーオス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Ioprey 
 {/c}or {c05}Iodrome{/c}."
-360,"{c05}≪ＨＲ1〜4≫{/c}の
+360,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪イーオス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Ioprey{/c}."
-361,"{c05}≪ＨＲ1〜4≫{/c}の
+361,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ドスイーオス≫
 {/c}から入手可能。","Found in {c05}[HR1-4] 
 {/c}Carve from {c05}Ioprey{/c}."
-362,"{c05}≪ＨＲ1〜4≫{/c}の
+362,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ドスイーオス≫
 {/c}から入手可能。","Found in {c05}[HR1-4] 
 {/c}Carve from {c05}Ioprey{/c}."
-363,"{c05}≪ＨＲ1〜4≫{/c}の
+363,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪イャンクック≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Yian Kut-Ku{/c}."
-364,"{c05}≪ＨＲ1〜4≫{/c}の
+364,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪イャンクック≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Yian Kut-Ku{/c}."
-365,"{c05}≪ＨＲ3〜4≫{/c}の
+365,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪イャンクック≫{/c}
 から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Yian Kut-Ku{/c}."
-366,"{c05}≪ＨＲ1〜4≫{/c}の
+366,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪イャンクック≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Yian Kut-Ku{/c}."
-367,"{c05}≪ＨＲ3〜4≫{/c}の
+367,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪イャンクック≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Yian Kut-Ku{/c}."
-368,"{c05}≪ＨＲ1〜4≫{/c}の
+368,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪イャンクック≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Yian Kut-Ku{/c}."
-369,"{c05}≪ＨＲ3〜4≫{/c}の
+369,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪イャンクック≫{/c}
 から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Yian Kut-Ku{/c}."
-370,"{c05}≪ＨＲ1〜4≫{/c}の
+370,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪イャンクック≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Yian Kut-Ku{/c}."
-371,"{c05}≪ＨＲ2〜4≫{/c}の
+371,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪イャンクック亜種≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 Blue Yian Kut-Ku{/c}."
-372,"{c05}≪ＨＲ2〜4≫{/c}の
+372,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪イャンクック亜種≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 Blue Yian Kut-Ku{/c}."
-373,"{c05}≪ＨＲ3〜4≫{/c}の
+373,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪イャンクック亜種≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 Blue Yian Kut-Ku{/c}."
-374,"{c05}≪ＨＲ2〜4≫{/c}の
+374,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ゲリョス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Gypceros{/c}."
-375,"{c05}≪ＨＲ3〜4≫{/c}の
+375,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ゲリョス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Gypceros{/c}."
-376,"{c05}≪ＨＲ2〜4≫{/c}の
+376,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ゲリョス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Gypceros{/c}."
-377,"{c05}≪ＨＲ2〜4≫{/c}の
+377,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ゲリョス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Purple Gypceros{/c}."
-378,"{c05}≪ＨＲ3〜4≫{/c}の
+378,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ゲリョス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Purple Gypceros{/c}."
@@ -1282,54 +1282,54 @@ Blue Yian Kut-Ku{/c}."
 {c02}持ち帰り不可。","{c05}Account Item 
 {c02}Cannot be brought 
 back from quests{/c}."
-380,"{c05}≪ＨＲ1〜4≫{/c}の
+380,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ガレオス≫≪ドスガレオス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Cephalos
 {/c}or {c05}Cephadrome{/c}."
-381,"{c05}≪ＨＲ2〜4≫{/c}の
+381,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ガノトトス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Plesioth{/c}."
-382,"{c05}≪ＨＲ3〜4≫{/c}の
+382,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ガノトトス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Plesioth{/c}."
-383,"{c05}≪ＨＲ2〜4≫{/c}の
+383,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ガノトトス≫≪ガノトトス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Plesioth
 {/c}or {c05}Green Plesioth{/c}."
-384,"{c05}≪ＨＲ2〜4≫{/c}の
+384,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ガノトトス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Green Plesioth{/c}."
-385,"{c05}≪ＨＲ3〜4≫{/c}の
+385,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ガノトトス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Green Plesioth{/c}."
-386,"{c05}≪ＨＲ1〜4≫{/c}の
+386,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ドスガレオス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Cephadrome{/c}."
-387,"{c05}≪ＨＲ3〜4≫{/c}の
+387,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ガレオス≫≪ドスガレオス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Cephalos
 {/c}or {c05}Cephadrome{/c}."
-388,"{c05}≪ＨＲ1〜4≫{/c}の
+388,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ガレオス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Cephalos{/c}."
-389,"{c05}≪ＨＲ3〜4≫{/c}の
+389,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ドスガレオス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Cephadrome{/c}."
-390,"{c05}≪ＨＲ1〜4≫{/c}の
+390,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ドスガレオス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Cephadrome{/c}."
-391,"{c05}≪ＨＲ1〜4≫{/c}の
+391,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ドスガレオス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Cephadrome{/c}."
@@ -1337,15 +1337,15 @@ back from quests{/c}."
 {c05}≪リオレイア≫
 {/c}から入手可能。","Found in {c05}[HR 2] 
 {/c}Obtain from {c05}Rathian{/c}."
-393,"{c05}≪ＨＲ3〜4≫{/c}の
+393,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪リオレイア≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Rathian{/c}."
-394,"{c05}≪ＨＲ2〜4≫{/c}の
+394,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪リオレイア≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Rathian{/c}."
-395,"{c05}≪ＨＲ3〜4≫{/c}の
+395,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪リオレイア≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Rathian{/c}."
@@ -1353,7 +1353,7 @@ back from quests{/c}."
 {c05}≪リオレイア≫
 {/c}から入手可能。","Found in {c05}[HR 2] 
 {/c}Obtain from {c05}Rathian{/c}."
-397,"{c05}≪ＨＲ3〜4≫{/c}の
+397,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪リオレイア≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Rathian{/c}."
@@ -1361,7 +1361,7 @@ back from quests{/c}."
 {c05}≪リオレイア≫
 {/c}から入手可能。","Found in {c05}[HR 2] 
 {/c}Obtain from {c05}Rathian{/c}."
-399,"{c05}≪ＨＲ3〜4≫{/c}の
+399,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪リオレイア≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Rathian{/c}."
@@ -1370,7 +1370,7 @@ back from quests{/c}."
 {/c}から入手可能。","Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05} Pink Rathian{/c}."
-401,"{c05}≪ＨＲ3〜4≫{/c}の
+401,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪リオレイア亜種≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
@@ -1380,7 +1380,7 @@ back from quests{/c}."
 {/c}から入手可能。","Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05} Pink Rathian{/c}."
-403,"{c05}≪ＨＲ3〜4≫{/c}の
+403,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪リオレイア亜種≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
@@ -1395,12 +1395,12 @@ back from quests{/c}."
 {/c}から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Gold Rathian{/c}."
-406,"{c05}≪ＨＲ2〜4≫{/c}の
+406,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪リオレイア≫≪リオレウス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Rathian
 {/c}or {c05}Rathalos{/c}."
-407,"{c05}≪ＨＲ2〜4≫{/c}の
+407,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪リオレイア≫≪リオレウス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Rathian
@@ -1409,15 +1409,15 @@ back from quests{/c}."
 {c05}≪リオレウス≫
 {/c}から入手可能。","Found in {c05}[HR 2] 
 {/c}Obtain from {c05}Rathalos{/c}."
-409,"{c05}≪ＨＲ3〜4≫{/c}の
+409,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪リオレウス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Rathalos{/c}."
-410,"{c05}≪ＨＲ2〜4≫{/c}の
+410,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪リオレウス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Rathalos{/c}."
-411,"{c05}≪ＨＲ3〜4≫{/c}の
+411,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪リオレウス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Rathalos{/c}."
@@ -1425,28 +1425,28 @@ back from quests{/c}."
 {c05}≪リオレウス≫
 {/c}から入手可能。","Found in {c05}[HR 2] 
 {/c}Obtain from {c05}Rathalos{/c}."
-413,"{c05}≪ＨＲ3〜4≫{/c}の
+413,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪リオレウス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Rathalos{/c}."
-414,"{c05}≪ＨＲ2〜4≫{/c}の
+414,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪リオレウス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Rathalos{/c}."
-415,"{c05}≪ＨＲ2〜4≫{/c}の
+415,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪リオレウス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Rathalos{/c}."
-416,"{c05}≪ＨＲ2〜4≫{/c}の
+416,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪リオレウス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Rathalos{/c}."
-417,"{c05}≪ＨＲ2〜4≫{/c}の
+417,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪リオレウス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Azure Rathalos{/c}."
-418,"{c05}≪ＨＲ3〜4≫{/c}の
+418,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪リオレウス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
@@ -1456,17 +1456,17 @@ back from quests{/c}."
 {/c}から入手可能。","Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Azure Rathalos{/c}."
-420,"{c05}≪ＨＲ3〜4≫{/c}の
+420,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪リオレウス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Azure Rathalos{/c}."
-421,"{c05}≪ＨＲ2〜4≫{/c}の
+421,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪リオレウス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Azure Rathalos{/c}."
-422,"{c05}≪ＨＲ2〜4≫{/c}の
+422,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪リオレウス亜種≫{/c}
 から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
@@ -1496,93 +1496,93 @@ back from quests{/c}."
 から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Silver Rathalos{/c}."
-428,"{c05}≪ＨＲ2〜4≫{/c}の
+428,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪フルフル≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Khezu{/c}."
-429,"{c05}≪ＨＲ3〜4≫{/c}の
+429,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪フルフル≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Khezu{/c}."
-430,"{c05}≪ＨＲ2〜4≫{/c}の
+430,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪フルフル≫≪フルフル亜種≫
 {/c}から入手可能。","Found in {c05}[HR2-4] 
 {/c}Obtain from {c05}Khezu
 {/c}Or {c05}Red Khezu{/c}."
-431,"{c05}≪ＨＲ3〜4≫{/c}の
+431,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪フルフル≫≪フルフル亜種≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Khezu
 {/c}or {c05}Red Khezu{/c}."
-432,"{c05}≪ＨＲ2〜4≫{/c}の
+432,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪フルフル亜種≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Red Khezu{/c}."
-433,"{c05}≪ＨＲ3〜4≫{/c}の
+433,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪フルフル亜種≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Red Khezu{/c}."
-434,"{c05}≪ＨＲ2〜4≫{/c}の
+434,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪バサルモス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Basarios{/c}."
-435,"{c05}≪ＨＲ3〜4≫{/c}の
+435,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪バサルモス≫
 {/c}から入手可能。","Found in {c05}[HR3-4] 
 {/c}Obtain from {c05}Basarios{/c}."
-436,"{c05}≪ＨＲ2〜4≫{/c}の
+436,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪バサルモス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Basarios{/c}."
-437,"{c05}≪ＨＲ3〜4≫{/c}の
+437,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪グラビモス≫≪グラビモス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Gravios
 {/c}or {c05}Black Gravios{/c}."
-438,"{c05}≪ＨＲ2〜4≫{/c}の
+438,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪グラビモス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Gravios{/c}."
-439,"{c05}≪ＨＲ3〜4≫{/c}の
+439,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪グラビモス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Gravios{/c}."
-440,"{c05}≪ＨＲ2〜4≫{/c}の
+440,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ショウグンギザミ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Shogun Ceanataur{/c}."
-441,"{c05}≪ＨＲ2〜4≫{/c}の
+441,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪グラビモス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Black Gravios{/c}."
-442,"{c05}≪ＨＲ3〜4≫{/c}の
+442,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪グラビモス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Black Gravios{/c}."
-443,"{c05}≪ＨＲ2〜4≫{/c}の
+443,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪グラビモス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Black Gravios{/c}."
-444,"{c05}≪ＨＲ2〜4≫{/c}の
+444,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ディアブロス≫{/c}
 から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Diablos{/c}."
-445,"{c05}≪ＨＲ2〜4≫{/c}の
+445,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ディアブロス亜種≫{/c}
 から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Black Diablos{/c}."
-446,"{c05}≪ＨＲ2〜4≫{/c}の
+446,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ディアブロス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Diablos{/c}."
-447,"{c05}≪ＨＲ3〜4≫{/c}の
+447,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ディアブロス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Diablos{/c}."
@@ -1590,39 +1590,39 @@ back from quests{/c}."
 {c05}≪ディアブロス≫
 {/c}から入手可能。","Found in {c05}[HR 2] 
 {/c}Obtain from {c05}Diablos{/c}."
-449,"{c05}≪ＨＲ3〜4≫{/c}の
+449,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ディアブロス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Diablos{/c}."
-450,"{c05}≪ＨＲ2〜4≫{/c}の
+450,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ディアブロス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Diablos{/c}."
-451,"{c05}≪ＨＲ2〜4≫{/c}の
+451,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ディアブロス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Diablos{/c}."
-452,"{c05}≪ＨＲ2〜4≫{/c}の
+452,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ディアブロス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Black Diablos{/c}."
-453,"{c05}≪ＨＲ2〜4≫{/c}の
+453,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ディアブロス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Black Diablos{/c}."
-454,"{c05}≪ＨＲ2〜4≫{/c}の
+454,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ディアブロス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Black Diablos{/c}."
-455,"{c05}≪ＨＲ2〜4≫{/c}の
+455,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ディアブロス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Black Diablos{/c}."
-456,"{c05}≪ＨＲ3〜4≫{/c}の
+456,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ディアブロス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
@@ -1630,35 +1630,35 @@ back from quests{/c}."
 457,"{c05}≪樹海探索≫{/c}の報酬
 から入手可能。","Area Reward: 
 {c05}Great Forest{/c}."
-458,"{c05}≪ＨＲ1〜2≫{/c}の
+458,"{c05}≪ＨＲ1～2≫{/c}の
 {c05}≪ランゴスタ≫
 {/c}から入手可能。","Found in {c05}[HR 1-2] 
 {/c}Obtain from {c05}Vespoid{/c}."
-459,"{c05}≪ＨＲ1〜4≫{/c}の
+459,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ランゴスタ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Vespoid{/c}."
-460,"{c05}≪ＨＲ1〜4≫{/c}の
+460,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ランゴスタ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Vespoid{/c}."
-461,"{c05}≪ＨＲ3〜4≫{/c}の
+461,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ランゴスタ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Vespoid{/c}."
-462,"{c05}≪ＨＲ1〜4≫{/c}の
+462,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪カンタロス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Hornetaur{/c}."
-463,"{c05}≪ＨＲ1〜4≫{/c}の
+463,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪カンタロス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Hornetaur{/c}."
-464,"{c05}≪ＨＲ1〜4≫{/c}の
+464,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪カンタロス≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Hornetaur{/c}."
-465,"{c05}≪ＨＲ3〜4≫{/c}の
+465,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪カンタロス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Hornetaur{/c}."
@@ -1667,11 +1667,11 @@ back from quests{/c}."
 {/c}から入手可能。","Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Green Plesioth{/c}."
-467,"{c05}≪ＨＲ2〜4≫{/c}の
+467,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ガノトトス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Plesioth{/c}."
-468,"{c05}≪ＨＲ3〜4≫{/c}の
+468,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ガノトトス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Plesioth{/c}."
@@ -1710,87 +1710,87 @@ back from quests{/c}."
 から入手可能。","Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}White Monoblos{/c}."
-477,"{c05}≪ＨＲ2〜4≫{/c}の
+477,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪キリン≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Kirin{/c}."
-478,"{c05}≪ＨＲ2〜4≫{/c}の
+478,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪キリン≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Kirin{/c}."
-479,"{c05}≪ＨＲ3〜4≫{/c}の
-{c05}≪キリン≫
-{/c}から入手可能。","Found in {c05}[HR 3-4] 
-{/c}Obtain from {c05}Kirin{/c}."
-480,"{c05}≪ＨＲ2〜4≫{/c}の
-{c05}≪キリン≫
-{/c}から入手可能。","Found in {c05}[HR 2-4] 
-{/c}Obtain from {c05}Kirin{/c}."
-481,"{c05}≪ＨＲ2〜4≫{/c}の
-{c05}≪キリン≫
-{/c}から入手可能。","Found in {c05}[HR 2-4] 
-{/c}Obtain from {c05}Kirin{/c}."
-482,"{c05}≪ＨＲ3〜4≫{/c}の
+479,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪キリン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Kirin{/c}."
-483,"{c05}≪ＨＲ2〜4≫{/c}の
-{c05}≪ラオシャンロン≫
+480,"{c05}≪ＨＲ2～4≫{/c}の
+{c05}≪キリン≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
-{/c}Obtain from 
-{c05} Lao-Shan Lung{/c}."
-484,"{c05}≪ＨＲ2〜4≫{/c}の
-{c05}≪ラオシャンロン≫
+{/c}Obtain from {c05}Kirin{/c}."
+481,"{c05}≪ＨＲ2～4≫{/c}の
+{c05}≪キリン≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
-{/c}Obtain from 
-{c05} Lao-Shan Lung{/c}."
-485,"{c05}≪ＨＲ2〜4≫{/c}の
-{c05}≪ラオシャンロン≫
-{/c}から入手可能。","Found in {c05}[HR 2-4] 
-{/c}Obtain from 
-{c05} Lao-Shan Lung{/c}."
-486,"{c05}≪ＨＲ3〜4≫{/c}の
-{c05}≪ラオシャンロン≫
+{/c}Obtain from {c05}Kirin{/c}."
+482,"{c05}≪ＨＲ3～4≫{/c}の
+{c05}≪キリン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
-{/c}Obtain from 
-{c05} Lao-Shan Lung{/c}."
-487,"{c05}≪ＨＲ2〜4≫{/c}の
+{/c}Obtain from {c05}Kirin{/c}."
+483,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ラオシャンロン≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05} Lao-Shan Lung{/c}."
-488,"{c05}≪ＨＲ3〜4≫{/c}の
+484,"{c05}≪ＨＲ2～4≫{/c}の
+{c05}≪ラオシャンロン≫
+{/c}から入手可能。","Found in {c05}[HR 2-4] 
+{/c}Obtain from 
+{c05} Lao-Shan Lung{/c}."
+485,"{c05}≪ＨＲ2～4≫{/c}の
+{c05}≪ラオシャンロン≫
+{/c}から入手可能。","Found in {c05}[HR 2-4] 
+{/c}Obtain from 
+{c05} Lao-Shan Lung{/c}."
+486,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ラオシャンロン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05} Lao-Shan Lung{/c}."
-489,"{c05}≪ＨＲ3〜4≫{/c}の
+487,"{c05}≪ＨＲ2～4≫{/c}の
+{c05}≪ラオシャンロン≫
+{/c}から入手可能。","Found in {c05}[HR 2-4] 
+{/c}Obtain from 
+{c05} Lao-Shan Lung{/c}."
+488,"{c05}≪ＨＲ3～4≫{/c}の
+{c05}≪ラオシャンロン≫
+{/c}から入手可能。","Found in {c05}[HR 3-4] 
+{/c}Obtain from 
+{c05} Lao-Shan Lung{/c}."
+489,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ラオシャンロン亜種≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05} Ashen Lao-Shan Lung{/c}."
-490,"{c05}≪ＨＲ3〜4≫{/c}の
+490,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ラオシャンロン亜種≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05} Ashen Lao-Shan Lung{/c}."
-491,"{c05}≪ＨＲ3〜4≫{/c}の
+491,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ミラボレアス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Fatalis{/c}."
-492,"{c05}≪ＨＲ3〜4≫{/c}の
+492,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ミラボレアス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Fatalis{/c}."
-493,"{c05}≪ＨＲ3〜4≫{/c}の
+493,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ミラボレアス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Fatalis{/c}."
-494,"{c05}≪ＨＲ3〜4≫{/c}の
+494,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ミラボレアス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Fatalis{/c}."
-495,"{c05}≪ＨＲ3〜4≫{/c}の
+495,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ミラボレアス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Fatalis{/c}."
@@ -1849,94 +1849,94 @@ the{c05}General Store{/c}."
 {/c}から入手可能。","Found in {c05}[HR 3+] 
 {/c}Purchase from 
 the{c05}General Store{/c}."
-507,"{c05}≪ＨＲ1〜4≫{/c}の
+507,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ブランゴ≫≪ヤオザミ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from {c05}Blango 
 {/c}or {c05}Hermitaur{/c}."
-508,"{c05}≪ＨＲ2〜4≫{/c}の
+508,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ドドブランゴ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Blangonga{/c}."
-509,"{c05}≪ＨＲ3〜4≫{/c}の
+509,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ドドブランゴ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Blangonga{/c}."
-510,"{c05}≪ＨＲ2〜4≫{/c}の
+510,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ドドブランゴ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Blangonga{/c}."
-511,"{c05}≪ＨＲ3〜4≫{/c}の
+511,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ドドブランゴ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Blangonga{/c}."
-512,"{c05}≪ＨＲ2〜4≫{/c}の
+512,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ドドブランゴ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Blangonga{/c}."
-513,"{c05}≪ＨＲ2〜4≫{/c}の
+513,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ドドブランゴ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Blangonga{/c}."
-514,"{c05}≪ＨＲ1〜4≫{/c}の
+514,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪コンガ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Congalala 
 {/c}or {c05}Conga{/c}."
-515,"{c05}≪ＨＲ1〜4≫{/c}の
+515,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ババコンガ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Congalala{/c}."
-516,"{c05}≪ＨＲ1〜4≫{/c}の
+516,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ババコンガ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Congalala{/c}."
-517,"{c05}≪ＨＲ1〜4≫{/c}の
+517,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ババコンガ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Congalala{/c}."
-518,"{c05}≪ＨＲ3〜4≫{/c}の
+518,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪コンガ≫≪ババコンガ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Congalala 
 {/c}or {c05}Conga{/c}."
-519,"{c05}≪ＨＲ3〜4≫{/c}の
+519,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ババコンガ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Congalala{/c}."
 520,dummy,
-521,"{c05}≪ＨＲ3〜4≫{/c}の
+521,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ラージャン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Rajang{/c}."
-522,"{c05}≪ＨＲ3〜4≫{/c}の
+522,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ラージャン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Rajang{/c}."
-523,"{c05}≪ＨＲ3〜4≫{/c}の
+523,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ラージャン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Rajang{/c}."
-524,"{c05}≪ＨＲ3〜4≫{/c}の
+524,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ラージャン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Rajang{/c}."
-525,"{c05}≪ＨＲ3〜4≫{/c}の
+525,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ラージャン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Rajang{/c}."
-526,"{c05}≪ＨＲ3〜4≫{/c}の
+526,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ラージャン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
@@ -1945,163 +1945,163 @@ the{c05}General Store{/c}."
 {c02}持ち帰り不可。","{c05}Account Item 
 {c02}Cannot be brought 
 back from quests{/c}."
-528,"{c05}≪ＨＲ2〜4≫{/c}の
+528,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ダイミョウザザミ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Daimyo Hermitaur{/c}."
-529,"{c05}≪ＨＲ1〜4≫{/c}の
+529,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ヤオザミ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Carve from 
 {c05}Hermitaur{/c}."
-530,"{c05}≪ＨＲ1〜4≫{/c}の
+530,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ダイミョウザザミ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from 
 {c05}Daimyo Hermitaur{/c}."
-531,"{c05}≪ＨＲ1〜4≫{/c}の
+531,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ダイミョウザザミ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from 
 {c05}Daimyo Hermitaur{/c}."
-532,"{c05}≪ＨＲ3〜4≫{/c}の
+532,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ダイミョウザザミ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Daimyo Hermitaur{/c}."
-533,"{c05}≪ＨＲ3〜4≫{/c}の
+533,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ダイミョウザザミ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Daimyo Hermitaur{/c}."
 534,dummy,
-535,"{c05}≪ＨＲ1〜4≫{/c}の
+535,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ガミザミ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Carve from 
 {c05}Ceanataur{/c}."
-536,"{c05}≪ＨＲ2〜4≫{/c}の
+536,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ショウグンギザミ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Shogun Ceanataur{/c}."
-537,"{c05}≪ＨＲ3〜4≫{/c}の
+537,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ショウグンギザミ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Shogun Ceanataur{/c}."
-538,"{c05}≪ＨＲ2〜4≫{/c}の
+538,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ショウグンギザミ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Shogun Ceanataur{/c}."
-539,"{c05}≪ＨＲ2〜4≫{/c}の
+539,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ショウグンギザミ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Shogun Ceanataur{/c}."
-540,"{c05}≪ＨＲ2〜4≫{/c}の
+540,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ショウグンギザミ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Shogun Ceanataur{/c}."
-541,"{c05}≪ＨＲ3〜4≫{/c}の
+541,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ショウグンギザミ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Shogun Ceanataur{/c}."
 542,dummy,
-543,"{c05}≪ＨＲ3〜4≫{/c}の
+543,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪シェンガオレン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Shen Gaoren{/c}."
-544,"{c05}≪ＨＲ3〜4≫{/c}の
+544,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪シェンガオレン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Shen Gaoren{/c}."
-545,"{c05}≪ＨＲ3〜4≫{/c}の
+545,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪シェンガオレン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Shen Gaoren{/c}."
-546,"{c05}≪ＨＲ3〜4≫{/c}の
+546,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪シェンガオレン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Shen Gaoren{/c}."
 547,dummy,
-548,"{c05}≪ＨＲ2〜4≫{/c}の
+548,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-549,"{c05}≪ＨＲ3〜4≫{/c}の
+549,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-550,"{c05}≪ＨＲ2〜4≫{/c}の
+550,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}などから入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-551,"{c05}≪ＨＲ2〜4≫{/c}の
+551,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-552,"{c05}≪ＨＲ2〜4≫{/c}の
+552,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}などから入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-553,"{c05}≪ＨＲ2〜4≫{/c}の
+553,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}などから入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-554,"{c05}≪ＨＲ2〜4≫{/c}の
+554,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}などから入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-555,"{c05}≪ＨＲ3〜4≫{/c}の
+555,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪クシャルダオラ≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-556,"{c05}≪ＨＲ3〜4≫{/c}の
+556,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-557,"{c05}≪ＨＲ2〜4≫{/c}の
+557,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-558,"{c05}≪ＨＲ2〜4≫{/c}の
+558,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-559,"{c05}≪ＨＲ3〜4≫{/c}の
+559,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-560,"{c05}≪ＨＲ2〜4≫{/c}の
+560,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪オオナズチ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Chameleos{/c}."
-561,"{c05}≪ＨＲ3〜4≫{/c}の
+561,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪オオナズチ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Chameleos{/c}."
-562,"{c05}≪ＨＲ2〜4≫{/c}の
+562,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪オオナズチ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Chameleos{/c}."
-563,"{c05}≪ＨＲ3〜4≫{/c}の
+563,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪オオナズチ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Chameleos{/c}."
@@ -2109,15 +2109,15 @@ back from quests{/c}."
 {c05}≪オオナズチ≫
 {/c}から入手可能。","Found in {c05}[HR 2] 
 {/c}Obtain from {c05}Chameleos{/c}."
-565,"{c05}≪ＨＲ2〜4≫{/c}の
+565,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪オオナズチ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Chameleos{/c}."
-566,"{c05}≪ＨＲ2〜4≫{/c}の
+566,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪オオナズチ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Chameleos{/c}."
-567,"{c05}≪ＨＲ3〜4≫{/c}の
+567,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪オオナズチ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Chameleos{/c}."
@@ -2126,24 +2126,24 @@ back from quests{/c}."
 {c05}≪ナナ・テスカトリ≫
 {/c}から入手可能。","Found in {c05}[HR 2] 
 {/c}Obtain from {c05}Lunastra{/c}."
-570,"{c05}≪ＨＲ2〜4≫{/c}の
+570,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪テオ・テスカトル≫
 {/c}から入手可能。","Found in {c05}[HR2-4] 
 {/c}Obtain from {c05}Teostra{/c}."
-571,"{c05}≪ＨＲ3〜4≫{/c}の
+571,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪テオ・テスカトル≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Teostra{/c}."
-572,"{c05}≪ＨＲ3〜4≫{/c}の
+572,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪テオ・テスカトル≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Teostra{/c}."
-573,"{c05}≪ＨＲ2〜4≫{/c}の
+573,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-574,"{c05}≪ＨＲ3〜4≫{/c}の
+574,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪テオ・テスカトル≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Teostra{/c}."
@@ -2168,73 +2168,73 @@ back from quests{/c}."
 {/c}から入手可能。","Found in {c05}[HR 2] 
 {/c}Obtain from {c05}Lunastra{/c}."
 580,dummy,
-581,"{c05}≪ＨＲ2〜4≫{/c}の
+581,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪テオ・テスカトル≫
 {/c}から入手可能。","Found in {c05}[HR2-4] 
 {/c}Obtain from {c05}Teostra{/c}."
-582,"{c05}≪ＨＲ3〜4≫{/c}の
+582,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪テオ・テスカトル≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Teostra{/c}."
-583,"{c05}≪ＨＲ2〜4≫{/c}の
+583,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪テオ・テスカトル≫
 {/c}から入手可能。","Found in {c05}[HR2-4] 
 {/c}Obtain from {c05}Teostra{/c}."
-584,"{c05}≪ＨＲ2〜4≫{/c}の
+584,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪テオ・テスカトル≫
 {/c}から入手可能。","Found in {c05}[HR2-4] 
 {/c}Obtain from {c05}Teostra{/c}."
-585,"{c05}≪ＨＲ2〜4≫{/c}の
+585,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪テオ・テスカトル≫
 {/c}から入手可能。","Found in {c05}[HR2-4] 
 {/c}Obtain from {c05}Teostra{/c}."
-586,"{c05}≪ＨＲ2〜4≫{/c}の
+586,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪テオ・テスカトル≫
 {/c}から入手可能。","Found in {c05}[HR2-4] 
 {/c}Obtain from {c05}Teostra{/c}."
-587,"{c05}≪ＨＲ3〜4≫{/c}の
+587,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪テオ・テスカトル≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Teostra{/c}."
-588,"{c05}≪ＨＲ3〜4≫{/c}の
+588,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヤマツカミ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Yama Tsukami{/c}."
-589,"{c05}≪ＨＲ3〜4≫{/c}の
+589,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヤマツカミ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Yama Tsukami{/c}."
-590,"{c05}≪ＨＲ3〜4≫{/c}の
+590,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヤマツカミ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Yama Tsukami{/c}."
-591,"{c05}≪ＨＲ3〜4≫{/c}の
+591,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヤマツカミ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Yama Tsukami{/c}."
-592,"{c05}≪ＨＲ3〜4≫{/c}の
+592,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヤマツカミ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Yama Tsukami{/c}."
 593,dummy,
-594,"{c05}≪ＨＲ1〜4≫{/c}の
+594,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ガブラス≫
 {/c}から入手可能。","Found in {c05}[HR1-4] 
 {/c}Carve from {c05}Remobra{/c}."
-595,"{c05}≪ＨＲ3〜4≫{/c}の
+595,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ガブラス≫
 {/c}から入手可能。","Found in {c05}[HR3-4] 
 {/c}Carve from {c05}Remobra{/c}."
-596,"{c05}≪ＨＲ1〜4≫{/c}の
+596,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ガブラス≫
 {/c}から入手可能。","Found in {c05}[HR1-4] 
 {/c}Carve from {c05}Remobra{/c}."
-597,"{c05}≪ＨＲ1〜4≫{/c}の
+597,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ガブラス≫
 {/c}から入手可能。","Found in {c05}[HR1-4] 
 {/c}Carve from {c05}Remobra{/c}."
@@ -2636,7 +2636,7 @@ PVP ends{/c}."
 サイト≫{/c}をご確認ください。","{c02}Special Event Item{/c}. 
 Please check site for 
 details."
-704,"{c05}≪ＨＲ3〜4≫{/c}の
+704,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪キングチャチャブー≫{/c}
 から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
@@ -2708,17 +2708,17 @@ Trading: {c05}Npoints{/c}."
 {c05}≪Ｎポイント交換≫{/c}から入手可能。","[HR3+] Obtain from 
 {c05}Practice Quests {/c}or 
 Trading: {c05}Npoints{/c}."
-720,"{c05}≪ＨＲ3〜4≫{/c}の
+720,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","HR[3-4] 
 Obtain from 
 {c05}A Special Quest{/c}."
-721,"{c05}≪ＨＲ3〜4≫{/c}の
+721,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪砦防衛戦≫{/c}の報酬
 から入手可能。","[HR3-4] 
 Obtain through
 {c05}Combining{/c}."
-722,"{c05}≪ＨＲ3〜4≫{/c}の
+722,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪古塔探索≫{/c}の報酬
 から入手可能。","[HR3-4] 
 Obtain through
@@ -2730,11 +2730,11 @@ Obtain through
 サイト≫{/c}をご確認ください。","{c02}Special Event Item{/c}. 
 Please check site for 
 details."
-725,"{c05}≪ＨＲ3〜4≫{/c}の
+725,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪雪山探索≫{/c}の報酬
 から入手可能。","Area Reward [HR3-4]: 
 {c05}Snowy Mountains{/c}."
-726,"{c05}≪ＨＲ3〜4≫{/c}の
+726,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪古塔探索≫{/c}の報酬
 から入手可能。","[HR3-4] 
 Obtain through
@@ -2749,17 +2749,17 @@ Trading: {c05}Item Exchange{/c}."
 730,dummy,
 731,"{c05}≪調合≫
 {/c}することで入手可能。",Obtained from {c05}Combining{/c}.
-732,"{c05}≪ＨＲ3〜4≫{/c}の
+732,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","HR[3-4] 
 Obtain from 
 {c05}A Special Quest{/c}."
-733,"{c05}≪ＨＲ3〜4≫{/c}の
+733,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","HR[3-4] 
 Obtain from 
 {c05}A Special Quest{/c}."
-734,"{c05}≪ＨＲ3〜4≫{/c}の
+734,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","HR[3-4] 
 Obtain from 
@@ -2815,7 +2815,7 @@ Trading: {c05}Npoints{/c}."
 {c05}Arena {/c}or 
 Trading: {c05}Npoints{/c}."
 747,dummy,
-748,"{c05}≪ＨＲ2〜4≫{/c}の
+748,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","Obtain from 
 completing a 
@@ -2840,7 +2840,7 @@ the {c05}Hunter Dojo{/c}."
 {c05}≪ポイント交換≫
 {/c}から入手可能。","Obtain from 
 the {c05}Hunter Dojo{/c}."
-754,"{c05}≪ＨＲ1〜4≫{/c}の
+754,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪メラルー≫{/c}の落し物や
 {c05}≪Ｎポイント交換≫{/c}から入手可能。","Found in {c05}[HR 1-4]{/c} 
 From {c05}Melynx {/c}or 
@@ -3280,12 +3280,12 @@ Trading: {c05}Npoints{/c}."
 {c05}≪Ｎポイント交換≫{/c}から入手可能。","Gathering [HR3+]: 
 {c05}Gorge {/c}or 
 Trading: {c05}Npoints{/c}."
-928,"{c05}≪ＨＲ3〜4≫{/c}の
+928,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪チャチャブー≫{/c}や
 {c05}≪Ｎポイント交換≫{/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Shakalaka {/c}or 
 Trading: {c05}GCP{/c}."
-929,"{c05}≪ＨＲ3〜4≫{/c}の
+929,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪キングチャチャブー≫{/c}や
 {c05}≪Ｎポイント交換≫{/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}From {c05}King Shakalaka {/c}or 
@@ -3294,7 +3294,7 @@ Trading: {c05}GCP{/c}."
 {c05}≪ギアノス≫
 {/c}から入手可能。","Found in {c05}[HR 2] 
 {/c}Carve from {c05}Giaprey{/c}."
-931,"{c05}≪ＨＲ3〜4≫{/c}の
+931,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ギアノス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Carve from {c05}Giaprey{/c}."
@@ -3362,64 +3362,64 @@ decorating your
 から入手可能。","Gathering: 
 {c05}Great Forest {/c}or 
 Trading:{c05}GCP Exchange{/c}."
-950,"{c05}≪ＨＲ3〜4≫{/c}の
+950,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ゲリョス≫≪ドスイーオス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Gypceros
 {/c}or {c05}Iodrome{/c}."
-951,"{c05}≪ＨＲ3〜4≫{/c}の
+951,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪リオレイア≫≪リオレウス≫{/c}
 から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Rathian
 {/c}or {c05}Rathalos{/c}."
-952,"{c05}≪ＨＲ3〜4≫{/c}の
+952,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪フルフル≫≪ベルキュロス≫{/c}
 から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Khezu
 {/c}or {c05}Berukyurosu{/c}."
-953,"{c05}≪ＨＲ3〜4≫{/c}の
+953,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヒプノック≫{/c}
 から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Hypnoc{/c}."
-954,"{c05}≪ＨＲ1〜2≫{/c}の
+954,"{c05}≪ＨＲ1～2≫{/c}の
 {c05}≪ブルファンゴ≫{/c}
 から入手可能。","Found in {c05}[HR 1-2] 
 {/c}Carve from {c05}Bullfango{/c}."
-955,"{c05}≪ＨＲ1〜4≫{/c}の
+955,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ドスファンゴ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Bulldrome{/c}."
-956,"{c05}≪ＨＲ3〜4≫{/c}の
+956,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪メラルー≫{/c}の落し物
 から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Melynx 
 {c03}[Shiny Drop]{/c}."
-957,"{c05}≪ＨＲ1〜4≫{/c}の
+957,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ドスファンゴ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Bulldrome{/c}."
-958,"{c05}≪ＨＲ3〜4≫{/c}の
+958,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ケルビ≫≪ガウシカ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Kelbi {/c}or 
 {c05}Anteka{/c}."
-959,"{c05}≪ＨＲ3〜4≫{/c}の
+959,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ギアノス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Carve from {c05}Giaprey{/c}."
-960,"{c05}≪ＨＲ3〜4≫{/c}の
+960,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ドスランポス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Velocidrome{/c}."
-961,"{c05}≪ＨＲ3〜4≫{/c}の
+961,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ドスゲネポス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Gendrome{/c}."
-962,"{c05}≪ＨＲ3〜4≫{/c}の
+962,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ドスゲネポス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Gendrome{/c}."
-963,"{c05}≪ＨＲ3〜4≫{/c}の
+963,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ドスイーオス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Iodrome{/c}."
@@ -3429,61 +3429,61 @@ Trading:{c05}GCP Exchange{/c}."
 967,dummy,
 968,dummy,
 969,dummy,
-970,"{c05}≪ＨＲ3〜4≫{/c}の
+970,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ガノトトス≫
 {/c}から入手可能。",
-971,"{c05}≪ＨＲ3〜4≫{/c}の
+971,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ガノトトス亜種≫
 {/c}から入手可能。",
-972,"{c05}≪ＨＲ3〜4≫{/c}の
+972,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ガノトトス亜種≫
 {/c}から入手可能。",
 973,"{c05}≪ＨＲ2≫{/c}の
 {c05}≪リオレイア≫≪リオレイア亜種≫
 {/c}から入手可能。",
-974,"{c05}≪ＨＲ3〜4≫{/c}の
+974,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪リオレウス≫≪リオレイア亜種≫
 {/c}から入手可能。",
-975,"{c05}≪ＨＲ3〜4≫{/c}の
+975,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪バサルモス≫{/c}の落し物
 から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Basarios 
 {c03}[Shiny Drop]{/c}."
-976,"{c05}≪ＨＲ3〜4≫{/c}の
+976,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪グラビモス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Gravios{/c}."
-977,"{c05}≪ＨＲ3〜4≫{/c}の
+977,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ディアブロス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Black Diablos{/c}."
-978,"{c05}≪ＨＲ3〜4≫{/c}の
+978,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪カンタロス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Hornetaur{/c}."
-979,"{c05}≪ＨＲ3〜4≫{/c}の
+979,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ラオシャンロン亜種≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05} Ashen Lao-Shan Lung{/c}."
 980,dummy,
-981,"{c05}≪ＨＲ3〜4≫{/c}の
+981,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪シェンガオレン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Shen Gaoren{/c}."
 982,dummy,
-983,"{c05}≪ＨＲ3〜4≫{/c}の
+983,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヤマツカミ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Yama Tsukami{/c}."
-984,"{c05}≪ＨＲ3〜4≫{/c}の
+984,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヤマツカミ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Yama Tsukami{/c}."
-985,"{c05}≪ＨＲ3〜4≫{/c}の
+985,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ティガレックス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Tigrex{/c}."
@@ -3491,7 +3491,7 @@ Trading:{c05}GCP Exchange{/c}."
 {c05}≪ティガレックス≫
 {/c}から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from {c05}Tigrex{/c}."
-987,"{c05}≪ＨＲ3〜4≫{/c}の
+987,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ティガレックス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Tigrex{/c}."
@@ -3499,11 +3499,11 @@ Trading:{c05}GCP Exchange{/c}."
 {c05}≪ティガレックス≫
 {/c}から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from {c05}Tigrex{/c}."
-989,"{c05}≪ＨＲ3〜4≫{/c}の
+989,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ティガレックス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Tigrex{/c}."
-990,"{c05}≪ＨＲ3〜4≫{/c}の
+990,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ティガレックス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Tigrex{/c}."
@@ -3511,7 +3511,7 @@ Trading:{c05}GCP Exchange{/c}."
 {c05}≪ティガレックス≫
 {/c}から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from {c05}Tigrex{/c}."
-992,"{c05}≪ＨＲ3〜4≫{/c}の
+992,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ティガレックス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Tigrex{/c}."
@@ -3519,7 +3519,7 @@ Trading:{c05}GCP Exchange{/c}."
 {c05}≪ティガレックス≫
 {/c}から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from {c05}Tigrex{/c}."
-994,"{c05}≪ＨＲ3〜4≫{/c}の
+994,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ティガレックス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Tigrex{/c}."
@@ -3547,45 +3547,45 @@ Trading:{c05}GCP Exchange{/c}."
 {c05}≪アカムトルム≫
 {/c}から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from {c05}Akantor{/c}."
-1001,"{c05}≪ＨＲ1〜4≫{/c}の
+1001,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ヒプノック≫
 {/c}から入手可能。","Found in {c05}[HR1-4] 
 {/c}Obtain from {c05}Hypnoc{/c}."
-1002,"{c05}≪ＨＲ1〜4≫{/c}の
+1002,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ヒプノック≫
 {/c}から入手可能。","Found in {c05}[HR1-4] 
 {/c}Obtain from {c05}Hypnoc{/c}."
-1003,"{c05}≪ＨＲ1〜2≫{/c}の
+1003,"{c05}≪ＨＲ1～2≫{/c}の
 {c05}≪ヒプノック≫{/c}を捕獲
 することで入手可能。","Found in {c05}[HR1-4] 
 {/c}Obtain from {c05}Hypnoc 
 {c03} [Capture]{/c}."
-1004,"{c05}≪ＨＲ1〜2≫{/c}の
+1004,"{c05}≪ＨＲ1～2≫{/c}の
 {c05}≪ヒプノック≫
 {/c}から入手可能。","Found in {c05}[HR 1-2] 
 {/c}Obtain from {c05}Hypnoc{/c}."
-1005,"{c05}≪ＨＲ1〜4≫{/c}の
+1005,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪ヒプノック≫
 {/c}から入手可能。","Found in {c05}[HR1-4] 
 {/c}Obtain from {c05}Hypnoc{/c}."
-1006,"{c05}≪ＨＲ3〜4≫{/c}の
+1006,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヒプノック≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Hypnoc{/c}."
-1007,"{c05}≪ＨＲ3〜4≫{/c}の
+1007,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヒプノック≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Hypnoc{/c}."
-1008,"{c05}≪ＨＲ3〜4≫{/c}の
+1008,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヒプノック希少種≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}White Hypnoc{/c}."
-1009,"{c05}≪ＨＲ3〜4≫{/c}の
+1009,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヒプノック≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Hypnoc{/c}."
-1010,"{c05}≪ＨＲ3〜4≫{/c}の
+1010,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヒプノック繁殖期≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
@@ -3595,35 +3595,35 @@ Trading:{c05}GCP Exchange{/c}."
 {/c}から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Bright Hypnoc{/c}."
-1012,"{c05}≪ＨＲ2〜4≫{/c}の
+1012,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ヴォルガノス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Volganos{/c}."
-1013,"{c05}≪ＨＲ2〜4≫{/c}の
+1013,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ヴォルガノス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Volganos{/c}."
-1014,"{c05}≪ＨＲ2〜4≫{/c}の
+1014,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ヴォルガノス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Volganos{/c}."
-1015,"{c05}≪ＨＲ2〜4≫{/c}の
+1015,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ヴォルガノス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Volganos{/c}."
-1016,"{c05}≪ＨＲ3〜4≫{/c}の
+1016,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヴォルガノス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Volganos{/c}."
-1017,"{c05}≪ＨＲ3〜4≫{/c}の
+1017,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヴォルガノス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Volganos{/c}."
-1018,"{c05}≪ＨＲ3〜4≫{/c}の
+1018,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヴォルガノス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Volganos{/c}."
-1019,"{c05}≪ＨＲ3〜4≫{/c}の
+1019,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヴォルガノス≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Volganos{/c}."
@@ -3685,17 +3685,17 @@ Trading: {c05}Npoints{/c}."
 達成することで入手可能。","Obtained from 
 Sub-Objectives in 
 {c05}Guild Quests{/c}."
-1037,"{c05}≪ＨＲ3〜4≫{/c}の
+1037,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヴォルガノス亜種 ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Red Volganos{/c}."
-1038,"{c05}≪ＨＲ3〜4≫{/c}の
+1038,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヴォルガノス亜種 ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Red Volganos{/c}."
-1039,"{c05}≪ＨＲ3〜4≫{/c}の
+1039,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヴォルガノス亜種 ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
@@ -3727,31 +3727,31 @@ Sub-Objectives in
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-1046,"{c05}≪ＨＲ2〜4≫{/c}の
+1046,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪エスピナス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Espinas{/c}."
-1047,"{c05}≪ＨＲ2〜4≫{/c}の
+1047,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪エスピナス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Espinas{/c}."
-1048,"{c05}≪ＨＲ2〜4≫{/c}の
+1048,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪エスピナス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Espinas{/c}."
-1049,"{c05}≪ＨＲ2〜4≫{/c}の
+1049,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪エスピナス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Espinas{/c}."
-1050,"{c05}≪ＨＲ2〜4≫{/c}の
+1050,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪エスピナス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Espinas{/c}."
-1051,"{c05}≪ＨＲ2〜4≫{/c}の
+1051,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪エスピナス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Espinas{/c}."
-1052,"{c05}≪ＨＲ2〜4≫{/c}の
+1052,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪エスピナス≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Espinas{/c}."
@@ -3820,22 +3820,22 @@ Sub-Objectives in
 {/c}から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Akura Vashimu{/c}."
-1066,"{c05}≪ＨＲ4〜6≫{/c}の
+1066,"{c05}≪ＨＲ4～6≫{/c}の
 {c05}≪アクラ・ヴァシム≫
 {/c}から入手可能。","Found in {c05}[HR 4-6] 
 {/c}Obtain from 
 {c05}Akura Vashimu{/c}."
-1067,"{c05}≪ＨＲ4〜6≫{/c}の
+1067,"{c05}≪ＨＲ4～6≫{/c}の
 {c05}≪アクラ・ヴァシム≫
 {/c}から入手可能。","Found in {c05}[HR 4-6] 
 {/c}Obtain from 
 {c05}Akura Vashimu{/c}."
-1068,"{c05}≪ＨＲ4〜6≫{/c}の
+1068,"{c05}≪ＨＲ4～6≫{/c}の
 {c05}≪アクラ・ヴァシム≫
 {/c}から入手可能。","Found in {c05}[HR 4-6] 
 {/c}Obtain from 
 {c05}Akura Vashimu{/c}."
-1069,"{c05}≪ＨＲ4〜6≫{/c}の
+1069,"{c05}≪ＨＲ4～6≫{/c}の
 {c05}≪アクラ・ヴァシム≫
 {/c}から入手可能。","Found in {c05}[HR 4-6] 
 {/c}Obtain from 
@@ -3925,17 +3925,17 @@ for details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-1088,"{c05}≪ＨＲ5〜6≫{/c}の
+1088,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガミザミ≫≪アクラ・ヴァシム≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain: {c05}Akura Vashimu {/c}or 
 {c05}Ceanataur{/c}."
-1089,"{c05}≪ＨＲ5〜6≫{/c}の
+1089,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アクラ・ジェビア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Akura Jebia{/c}."
-1090,"{c05}≪ＨＲ5〜6≫{/c}の
+1090,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アクラ・ヴァシム≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -4308,11 +4308,11 @@ the{c05}General Store{/c}."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-1215,"{c05}≪ＨＲ5〜6≫{/c}の
+1215,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪キリン≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Kirin{/c}."
-1216,"{c05}≪ＨＲ5〜6≫{/c}の
+1216,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クシャルダオラ≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -4342,27 +4342,27 @@ the{c05}General Store{/c}."
 {/c}から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Akura Jebia{/c}."
-1222,"{c05}≪ＨＲ4〜6≫{/c}の
+1222,"{c05}≪ＨＲ4～6≫{/c}の
 {c05}≪アクラ・ジェビア≫
 {/c}から入手可能。","Found in {c05}[HR 4-6] 
 {/c}Obtain from 
 {c05}Akura Jebia{/c}."
-1223,"{c05}≪ＨＲ4〜6≫{/c}の
+1223,"{c05}≪ＨＲ4～6≫{/c}の
 {c05}≪アクラ・ジェビア≫
 {/c}から入手可能。","Found in {c05}[HR 4-6] 
 {/c}Obtain from 
 {c05}Akura Jebia{/c}."
-1224,"{c05}≪ＨＲ4〜6≫{/c}の
+1224,"{c05}≪ＨＲ4～6≫{/c}の
 {c05}≪アクラ・ジェビア≫
 {/c}から入手可能。","Found in {c05}[HR 4-6] 
 {/c}Obtain from 
 {c05}Akura Jebia{/c}."
-1225,"{c05}≪ＨＲ4〜6≫{/c}の
+1225,"{c05}≪ＨＲ4～6≫{/c}の
 {c05}≪アクラ・ジェビア≫
 {/c}から入手可能。","Found in {c05}[HR 4-6] 
 {/c}Obtain from 
 {c05}Akura Jebia{/c}."
-1226,"{c05}≪ＨＲ4〜6≫{/c}の
+1226,"{c05}≪ＨＲ4～6≫{/c}の
 {c05}≪アクラ・ジェビア≫
 {/c}から入手可能。","Found in {c05}[HR 4-6] 
 {/c}Obtain from 
@@ -4441,628 +4441,628 @@ Sub-Objectives in
 達成することで入手可能。","Obtained from 
 Sub-Objectives in 
 {c05}Guild Quests{/c}."
-1244,"{c05}≪ＨＲ5〜6≫{/c}の
+1244,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪メラルー≫≪チャチャブー≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Melynx
 {/c}or {c05}Shakalaka{/c}."
-1245,"{c05}≪ＨＲ5〜6≫{/c}の
+1245,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪メラルー≫≪チャチャブー≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Melynx
 {/c}or {c05}Shakalaka{/c}."
-1246,"{c05}≪ＨＲ5〜6≫{/c}の
+1246,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪メラルー≫≪チャチャブー≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Melynx
 {/c}or {c05}Shakalaka{/c}."
-1247,"{c05}≪ＨＲ5〜6≫{/c}の
+1247,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪メラルー≫≪チャチャブー≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Melynx
 {/c}or {c05}Shakalaka{/c}."
-1248,"{c05}≪ＨＲ5〜6≫{/c}の
+1248,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪メラルー≫≪チャチャブー≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Melynx
 {/c}or {c05}Shakalaka{/c}."
-1249,"{c05}≪ＨＲ5〜6≫{/c}の
+1249,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪メラルー≫≪チャチャブー≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Melynx
 {/c}or {c05}Shakalaka{/c}."
-1250,"{c05}≪ＨＲ5〜6≫{/c}の
+1250,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ケルビ≫≪ガウシカ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Kelbi
 {/c}or {c05}Anteka{/c}."
-1251,"{c05}≪ＨＲ5〜6≫{/c}の
+1251,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ケルビ≫≪ガウシカ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Kelbi
 {/c}or {c05}Anteka{/c}."
-1252,"{c05}≪ＨＲ5〜6≫{/c}の
+1252,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ケルビ≫≪ガウシカ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Kelbi
 {/c}or {c05}Anteka{/c}."
-1253,"{c05}≪ＨＲ5〜6≫{/c}の
+1253,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪モス≫≪アプトノス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Aptonoth
 {/c}or {c05}Mosswine{/c}."
-1254,"{c05}≪ＨＲ5〜6≫{/c}の
+1254,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪モス≫≪エルペ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Erupe
 {/c}or {c05}Mosswine{/c}."
-1255,"{c05}≪ＨＲ5〜6≫{/c}の
+1255,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪モス≫≪エルペ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Erupe
 {/c}or {c05}Mosswine{/c}."
-1256,"{c05}≪ＨＲ5〜6≫{/c}の
+1256,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪モス≫≪アプトノス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Aptonoth
 {/c}or {c05}Mosswine{/c}."
-1257,"{c05}≪ＨＲ5〜6≫{/c}の
+1257,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ブルック≫≪アプトノス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Burukku
 {/c}or {c05}Aptonoth{/c}."
-1258,"{c05}≪ＨＲ5〜6≫{/c}の
+1258,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ブルック≫≪アプトノス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Burukku
 {/c}or {c05}Aptonoth{/c}."
-1259,"{c05}≪ＨＲ5〜6≫{/c}の
+1259,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ケルビ≫≪エルペ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Kelbi
 {/c}or {c05}Erupe{/c}."
-1260,"{c05}≪ＨＲ5〜6≫{/c}の
+1260,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ケルビ≫≪ガウシカ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Kelbi
 {/c}or {c05}Anteka{/c}."
-1261,"{c05}≪ＨＲ5〜6≫{/c}の
+1261,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ケルビ≫≪ガウシカ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Kelbi
 {/c}or {c05}Anteka{/c}."
-1262,"{c05}≪ＨＲ5〜6≫{/c}の
+1262,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ポポ≫≪アプケロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Popo
 {/c}or {c05}Apceros{/c}."
-1263,"{c05}≪ＨＲ5〜6≫{/c}の
+1263,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ポポ≫≪アプケロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Popo
 {/c}or {c05}Apceros{/c}."
-1264,"{c05}≪ＨＲ5〜6≫{/c}の
+1264,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ポポ≫≪アプケロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Popo
 {/c}or {c05}Apceros{/c}."
-1265,"{c05}≪ＨＲ5〜6≫{/c}の
+1265,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ブルック≫≪アプケロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Burukku
 {/c}or {c05}Apceros{/c}."
-1266,"{c05}≪ＨＲ5〜6≫{/c}の
+1266,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ブルック≫≪ポポ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Burukku
 {/c}or {c05}Popo{/c}."
-1267,"{c05}≪ＨＲ5〜6≫{/c}の
+1267,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ブルック≫≪ポポ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Burukku
 {/c}or {c05}Popo{/c}."
-1268,"{c05}≪ＨＲ5〜6≫{/c}の
+1268,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ブルファンゴ≫≪ババコンガ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Bullfango
 {/c}or {c05}Congalala{/c}."
-1269,"{c05}≪ＨＲ5〜6≫{/c}の
+1269,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドスファンゴ≫≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Bulldrome
 {/c}or {c05}Gogomoa{/c}."
-1270,"{c05}≪ＨＲ5〜6≫{/c}の
+1270,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゴゴモア≫≪カム・オルガロン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gogomoa
 {/c}or {c05}Kamu Orugaron{/c}."
-1271,"{c05}≪ＨＲ5〜6≫{/c}の
+1271,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ブルファンゴ≫≪ブランゴ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Bullfango
 {/c}or {c05}Blango{/c}."
-1272,"{c05}≪ＨＲ5〜6≫{/c}の
+1272,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドスファンゴ≫≪ドドブランゴ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Bulldrome
 {/c}or {c05}Blangonga{/c}."
-1273,"{c05}≪ＨＲ5〜6≫{/c}の
+1273,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドドブランゴ≫≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gogomoa
 {/c}or {c05}Blangonga{/c}."
-1274,"{c05}≪ＨＲ5〜6≫{/c}の
+1274,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪コンガ≫≪ブランゴ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Conga
 {/c}or {c05}Blango{/c}."
-1275,"{c05}≪ＨＲ5〜6≫{/c}の
+1275,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドドブランゴ≫≪ババコンガ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Congalala
 {/c}or {c05}Blangonga{/c}."
-1276,"{c05}≪ＨＲ5〜6≫{/c}の
+1276,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ババコンガ≫≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gogomoa
 {/c}or {c05}Congalala{/c}."
-1277,"{c05}≪ＨＲ5〜6≫{/c}の
+1277,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪コンガ≫≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gogomoa
 {/c}or {c05}Congalala{/c}."
-1278,"{c05}≪ＨＲ5〜6≫{/c}の
+1278,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ババコンガ≫≪ラージャン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rajang
 {/c}or {c05}Congalala{/c}."
-1279,"{c05}≪ＨＲ5〜6≫{/c}の
+1279,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ラージャン≫≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rajang
 {/c}or {c05}Gogomoa{/c}."
-1280,"{c05}≪ＨＲ5〜6≫{/c}の
+1280,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ランゴスタ≫≪カンタロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Vespoid
 {/c}or {c05}Hornetaur{/c}."
-1281,"{c05}≪ＨＲ5〜6≫{/c}の
+1281,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ランゴスタ≫≪カンタロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Vespoid
 {/c}or {c05}Hornetaur{/c}."
-1282,"{c05}≪ＨＲ5〜6≫{/c}の
+1282,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ランゴスタ≫≪カンタロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Vespoid
 {/c}or {c05}Hornetaur{/c}."
-1283,"{c05}≪ＨＲ5〜6≫{/c}の
+1283,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ランゴスタ≫≪大雷光虫≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Vespoid
 {/c}or {c05}Great Thunderbug{/c}."
-1284,"{c05}≪ＨＲ5〜6≫{/c}の
+1284,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ランゴスタ≫≪大雷光虫≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Vespoid
 {/c}or {c05}Great Thunderbug{/c}."
-1285,"{c05}≪ＨＲ5〜6≫{/c}の
+1285,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ランゴスタ≫≪大雷光虫≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Vespoid
 {/c}or {c05}Great Thunderbug{/c}."
-1286,"{c05}≪ＨＲ5〜6≫{/c}の
+1286,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪カンタロス≫≪大雷光虫≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Hornetaur
 {/c}or {c05}Great Thunderbug{/c}."
-1287,"{c05}≪ＨＲ5〜6≫{/c}の
+1287,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪カンタロス≫≪大雷光虫≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Hornetaur
 {/c}or {c05}Great Thunderbug{/c}."
-1288,"{c05}≪ＨＲ5〜6≫{/c}の
+1288,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪カンタロス≫≪大雷光虫≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Hornetaur
 {/c}or {c05}Great Thunderbug{/c}."
-1289,"{c05}≪ＨＲ5〜6≫{/c}の
+1289,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヤオザミ≫≪クスバミ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Hermitaur
 {/c}or {c05}Kusubami{/c}."
-1290,"{c05}≪ＨＲ5〜6≫{/c}の
+1290,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ダイミョウザザミ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Daimyo Hermitaur{/c}."
-1291,"{c05}≪ＨＲ5〜6≫{/c}の
+1291,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪シェンガオレン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Shen Gaoren{/c}."
-1292,"{c05}≪ＨＲ5〜6≫{/c}の
+1292,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヤオザミ≫≪クスバミ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Hermitaur
 {/c}or {c05}Kusubami{/c}."
-1293,"{c05}≪ＨＲ5〜6≫{/c}の
+1293,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ダイミョウザザミ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Daimyo Hermitaur{/c}."
-1294,"{c05}≪ＨＲ5〜6≫{/c}の
+1294,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪タイクンザムザ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Taikun Zamuza{/c}."
-1295,"{c05}≪ＨＲ5〜6≫{/c}の
+1295,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガミザミ≫≪ショウグンギザミ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Ceanataur
 {/c}or {c05}Shogun Ceanataur{/c}."
-1296,"{c05}≪ＨＲ5〜6≫{/c}の
+1296,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ショウグンギザミ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Shogun Ceanataur{/c}."
-1297,"{c05}≪ＨＲ5〜6≫{/c}の
+1297,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ショウグンギザミ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Shogun Ceanataur{/c}."
-1298,"{c05}≪ＨＲ5〜6≫{/c}の
+1298,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グラビモス≫≪デュラガウア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gravios
 {/c}or {c05}Dyuragaua{/c}."
-1299,"{c05}≪ＨＲ5〜6≫{/c}の
+1299,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グラビモス≫≪デュラガウア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gravios
 {/c}or {c05}Dyuragaua{/c}."
-1300,"{c05}≪ＨＲ5〜6≫{/c}の
+1300,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グラビモス≫≪デュラガウア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gravios
 {/c}or {c05}Dyuragaua{/c}."
-1301,"{c05}≪ＨＲ5〜6≫{/c}の
+1301,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレイア≫≪ベルキュロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rathian
 {/c}or {c05}Berukyurosu{/c}."
-1302,"{c05}≪ＨＲ5〜6≫{/c}の
+1302,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレイア亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Pink Rathian{/c}."
-1303,"{c05}≪ＨＲ5〜6≫{/c}の
+1303,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレイア希少種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gold Rathian{/c}."
-1304,"{c05}≪ＨＲ5〜6≫{/c}の
+1304,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレウス≫≪ベルキュロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rathalos
 {/c}or {c05}Berukyurosu{/c}."
-1305,"{c05}≪ＨＲ5〜6≫{/c}の
+1305,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレウス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Azure Rathalos{/c}."
-1306,"{c05}≪ＨＲ5〜6≫{/c}の
+1306,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレウス希少種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Silver Rathalos{/c}."
-1307,"{c05}≪ＨＲ5〜6≫{/c}の
+1307,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グラビモス≫≪パリアプリア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gravios
 {/c}or {c05}Pariapuria{/c}."
-1308,"{c05}≪ＨＲ5〜6≫{/c}の
+1308,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グラビモス≫≪パリアプリア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gravios
 {/c}or {c05}Pariapuria{/c}."
-1309,"{c05}≪ＨＲ5〜6≫{/c}の
+1309,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グラビモス≫≪パリアプリア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gravios
 {/c}or {c05}Pariapuria{/c}."
-1310,"{c05}≪ＨＲ5〜6≫{/c}の
+1310,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガブラス≫≪フルフル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Khezu
 {/c}or {c05}Remobra{/c}."
-1311,"{c05}≪ＨＲ5〜6≫{/c}の
+1311,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フルフル≫≪フルフル亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Khezu
 {/c}or {c05}Red Khezu{/c}."
-1312,"{c05}≪ＨＲ5〜6≫{/c}の
+1312,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フルフル≫≪フルフル亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Khezu
 {/c}or {c05}Red Khezu{/c}."
-1313,"{c05}≪ＨＲ5〜6≫{/c}の
+1313,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレイア≫≪バサルモス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rathian
 {/c}or {c05}Basarios{/c}."
-1314,"{c05}≪ＨＲ5〜6≫{/c}の
+1314,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレウス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Azure Rathalos{/c}."
-1315,"{c05}≪ＨＲ5〜6≫{/c}の
+1315,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレウス希少種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Silver Rathalos{/c}."
-1316,"{c05}≪ＨＲ5〜6≫{/c}の
+1316,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレイア≫≪リオレウス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rathian
 {/c}or {c05}Rathalos{/c}."
-1317,"{c05}≪ＨＲ5〜6≫{/c}の
+1317,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレイア亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Pink Rathian{/c}."
-1318,"{c05}≪ＨＲ5〜6≫{/c}の
+1318,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレイア希少種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gold Rathian{/c}."
-1319,"{c05}≪ＨＲ5〜6≫{/c}の
+1319,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪エスピナス≫≪エスピナス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Espinas
 {/c}or {c05}Orange Espinas{/c}."
-1320,"{c05}≪ＨＲ5〜6≫{/c}の
+1320,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪エスピナス≫≪エスピナス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Espinas
 {/c}or {c05}Orange Espinas{/c}."
-1321,"{c05}≪ＨＲ5〜6≫{/c}の
+1321,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪エスピナス≫≪エスピナス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Espinas
 {/c}or {c05}Orange Espinas{/c}."
-1322,"{c05}≪ＨＲ5〜6≫{/c}の
+1322,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ディアブロス≫≪エスピナス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Espinas
 {/c}or {c05}Diablos{/c}."
-1323,"{c05}≪ＨＲ5〜6≫{/c}の
+1323,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ディアブロス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Black Diablos{/c}."
-1324,"{c05}≪ＨＲ5〜6≫{/c}の
+1324,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ディアブロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Diablos{/c}."
-1325,"{c05}≪ＨＲ5〜6≫{/c}の
+1325,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレイア≫≪グレンゼブル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rathian
 {/c}or {c05}Gurenzeburu{/c}."
-1326,"{c05}≪ＨＲ5〜6≫{/c}の
+1326,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グレンゼブル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Gurenzeburu{/c}."
-1327,"{c05}≪ＨＲ5〜6≫{/c}の
+1327,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グレンゼブル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Gurenzeburu{/c}."
-1328,"{c05}≪ＨＲ5〜6≫{/c}の
+1328,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪バサルモス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Basarios{/c}."
-1329,"{c05}≪ＨＲ5〜6≫{/c}の
+1329,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ディアブロス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Black Diablos{/c}."
-1330,"{c05}≪ＨＲ5〜6≫{/c}の
+1330,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ディアブロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Diablos{/c}."
-1331,"{c05}≪ＨＲ5〜6≫{/c}の
+1331,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレイア≫≪リオレイア亜種≫{/c}
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rathian
 {/c}or {c05}Pink Rathian{/c}."
-1332,"{c05}≪ＨＲ5〜6≫{/c}の
+1332,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレイア≫≪リオレイア亜種≫{/c}
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rathian
 {/c}or {c05}Pink Rathian{/c}."
-1333,"{c05}≪ＨＲ5〜6≫{/c}の
+1333,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレイア≫≪リオレイア亜種≫{/c}
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rathian
 {/c}or {c05}Pink Rathian{/c}."
-1334,"{c05}≪ＨＲ5〜6≫{/c}の
+1334,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガブラス≫≪バサルモス≫{/c}
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Basarios
 {/c}or {c05}Remobra{/c}."
-1335,"{c05}≪ＨＲ5〜6≫{/c}の
+1335,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪バサルモス≫≪グラビモス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Basarios
 {/c}or {c05}Gravios{/c}."
-1336,"{c05}≪ＨＲ5〜6≫{/c}の
+1336,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪バサルモス≫≪グラビモス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Basarios
 {/c}or {c05}Gravios{/c}."
-1337,"{c05}≪ＨＲ5〜6≫{/c}の
+1337,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アカムトルム≫≪ドラギュロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Akantor
 {/c}or {c05}Doragyurosu{/c}."
-1338,"{c05}≪ＨＲ5〜6≫{/c}の
+1338,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アカムトルム≫≪ドラギュロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Akantor
 {/c}or {c05}Doragyurosu{/c}."
-1339,"{c05}≪ＨＲ5〜6≫{/c}の
+1339,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アカムトルム≫≪ドラギュロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Akantor
 {/c}or {c05}Doragyurosu{/c}."
-1340,"{c05}≪ＨＲ5〜6≫{/c}の
+1340,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フルフル≫≪ディアブロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Khezu
 {/c}or {c05}Diablos{/c}."
-1341,"{c05}≪ＨＲ5〜6≫{/c}の
+1341,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フルフル亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Red Khezu{/c}."
-1342,"{c05}≪ＨＲ5〜6≫{/c}の
+1342,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ディアブロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Diablos{/c}."
-1343,"{c05}≪ＨＲ5〜6≫{/c}の
+1343,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレウス≫≪リオレウス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rathalos
 {/c}or {c05}Azure Rathalos{/c}."
-1344,"{c05}≪ＨＲ5〜6≫{/c}の
+1344,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ティガレックス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Tigrex{/c}."
-1345,"{c05}≪ＨＲ5〜6≫{/c}の
+1345,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ティガレックス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Tigrex{/c}."
-1346,"{c05}≪ＨＲ5〜6≫{/c}の
+1346,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アカムトルム≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Akantor{/c}."
-1347,"{c05}≪ＨＲ5〜6≫{/c}の
+1347,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アカムトルム≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Akantor{/c}."
-1348,"{c05}≪ＨＲ5〜6≫{/c}の
+1348,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アカムトルム≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Akantor{/c}."
-1349,"{c05}≪ＨＲ5〜6≫{/c}の
+1349,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フルフル≫≪フルフル亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Khezu
 {/c}or {c05}Red Khezu{/c}."
-1350,"{c05}≪ＨＲ5〜6≫{/c}の
+1350,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フルフル≫≪フルフル亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Khezu
 {/c}or {c05}Red Khezu{/c}."
-1351,"{c05}≪ＨＲ5〜6≫{/c}の
+1351,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フルフル≫≪パリアプリア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Khezu
 {/c}or {c05}Pariapuria{/c}."
-1352,"{c05}≪ＨＲ5〜6≫{/c}の
+1352,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガノトトス≫≪ガレオス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Cephalos
 {/c}or {c05}Plesioth{/c}."
-1353,"{c05}≪ＨＲ5〜6≫{/c}の
+1353,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガノトトス≫≪ガノトトス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Plesioth
 {/c}or {c05}Green Plesioth{/c}."
-1354,"{c05}≪ＨＲ5〜6≫{/c}の
+1354,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガノトトス≫≪ガノトトス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Plesioth
 {/c}or {c05}Green Plesioth{/c}."
-1355,"{c05}≪ＨＲ5〜6≫{/c}の
+1355,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガノトトス≫≪ヴォルガノス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Plesioth
 {/c}or {c05}Volganos{/c}."
-1356,"{c05}≪ＨＲ5〜6≫{/c}の
+1356,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガノトトス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Green Plesioth{/c}."
-1357,"{c05}≪ＨＲ5〜6≫{/c}の
+1357,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガノトトス≫≪ヴォルガノス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Plesioth
 {/c}or {c05}Volganos{/c}."
-1358,"{c05}≪ＨＲ5〜6≫{/c}の
+1358,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドスガレオス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Cephadrome{/c}."
-1359,"{c05}≪ＨＲ5〜6≫{/c}の
+1359,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴォルガノス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Red Volganos{/c}."
-1360,"{c05}≪ＨＲ5〜6≫{/c}の
+1360,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドスガレオス≫≪ヴォルガノス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Volganos
 {/c}or {c05}Cephadrome{/c}."
-1361,"{c05}≪ＨＲ5〜6≫{/c}の
+1361,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガレオス≫≪ガノトトス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Cephalos
 {/c}or {c05}Red Volganos{/c}."
-1362,"{c05}≪ＨＲ5〜6≫{/c}の
+1362,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガノトトス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Green Plesioth{/c}."
-1363,"{c05}≪ＨＲ5〜6≫{/c}の
+1363,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガノトトス≫≪ヴォルガノス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Plesioth
 {/c}or {c05}Volganos{/c}."
-1364,"{c05}≪ＨＲ5〜6≫{/c}の
+1364,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドスガレオス≫≪ガノトトス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Plesioth
 {/c}or {c05}Cephadrome{/c}."
-1365,"{c05}≪ＨＲ5〜6≫{/c}の
+1365,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドスガレオス≫≪ガノトトス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Plesioth
 {/c}or {c05}Cephadrome{/c}."
-1366,"{c05}≪ＨＲ5〜6≫{/c}の
+1366,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドスガレオス≫≪ガノトトス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Plesioth
 {/c}or {c05}Cephadrome{/c}."
-1367,"{c05}≪ＨＲ5〜6≫{/c}の
+1367,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イャンクック≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Yian Kut-Ku{/c}."
-1368,"{c05}≪ＨＲ5〜6≫{/c}の
+1368,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イャンクック亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Blue Yian Kut-Ku{/c}."
-1369,"{c05}≪ＨＲ5〜6≫{/c}の
+1369,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イャンガルルガ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Yian Garuga{/c}."
-1370,"{c05}≪ＨＲ5〜6≫{/c}の
+1370,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゲリョス≫≪ゲリョス亜種≫{/c}
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gypceros
 {/c}or {c05}Purple Gypceros{/c}."
-1371,"{c05}≪ＨＲ5〜6≫{/c}の
+1371,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゲリョス≫≪ゲリョス亜種≫{/c}
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gypceros
 {/c}or {c05}Purple Gypceros{/c}."
-1372,"{c05}≪ＨＲ5〜6≫{/c}の
+1372,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゲリョス≫≪ゲリョス亜種≫{/c}
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gypceros
@@ -5070,104 +5070,104 @@ Sub-Objectives in
 1373,dummy,
 1374,dummy,
 1375,dummy,
-1376,"{c05}≪ＨＲ5〜6≫{/c}の
+1376,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ランポス≫≪ゲネポス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Velociprey
 {/c}or {c05}Genprey{/c}."
-1377,"{c05}≪ＨＲ5〜6≫{/c}の
+1377,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドスランポス≫≪ドスゲネポス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Velocidrome
 {/c}or {c05}Gendrome{/c}."
-1378,"{c05}≪ＨＲ5〜6≫{/c}の
+1378,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドスランポス≫≪ドスイーオス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Velocidrome
 {/c}or {c05}Iodrome{/c}."
-1379,"{c05}≪ＨＲ5〜6≫{/c}の
+1379,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヒプノック≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Hypnoc{/c}."
-1380,"{c05}≪ＨＲ5〜6≫{/c}の
+1380,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヒプノック≫≪イャンガルルガ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Hypnoc
 {/c}or {c05}Yian Garuga{/c}."
-1381,"{c05}≪ＨＲ5〜6≫{/c}の
+1381,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヒプノック≫≪イャンガルルガ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Hypnoc
 {/c}or {c05}Yian Garuga{/c}."
-1382,"{c05}≪ＨＲ5〜6≫{/c}の
+1382,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イャンクック亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Blue Yian Kut-Ku{/c}."
-1383,"{c05}≪ＨＲ5〜6≫{/c}の
+1383,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イャンクック亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Blue Yian Kut-Ku{/c}."
-1384,"{c05}≪ＨＲ5〜6≫{/c}の
+1384,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イャンクック≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Yian Kut-Ku{/c}."
-1385,"{c05}≪ＨＲ5〜6≫{/c}の
+1385,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゲリョス≫≪ゲリョス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gypceros
 {/c}or {c05}Purple Gypceros{/c}."
-1386,"{c05}≪ＨＲ5〜6≫{/c}の
+1386,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゲリョス≫≪ゲリョス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gypceros
 {/c}or {c05}Purple Gypceros{/c}."
-1387,"{c05}≪ＨＲ5〜6≫{/c}の
+1387,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゲリョス≫≪ゲリョス亜種≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gypceros
 {/c}or {c05}Purple Gypceros{/c}."
-1388,"{c05}≪ＨＲ5〜6≫{/c}の
+1388,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イャンクック≫≪ヒプノック≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Hypnoc
 {/c}or {c05}Yian Kut-Ku{/c}."
-1389,"{c05}≪ＨＲ5〜6≫{/c}の
+1389,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヒプノック繁殖期≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Bright Hypnoc{/c}."
-1390,"{c05}≪ＨＲ5〜6≫{/c}の
+1390,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヒプノック≫≪イャンクック≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Hypnoc
 {/c}or {c05}Yian Kut-Ku{/c}."
-1391,"{c05}≪ＨＲ5〜6≫{/c}の
+1391,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヒプノック≫≪イャンガルルガ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Hypnoc
 {/c}or {c05}Yian Garuga{/c}."
-1392,"{c05}≪ＨＲ5〜6≫{/c}の
+1392,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヒプノック繁殖期≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Bright Hypnoc{/c}."
-1393,"{c05}≪ＨＲ5〜6≫{/c}の
+1393,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヒプノック≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Hypnoc{/c}."
-1394,"{c05}≪ＨＲ5〜6≫{/c}の
+1394,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ランポス≫≪イーオス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Velociprey
 {/c}or {c05}Ioprey{/c}."
-1395,"{c05}≪ＨＲ5〜6≫{/c}の
+1395,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドスランポス≫≪ドスゲネポス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Velocidrome
 {/c}or {c05}Gendrome{/c}."
-1396,"{c05}≪ＨＲ5〜6≫{/c}の
+1396,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドスランポス≫≪ドスゲネポス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Velocidrome
@@ -5175,126 +5175,126 @@ Sub-Objectives in
 1397,dummy,
 1398,dummy,
 1399,dummy,
-1400,"{c05}≪ＨＲ5〜6≫{/c}の
+1400,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ラオシャンロン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Lao-Shan Lung{/c}."
-1401,"{c05}≪ＨＲ5〜6≫{/c}の
+1401,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ラオシャンロン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Lao-Shan Lung{/c}."
-1402,"{c05}≪ＨＲ5〜6≫{/c}の
+1402,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ラオシャンロン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Lao-Shan Lung{/c}."
-1403,"{c05}≪ＨＲ5〜6≫{/c}の
+1403,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪キリン≫≪テオ・テスカトル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Kirin
 {/c}or {c05}Teostra{/c}."
-1404,"{c05}≪ＨＲ5〜6≫{/c}の
+1404,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪キリン≫≪ナナ・テスカトリ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Kirin
 {/c}or {c05}Lunastra{/c}."
-1405,"{c05}≪ＨＲ5〜6≫{/c}の
+1405,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪キリン≫≪ナナ・テスカトリ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Kirin
 {/c}or {c05}Lunastra{/c}."
-1406,"{c05}≪ＨＲ5〜6≫{/c}の
+1406,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪キリン≫≪ヤマツカミ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Kirin
 {/c}or {c05}Yama Tsukami{/c}."
-1407,"{c05}≪ＨＲ5〜6≫{/c}の
+1407,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪キリン≫≪ヤマツカミ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Kirin
 {/c}or {c05}Yama Tsukami{/c}."
-1408,"{c05}≪ＨＲ5〜6≫{/c}の
+1408,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪キリン≫≪ヤマツカミ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Kirin
 {/c}or {c05}Yama Tsukami{/c}."
-1409,"{c05}≪ＨＲ5〜6≫{/c}の
+1409,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オオナズチ≫≪ラオシャンロン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Lao-Shan Lung
 {/c}or {c05}Chameleos{/c}."
-1410,"{c05}≪ＨＲ5〜6≫{/c}の
+1410,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オオナズチ≫≪ラオシャンロン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Lao-Shan Lung
 {/c}or {c05}Chameleos{/c}."
-1411,"{c05}≪ＨＲ5〜6≫{/c}の
+1411,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オオナズチ≫≪ラオシャンロン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Lao-Shan Lung
 {/c}or {c05}Chameleos{/c}."
-1412,"{c05}≪ＨＲ5〜6≫{/c}の
+1412,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪テオ・テスカトル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Teostra{/c}."
-1413,"{c05}≪ＨＲ5〜6≫{/c}の
+1413,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ルコディオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rukodiora{/c}."
-1414,"{c05}≪ＨＲ5〜6≫{/c}の
+1414,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ルコディオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rukodiora{/c}."
-1415,"{c05}≪ＨＲ5〜6≫{/c}の
+1415,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヤマツカミ≫≪ルコディオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rukodiora 
 {/c}or {c05}Yama Tsukami{/c}."
-1416,"{c05}≪ＨＲ5〜6≫{/c}の
+1416,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヤマツカミ≫≪ルコディオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rukodiora 
 {/c}or {c05}Yama Tsukami{/c}."
-1417,"{c05}≪ＨＲ5〜6≫{/c}の
+1417,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヤマツカミ≫≪ルコディオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rukodiora 
 {/c}or {c05}Yama Tsukami{/c}."
-1418,"{c05}≪ＨＲ5〜6≫{/c}の
+1418,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-1419,"{c05}≪ＨＲ5〜6≫{/c}の
+1419,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-1420,"{c05}≪ＨＲ5〜6≫{/c}の
+1420,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-1421,"{c05}≪ＨＲ5〜6≫{/c}の
+1421,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オオナズチ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Chameleos{/c}."
-1422,"{c05}≪ＨＲ5〜6≫{/c}の
+1422,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オオナズチ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Chameleos{/c}."
-1423,"{c05}≪ＨＲ5〜6≫{/c}の
+1423,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オオナズチ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Chameleos{/c}."
-1424,"{c05}≪ＨＲ5〜6≫{/c}の
+1424,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ルコディオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rukodiora{/c}."
-1425,"{c05}≪ＨＲ5〜6≫{/c}の
+1425,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ルコディオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rukodiora{/c}."
-1426,"{c05}≪ＨＲ5〜6≫{/c}の
+1426,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ルコディオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rukodiora{/c}."
@@ -5307,63 +5307,63 @@ Sub-Objectives in
 1433,dummy,
 1434,dummy,
 1435,dummy,
-1436,"{c05}≪ＨＲ5〜6≫{/c}の
+1436,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フルフル≫≪ラージャン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Khezu
 {/c}or {c05}Rajang{/c}."
-1437,"{c05}≪ＨＲ5〜6≫{/c}の
+1437,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イャンクック≫≪リオレイア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Yian Kut-Ku
 {/c}or {c05}Rathian{/c}."
-1438,"{c05}≪ＨＲ5〜6≫{/c}の
+1438,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガノトトス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Plesioth{/c}."
-1439,"{c05}≪ＨＲ5〜6≫{/c}の
+1439,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドドブランゴ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Blangonga{/c}."
-1440,"{c05}≪ＨＲ5〜6≫{/c}の
+1440,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヒプノック≫{/c}
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Hypnoc{/c}."
-1441,"{c05}≪ＨＲ5〜6≫{/c}の
+1441,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドスイーオス≫≪ゲリョス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Iodrome
 {/c}or {c05}Gypceros{/c}."
-1442,"{c05}≪ＨＲ5〜6≫{/c}の
+1442,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドスゲネポス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gendrome{/c}."
-1443,"{c05}≪ＨＲ5〜6≫{/c}の
+1443,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ブルファンゴ≫≪ランポス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Carve from {c05}Bullfango
 {/c}or {c05}Velociprey{/c}."
-1444,"{c05}≪ＨＲ5〜6≫{/c}の
+1444,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イャンクック≫≪リオレイア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Yian Kut-Ku
 {/c}or {c05}Rathian{/c}."
-1445,"{c05}≪ＨＲ5〜6≫{/c}の
+1445,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ラオシャンロン≫≪キリン≫{/c}
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Kirin
 {/c}or {c05}Lao-Shan Lung{/c}."
-1446,"{c05}≪ＨＲ5〜6≫{/c}の
+1446,"{c05}≪ＨＲ5～6≫{/c}の
 モンスターを{c05}≪捕獲≫{/c}
 することで入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain by {c05}Capturing 
 {/c}various monsters{/c}."
-1447,"{c05}≪ＨＲ5〜6≫{/c}の
+1447,"{c05}≪ＨＲ5～6≫{/c}の
 モンスターの{c05}≪部位破壊≫{/c}を
 することで入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain by {c05}Breaking parts
 off {/c}various monsters."
-1448,"{c05}≪ＨＲ5〜6≫{/c}の
+1448,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ハンターズクエスト≫{/c}の報酬
 から入手可能。","Obtain from completing 
 {c05}Hunter Quests{/c}."
@@ -5444,12 +5444,12 @@ for details."
 ご確認ください。","{c05}Package Item {/c}or 
 Please check site 
 for details."
-1467,"{c05}≪ＨＲ5〜6≫{/c}の
+1467,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬や
 {c05}≪Ｎポイント交換≫{/c}から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests {/c}or 
 Trading: {c05}GCP{/c}."
-1468,"{c05}≪ＨＲ5〜6≫{/c}の
+1468,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
@@ -5682,7 +5682,7 @@ Trading: {c05}Npoints{/c}."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-1519,"{c05}≪ＨＲ5〜6≫{/c}の
+1519,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬や
 {c05}≪Ｎポイント交換≫{/c}から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests {/c}or 
@@ -5692,7 +5692,7 @@ Trading: {c05}GCP{/c}."
 サイト≫{/c}をご確認ください。","Awarded to 
 {c05}Hunter Festival {/c}participants. 
 Check site for details."
-1521,"{c05}≪ＨＲ5〜6≫{/c}の
+1521,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬や
 {c05}≪Ｎポイント交換≫{/c}から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests {/c}or 
@@ -6223,11 +6223,11 @@ Trading: {c05}Npoints{/c}."
 {c02}Cannot be brought 
 back from quests{/c}."
 1662,dummy,
-1663,"{c05}≪ＨＲ5〜6≫{/c}の
+1663,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪テオ・テスカトル≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Teostra{/c}."
-1664,"{c05}≪ＨＲ5〜6≫{/c}の
+1664,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ベルキュロス≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -6690,7 +6690,7 @@ for details."
 ご確認ください。","{c05}Package Item {/c}or 
 Please check site 
 for details."
-1768,"{c05}≪ＨＲ5〜6≫{/c}の
+1768,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -6807,39 +6807,39 @@ Item Shop{/c}."
 {c05}Caravan Special 
 Item Shop{/c}."
 1792,dummy,
-1793,"{c05}≪ＨＲ5〜6≫{/c}の
+1793,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オオナズチ≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Chameleos{/c}."
-1794,"{c05}≪ＨＲ5〜6≫{/c}の
+1794,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪パリアプリア≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Pariapuria{/c}."
-1795,"{c05}≪ＨＲ3〜4≫{/c}の
+1795,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪パリアプリア≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Pariapuria{/c}."
-1796,"{c05}≪ＨＲ3〜4≫{/c}の
+1796,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪パリアプリア≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Pariapuria{/c}."
-1797,"{c05}≪ＨＲ3〜4≫{/c}の
+1797,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪パリアプリア≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Pariapuria{/c}."
-1798,"{c05}≪ＨＲ3〜4≫{/c}の
+1798,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪パリアプリア≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Pariapuria{/c}."
-1799,"{c05}≪ＨＲ3〜4≫{/c}の
+1799,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪パリアプリア≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Pariapuria{/c}."
-1800,"{c05}≪ＨＲ3〜4≫{/c}の
+1800,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪パリアプリア≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Pariapuria{/c}."
-1801,"{c05}≪ＨＲ3〜4≫{/c}の
+1801,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪パリアプリア≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Pariapuria{/c}."
@@ -7060,11 +7060,11 @@ for details."
 ご確認ください。","{c05}Package Item {/c}or 
 Please check site 
 for details."
-1846,"{c05}≪ＨＲ5〜6≫{/c}の
+1846,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-1847,"{c05}≪ＨＲ5〜6≫{/c}の
+1847,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -7139,11 +7139,11 @@ for details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-1866,"{c05}≪ＨＲ5〜6≫{/c}の
+1866,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ラオシャンロン≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Lao-Shan Lung{/c}."
-1867,"{c05}≪ＨＲ5〜6≫{/c}の
+1867,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪シェンガオレン≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Shen Gaoren{/c}."
@@ -7187,12 +7187,12 @@ for details."
 から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}White Espinas{/c}."
-1876,"{c05}≪ＨＲ3〜4≫{/c}の
+1876,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ノノ・オルガロン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Nono Orugaron{/c}."
-1877,"{c05}≪ＨＲ3〜4≫{/c}の
+1877,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ノノ・オルガロン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
@@ -7202,7 +7202,7 @@ for details."
 {/c}から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Kamu Orugaron{/c}."
-1879,"{c05}≪ＨＲ3〜4≫{/c}の
+1879,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ノノ・オルガロン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
@@ -7212,7 +7212,7 @@ for details."
 {/c}から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Kamu Orugaron{/c}."
-1881,"{c05}≪ＨＲ3〜4≫{/c}の
+1881,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ノノ・オルガロン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
@@ -7222,7 +7222,7 @@ for details."
 {/c}から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Kamu Orugaron{/c}."
-1883,"{c05}≪ＨＲ3〜4≫{/c}の
+1883,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ノノ・オルガロン≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from 
@@ -7232,7 +7232,7 @@ for details."
 {/c}から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Kamu Orugaron{/c}."
-1885,"{c05}≪ＨＲ5〜6≫{/c}の
+1885,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ナナ・テスカトリ≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Lunastra{/c}."
@@ -7269,12 +7269,12 @@ from the {c05}General Store{/c}."
 1896,"{c05}≪総合ショップ≫
 {/c}から入手可能。","Available for purchase 
 from the {c05}General Store{/c}."
-1897,"{c05}≪ＨＲ5〜6≫{/c}の
+1897,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ＨＲ突破特典≫{/c}や
 {c05}≪特別調合≫{/c}から入手可能。","Obtain from 
 Special Combining at 
 the {c05}Combiner{/c}."
-1898,"{c05}≪ＨＲ5〜6≫{/c}の
+1898,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪カム・オルガロン≫≪ノノ・オル
 ガロン≫{/c}の報酬から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Kamu {/c}or
@@ -7539,7 +7539,7 @@ for details."
 ご確認ください。","{c05}Package Item {/c}or 
 Please check site 
 for details."
-2031,"{c05}≪ＨＲ5〜6≫{/c}の
+2031,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -7555,7 +7555,7 @@ for details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-2035,"{c05}≪ＨＲ5〜6≫{/c}の
+2035,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -8026,7 +8026,7 @@ for details."
 2141,"{c05}≪特別イベントクエスト≫{/c}の報酬
 から入手可能。","Obtain from a 
 {c05}Special Event Quest{/c}."
-2142,"{c05}≪ＨＲ5〜6≫{/c}の
+2142,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -8039,57 +8039,57 @@ for details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-2146,"{c05}≪ＨＲ2、5〜6≫{/c}の
+2146,"{c05}≪ＨＲ2、5～6≫{/c}の
 {c05}≪ラヴィエンテ≫
 {/c}から入手可能。","Found in {c05}[HR 2, 5-6] 
 {/c}Obtain from {c05}Raviente{/c}."
-2147,"{c05}≪ＨＲ2、5〜6≫{/c}の
+2147,"{c05}≪ＨＲ2、5～6≫{/c}の
 {c05}≪ラヴィエンテ≫
 {/c}から入手可能。","Found in {c05}[HR 2, 5-6] 
 {/c}Obtain from {c05}Raviente{/c}."
-2148,"{c05}≪ＨＲ2、5〜6≫{/c}の
+2148,"{c05}≪ＨＲ2、5～6≫{/c}の
 {c05}≪ラヴィエンテ≫
 {/c}から入手可能。","Found in {c05}[HR 2, 5-6] 
 {/c}Obtain from {c05}Raviente{/c}."
-2149,"{c05}≪ＨＲ2、5〜6≫{/c}の
+2149,"{c05}≪ＨＲ2、5～6≫{/c}の
 {c05}≪ラヴィエンテ≫
 {/c}から入手可能。","Found in {c05}[HR 2, 5-6] 
 {/c}Obtain from {c05}Raviente{/c}."
-2150,"{c05}≪ＨＲ2、5〜6≫{/c}の
+2150,"{c05}≪ＨＲ2、5～6≫{/c}の
 {c05}≪ラヴィエンテ≫
 {/c}から入手可能。","Found in {c05}[HR 2, 5-6] 
 {/c}Obtain from {c05}Raviente{/c}."
-2151,"{c05}≪ＨＲ2、5〜6≫{/c}の
+2151,"{c05}≪ＨＲ2、5～6≫{/c}の
 {c05}≪ラヴィエンテ≫
 {/c}から入手可能。","Found in {c05}[HR 2, 5-6] 
 {/c}Obtain from {c05}Raviente{/c}."
-2152,"{c05}≪ＨＲ2、5〜6≫{/c}の
+2152,"{c05}≪ＨＲ2、5～6≫{/c}の
 {c05}≪ラヴィエンテ≫
 {/c}から入手可能。","Found in {c05}[HR 2, 5-6] 
 {/c}Obtain from {c05}Raviente{/c}."
-2153,"{c05}≪ＨＲ2、5〜6≫{/c}の
+2153,"{c05}≪ＨＲ2、5～6≫{/c}の
 {c05}≪ラヴィエンテ≫
 {/c}から入手可能。","Found in {c05}[HR 2, 5-6] 
 {/c}Obtain from {c05}Raviente{/c}."
-2154,"{c05}≪ＨＲ2、5〜6≫{/c}の
+2154,"{c05}≪ＨＲ2、5～6≫{/c}の
 {c05}≪ラヴィエンテ≫
 {/c}から入手可能。","Found in {c05}[HR 2, 5-6] 
 {/c}Obtain from {c05}Raviente{/c}."
-2155,"{c05}≪ＨＲ2、5〜6≫{/c}の
+2155,"{c05}≪ＨＲ2、5～6≫{/c}の
 {c05}≪ラヴィエンテ≫
 {/c}から入手可能。","Found in {c05}[HR 2, 5-6] 
 {/c}Obtain from {c05}Raviente{/c}."
-2156,"{c05}≪ＨＲ2〜6≫{/c}の
+2156,"{c05}≪ＨＲ2～6≫{/c}の
 {c05}≪大討伐クエスト≫
 {/c}で入手可能。","Found in {c05}[HR 2-6] 
 {/c}Obtain from 
 {c05}Great Slaying Quests{/c}."
-2157,"{c05}≪ＨＲ2〜6≫{/c}の
+2157,"{c05}≪ＨＲ2～6≫{/c}の
 {c05}≪大討伐クエスト≫
 {/c}で入手可能。","Found in {c05}[HR 2-6] 
 {/c}Obtain from 
 {c05}Great Slaying Quests{/c}."
-2158,"{c05}≪ＨＲ2〜6≫{/c}の
+2158,"{c05}≪ＨＲ2～6≫{/c}の
 {c05}≪大討伐クエスト≫
 {/c}で入手可能。","Found in {c05}[HR 2-6] 
 {/c}Obtain from 
@@ -8286,17 +8286,17 @@ Pioneer Quests{/c}."
 {c05}≪開拓クエスト≫{/c}での{c05}≪人工物≫
 {/c}から入手可能。","Relic: {c05}Caravan 
 Pioneer Quests{/c}."
-2207,"{c05}≪ＨＲ5〜6≫{/c}の
+2207,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヤマツカミ≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Yama Tsukami{/c}."
-2208,"{c05}≪ＨＲ5〜6≫{/c}の
+2208,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-2209,"{c05}≪ＨＲ5〜6≫{/c}の
+2209,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪テオ・テスカトル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Teostra{/c}."
@@ -9806,15 +9806,15 @@ for details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-2643,"{c05}≪ＨＲ5〜6≫{/c}の
+2643,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-2644,"{c05}≪ＨＲ5〜6≫{/c}の
+2644,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-2645,"{c05}≪ＨＲ2〜4≫{/c}の
+2645,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪デュラガウア≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
@@ -9824,12 +9824,12 @@ for details."
 {/c}から入手可能。","Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Dyuragaua{/c}."
-2647,"{c05}≪ＨＲ2〜4≫{/c}の
+2647,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪デュラガウア≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Dyuragaua{/c}."
-2648,"{c05}≪ＨＲ2〜4≫{/c}の
+2648,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪デュラガウア≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
@@ -9839,7 +9839,7 @@ for details."
 {/c}から入手可能。","Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Dyuragaua{/c}."
-2650,"{c05}≪ＨＲ2〜4≫{/c}の
+2650,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪デュラガウア≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
@@ -9874,7 +9874,7 @@ for details."
 から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Dyuragaua{/c}."
-2657,"{c05}≪ＨＲ5〜6≫{/c}の
+2657,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪デュラガウア≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -10059,17 +10059,17 @@ a quest."
 から入手可能。","Obtain by enabling 
 {c05}Hardcore {/c}mode on 
 a quest."
-2703,"{c05}≪ＨＲ1〜2≫{/c}の
+2703,"{c05}≪ＨＲ1～2≫{/c}の
 {c05}≪イャンクック≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 1-2] 
 {/c}Obtain from 
 {c05}Yian Kut-Ku{/c}."
-2704,"{c05}≪ＨＲ3〜4≫{/c}の
+2704,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪イャンクック≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Yian Kut-Ku{/c}."
-2705,"{c05}≪ＨＲ5〜6≫{/c}の
+2705,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イャンクック≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -10079,12 +10079,12 @@ a quest."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Congalala{/c}."
-2707,"{c05}≪ＨＲ3〜4≫{/c}の
+2707,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ババコンガ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Congalala{/c}."
-2708,"{c05}≪ＨＲ5〜6≫{/c}の
+2708,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ババコンガ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -10094,12 +10094,12 @@ a quest."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Volganos{/c}."
-2710,"{c05}≪ＨＲ3〜4≫{/c}の
+2710,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヴォルガノス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Volganos{/c}."
-2711,"{c05}≪ＨＲ5〜6≫{/c}の
+2711,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴォルガノス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -10109,12 +10109,12 @@ a quest."
 から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Khezu{/c}."
-2713,"{c05}≪ＨＲ3〜4≫{/c}の
+2713,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪フルフル≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Khezu{/c}."
-2714,"{c05}≪ＨＲ5〜6≫{/c}の
+2714,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フルフル≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -10124,12 +10124,12 @@ a quest."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Rathalos{/c}."
-2716,"{c05}≪ＨＲ3〜4≫{/c}の
+2716,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪リオレウス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Rathalos{/c}."
-2717,"{c05}≪ＨＲ5〜6≫{/c}の
+2717,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレウス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -10139,12 +10139,12 @@ a quest."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Rathian{/c}."
-2719,"{c05}≪ＨＲ3〜4≫{/c}の
+2719,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪リオレイア≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Rathian{/c}."
-2720,"{c05}≪ＨＲ5〜6≫{/c}の
+2720,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレイア≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -10154,12 +10154,12 @@ a quest."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Diablos{/c}."
-2722,"{c05}≪ＨＲ3〜4≫{/c}の
+2722,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ディアブロス≫{/c}
 から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Diablos{/c}."
-2723,"{c05}≪ＨＲ5〜6≫{/c}の
+2723,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ディアブロス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -10169,12 +10169,12 @@ a quest."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Blangonga{/c}."
-2725,"{c05}≪ＨＲ3〜4≫{/c}の
+2725,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ドドブランゴ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Blangonga{/c}."
-2726,"{c05}≪ＨＲ5〜6≫{/c}の
+2726,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドドブランゴ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -11004,7 +11004,7 @@ Pioneer Quests{/c}."
 {/c}から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Doragyurosu{/c}."
-2963,"{c05}≪ＨＲ5〜6≫{/c}の
+2963,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドラギュロス≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -13039,12 +13039,12 @@ for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Basarios{/c}."
-3511,"{c05}≪ＨＲ3〜4≫{/c}の
+3511,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪バサルモス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Basarios{/c}."
-3512,"{c05}≪ＨＲ5〜6≫{/c}の
+3512,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪バサルモス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -13054,12 +13054,12 @@ for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Gypceros{/c}."
-3514,"{c05}≪ＨＲ3〜4≫{/c}の
+3514,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ゲリョス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Gypceros{/c}."
-3515,"{c05}≪ＨＲ5〜6≫{/c}の
+3515,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゲリョス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -13069,12 +13069,12 @@ for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Teostra{/c}."
-3517,"{c05}≪ＨＲ3〜4≫{/c}の
+3517,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪テオ・テスカトル≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Teostra{/c}."
-3518,"{c05}≪ＨＲ5〜6≫{/c}の
+3518,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪テオ・テスカトル≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -13084,64 +13084,64 @@ for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Plesioth{/c}."
-3520,"{c05}≪ＨＲ3〜4≫{/c}の
+3520,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ガノトトス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Plesioth{/c}."
-3521,"{c05}≪ＨＲ5〜6≫{/c}の
+3521,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガノトトス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Plesioth{/c}."
-3522,"{c05}≪ＨＲ1〜2≫{/c}の
+3522,"{c05}≪ＨＲ1～2≫{/c}の
 {c05}≪ダイミョウザザミ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 1-2] 
 {/c}Obtain from 
 {c05}Daimyo Hermitaur{/c}."
-3523,"{c05}≪ＨＲ3〜4≫{/c}の
+3523,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ダイミョウザザミ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Daimyo Hermitaur{/c}."
-3524,"{c05}≪ＨＲ5〜6≫{/c}の
+3524,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ダイミョウザザミ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Daimyo Hermitaur{/c}."
 3525,dummy,
-3526,"{c05}≪ＨＲ3〜4≫{/c}の
+3526,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ティガレックス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Tigrex{/c}."
-3527,"{c05}≪ＨＲ5〜6≫{/c}の
+3527,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ティガレックス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Tigrex{/c}."
-3528,"{c05}≪ＨＲ1〜2≫{/c}の
+3528,"{c05}≪ＨＲ1～2≫{/c}の
 {c05}≪ヒプノック≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 1-2] 
 {/c}Obtain from 
 {c05}Hypnoc{/c}."
-3529,"{c05}≪ＨＲ3〜4≫{/c}の
+3529,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ヒプノック≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Hypnoc{/c}."
-3530,"{c05}≪ＨＲ5〜6≫{/c}の
+3530,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヒプノック≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Hypnoc{/c}."
 3531,dummy,
-3532,"{c05}≪ＨＲ3〜4≫{/c}の
+3532,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪パリアプリア≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Pariapuria{/c}."
-3533,"{c05}≪ＨＲ5〜6≫{/c}の
+3533,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪パリアプリア≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -13153,37 +13153,37 @@ for details."
 {/c}Obtain from 
 {c05}Orange Espinas{/c}."
 3536,dummy,
-3537,"{c05}≪ＨＲ2〜4≫{/c}の
+3537,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪グレンゼブル≫
 {/c}から入手可能。","{c02}[HC] {/c}Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Gurenzeburu{/c}."
-3538,"{c05}≪ＨＲ2〜4≫{/c}の
+3538,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪グレンゼブル≫
 {/c}から入手可能。","{c02}[HC] {/c}Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Gurenzeburu{/c}."
-3539,"{c05}≪ＨＲ2〜4≫{/c}の
+3539,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪グレンゼブル≫
 {/c}から入手可能。","{c02}[HC] {/c}Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Gurenzeburu{/c}."
-3540,"{c05}≪ＨＲ2〜4≫{/c}の
+3540,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪グレンゼブル≫
 {/c}から入手可能。","{c02}[HC] {/c}Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Gurenzeburu{/c}."
-3541,"{c05}≪ＨＲ2〜4≫{/c}の
+3541,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪グレンゼブル≫
 {/c}から入手可能。","{c02}[HC] {/c}Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Gurenzeburu{/c}."
-3542,"{c05}≪ＨＲ2〜4≫{/c}の
+3542,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪グレンゼブル≫
 {/c}から入手可能。","{c02}[HC] {/c}Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Gurenzeburu{/c}."
-3543,"{c05}≪ＨＲ2〜4≫{/c}の
+3543,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪グレンゼブル≫
 {/c}から入手可能。","{c02}[HC] {/c}Found in {c05}[HR 2-4] 
 {/c}Obtain from 
@@ -13223,7 +13223,7 @@ for details."
 {/c}から入手可能。","{c02}[HC] {/c}Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Gurenzeburu{/c}."
-3551,"{c05}≪ＨＲ5〜6≫{/c}の
+3551,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グレンゼブル≫{/c}の報酬
 から入手可能。","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -13315,11 +13315,11 @@ Trading: {c05}GCP Exchange{/c}."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-3571,"{c05}≪ＨＲ5〜6≫{/c}の
+3571,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪シェンガオレン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Shen Gaoren{/c}."
-3572,"{c05}≪ＨＲ5〜6≫{/c}の
+3572,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヤマツカミ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -13334,27 +13334,27 @@ Trading[HR3+]: {c05}Npoints{/c}."
 {c05}≪Ｎポイント交換≫{/c}から入手可能。","Fishing : 
 {c05}Highlands {/c}or 
 Trading[HR3+]: {c05}Npoints{/c}."
-3575,"{c05}≪ＨＲ2〜4≫{/c}の
+3575,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ブルック≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Carve from {c05}Burukku{/c}."
-3576,"{c05}≪ＨＲ2〜4≫{/c}の
+3576,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ブルック≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Carve from {c05}Burukku{/c}."
-3577,"{c05}≪ＨＲ2〜4≫{/c}の
+3577,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ブルック≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Carve from {c05}Burukku{/c}."
-3578,"{c05}≪ＨＲ2〜4≫{/c}の
+3578,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪エルペ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Carve from {c05}Erupe{/c}."
-3579,"{c05}≪ＨＲ2〜4≫{/c}の
+3579,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪エルペ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Carve from {c05}Erupe{/c}."
-3580,"{c05}≪ＨＲ2〜4≫{/c}の
+3580,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪エルペ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Carve from {c05}Erupe{/c}."
@@ -13914,7 +13914,7 @@ Trading: {c05}GCP Exchange{/c}."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-3704,"{c05}≪ＨＲ5〜6≫{/c}の
+3704,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -13955,12 +13955,12 @@ site for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Kirin{/c}."
-3713,"{c05}≪ＨＲ3〜4≫{/c}の
+3713,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪キリン≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Kirin{/c}."
-3714,"{c05}≪ＨＲ5〜6≫{/c}の
+3714,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪キリン≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -13970,12 +13970,12 @@ site for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Chameleos{/c}."
-3716,"{c05}≪ＨＲ3〜4≫{/c}の
+3716,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪オオナズチ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Chameleos{/c}."
-3717,"{c05}≪ＨＲ5〜6≫{/c}の
+3717,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オオナズチ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -13985,17 +13985,17 @@ site for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Yian Garuga{/c}."
-3719,"{c05}≪ＨＲ5〜6≫{/c}の
+3719,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イャンガルルガ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Yian Garuga{/c}."
-3720,"{c05}≪ＨＲ3〜4≫{/c}の
+3720,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪エスピナス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Espinas{/c}."
-3721,"{c05}≪ＨＲ5〜6≫{/c}の
+3721,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪エスピナス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -14010,7 +14010,7 @@ site for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Dyuragaua{/c}."
-3724,"{c05}≪ＨＲ5〜6≫{/c}の
+3724,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪デュラガウア≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -14020,22 +14020,22 @@ site for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Shogun Ceanataur{/c}."
-3726,"{c05}≪ＨＲ3〜4≫{/c}の
+3726,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ショウグンギザミ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Shogun Ceanataur{/c}."
-3727,"{c05}≪ＨＲ5〜6≫{/c}の
+3727,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ショウグンギザミ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Shogun Ceanataur{/c}."
-3728,"{c05}≪ＨＲ3〜4≫{/c}の
+3728,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ラージャン≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Rajang{/c}."
-3729,"{c05}≪ＨＲ5〜6≫{/c}の
+3729,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ラージャン≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -14044,17 +14044,17 @@ site for details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-3731,"{c05}≪ＨＲ1〜2≫{/c}の
+3731,"{c05}≪ＨＲ1～2≫{/c}の
 {c05}≪ドスランポス≫{/c}
 から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 1-2] 
 {/c}Obtain from 
 {c05}Velocidrome{/c}."
-3732,"{c05}≪ＨＲ3〜4≫{/c}の
+3732,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ドスランポス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Velocidrome{/c}."
-3733,"{c05}≪ＨＲ5〜6≫{/c}の
+3733,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドスランポス≫{/c}
 から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -14069,16 +14069,16 @@ site for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Azure Rathalos{/c}."
-3736,"{c05}≪ＨＲ3〜4≫{/c}の
+3736,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪リオレウス亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Azure Rathalos{/c}."
-3737,"{c05}≪ＨＲ5〜6≫{/c}の
+3737,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オオナズチ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Chameleos{/c}."
-3738,"{c05}≪ＨＲ5〜6≫{/c}の
+3738,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪キリン≫
 {/c}から入手可能。","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -14926,27 +14926,27 @@ a quest{/c}."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-3984,"{c05}≪ＨＲ2〜4≫{/c}の
+3984,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ルコディオラ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Rukodiora{/c}."
-3985,"{c05}≪ＨＲ2〜4≫{/c}の
+3985,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ルコディオラ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Rukodiora{/c}."
-3986,"{c05}≪ＨＲ2〜4≫{/c}の
+3986,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ルコディオラ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Rukodiora{/c}."
-3987,"{c05}≪ＨＲ2〜4≫{/c}の
+3987,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ルコディオラ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
 {c05}Rukodiora{/c}."
-3988,"{c05}≪ＨＲ2〜4≫{/c}の
+3988,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ルコディオラ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
@@ -14981,11 +14981,11 @@ a quest{/c}."
 {/c}から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Rukodiora{/c}."
-3995,"{c05}≪ＨＲ5〜6≫{/c}の
+3995,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ルコディオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rukodiora{/c}."
-3996,"{c05}≪ＨＲ5〜6≫{/c}の
+3996,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ルコディオラ≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -15040,15 +15040,15 @@ Trading: {c05}GCP Exchange{/c}."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-4008,"{c05}≪ＨＲ5〜6≫{/c}の
+4008,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-4009,"{c05}≪ＨＲ5〜6≫{/c}の
+4009,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-4010,"{c05}≪ＨＲ5〜6≫{/c}の
+4010,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -15401,23 +15401,23 @@ for details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-4088,"{c05}≪ＨＲ5〜6≫{/c}の
+4088,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-4089,"{c05}≪ＨＲ5〜6≫{/c}の
+4089,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-4090,"{c05}≪ＨＲ5〜6≫{/c}の
+4090,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-4091,"{c05}≪ＨＲ5〜6≫{/c}の
+4091,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-4092,"{c05}≪ＨＲ5〜6≫{/c}の
+4092,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -16230,12 +16230,12 @@ for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-4321,"{c05}≪ＨＲ3〜4≫{/c}の
+4321,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-4322,"{c05}≪ＨＲ5〜6≫{/c}の
+4322,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -16245,17 +16245,17 @@ for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Kamu Orugaron{/c}."
-4324,"{c05}≪ＨＲ5〜6≫{/c}の
+4324,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪カム・オルガロン≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Kamu Orugaron{/c}."
-4325,"{c05}≪ＨＲ3〜4≫{/c}の
+4325,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ノノ・オルガロン≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Nono Orugaron{/c}."
-4326,"{c05}≪ＨＲ5〜6≫{/c}の
+4326,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ノノ・オルガロン≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -16265,7 +16265,7 @@ for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Pink Rathian{/c}."
-4328,"{c05}≪ＨＲ3〜4≫{/c}の
+4328,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪リオレイア亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
@@ -16275,7 +16275,7 @@ for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Red Khezu{/c}."
-4330,"{c05}≪ＨＲ3〜4≫{/c}の
+4330,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪フルフル亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
@@ -16352,12 +16352,12 @@ back from quests{/c}."
 {c02}持ち帰り不可。","{c05}Account Item 
 {c02}Cannot be brought 
 back from quests{/c}."
-4351,"{c05}≪ＨＲ5〜6≫{/c}の
+4351,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドラギュロス≫≪グレンゼブル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gurenzeburu
 {/c}or {c05}Doragyurosu{/c}."
-4352,"{c05}≪ＨＲ5〜6≫{/c}の
+4352,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ベルキュロス≫≪デュラガウア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Berukyurosu
@@ -16429,7 +16429,7 @@ for details."
 ご確認ください。","{c05}Package Item {/c}or 
 Please check site 
 for details."
-4367,"{c05}≪ＨＲ5〜6≫{/c}の
+4367,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -16568,16 +16568,16 @@ a quest{/c}."
 {c02}持ち帰り不可。","Obtained in {c05}Quest Supplies 
 {c02}cannot be kept after 
 a quest{/c}."
-4398,"{c05}≪ＨＲ5〜6≫{/c}の
+4398,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ラヴィエンテ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Violent Raviente{/c}."
-4399,"{c05}≪ＨＲ5〜6≫{/c}の
+4399,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ラオシャンロン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Lao-Shan Lung{/c}."
-4400,"{c05}≪ＨＲ2〜4≫{/c}の
+4400,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ルコディオラ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from 
@@ -16587,7 +16587,7 @@ a quest{/c}."
 4403,dummy,
 4404,dummy,
 4405,dummy,
-4406,"{c05}≪ＨＲ5〜6≫{/c}の
+4406,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -16695,7 +16695,7 @@ for details."
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Obtain from 
 {c05}Gear Acquisition Quests."
-4429,"{c05}≪ＨＲ3〜4≫{/c}の
+4429,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Found in {c05}[HR5+] 
 {/c}Trading: {c05}GCP {/c}or 
@@ -18056,11 +18056,11 @@ Trading: {c05}GCP Exchange{/c}."
 から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Guild Quests{/c}."
-4778,"{c05}≪ＨＲ5〜6≫{/c}の
+4778,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-4779,"{c05}≪ＨＲ5〜6≫{/c}の
+4779,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -18069,7 +18069,7 @@ Trading: {c05}GCP Exchange{/c}."
 から入手可能。","[HR4] Obtain from 
 certain quests or 
 Trading: {c05}GCP Exchange{/c}."
-4781,"{c05}≪ＨＲ5〜6≫{/c}の
+4781,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -18343,7 +18343,7 @@ for details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-4841,"{c05}≪ＨＲ5〜6≫{/c}の
+4841,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -18538,35 +18538,35 @@ for details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-4887,"{c05}≪ＨＲ5〜6≫{/c}の
+4887,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-4888,"{c05}≪ＨＲ5〜6≫{/c}の
+4888,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-4889,"{c05}≪ＨＲ5〜6≫{/c}の
+4889,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-4890,"{c05}≪ＨＲ5〜6≫{/c}の
+4890,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-4891,"{c05}≪ＨＲ5〜6≫{/c}の
+4891,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-4892,"{c05}≪ＨＲ5〜6≫{/c}の
+4892,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-4893,"{c05}≪ＨＲ5〜6≫{/c}の
+4893,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-4894,"{c05}≪ＨＲ5〜6≫{/c}の
+4894,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -18675,7 +18675,7 @@ site for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Doragyurosu{/c}."
-4922,"{c05}≪ＨＲ5〜6≫{/c}の
+4922,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドラギュロス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -18690,27 +18690,27 @@ site for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Gravios{/c}."
-4925,"{c05}≪ＨＲ3〜4≫{/c}の
+4925,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪グラビモス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Gravios{/c}."
-4926,"{c05}≪ＨＲ5〜6≫{/c}の
+4926,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グラビモス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Gravios{/c}."
-4927,"{c05}≪ＨＲ1〜2≫{/c}の
+4927,"{c05}≪ＨＲ1～2≫{/c}の
 {c05}≪ドスファンゴ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 1-2] 
 {/c}Obtain from 
 {c05}Bulldrome{/c}."
-4928,"{c05}≪ＨＲ3〜4≫{/c}の
+4928,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ドスファンゴ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Bulldrome{/c}."
-4929,"{c05}≪ＨＲ5〜6≫{/c}の
+4929,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドスファンゴ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -18720,7 +18720,7 @@ site for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Akantor{/c}."
-4931,"{c05}≪ＨＲ5〜6≫{/c}の
+4931,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アカムトルム≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -18730,7 +18730,7 @@ site for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Blue Yian Kut-Kut{/c}."
-4933,"{c05}≪ＨＲ3〜4≫{/c}の
+4933,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪イャンクック亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
@@ -18741,7 +18741,7 @@ site for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Black Diablos{/c}."
-4936,"{c05}≪ＨＲ3〜4≫{/c}の
+4936,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ディアブロス亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
@@ -18840,59 +18840,59 @@ the {c05}Caretaker Cat
 から入手可能。","Obtain with
 {c05}Daily GCP Combo 
 {/c}from the {c05}Combiner{/c}."
-4958,"{c05}≪ＨＲ2〜4≫{/c}の
+4958,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Gogomoa{/c}."
-4959,"{c05}≪ＨＲ2〜4≫{/c}の
+4959,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Gogomoa{/c}."
-4960,"{c05}≪ＨＲ2〜4≫{/c}の
+4960,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Gogomoa{/c}."
-4961,"{c05}≪ＨＲ2〜4≫{/c}の
+4961,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Gogomoa{/c}."
-4962,"{c05}≪ＨＲ2〜4≫{/c}の
+4962,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Gogomoa{/c}."
-4963,"{c05}≪ＨＲ2〜4≫{/c}の
+4963,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Gogomoa{/c}."
-4964,"{c05}≪ＨＲ3〜4≫{/c}の
+4964,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Gogomoa{/c}."
-4965,"{c05}≪ＨＲ3〜4≫{/c}の
+4965,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Gogomoa{/c}."
-4966,"{c05}≪ＨＲ3〜4≫{/c}の
+4966,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Gogomoa{/c}."
-4967,"{c05}≪ＨＲ3〜4≫{/c}の
+4967,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Gogomoa{/c}."
-4968,"{c05}≪ＨＲ3〜4≫{/c}の
+4968,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Gogomoa{/c}."
-4969,"{c05}≪ＨＲ3〜4≫{/c}の
+4969,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Gogomoa{/c}."
-4970,"{c05}≪ＨＲ5〜6≫{/c}の
+4970,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゴゴモア≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gogomoa{/c}."
-4971,"{c05}≪ＨＲ5〜6≫{/c}の
+4971,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゴゴモア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Gogomoa{/c}."
@@ -19507,7 +19507,7 @@ G Deco Quests."
 {c05}≪Ｎポイント交換≫{/c}から入手可能。","Obtain from certain 
 [HR5+] {c05}Premium 
 G Deco Quests."
-5113,"{c05}≪ＨＲ5〜6≫{/c}の
+5113,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ルコディオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Rukodiora{/c}."
@@ -19578,7 +19578,7 @@ for details."
 ご確認ください。","{c05}Package Item {/c}or 
 Please check site 
 for details."
-5128,"{c05}≪ＨＲ5〜6≫{/c}の
+5128,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アビオルグ≫{/c}2の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from certain 
@@ -19588,7 +19588,7 @@ for details."
 ご確認ください。","{c05}Package Item {/c}or 
 Please check site 
 for details."
-5130,"{c05}≪ＨＲ5〜6≫{/c}の
+5130,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪パリアプリア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -19814,7 +19814,7 @@ for details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-5184,"{c05}≪ＨＲ5〜6≫{/c}の
+5184,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -19983,35 +19983,35 @@ for details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-5221,"{c05}≪ＨＲ5〜6≫{/c}の
+5221,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-5222,"{c05}≪ＨＲ5〜6≫{/c}の
+5222,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-5223,"{c05}≪ＨＲ5〜6≫{/c}の
+5223,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-5224,"{c05}≪ＨＲ5〜6≫{/c}の
+5224,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-5225,"{c05}≪ＨＲ5〜6≫{/c}の
+5225,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-5226,"{c05}≪ＨＲ5〜6≫{/c}の
+5226,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-5227,"{c05}≪ＨＲ5〜6≫{/c}の
+5227,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-5228,"{c05}≪ＨＲ5〜6≫{/c}の
+5228,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -20299,85 +20299,85 @@ back from quests{/c}."
 から入手可能。","Obtain with
 {c05}Daily GCP Combo 
 {/c}from the {c05}Combiner{/c}."
-5296,"{c05}≪ＨＲ1〜6≫{/c}の
+5296,"{c05}≪ＨＲ1～6≫{/c}の
 {c05}≪タイクンザムザ≫{/c}の落し物
 から入手可能。","Found in {c05}[HR 1-6] 
 {/c}Obtain from {c05}Taikun Zamuza 
 {c03}[Shiny Drop]{/c}."
-5297,"{c05}≪ＨＲ1〜4≫{/c}の
+5297,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪タイクンザムザ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Taikun Zamuza{/c}."
-5298,"{c05}≪ＨＲ1〜4≫{/c}の
+5298,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪タイクンザムザ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Taikun Zamuza{/c}."
-5299,"{c05}≪ＨＲ1〜4≫{/c}の
+5299,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪タイクンザムザ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Taikun Zamuza{/c}."
-5300,"{c05}≪ＨＲ1〜4≫{/c}の
+5300,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪タイクンザムザ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Taikun Zamuza{/c}."
-5301,"{c05}≪ＨＲ1〜4≫{/c}の
+5301,"{c05}≪ＨＲ1～4≫{/c}の
 {c05}≪タイクンザムザ≫
 {/c}から入手可能。","Found in {c05}[HR 1-4] 
 {/c}Obtain from {c05}Taikun Zamuza{/c}."
-5302,"{c05}≪ＨＲ3〜4≫{/c}の
+5302,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪タイクンザムザ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Taikun Zamuza{/c}."
-5303,"{c05}≪ＨＲ3〜4≫{/c}の
+5303,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪タイクンザムザ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Taikun Zamuza{/c}."
-5304,"{c05}≪ＨＲ3〜4≫{/c}の
+5304,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪タイクンザムザ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Taikun Zamuza{/c}."
-5305,"{c05}≪ＨＲ3〜4≫{/c}の
+5305,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪タイクンザムザ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Taikun Zamuza{/c}."
-5306,"{c05}≪ＨＲ3〜4≫{/c}の
+5306,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪タイクンザムザ≫
 {/c}から入手可能。","Found in {c05}[HR 3-4] 
 {/c}Obtain from {c05}Taikun Zamuza{/c}."
-5307,"{c05}≪ＨＲ5〜6≫{/c}の
+5307,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪タイクンザムザ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Taikun Zamuza{/c}."
-5308,"{c05}≪ＨＲ5〜6≫{/c}の
+5308,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪タイクンザムザ≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Taikun Zamuza{/c}."
-5309,"{c05}≪ＨＲ2〜4≫{/c}の
+5309,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5310,"{c05}≪ＨＲ2〜4≫{/c}の
+5310,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5311,"{c05}≪ＨＲ2〜4≫{/c}の
+5311,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5312,"{c05}≪ＨＲ2〜4≫{/c}の
+5312,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5313,"{c05}≪ＨＲ2〜4≫{/c}の
+5313,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5314,"{c05}≪ＨＲ2〜4≫{/c}の
+5314,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5315,"{c05}≪ＨＲ2〜4≫{/c}の
+5315,"{c05}≪ＨＲ2～4≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 2-4] 
 {/c}Obtain from {c05}Abiorugu{/c}."
@@ -20409,59 +20409,59 @@ back from quests{/c}."
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5323,"{c05}≪ＨＲ5〜6≫{/c}の
+5323,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5324,"{c05}≪ＨＲ5〜6≫{/c}の
+5324,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5325,"{c05}≪ＨＲ5〜6≫{/c}の
+5325,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5326,"{c05}≪ＨＲ5〜6≫{/c}の
+5326,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5327,"{c05}≪ＨＲ5〜6≫{/c}の
+5327,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5328,"{c05}≪ＨＲ5〜6≫{/c}の
+5328,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5329,"{c05}≪ＨＲ5〜6≫{/c}の
+5329,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5330,"{c05}≪ＨＲ5〜6≫{/c}の
+5330,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5331,"{c05}≪ＨＲ5〜6≫{/c}の
+5331,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5332,"{c05}≪ＨＲ5〜6≫{/c}の
+5332,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5333,"{c05}≪ＨＲ5〜6≫{/c}の
+5333,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5334,"{c05}≪ＨＲ5〜6≫{/c}の
+5334,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5335,"{c05}≪ＨＲ5〜6≫{/c}の
+5335,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アビオルグ≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Abiorugu{/c}."
-5336,"{c05}≪ＨＲ5〜6≫{/c}の
+5336,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from {c05}Abiorugu{/c}."
@@ -20615,7 +20615,7 @@ details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-5372,"{c05}≪ＨＲ5〜6≫{/c}の
+5372,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -20623,7 +20623,7 @@ details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-5374,"{c05}≪ＨＲ5〜6≫{/c}の
+5374,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -20651,7 +20651,7 @@ Check site for details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-5380,"{c05}≪ＨＲ5〜6≫{/c}の
+5380,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -20659,7 +20659,7 @@ Check site for details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-5382,"{c05}≪ＨＲ5〜6≫{/c}の
+5382,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -21511,11 +21511,11 @@ for details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-5594,"{c05}≪ＨＲ5〜6≫{/c}の
+5594,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-5595,"{c05}≪ＨＲ5〜6≫{/c}の
+5595,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -21749,35 +21749,35 @@ for details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-5647,"{c05}≪ＨＲ5〜6≫{/c}の
+5647,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-5648,"{c05}≪ＨＲ5〜6≫{/c}の
+5648,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-5649,"{c05}≪ＨＲ5〜6≫{/c}の
+5649,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-5650,"{c05}≪ＨＲ5〜6≫{/c}の
+5650,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-5651,"{c05}≪ＨＲ5〜6≫{/c}の
+5651,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-5652,"{c05}≪ＨＲ5〜6≫{/c}の
+5652,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-5653,"{c05}≪ＨＲ5〜6≫{/c}の
+5653,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-5654,"{c05}≪ＨＲ5〜6≫{/c}の
+5654,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -22087,7 +22087,7 @@ a quest{/c}."
 {c02}持ち帰り不可。","Obtained in {c05}Quest Supplies 
 {c02}cannot be kept after 
 a quest{/c}."
-5726,"{c05}≪ＨＲ5〜6≫{/c}の
+5726,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪カム・オルガロン≫{/c}
 から入手可能。","Found in {c05}[HR5-6] 
 {/c}Obtain from 
@@ -22102,7 +22102,7 @@ a quest{/c}."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Gurenzeburu{/c}."
-5729,"{c05}≪ＨＲ5〜6≫{/c}の
+5729,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グレンゼブル≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -22112,12 +22112,12 @@ a quest{/c}."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-5731,"{c05}≪ＨＲ3〜4≫{/c}の
+5731,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Kushala Daora{/c}."
-5732,"{c05}≪ＨＲ5〜6≫{/c}の
+5732,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クシャルダオラ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -22126,22 +22126,22 @@ a quest{/c}."
 {c02}入手不可。","Special item for an 
 {c05}Event. {c02}Cannot be 
 crafted{/c}."
-5734,"{c05}≪ＨＲ5〜6≫{/c}の
+5734,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪エスピナス亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Orange Espinas{/c}."
-5735,"{c05}≪ＨＲ5〜6≫{/c}の
+5735,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレウス亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Azure Rathalos{/c}."
-5736,"{c05}≪ＨＲ5〜6≫{/c}の
+5736,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪リオレイア亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Pink Rathian{/c}."
-5737,"{c05}≪ＨＲ5〜6≫{/c}の
+5737,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヒプノック繁殖期≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -22171,42 +22171,42 @@ crafted{/c}."
 {/c}から入手可能。","Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Kuarusepusu{/c}."
-5743,"{c05}≪ＨＲ5〜6≫{/c}の
+5743,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クアルセプス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Kuarusepusu{/c}."
-5744,"{c05}≪ＨＲ5〜6≫{/c}の
+5744,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クアルセプス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Kuarusepusu{/c}."
-5745,"{c05}≪ＨＲ5〜6≫{/c}の
+5745,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クアルセプス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Kuarusepusu{/c}."
-5746,"{c05}≪ＨＲ5〜6≫{/c}の
+5746,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クアルセプス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Kuarusepusu{/c}."
-5747,"{c05}≪ＨＲ5〜6≫{/c}の
+5747,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クアルセプス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Kuarusepusu{/c}."
-5748,"{c05}≪ＨＲ5〜6≫{/c}の
+5748,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クアルセプス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Kuarusepusu{/c}."
-5749,"{c05}≪ＨＲ5〜6≫{/c}の
+5749,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クアルセプス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Kuarusepusu{/c}."
-5750,"{c05}≪ＨＲ5〜6≫{/c}の
+5750,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クアルセプス≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -22311,63 +22311,63 @@ for details."
 {c05}UNKNOWN{/c}."
 5774,dummy,
 5775,dummy,
-5776,"{c05}≪ＨＲ5〜6≫{/c}の
+5776,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-5777,"{c05}≪ＨＲ5〜6≫{/c}の
+5777,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-5778,"{c05}≪ＨＲ5〜6≫{/c}の
+5778,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-5779,"{c05}≪ＨＲ5〜6≫{/c}の
+5779,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-5780,"{c05}≪ＨＲ5〜6≫{/c}の
+5780,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-5781,"{c05}≪ＨＲ5〜6≫{/c}の
+5781,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-5782,"{c05}≪ＨＲ5〜6≫{/c}の
+5782,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-5783,"{c05}≪ＨＲ5〜6≫{/c}の
+5783,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-5784,"{c05}≪ＨＲ5〜6≫{/c}の
+5784,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-5785,"{c05}≪ＨＲ5〜6≫{/c}の
+5785,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-5786,"{c05}≪ＨＲ5〜6≫{/c}の
+5786,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-5787,"{c05}≪ＨＲ5〜6≫{/c}の
+5787,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-5788,"{c05}≪ＨＲ5〜6≫{/c}の
+5788,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-5789,"{c05}≪ＨＲ5〜6≫{/c}の
+5789,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-5790,"{c05}≪ＨＲ5〜6≫{/c}の
+5790,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
@@ -23180,12 +23180,12 @@ G Deco Quests."
 {c05}≪Ｎポイント交換≫{/c}から入手可能。","Obtain from certain 
 [HR5+] {c05}Premium 
 G Deco Quests."
-6010,"{c05}≪ＨＲ5〜6≫{/c}の
+6010,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クアルセプス≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Kuarusepusu{/c}."
-6011,"{c05}≪ＨＲ5〜6≫{/c}の
+6011,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クアルセプス≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -23405,11 +23405,11 @@ G Deco Quests."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-6065,"{c05}≪ＨＲ5〜6≫{/c}の
+6065,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
-6066,"{c05}≪ＨＲ5〜6≫{/c}の
+6066,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特殊素材クエスト≫{/c}の報酬
 から入手可能。","Trading: {c05}GCP {/c}or 
 {c05}Npoints{/c}."
@@ -23701,42 +23701,42 @@ G Deco Quests."
 {c05}≪Ｎポイント交換≫{/c}から入手可能。","Obtain from certain 
 [HR5+] {c05}Premium 
 G Deco Quests."
-6140,"{c05}≪ＨＲ5〜6≫{/c}の
+6140,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オディバトラス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Odibatorasu{/c}."
-6141,"{c05}≪ＨＲ5〜6≫{/c}の
+6141,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オディバトラス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Odibatorasu{/c}."
-6142,"{c05}≪ＨＲ5〜6≫{/c}の
+6142,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オディバトラス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Odibatorasu{/c}."
-6143,"{c05}≪ＨＲ5〜6≫{/c}の
+6143,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オディバトラス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Odibatorasu{/c}."
-6144,"{c05}≪ＨＲ5〜6≫{/c}の
+6144,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オディバトラス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Odibatorasu{/c}."
-6145,"{c05}≪ＨＲ5〜6≫{/c}の
+6145,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オディバトラス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Odibatorasu{/c}."
-6146,"{c05}≪ＨＲ5〜6≫{/c}の
+6146,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オディバトラス≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Odibatorasu{/c}."
-6147,"{c05}≪ＨＲ5〜6≫{/c}の
+6147,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オディバトラス≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -23751,12 +23751,12 @@ G Deco Quests."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Gogomoa{/c}."
-6150,"{c05}≪ＨＲ3〜4≫{/c}の
+6150,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ゴゴモア≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Gogomoa{/c}."
-6151,"{c05}≪ＨＲ5〜6≫{/c}の
+6151,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゴゴモア≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -23766,51 +23766,51 @@ G Deco Quests."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Berukyurosu{/c}."
-6153,"{c05}≪ＨＲ5〜6≫{/c}の
+6153,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ベルキュロス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Berukyurosu{/c}."
-6154,"{c05}≪ＨＲ5〜6≫{/c}の
+6154,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イャンクック亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Blue Yian Kut-Ku{/c}."
-6155,"{c05}≪ＨＲ5〜6≫{/c}の
+6155,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フルフル亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Red Khezu{/c}."
-6156,"{c05}≪ＨＲ5〜6≫{/c}の
+6156,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ディアブロス亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Black Diablos{/c}."
-6157,"{c05}≪ＨＲ5〜6≫{/c}の
+6157,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-6158,"{c05}≪ＨＲ5〜6≫{/c}の
+6158,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-6159,"{c05}≪ＨＲ5〜6≫{/c}の
+6159,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-6160,"{c05}≪ＨＲ5〜6≫{/c}の
+6160,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-6161,"{c05}≪ＨＲ5〜6≫{/c}の
+6161,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-6162,"{c05}≪ＨＲ5〜6≫{/c}の
+6162,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
-6163,"{c05}≪ＨＲ5〜6≫{/c}の
+6163,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪特定のクエスト≫{/c}の報酬
 から入手可能。","[HR 5-6] Obtain from 
 {c05}Certain Quests{/c}."
@@ -24630,7 +24630,7 @@ for details."
 から入手可能。",Purchase: {c05}Blacksmith{/c}.
 6390,"{c05}≪武具工房の親方≫{/c}
 から入手可能。",Purchase: {c05}Blacksmith{/c}.
-6391,"{c05}≪ＨＲ5〜6≫{/c}の
+6391,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アクラ・ジェビア≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -28022,37 +28022,37 @@ completing {c05}Urgent Quests{/c}."
 から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Lolo Gougarf{/c}."
-7300,"{c05}≪ＨＲ5〜6≫{/c}の
+7300,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゴウガルフ≫{/c}の報酬
 から入手可能。","{/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Lolo {/c}& {c05}Ray Gougarf{/c}."
-7301,"{c05}≪ＨＲ5〜6≫{/c}の
+7301,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ロロ・ゴウガルフ≫
 {/c}から入手可能。","{/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Lolo Gougarf{/c}."
-7302,"{c05}≪ＨＲ5〜6≫{/c}の
+7302,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪レイ・ゴウガルフ≫
 {/c}から入手可能。","{/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Ray Gougarf{/c}."
-7303,"{c05}≪ＨＲ5〜6≫{/c}の
+7303,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪レイ・ゴウガルフ≫
 {/c}から入手可能。","{/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Ray Gougarf{/c}."
-7304,"{c05}≪ＨＲ5〜6≫{/c}の
+7304,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ロロ・ゴウガルフ≫
 {/c}から入手可能。","{/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Lolo Gougarf{/c}."
-7305,"{c05}≪ＨＲ5〜6≫{/c}の
+7305,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪レイ・ゴウガルフ≫
 {/c}から入手可能。","{/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Ray Gougarf{/c}."
-7306,"{c05}≪ＨＲ5〜6≫{/c}の
+7306,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ロロ・ゴウガルフ≫
 {/c}から入手可能。","{/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -29938,7 +29938,7 @@ hunting many monsters."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Akura Vashimu{/c}."
-8076,"{c05}≪ＨＲ5〜6≫{/c}の
+8076,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アクラ・ヴァシム≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -29953,12 +29953,12 @@ hunting many monsters."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Black Gravios{/c}."
-8079,"{c05}≪ＨＲ3〜4≫{/c}の
+8079,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪グラビモス亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Black Gravios{/c}."
-8080,"{c05}≪ＨＲ5〜6≫{/c}の
+8080,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グラビモス亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -29968,17 +29968,17 @@ hunting many monsters."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Black Gravios{/c}."
-8082,"{c05}≪ＨＲ1〜2≫{/c}の
+8082,"{c05}≪ＨＲ1～2≫{/c}の
 {c05}≪ドスガレオス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 1-2] 
 {/c}Obtain from 
 {c05}Cephadrome{/c}."
-8083,"{c05}≪ＨＲ3〜4≫{/c}の
+8083,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ドスガレオス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Cephadrome{/c}."
-8084,"{c05}≪ＨＲ5〜6≫{/c}の
+8084,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドスガレオス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -29988,7 +29988,7 @@ hunting many monsters."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Cephadrome{/c}."
-8086,"{c05}≪ＨＲ4〜6≫{/c}の
+8086,"{c05}≪ＨＲ4～6≫{/c}の
 {c05}≪リオレイア希少種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -30268,42 +30268,42 @@ hunting many monsters."
 {/c}から入手可能。","Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Zerureusu{/c}."
-8142,"{c05}≪ＨＲ5〜6≫{/c}の
+8142,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゼルレウス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Zerureusu{/c}."
-8143,"{c05}≪ＨＲ5〜6≫{/c}の
+8143,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゼルレウス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Zerureusu{/c}."
-8144,"{c05}≪ＨＲ5〜6≫{/c}の
+8144,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゼルレウス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Zerureusu{/c}."
-8145,"{c05}≪ＨＲ5〜6≫{/c}の
+8145,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゼルレウス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Zerureusu{/c}."
-8146,"{c05}≪ＨＲ5〜6≫{/c}の
+8146,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゼルレウス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Zerureusu{/c}."
-8147,"{c05}≪ＨＲ5〜6≫{/c}の
+8147,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゼルレウス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Zerureusu{/c}."
-8148,"{c05}≪ＨＲ5〜6≫{/c}の
+8148,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゼルレウス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Zerureusu{/c}."
-8149,"{c05}≪ＨＲ5〜6≫{/c}の
+8149,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゼルレウス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -30368,72 +30368,72 @@ hunting many monsters."
 {/c}から入手可能。","Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Baruragaru{/c}."
-8162,"{c05}≪ＨＲ5〜6≫{/c}の
+8162,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪バルラガル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Baruragaru{/c}."
-8163,"{c05}≪ＨＲ5〜6≫{/c}の
+8163,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪バルラガル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Baruragaru{/c}."
-8164,"{c05}≪ＨＲ5〜6≫{/c}の
+8164,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪バルラガル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Baruragaru{/c}."
-8165,"{c05}≪ＨＲ5〜6≫{/c}の
+8165,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪バルラガル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Baruragaru{/c}."
-8166,"{c05}≪ＨＲ5〜6≫{/c}の
+8166,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪バルラガル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Baruragaru{/c}."
-8167,"{c05}≪ＨＲ5〜6≫{/c}の
+8167,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪バルラガル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Baruragaru{/c}."
-8168,"{c05}≪ＨＲ5〜6≫{/c}の
+8168,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪バルラガル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Baruragaru{/c}."
-8169,"{c05}≪ＨＲ5〜6≫{/c}の
+8169,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪バルラガル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Baruragaru{/c}."
-8170,"{c05}≪ＨＲ5〜6≫{/c}の
+8170,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪バルラガル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Baruragaru{/c}."
-8171,"{c05}≪ＨＲ5〜6≫{/c}の
+8171,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪バルラガル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Baruragaru{/c}."
-8172,"{c05}≪ＨＲ5〜6≫{/c}の
+8172,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪バルラガル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Baruragaru{/c}."
-8173,"{c05}≪ＨＲ5〜6≫{/c}の
+8173,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪バルラガル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Baruragaru{/c}."
-8174,"{c05}≪ＨＲ5〜6≫{/c}の
+8174,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪バルラガル≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Baruragaru{/c}."
-8175,"{c05}≪ＨＲ5〜6≫{/c}の
+8175,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゼルレウス≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -32818,37 +32818,37 @@ for details."
 ご確認ください。","{c05}Package Item {/c}or 
 Please check site 
 for details."
-8846,"{c05}≪ＨＲ5〜6≫{/c}の
+8846,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪メラギナス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Meraginasu{/c}."
-8847,"{c05}≪ＨＲ5〜6≫{/c}の
+8847,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪メラギナス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Meraginasu{/c}."
-8848,"{c05}≪ＨＲ5〜6≫{/c}の
+8848,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪メラギナス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Meraginasu{/c}."
-8849,"{c05}≪ＨＲ5〜6≫{/c}の
+8849,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪メラギナス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Meraginasu{/c}."
-8850,"{c05}≪ＨＲ5〜6≫{/c}の
+8850,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪メラギナス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Meraginasu{/c}."
-8851,"{c05}≪ＨＲ5〜6≫{/c}の
+8851,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪メラギナス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Meraginasu{/c}."
-8852,"{c05}≪ＨＲ5〜6≫{/c}の
+8852,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪メラギナス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -32888,7 +32888,7 @@ for details."
 {/c}から入手可能。","Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Meraginasu{/c}."
-8860,"{c05}≪ＨＲ5〜6≫{/c}の
+8860,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪メラギナス≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -33642,37 +33642,37 @@ certain Quest."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Bulldrome{/c}."
-9041,"{c05}≪ＨＲ5〜6≫{/c}の
+9041,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フォロクルル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Forokururu{/c}."
-9042,"{c05}≪ＨＲ5〜6≫{/c}の
+9042,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フォロクルル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Forokururu{/c}."
-9043,"{c05}≪ＨＲ5〜6≫{/c}の
+9043,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フォロクルル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Forokururu{/c}."
-9044,"{c05}≪ＨＲ5〜6≫{/c}の
+9044,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フォロクルル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Forokururu{/c}."
-9045,"{c05}≪ＨＲ5〜6≫{/c}の
+9045,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フォロクルル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Forokururu{/c}."
-9046,"{c05}≪ＨＲ5〜6≫{/c}の
+9046,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フォロクルル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Forokururu{/c}."
-9047,"{c05}≪ＨＲ5〜6≫{/c}の
+9047,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フォロクルル≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -33725,42 +33725,42 @@ back from quests{/c}."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Forokururu{/c}."
-9058,"{c05}≪ＨＲ5〜6≫{/c}の
+9058,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪フォロクルル≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Forokururu{/c}."
-9059,"{c05}≪ＨＲ5〜6≫{/c}の
+9059,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ディオレックス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Diorekkusu{/c}."
-9060,"{c05}≪ＨＲ5〜6≫{/c}の
+9060,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ディオレックス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Diorekkusu{/c}."
-9061,"{c05}≪ＨＲ5〜6≫{/c}の
+9061,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ディオレックス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Diorekkusu{/c}."
-9062,"{c05}≪ＨＲ5〜6≫{/c}の
+9062,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ディオレックス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Diorekkusu{/c}."
-9063,"{c05}≪ＨＲ5〜6≫{/c}の
+9063,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ディオレックス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Diorekkusu{/c}."
-9064,"{c05}≪ＨＲ5〜6≫{/c}の
+9064,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ディオレックス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Diorekkusu{/c}."
-9065,"{c05}≪ＨＲ5〜6≫{/c}の
+9065,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ディオレックス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -33800,12 +33800,12 @@ back from quests{/c}."
 {/c}から入手可能。","Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Diorekkusu{/c}."
-9073,"{c05}≪ＨＲ5〜6≫{/c}の
+9073,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ディオレックス≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Diorekkusu{/c}."
-9074,"{c05}≪ＨＲ4〜6≫{/c}の
+9074,"{c05}≪ＨＲ4～6≫{/c}の
 {c05}≪リオレウス希少種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -33840,7 +33840,7 @@ back from quests{/c}."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Akura Jebia{/c}."
-9081,"{c05}≪ＨＲ5〜6≫{/c}の
+9081,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アクラ・ジェビア≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -35716,12 +35716,12 @@ for details."
 サイト≫{/c}をご確認ください。","Awarded to 
 {c05}Hunter Festival {/c}participants. 
 Check site for details."
-9585,"{c05}≪ＨＲ5〜6≫{/c}の
+9585,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イナガミ≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Inagami{/c}."
-9586,"{c05}≪ＨＲ5〜6≫{/c}の
+9586,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガルバダオラ≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -35731,12 +35731,12 @@ Check site for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Purple Gypceros{/c}."
-9588,"{c05}≪ＨＲ3〜4≫{/c}の
+9588,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ゲリョス亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Purple Gypceros{/c}."
-9589,"{c05}≪ＨＲ5〜6≫{/c}の
+9589,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ゲリョス亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -35871,37 +35871,37 @@ Check site for details."
 {/c}から入手可能。","Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Hypnoc{/c}."
-9616,"{c05}≪ＨＲ5〜6≫{/c}の
+9616,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガルバダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Garuba Daora{/c}."
-9617,"{c05}≪ＨＲ5〜6≫{/c}の
+9617,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガルバダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Garuba Daora{/c}."
-9618,"{c05}≪ＨＲ5〜6≫{/c}の
+9618,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガルバダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Garuba Daora{/c}."
-9619,"{c05}≪ＨＲ5〜6≫{/c}の
+9619,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガルバダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Garuba Daora{/c}."
-9620,"{c05}≪ＨＲ5〜6≫{/c}の
+9620,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガルバダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Garuba Daora{/c}."
-9621,"{c05}≪ＨＲ5〜6≫{/c}の
+9621,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガルバダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Garuba Daora{/c}."
-9622,"{c05}≪ＨＲ5〜6≫{/c}の
+9622,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガルバダオラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -35941,32 +35941,32 @@ Check site for details."
 {/c}から入手可能。","Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Garuba Daora{/c}."
-9630,"{c05}≪ＨＲ5〜6≫{/c}の
+9630,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イナガミ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Inagami{/c}."
-9631,"{c05}≪ＨＲ5〜6≫{/c}の
+9631,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イナガミ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Inagami{/c}."
-9632,"{c05}≪ＨＲ5〜6≫{/c}の
+9632,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イナガミ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Inagami{/c}."
-9633,"{c05}≪ＨＲ5〜6≫{/c}の
+9633,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イナガミ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Inagami{/c}."
-9634,"{c05}≪ＨＲ5〜6≫{/c}の
+9634,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イナガミ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Inagami{/c}."
-9635,"{c05}≪ＨＲ5〜6≫{/c}の
+9635,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪イナガミ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -38942,42 +38942,42 @@ for details."
 ご確認ください。","Please check site 
 for details."
 10576,dummy,
-10577,"{c05}≪ＨＲ5〜6≫{/c}の
+10577,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ポボルバルム≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Poborubarumu{/c}."
-10578,"{c05}≪ＨＲ5〜6≫{/c}の
+10578,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ポボルバルム≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Poborubarumu{/c}."
-10579,"{c05}≪ＨＲ5〜6≫{/c}の
+10579,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ポボルバルム≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Poborubarumu{/c}."
-10580,"{c05}≪ＨＲ5〜6≫{/c}の
+10580,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ポボルバルム≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Poborubarumu{/c}."
-10581,"{c05}≪ＨＲ5〜6≫{/c}の
+10581,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ポボルバルム≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Poborubarumu{/c}."
-10582,"{c05}≪ＨＲ5〜6≫{/c}の
+10582,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ポボルバルム≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Poborubarumu{/c}."
-10583,"{c05}≪ＨＲ5〜6≫{/c}の
+10583,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ポボルバルム≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Poborubarumu{/c}."
-10584,"{c05}≪ＨＲ5〜6≫{/c}の
+10584,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ポボルバルム≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -39231,7 +39231,7 @@ back from quests{/c}."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Lunastra{/c}."
-10643,"{c05}≪ＨＲ5〜6≫{/c}の
+10643,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ナナ・テスカトリ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -39266,7 +39266,7 @@ back from quests{/c}."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Kuarusepusu{/c}."
-10650,"{c05}≪ＨＲ5〜6≫{/c}の
+10650,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪クアルセプス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -40868,32 +40868,32 @@ for details."
 ご確認ください。","{c05}Package Item {/c}or 
 Please check site 
 for details."
-11183,"{c05}≪ＨＲ5〜6≫{/c}の
+11183,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴァルサブロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Varusaburosu{/c}."
-11184,"{c05}≪ＨＲ5〜6≫{/c}の
+11184,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴァルサブロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Varusaburosu{/c}."
-11185,"{c05}≪ＨＲ5〜6≫{/c}の
+11185,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴァルサブロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Varusaburosu{/c}."
-11186,"{c05}≪ＨＲ5〜6≫{/c}の
+11186,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴァルサブロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Varusaburosu{/c}."
-11187,"{c05}≪ＨＲ5〜6≫{/c}の
+11187,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴァルサブロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Varusaburosu{/c}."
-11188,"{c05}≪ＨＲ5〜6≫{/c}の
+11188,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴァルサブロス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -40978,7 +40978,7 @@ Check site for details."
 {c05}≪イベント・キャンペーン≫{/c}を
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
-11206,"{c05}≪ＨＲ5〜6≫{/c}の
+11206,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴァルサブロス≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -41146,17 +41146,17 @@ for details."
 {c05}Bright Hypnoc{/c}."
 11265,{c05}≪狩煉道≫{/c}で入手可能。,"Obtain from 
 {c05}Hunter's Road{/c}."
-11266,"{c05}≪ＨＲ1〜2≫{/c}の
+11266,"{c05}≪ＨＲ1～2≫{/c}の
 {c05}≪ドスゲネポス≫{/c}
 から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 1-2] 
 {/c}Obtain from 
 {c05}Gendrome{/c}."
-11267,"{c05}≪ＨＲ3〜4≫{/c}の
+11267,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ドスゲネポス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Gendrome{/c}."
-11268,"{c05}≪ＨＲ5〜6≫{/c}の
+11268,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ドスゲネポス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -41191,12 +41191,12 @@ for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 1-2] 
 {/c}Obtain from 
 {c05}Green Plesioth{/c}."
-11275,"{c05}≪ＨＲ3〜4≫{/c}の
+11275,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ガノトトス亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Green Plesioth{/c}."
-11276,"{c05}≪ＨＲ5〜6≫{/c}の
+11276,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガノトトス亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -41373,37 +41373,37 @@ for details."
 {/c}から入手可能。","Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Gureadomosu{/c}."
-11316,"{c05}≪ＨＲ5〜6≫{/c}の
+11316,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グレアドモス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Gureadomosu{/c}."
-11317,"{c05}≪ＨＲ5〜6≫{/c}の
+11317,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グレアドモス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Gureadomosu{/c}."
-11318,"{c05}≪ＨＲ5〜6≫{/c}の
+11318,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グレアドモス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Gureadomosu{/c}."
-11319,"{c05}≪ＨＲ5〜6≫{/c}の
+11319,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グレアドモス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Gureadomosu{/c}."
-11320,"{c05}≪ＨＲ5〜6≫{/c}の
+11320,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グレアドモス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Gureadomosu{/c}."
-11321,"{c05}≪ＨＲ5〜6≫{/c}の
+11321,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グレアドモス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Gureadomosu{/c}."
-11322,"{c05}≪ＨＲ5〜6≫{/c}の
+11322,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グレアドモス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -41467,37 +41467,37 @@ for details."
 {c05}≪特設サイト≫{/c}を
 ご確認ください。","Please check site 
 for details."
-11336,"{c05}≪ＨＲ5〜6≫{/c}の
+11336,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ハルドメルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Harudomerugu{/c}."
-11337,"{c05}≪ＨＲ5〜6≫{/c}の
+11337,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ハルドメルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Harudomerugu{/c}."
-11338,"{c05}≪ＨＲ5〜6≫{/c}の
+11338,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ハルドメルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Harudomerugu{/c}."
-11339,"{c05}≪ＨＲ5〜6≫{/c}の
+11339,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ハルドメルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Harudomerugu{/c}."
-11340,"{c05}≪ＨＲ5〜6≫{/c}の
+11340,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ハルドメルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Harudomerugu{/c}."
-11341,"{c05}≪ＨＲ5〜6≫{/c}の
+11341,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ハルドメルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Harudomerugu{/c}."
-11342,"{c05}≪ＨＲ5〜6≫{/c}の
+11342,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ハルドメルグ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -41662,12 +41662,12 @@ for details."
 ご確認ください。","{c05}Package Item {/c}or 
 Please check site 
 for details."
-11379,"{c05}≪ＨＲ5〜6≫{/c}の
+11379,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ハルドメルグ≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Harudomerugu{/c}."
-11380,"{c05}≪ＨＲ5〜6≫{/c}の
+11380,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グレアドモス≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -42841,32 +42841,32 @@ for details."
 から入手可能。","Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Yama Kurai{/c}."
-11715,"{c05}≪ＨＲ5〜6≫{/c}の
+11715,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヤマクライ≫{/c}
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Yama Kurai{/c}."
-11716,"{c05}≪ＨＲ5〜6≫{/c}の
+11716,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヤマクライ≫{/c}
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Yama Kurai{/c}."
-11717,"{c05}≪ＨＲ5〜6≫{/c}の
+11717,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヤマクライ≫{/c}
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Yama Kurai{/c}."
-11718,"{c05}≪ＨＲ5〜6≫{/c}の
+11718,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヤマクライ≫{/c}
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Yama Kurai{/c}."
-11719,"{c05}≪ＨＲ5〜6≫{/c}の
+11719,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヤマクライ≫{/c}
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Yama Kurai{/c}."
-11720,"{c05}≪ＨＲ5〜6≫{/c}の
+11720,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヤマクライ≫{/c}
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -42901,7 +42901,7 @@ for details."
 から入手可能。","Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Yama Kurai{/c}."
-11727,"{c05}≪ＨＲ5〜6≫{/c}の
+11727,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヤマクライ≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -42947,7 +42947,7 @@ for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Abiorugu{/c}."
-11737,"{c05}≪ＨＲ5〜6≫{/c}の
+11737,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪アビオルグ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -43029,7 +43029,7 @@ Check site for details."
 {c05}≪採取≫{/c}
 することで入手可能。","Gathering: 
 {c05}White Lake{/c}."
-11756,"{c05}≪ＨＲ5〜6≫{/c}の
+11756,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪白湖≫{/c}で{c05}≪採取≫{/c}
 することで入手可能。","Gathering [HR5-6]: 
 {c05}White Lake{/c}."
@@ -43133,37 +43133,37 @@ site for details."
 11787,"{c05}≪ギルド勲章メダル交換≫
 {/c}から入手可能。","Obtain by exchanging 
 {c05}Tower Medals{/c}."
-11788,"{c05}≪ＨＲ5〜6≫{/c}の
+11788,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガスラバズラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Gasurabazura{/c}."
-11789,"{c05}≪ＨＲ5〜6≫{/c}の
+11789,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガスラバズラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Gasurabazura{/c}."
-11790,"{c05}≪ＨＲ5〜6≫{/c}の
+11790,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガスラバズラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Gasurabazura{/c}."
-11791,"{c05}≪ＨＲ5〜6≫{/c}の
+11791,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガスラバズラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Gasurabazura{/c}."
-11792,"{c05}≪ＨＲ5〜6≫{/c}の
+11792,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガスラバズラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Gasurabazura{/c}."
-11793,"{c05}≪ＨＲ5〜6≫{/c}の
+11793,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガスラバズラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Gasurabazura{/c}."
-11794,"{c05}≪ＨＲ5〜6≫{/c}の
+11794,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガスラバズラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -43208,7 +43208,7 @@ site for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Gasurabazura{/c}."
-11803,"{c05}≪ＨＲ5〜6≫{/c}の
+11803,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ガスラバズラ≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -45033,37 +45033,37 @@ for details."
 {/c}から入手可能。","Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Orange Espinas{/c}."
-12312,"{c05}≪ＨＲ5〜6≫{/c}の
+12312,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪トリドクレス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Toridcless{/c}."
-12313,"{c05}≪ＨＲ5〜6≫{/c}の
+12313,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪トリドクレス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Toridcless{/c}."
-12314,"{c05}≪ＨＲ5〜6≫{/c}の
+12314,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪トリドクレス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Toridcless{/c}."
-12315,"{c05}≪ＨＲ5〜6≫{/c}の
+12315,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪トリドクレス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Toridcless{/c}."
-12316,"{c05}≪ＨＲ5〜6≫{/c}の
+12316,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪トリドクレス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Toridcless{/c}."
-12317,"{c05}≪ＨＲ5〜6≫{/c}の
+12317,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪トリドクレス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Toridcless{/c}."
-12318,"{c05}≪ＨＲ5〜6≫{/c}の
+12318,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪トリドクレス≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -45138,7 +45138,7 @@ for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 4] 
 {/c}Obtain from 
 {c05}Red Volganos{/c}."
-12333,"{c05}≪ＨＲ5〜6≫{/c}の
+12333,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴォルガノス亜種≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -45225,7 +45225,7 @@ for details."
 ご確認ください。","Obtain from an 
 {c05}Event Quest{/c}."
 12354,dummy,
-12355,"{c05}≪ＨＲ5〜6≫{/c}の
+12355,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪トリドクレス≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -46551,7 +46551,7 @@ for details."
 {/c}から入手可能。","Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Odibatorasu{/c}."
-12814,"{c05}≪ＨＲ5〜6≫{/c}の
+12814,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪オディバトラス≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -46611,37 +46611,37 @@ for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Blue Kut-Ku{/c}."
-12826,"{c05}≪ＨＲ5〜6≫{/c}の
+12826,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪トア・テスカトラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Toa Tesukatora{/c}."
-12827,"{c05}≪ＨＲ5〜6≫{/c}の
+12827,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪トア・テスカトラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Toa Tesukatora{/c}."
-12828,"{c05}≪ＨＲ5〜6≫{/c}の
+12828,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪トア・テスカトラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Toa Tesukatora{/c}."
-12829,"{c05}≪ＨＲ5〜6≫{/c}の
+12829,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪トア・テスカトラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Toa Tesukatora{/c}."
-12830,"{c05}≪ＨＲ5〜6≫{/c}の
+12830,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪トア・テスカトラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Toa Tesukatora{/c}."
-12831,"{c05}≪ＨＲ5〜6≫{/c}の
+12831,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪トア・テスカトラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Toa Tesukatora{/c}."
-12832,"{c05}≪ＨＲ5〜6≫{/c}の
+12832,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪トア・テスカトラ≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -46761,7 +46761,7 @@ check site for details."
 バーサイト≫{/c}をご確認ください。","Obtain from certain 
 {c05}Event Quests {/c}please 
 check site for details."
-12856,"{c05}≪ＨＲ5〜6≫{/c}の
+12856,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪トア・テスカトラ≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -47782,7 +47782,7 @@ check site for details."
 から入手可能。",Purchase: {c05}Blacksmith{/c}.
 13174,"{c05}≪武具工房の親方≫{/c}
 から入手可能。",Purchase: {c05}Blacksmith{/c}.
-13175,"{c05}≪ＨＲ5〜6≫{/c}の
+13175,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪グァンゾルム≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -48154,7 +48154,7 @@ for details."
 {c05}≪キャンペーンサイト≫{/c}を
 ご確認ください。","Please check site 
 for details."
-13330,"{c05}≪ＨＲ5〜6≫{/c}の
+13330,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴォージャン≫{/c}の報酬
 から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -48219,12 +48219,12 @@ for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 2] 
 {/c}Obtain from 
 {c05}Rukodiora{/c}."
-13343,"{c05}≪ＨＲ3〜4≫{/c}の
+13343,"{c05}≪ＨＲ3～4≫{/c}の
 {c05}≪ルコディオラ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 3-4] 
 {/c}Obtain from 
 {c05}Rukodiora{/c}."
-13344,"{c05}≪ＨＲ5〜6≫{/c}の
+13344,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ルコディオラ≫
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[HR 5-6] 
 {/c}Obtain from 
@@ -48234,37 +48234,37 @@ for details."
 {/c}から入手可能。{c02}≪ＨＣ限定≫","{c02}[HC] {/c}Found in {c05}[G Rank] 
 {/c}Obtain from 
 {c05}Rukodiora{/c}."
-13346,"{c05}≪ＨＲ5〜6≫{/c}の
+13346,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴォージャン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Voljang{/c}."
-13347,"{c05}≪ＨＲ5〜6≫{/c}の
+13347,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴォージャン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Voljang{/c}."
-13348,"{c05}≪ＨＲ5〜6≫{/c}の
+13348,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴォージャン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Voljang{/c}."
-13349,"{c05}≪ＨＲ5〜6≫{/c}の
+13349,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴォージャン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Voljang{/c}."
-13350,"{c05}≪ＨＲ5〜6≫{/c}の
+13350,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴォージャン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Voljang{/c}."
-13351,"{c05}≪ＨＲ5〜6≫{/c}の
+13351,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴォージャン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 
 {c05}Voljang{/c}."
-13352,"{c05}≪ＨＲ5〜6≫{/c}の
+13352,"{c05}≪ＨＲ5～6≫{/c}の
 {c05}≪ヴォージャン≫
 {/c}から入手可能。","Found in {c05}[HR 5-6] 
 {/c}Obtain from 

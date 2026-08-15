@@ -1,5 +1,5 @@
 index,source,target
-0,−−−−−−,
+0,－－－－－－,
 1,調合書①入門編,Book of Combos 1
 2,調合書②初級編,Book of Combos 2
 3,調合書③中級編,Book of Combos 3
@@ -1163,11 +1163,11 @@ index,source,target
 1161,耐寒珠ＳＰ,Cold Res SP
 1162,博士珠ＳＰ,Doctor SP
 1163,美食珠ＳＰ,Food SP
-1164,教官珠貤,Instructor Gem Ⅰ
-1165,教官珠賖,Instructor Gem Ⅱ
-1166,教官珠賕,Instructor Gem Ⅲ
-1167,教官珠賙,Instructor Gem Ⅳ
-1168,教官珠𧶠,Instructor Gem Ⅴ
+1164,教官珠Ⅰ,Instructor Gem Ⅰ
+1165,教官珠Ⅱ,Instructor Gem Ⅱ
+1166,教官珠Ⅲ,Instructor Gem Ⅲ
+1167,教官珠Ⅳ,Instructor Gem Ⅳ
+1168,教官珠Ⅴ,Instructor Gem Ⅴ
 1169,カム・オルガロンの書,Kamu Orugaron Info
 1170,ノノ・オルガロンの書,Nono Orugaron Info
 1171,デュラガウアの書,Dyuragaua Info
@@ -1372,9 +1372,9 @@ index,source,target
 1370,鳥竜種の皮,B.Wyvern Hide
 1371,鳥竜種の上皮,B.Wyvern Hide+
 1372,鳥竜種の特上皮,B.Wyvern Finehide
-1373,鳥竜種の鱗貤,B.Wyvern Scale Ⅰ
-1374,鳥竜種の鱗賖,B.Wyvern Scale Ⅱ
-1375,鳥竜種の鱗賕,B.Wyvern Scale Ⅲ
+1373,鳥竜種の鱗Ⅰ,B.Wyvern Scale Ⅰ
+1374,鳥竜種の鱗Ⅱ,B.Wyvern Scale Ⅱ
+1375,鳥竜種の鱗Ⅲ,B.Wyvern Scale Ⅲ
 1376,鳥竜種の牙,B.Wyvern Fang
 1377,鳥竜種の鋭牙,B.Wyvern Fang+
 1378,鳥竜種の重牙,B.Wyvern Hardfang
@@ -1396,9 +1396,9 @@ index,source,target
 1394,鳥竜種の尾,B.Wyvern Tail
 1395,鳥竜種の靭尾,B.Wyvern Tail+
 1396,鳥竜種の剛尾,B.Wyvern Hardtail
-1397,鳥竜種の頭貤,B.Wyvern Head Ⅰ
-1398,鳥竜種の頭賖,B.Wyvern Head Ⅱ
-1399,鳥竜種の頭賕,B.Wyvern Head Ⅲ
+1397,鳥竜種の頭Ⅰ,B.Wyvern Head Ⅰ
+1398,鳥竜種の頭Ⅱ,B.Wyvern Head Ⅱ
+1399,鳥竜種の頭Ⅲ,B.Wyvern Head Ⅲ
 1400,古龍種の殻,E.Dragon Shell
 1401,古龍種の堅殻,E.Dragon Carapace
 1402,古龍種の重殻,E.Dragon Hardshell
@@ -1426,15 +1426,15 @@ index,source,target
 1424,古龍種の鱗,E.Dragon Scale
 1425,古龍種の上鱗,E.Dragon Scale+
 1426,古龍種の厚鱗,E.Dragon Shard
-1427,黒龍の角貤,Fatalis Horn Ⅰ
-1428,黒龍の角賖,Fatalis Horn Ⅱ
-1429,黒龍の角賕,Fatalis Horn Ⅲ
-1430,黒龍の翼貤,Fatalis Wing Ⅰ
-1431,黒龍の翼賖,Fatalis Wing Ⅱ
-1432,黒龍の翼賕,Fatalis Wing Ⅲ
-1433,黒龍の鱗貤,Fatalis Scale Ⅰ
-1434,黒龍の鱗賖,Fatalis Scale Ⅱ
-1435,黒龍の鱗賕,Fatalis Scale Ⅲ
+1427,黒龍の角Ⅰ,Fatalis Horn Ⅰ
+1428,黒龍の角Ⅱ,Fatalis Horn Ⅱ
+1429,黒龍の角Ⅲ,Fatalis Horn Ⅲ
+1430,黒龍の翼Ⅰ,Fatalis Wing Ⅰ
+1431,黒龍の翼Ⅱ,Fatalis Wing Ⅱ
+1432,黒龍の翼Ⅲ,Fatalis Wing Ⅲ
+1433,黒龍の鱗Ⅰ,Fatalis Scale Ⅰ
+1434,黒龍の鱗Ⅱ,Fatalis Scale Ⅱ
+1435,黒龍の鱗Ⅲ,Fatalis Scale Ⅲ
 1436,発電袋,Storm Sac
 1437,発火袋,Scorch Sac
 1438,貯水袋,Tidal Sac
@@ -1626,9 +1626,9 @@ index,source,target
 1624,リアン生産券・腕,Lien Arms Tkt
 1625,リアン生産券・腰,Lien Waist Tkt
 1626,リアン生産券・脚,Lien Legs Tkt
-1627,ぱらチケット貤,Para Ticket Ⅰ
-1628,ぱらチケット賖,Para Ticket Ⅱ
-1629,ぱらチケット賕,Para Ticket Ⅲ
+1627,ぱらチケットⅠ,Para Ticket Ⅰ
+1628,ぱらチケットⅡ,Para Ticket Ⅱ
+1629,ぱらチケットⅢ,Para Ticket Ⅲ
 1630,ＨＬ生産券,HL Tkt
 1631,ＥＸ生産券,EX Tkt
 1632,ＣＡ生産券,CA Tkt
@@ -1845,7 +1845,7 @@ index,source,target
 1843,レアル生産券腕,Real Tkt Arms
 1844,レアル生産券腰,Real Tkt Waist
 1845,レアル生産券脚,Real Tkt Legs
-1846,古の賛歌書賖,Ancient Hymn II
+1846,古の賛歌書Ⅱ,Ancient Hymn II
 1847,天地の書,Book of Life
 1848,キノス秘石,Secret Stone
 1849,剛閃の宝玉,Flare Gem
@@ -1857,7 +1857,7 @@ index,source,target
 1855,紅晶石の欠片,Red Gem Shard
 1856,紫晶石の欠片,Purple Gem Shard
 1857,蒼晶石の欠片,Blue Gem Shard
-1858,感謝の証賖,Thank You Ⅱ
+1858,感謝の証Ⅱ,Thank You Ⅱ
 1859,ＶＩＳＡ生産券,VISA Ticket
 1860,あくねこの追憶,Evil Cat Memories
 1861,あかねこの追憶,Red Cat Memories
@@ -2612,11 +2612,11 @@ index,source,target
 2610,ダミー1010072,Dummy 1010072
 2611,猛き怪魚,Weird Fish
 2612,飛靭草,Sky Grass
-2613,地図の断片貤,Map Fragment Ⅰ
-2614,地図の断片賖,Map Fragment Ⅱ
-2615,地図の断片賕,Map Fragment Ⅲ
-2616,地図の断片賙,Map Fragment Ⅳ
-2617,地図の断片𧶠,Map Fragment Ⅴ
+2613,地図の断片Ⅰ,Map Fragment Ⅰ
+2614,地図の断片Ⅱ,Map Fragment Ⅱ
+2615,地図の断片Ⅲ,Map Fragment Ⅲ
+2616,地図の断片Ⅳ,Map Fragment Ⅳ
+2617,地図の断片Ⅴ,Map Fragment Ⅴ
 2618,琥珀の稀水,Rare Amber Water
 2619,深紅の稀水,Rare Crimson Water
 2620,淡紅の稀水,Rare Rose Water
@@ -3040,7 +3040,7 @@ index,source,target
 3038,ＴＰ３生産券・３,ＴＰ３ Tkt・３
 3039,ＴＰ３生産券・４,ＴＰ３ Tkt・４
 3040,ＴＰ３生産券・５,ＴＰ３ Tkt・５
-3041,感謝の証賕,Thank You Ⅲ
+3041,感謝の証Ⅲ,Thank You Ⅲ
 3042,先駆者の証,Pioneer Proof
 3043,プリウムコイン,Primo Coin
 3044,漆黒の龍鉄,Ebony Dragontite
@@ -3551,10 +3551,10 @@ index,source,target
 3549,蛮竜の靭尾,Guren Tail+
 3550,蛮竜の上棘,Guren Spike+
 3551,蛮竜討伐の証,Guren Proof
-3552,演習珠貤,Training Jewel Ⅰ
-3553,演習珠賖,Training Jewel Ⅱ
-3554,演習珠賕,Training Jewel Ⅲ
-3555,演習珠賙,Training Jewel Ⅳ
+3552,演習珠Ⅰ,Training Jewel Ⅰ
+3553,演習珠Ⅱ,Training Jewel Ⅱ
+3554,演習珠Ⅲ,Training Jewel Ⅲ
+3555,演習珠Ⅳ,Training Jewel Ⅳ
 3556,チャバネイワムシ,Feathered Rockworm
 3557,タカネキチョウ,Tallroot Butterfly
 3558,タルバッタ,Barrel Locust
@@ -3580,16 +3580,16 @@ index,source,target
 3578,エルペの角,Erupe Horn
 3579,エルペの毛皮,Erupe Hide
 3580,エルペの蹄,Erupe Hoof
-3581,演習珠𧶠,Training Jewel Ⅴ
+3581,演習珠Ⅴ,Training Jewel Ⅴ
 3582,妖しげなコイン,Bewitching Coin
 3583,微かに光るコイン,Glimmering Coin
 3584,朧に光るコイン,Hazy Coin
 3585,瞬き光るコイン,Blinking Coin
-3586,SSF賙生産券頭,SSFⅣ Tkt Head
-3587,SSF賙生産券胴,SSFⅣ Tkt Torso
-3588,SSF賙生産券腕,SSFⅣ Tkt Arms
-3589,SSF賙生産券腰,SSFⅣ Tkt Waist
-3590,SSF賙生産券脚,SSFⅣ Tkt Legs
+3586,SSFⅣ生産券頭,SSFⅣ Tkt Head
+3587,SSFⅣ生産券胴,SSFⅣ Tkt Torso
+3588,SSFⅣ生産券腕,SSFⅣ Tkt Arms
+3589,SSFⅣ生産券腰,SSFⅣ Tkt Waist
+3590,SSFⅣ生産券脚,SSFⅣ Tkt Legs
 3591,苔黒曜石,Mossy Obsidian
 3592,苔大理石,Mossy Marble
 3593,フレイムＴ生産券,Flame T Tkt
@@ -3971,16 +3971,16 @@ index,source,target
 3969,モドレ玉,Return Ball
 3970,ポイント減笛,Point Thief Flute
 3971,豊穣のコイン,Fertility Coin
-3972,超絶の証貤,Transcend Proof 1
-3973,超絶の証賖,Transcend Proof 2
-3974,超絶の証賕,Transcend Proof 3
-3975,超絶の証賙,Transcend Proof 4
-3976,超絶の証𧶠,Transcend Proof 5
-3977,超絶の証賰,Transcend Proof 6
-3978,超絶の証賱,Transcend Proof 7
-3979,超絶の証𧸐,Transcend Proof 8
-3980,超絶の証贉,Transcend Proof 9
-3981,超絶の証贎,Transcend Proof 10
+3972,超絶の証Ⅰ,Transcend Proof 1
+3973,超絶の証Ⅱ,Transcend Proof 2
+3974,超絶の証Ⅲ,Transcend Proof 3
+3975,超絶の証Ⅳ,Transcend Proof 4
+3976,超絶の証Ⅴ,Transcend Proof 5
+3977,超絶の証Ⅵ,Transcend Proof 6
+3978,超絶の証Ⅶ,Transcend Proof 7
+3979,超絶の証Ⅷ,Transcend Proof 8
+3980,超絶の証Ⅸ,Transcend Proof 9
+3981,超絶の証Ⅹ,Transcend Proof 10
 3982,モルデノＰ生産券,Morudeno P Tkt
 3983,ステンオＲ生産券,Steno R Tkt
 3984,極龍の鱗,Rukodiora Scale
@@ -4039,23 +4039,23 @@ index,source,target
 4037,撃龍鎚の研究書,Wyvern Mallet Tkt
 4038,練達の書【別巻】,Fancy Book 3
 4039,狩人の心得・二,Hunter's Skill 2
-4040,兵器設計書賖,Wpn Design Doc II
+4040,兵器設計書Ⅱ,Wpn Design Doc II
 4041,磁力を帯びた鱗,Magnetic Scales
-4042,SSF賙生産券頭２,SSFⅣ Head Tkt 2
-4043,SSF賙生産券胴２,SSFⅣ Torso Tkt 2
-4044,SSF賙生産券腕２,SSFⅣ Arms Tkt 2
-4045,SSF賙生産券腰２,SSFⅣ Waist Tkt 2
-4046,SSF賙生産券脚２,SSFⅣ Legs Tkt 2
-4047,SSF賙生産券頭Ｘ,SSFⅣ Head Tkt X
-4048,SSF賙生産券胴Ｘ,SSFⅣ Torso Tkt X
-4049,SSF賙生産券腕Ｘ,SSFⅣ Arms Tkt X
-4050,SSF賙生産券腰Ｘ,SSFⅣ Waist Tkt X
-4051,SSF賙生産券脚Ｘ,SSFⅣ Legs Tkt X
-4052,SSF賙生産券頭Ｆ,SSFⅣ Head Tkt F
-4053,SSF賙生産券胴Ｆ,SSFⅣ Torso Tkt F
-4054,SSF賙生産券腕Ｆ,SSFⅣ Arms Tkt F
-4055,SSF賙生産券腰Ｆ,SSFⅣ Waist Tkt F
-4056,SSF賙生産券脚Ｆ,SSFⅣ Legs Tkt F
+4042,SSFⅣ生産券頭２,SSFⅣ Head Tkt 2
+4043,SSFⅣ生産券胴２,SSFⅣ Torso Tkt 2
+4044,SSFⅣ生産券腕２,SSFⅣ Arms Tkt 2
+4045,SSFⅣ生産券腰２,SSFⅣ Waist Tkt 2
+4046,SSFⅣ生産券脚２,SSFⅣ Legs Tkt 2
+4047,SSFⅣ生産券頭Ｘ,SSFⅣ Head Tkt X
+4048,SSFⅣ生産券胴Ｘ,SSFⅣ Torso Tkt X
+4049,SSFⅣ生産券腕Ｘ,SSFⅣ Arms Tkt X
+4050,SSFⅣ生産券腰Ｘ,SSFⅣ Waist Tkt X
+4051,SSFⅣ生産券脚Ｘ,SSFⅣ Legs Tkt X
+4052,SSFⅣ生産券頭Ｆ,SSFⅣ Head Tkt F
+4053,SSFⅣ生産券胴Ｆ,SSFⅣ Torso Tkt F
+4054,SSFⅣ生産券腕Ｆ,SSFⅣ Arms Tkt F
+4055,SSFⅣ生産券腰Ｆ,SSFⅣ Waist Tkt F
+4056,SSFⅣ生産券脚Ｆ,SSFⅣ Legs Tkt F
 4057,純白星鉄,Pure Wht Star Iron
 4058,大地のメダル,Earth Medal
 4059,海洋のメダル,Marine Medal
@@ -4117,198 +4117,198 @@ index,source,target
 4115,鰐口原珠,Crockjaw Jewel
 4116,狐尾原珠,Foxtail Jewel
 4117,狼牙原珠,Wolffang Jewel
-4118,攻撃カフ賖ＰＡ１,Attack II PA1
-4119,攻撃カフ賖ＰＡ２,Attack II PA2
-4120,反動カフ賖ＰＡ１,Recoil II PA1
-4121,回避カフ賖ＰＡ１,Evasion II PA1
-4122,回避カフ賖ＰＡ２,Evasion II PA2
-4123,密射カフ賖ＰＡ１,Precision II PA1
-4124,調合カフ賖ＰＡ１,Combining II PA1
-4125,調合カフ賖ＰＡ２,Combining II PA2
-4126,龍攻カフ賖ＰＡ１,Drgn Attack II PA1
-4127,龍攻カフ賖ＰＡ２,Drgn Attack II PA2
-4128,砲術カフ賖ＰＡ１,Gunnery II PA1
-4129,砲術カフ賖ＰＡ２,Gunnery II PA2
-4130,審判カフ賖ＰＢ１,Protection II PB1
-4131,審判カフ賖ＰＢ２,Protection II PB2
-4132,底力カフ賖ＰＢ１,Adrenaline II PB1
-4133,底力カフ賖ＰＢ２,Adrenaline II PB2
-4134,断食カフ賖ＰＢ１,Fasting II PB1
-4135,断食カフ賖ＰＢ２,Fasting II PB2
-4136,スタカフ賖ＰＢ１,Stamina II PB1
-4137,スタカフ賖ＰＢ２,Stamina II PB2
-4138,強通カフ賖ＰＢ１,N.Shot Up II PB1
-4139,強通カフ賖ＰＢ２,N.Shot Up II PB2
-4140,反動カフ賖ＰＢ１,Recoil II PB1
-4141,反動カフ賖ＰＢ２,Recoil II PB2
-4142,火攻カフ賖ＰＢ１,Fire Attack II PB1
-4143,火攻カフ賖ＰＢ２,Fire Attack II PB2
-4144,水攻カフ賖ＰＢ１,Wat.Attack II PB1
-4145,水攻カフ賖ＰＢ２,Wat.Attack II PB2
-4146,雷攻カフ賖ＰＢ１,Thn.Attack II PB1
-4147,雷攻カフ賖ＰＢ２,Thn.Attack II PB2
-4148,氷攻カフ賖ＰＢ１,Ice Attack II PB1
-4149,氷攻カフ賖ＰＢ２,Ice Attack II PB2
-4150,龍攻カフ賖ＰＢ１,Drgn Attack II PB1
-4151,龍攻カフ賖ＰＢ２,Drgn Attack II PB2
-4152,弾調カフ賖ＰＢ１,Am.Combiner II PB1
-4153,弾調カフ賖ＰＢ２,Am.Combiner II PB2
-4154,溜短カフ賖ＰＣ１,Focus II PC1
-4155,溜短カフ賖ＰＣ２,Focus II PC2
-4156,溜短カフ賖ＰＣ３,Focus II PC3
-4157,根性カフ賖ＰＣ１,Guts II PC1
-4158,根性カフ賖ＰＣ２,Guts II PC2
-4159,根性カフ賖ＰＣ３,Guts II PC3
-4160,高設カフ賖ＰＣ１,Speed Setup II PC1
-4161,高設カフ賖ＰＣ２,Speed Setup II PC2
-4162,高設カフ賖ＰＣ３,Speed Setup II PC3
-4163,痺剣カフ賖ＰＣ１,Para Sword II PC1
-4164,痺剣カフ賖ＰＣ２,Para Sword II PC2
-4165,痺剣カフ賖ＰＣ３,Para Sword II PC3
-4166,毒剣カフ賖ＰＣ１,Psn. Sword II PC1
-4167,毒剣カフ賖ＰＣ２,Psn. Sword II PC2
-4168,毒剣カフ賖ＰＣ３,Psn. Sword II PC3
-4169,眠剣カフ賖ＰＣ１,Sleep Sword II PC1
-4170,眠剣カフ賖ＰＣ２,Sleep Sword II PC2
-4171,眠剣カフ賖ＰＣ３,Sleep Sword II PC3
-4172,密射カフ賖ＰＣ１,Precision II PC1
-4173,密射カフ賖ＰＣ２,Precision II PC2
-4174,密射カフ賖ＰＣ３,Precision II PC3
-4175,填数カフ賖ＰＣ１,Loading II PC1
-4176,填数カフ賖ＰＣ２,Loading II PC2
-4177,填数カフ賖ＰＣ３,Loading II PC3
-4178,研師カフ賖ＰＣ１,Sharpening II PC1
-4179,研師カフ賖ＰＣ２,Sharpening II PC2
-4180,研師カフ賖ＰＣ３,Sharpening II PC3
-4181,斬味カフ賖ＰＣ１,Sharpness II PC1
-4182,斬味カフ賖ＰＣ２,Sharpness II PC2
-4183,斬味カフ賖ＰＣ３,Sharpness II PC3
-4184,爆剣カフ賖ＰＣ１,Bomb Sword II PC1
-4185,爆剣カフ賖ＰＣ２,Bomb Sword II PC2
-4186,爆剣カフ賖ＰＣ３,Bomb Sword II PC3
-4187,火剣カフ賖ＰＣ１,Fire Sword II PC1
-4188,火剣カフ賖ＰＣ２,Fire Sword II PC2
-4189,火剣カフ賖ＰＣ３,Fire Sword II PC3
-4190,水剣カフ賖ＰＣ１,Water Sword II PC1
-4191,水剣カフ賖ＰＣ２,Water Sword II PC2
-4192,水剣カフ賖ＰＣ３,Water Sword II PC3
-4193,雷剣カフ賖ＰＣ１,Thndr Sword II PC1
-4194,雷剣カフ賖ＰＣ２,Thndr Sword II PC2
-4195,雷剣カフ賖ＰＣ３,Thndr Sword II PC3
-4196,氷剣カフ賖ＰＣ１,Ice Sword II PC1
-4197,氷剣カフ賖ＰＣ２,Ice Sword II PC2
-4198,氷剣カフ賖ＰＣ３,Ice Sword II PC3
-4199,龍剣カフ賖ＰＣ１,Drgn Sword II PC1
-4200,龍剣カフ賖ＰＣ２,Drgn Sword II PC2
-4201,龍剣カフ賖ＰＣ３,Drgn Sword II PC3
-4202,笛吹カフ賖ＰＣ１,Flute Expert II PC1
-4203,笛吹カフ賖ＰＣ２,Flute Expert II PC2
-4204,笛吹カフ賖ＰＣ３,Flute Expert II PC3
-4205,受身カフ賖ＰＣ１,Passive II PC1
-4206,受身カフ賖ＰＣ２,Passive II PC2
-4207,受身カフ賖ＰＣ３,Passive II PC3
-4208,絆カフ賖ＰＣ１,Bond II PC1
-4209,絆カフ賖ＰＣ２,Bond II PC2
-4210,絆カフ賖ＰＣ３,Bond II PC3
-4211,速収カフ賖ＰＣ１,Gath. Speed II PC1
-4212,速収カフ賖ＰＣ２,Gath.Speed II PC2
-4213,速収カフ賖ＰＣ３,Gath. Speed II PC3
-4214,特攻カフ賖ＳＡ１,Stat Attack II SA1
-4215,特攻カフ賖ＳＡ２,Stat Attack II SA2
-4216,斬味カフ賖ＳＡ１,Sharpness II SA1
-4217,斬味カフ賖ＳＡ２,Sharpness II SA2
-4218,反動カフ賖ＳＡ１,Recoil II SA1
-4219,反動カフ賖ＳＡ２,Recoil II SA2
-4220,千里カフ賖ＳＡ１,Psychic II SA1
-4221,砲術カフ賖ＳＡ１,Gunnery II SA1
-4222,速収カフ賖ＳＡ１,Rap.Gathering SA1
-4223,捕獲カフ賖ＳＡ１,Cap. Expert II SA1
-4224,強爆カフ賖ＳＡ１,Bomb Boost II SA1
-4225,防御カフ賖ＳＡ１,Defense II SA1
-4226,麻痺カフ賖ＳＢ１,Para. Res II SB1
-4227,麻痺カフ賖ＳＢ２,Para. Res II SB2
-4228,気絶カフ賖ＳＢ１,Stun Res II SB1
-4229,気絶カフ賖ＳＢ２,Stun Res II SB2
-4230,毒カフ賖ＳＢ１,Poison Res II SB1
-4231,毒カフ賖ＳＢ２,Poison Res II SB2
-4232,広域カフ賖ＳＢ１,Wide-Area II SB1
-4233,広域カフ賖ＳＢ２,Wide-Area II SB2
-4234,運搬カフ賖ＳＢ１,Backpacking II SB1
-4235,運搬カフ賖ＳＢ２,Backpacking II SB2
-4236,地形カフ賖ＳＢ１,Terrain II SB1
-4237,地形カフ賖ＳＢ２,Terrain II SB2
-4238,食坊カフ賖ＳＢ１,Gluttony II SB1
-4239,食坊カフ賖ＳＢ２,Gluttony II SB2
-4240,耐雪カフ賖ＳＢ１,Snow. Res II SB1
-4241,耐雪カフ賖ＳＢ２,Snow.Res II SB2
-4242,自防カフ賖ＳＢ１,Auto-Guard II SB1
-4243,自防カフ賖ＳＢ２,Auto-Guard II SB2
-4244,防御カフ賖ＳＢ１,Defense Ⅱ SB1
-4245,防御カフ賖ＳＢ２,Defense Ⅱ SB2
-4246,体力カフ賖ＳＢ１,Health Ⅱ SB1
-4247,体力カフ賖ＳＢ２,Health Ⅱ SB2
-4248,捕獲カフ賖ＳＢ１,Capture Expert
-4249,捕獲カフ賖ＳＢ２,Cap. Expert Ⅱ SB2
-4250,全耐カフ賖ＳＣ１,All Res UP Ⅱ SC1
-4251,全耐カフ賖ＳＣ２,All Res UP Ⅱ SC2
-4252,千里カフ賖ＳＣ１,Psychic Ⅱ SC1
-4253,千里カフ賖ＳＣ２,Psychic Ⅱ SC2
-4254,効持カフ賖ＳＣ１,Everlasting Ⅱ SC1
-4255,効持カフ賖ＳＣ２,Everlasting Ⅱ SC2
-4256,気紛カフ賖ＳＣ１,Whim Ⅱ SC1
-4257,気紛カフ賖ＳＣ２,Whim Ⅱ SC2
-4258,受身カフ賖ＳＣ１,Passive Ⅱ SC1
-4259,受身カフ賖ＳＣ２,Passive Ⅱ SC2
-4260,笛吹カフ賖ＳＣ１,Flt.Expert Ⅱ SC1
-4261,笛吹カフ賖ＳＣ２,Flt.Expert Ⅱ SC2
-4262,地形カフ賖ＳＣ１,Terrain Ⅱ SC1
-4263,地形カフ賖ＳＣ２,Terrain Ⅱ SC2
-4264,採取カフ賖ＳＣ１,Gathering Ⅱ SC1
-4265,採取カフ賖ＳＣ２,Gathering Ⅱ SC2
-4266,追貫カフ賖ＳＣ１,P.Shot Add Ⅱ SC1
-4267,追貫カフ賖ＳＣ２,P.Shot Add Ⅱ SC2
-4268,耐震カフ賖ＳＣ１,Quake Res Ⅱ SC1
-4269,耐震カフ賖ＳＣ２,Quake Res Ⅱ SC2
-4270,捕獲カフ賖ＳＣ１,Cap. Expert Ⅱ SC1
-4271,捕獲カフ賖ＳＣ２,Cap. Expert Ⅱ SC2
-4272,捕獲カフ賖ＳＣ３,Cap. Expert Ⅱ SC3
-4273,捕獲カフ賖ＳＣ４,Cap. Expert Ⅱ SC4
-4274,速逃カフ賖ＳＣ１,Breakout Ⅱ SC1
-4275,速逃カフ賖ＳＣ２,Breakout Ⅱ SC2
-4276,速逃カフ賖ＳＣ３,Breakout Ⅱ SC3
-4277,速逃カフ賖ＳＣ４,Breakout Ⅱ SC4
-4278,閃きカフ賖ＳＣ１,Inspiration Ⅱ SC1
-4279,閃きカフ賖ＳＣ２,Inspiration Ⅱ SC2
-4280,閃きカフ賖ＳＣ３,Inspiration Ⅱ SC3
-4281,閃きカフ賖ＳＣ４,Inspiration Ⅱ SC4
-4282,防御カフ賖ＳＣ１,Defense Ⅱ SC1
-4283,防御カフ賖ＳＣ２,Defense Ⅱ SC2
-4284,防御カフ賖ＳＣ３,Defense Ⅱ SC3
-4285,防御カフ賖ＳＣ４,Defense Ⅱ SC4
-4286,速復カフ賖ＳＣ１,Rec. Speed Ⅱ SC1
-4287,速復カフ賖ＳＣ２,Rec. Speed Ⅱ SC2
-4288,速復カフ賖ＳＣ３,Rec. Speed Ⅱ SC3
-4289,速復カフ賖ＳＣ４,Rec. Speed Ⅱ SC4
-4290,睡眠カフ賖ＳＣ１,Sleep Res Ⅱ SC1
-4291,睡眠カフ賖ＳＣ２,Sleep Res Ⅱ SC2
-4292,睡眠カフ賖ＳＣ３,Sleep Res Ⅱ SC3
-4293,睡眠カフ賖ＳＣ４,Sleep Res Ⅱ SC4
-4294,脱臭カフ賖ＳＣ１,Deodorant Ⅱ SC1
-4295,脱臭カフ賖ＳＣ２,Deodorant Ⅱ SC2
-4296,脱臭カフ賖ＳＣ３,Deodorant Ⅱ SC3
-4297,脱臭カフ賖ＳＣ４,Deodorant Ⅱ SC4
-4298,耐雪カフ賖ＳＣ１,Snow.Res Ⅱ SC1
-4299,耐雪カフ賖ＳＣ２,Snow.Res Ⅱ SC2
-4300,耐雪カフ賖ＳＣ３,Snow.Res Ⅱ SC3
-4301,耐雪カフ賖ＳＣ４,Snow.Res Ⅱ SC4
-4302,気配カフ賖ＳＣ１,Stealth Ⅱ SC1
-4303,気配カフ賖ＳＣ２,Stealth Ⅱ SC2
-4304,気配カフ賖ＳＣ３,Stealth Ⅱ SC3
-4305,気配カフ賖ＳＣ４,Stealth Ⅱ SC4
-4306,体力カフ賖ＳＣ１,Health Ⅱ SC1
-4307,体力カフ賖ＳＣ２,Health Ⅱ SC2
-4308,体力カフ賖ＳＣ３,Health Ⅱ SC3
-4309,体力カフ賖ＳＣ４,Health Ⅱ SC4
+4118,攻撃カフⅡＰＡ１,Attack II PA1
+4119,攻撃カフⅡＰＡ２,Attack II PA2
+4120,反動カフⅡＰＡ１,Recoil II PA1
+4121,回避カフⅡＰＡ１,Evasion II PA1
+4122,回避カフⅡＰＡ２,Evasion II PA2
+4123,密射カフⅡＰＡ１,Precision II PA1
+4124,調合カフⅡＰＡ１,Combining II PA1
+4125,調合カフⅡＰＡ２,Combining II PA2
+4126,龍攻カフⅡＰＡ１,Drgn Attack II PA1
+4127,龍攻カフⅡＰＡ２,Drgn Attack II PA2
+4128,砲術カフⅡＰＡ１,Gunnery II PA1
+4129,砲術カフⅡＰＡ２,Gunnery II PA2
+4130,審判カフⅡＰＢ１,Protection II PB1
+4131,審判カフⅡＰＢ２,Protection II PB2
+4132,底力カフⅡＰＢ１,Adrenaline II PB1
+4133,底力カフⅡＰＢ２,Adrenaline II PB2
+4134,断食カフⅡＰＢ１,Fasting II PB1
+4135,断食カフⅡＰＢ２,Fasting II PB2
+4136,スタカフⅡＰＢ１,Stamina II PB1
+4137,スタカフⅡＰＢ２,Stamina II PB2
+4138,強通カフⅡＰＢ１,N.Shot Up II PB1
+4139,強通カフⅡＰＢ２,N.Shot Up II PB2
+4140,反動カフⅡＰＢ１,Recoil II PB1
+4141,反動カフⅡＰＢ２,Recoil II PB2
+4142,火攻カフⅡＰＢ１,Fire Attack II PB1
+4143,火攻カフⅡＰＢ２,Fire Attack II PB2
+4144,水攻カフⅡＰＢ１,Wat.Attack II PB1
+4145,水攻カフⅡＰＢ２,Wat.Attack II PB2
+4146,雷攻カフⅡＰＢ１,Thn.Attack II PB1
+4147,雷攻カフⅡＰＢ２,Thn.Attack II PB2
+4148,氷攻カフⅡＰＢ１,Ice Attack II PB1
+4149,氷攻カフⅡＰＢ２,Ice Attack II PB2
+4150,龍攻カフⅡＰＢ１,Drgn Attack II PB1
+4151,龍攻カフⅡＰＢ２,Drgn Attack II PB2
+4152,弾調カフⅡＰＢ１,Am.Combiner II PB1
+4153,弾調カフⅡＰＢ２,Am.Combiner II PB2
+4154,溜短カフⅡＰＣ１,Focus II PC1
+4155,溜短カフⅡＰＣ２,Focus II PC2
+4156,溜短カフⅡＰＣ３,Focus II PC3
+4157,根性カフⅡＰＣ１,Guts II PC1
+4158,根性カフⅡＰＣ２,Guts II PC2
+4159,根性カフⅡＰＣ３,Guts II PC3
+4160,高設カフⅡＰＣ１,Speed Setup II PC1
+4161,高設カフⅡＰＣ２,Speed Setup II PC2
+4162,高設カフⅡＰＣ３,Speed Setup II PC3
+4163,痺剣カフⅡＰＣ１,Para Sword II PC1
+4164,痺剣カフⅡＰＣ２,Para Sword II PC2
+4165,痺剣カフⅡＰＣ３,Para Sword II PC3
+4166,毒剣カフⅡＰＣ１,Psn. Sword II PC1
+4167,毒剣カフⅡＰＣ２,Psn. Sword II PC2
+4168,毒剣カフⅡＰＣ３,Psn. Sword II PC3
+4169,眠剣カフⅡＰＣ１,Sleep Sword II PC1
+4170,眠剣カフⅡＰＣ２,Sleep Sword II PC2
+4171,眠剣カフⅡＰＣ３,Sleep Sword II PC3
+4172,密射カフⅡＰＣ１,Precision II PC1
+4173,密射カフⅡＰＣ２,Precision II PC2
+4174,密射カフⅡＰＣ３,Precision II PC3
+4175,填数カフⅡＰＣ１,Loading II PC1
+4176,填数カフⅡＰＣ２,Loading II PC2
+4177,填数カフⅡＰＣ３,Loading II PC3
+4178,研師カフⅡＰＣ１,Sharpening II PC1
+4179,研師カフⅡＰＣ２,Sharpening II PC2
+4180,研師カフⅡＰＣ３,Sharpening II PC3
+4181,斬味カフⅡＰＣ１,Sharpness II PC1
+4182,斬味カフⅡＰＣ２,Sharpness II PC2
+4183,斬味カフⅡＰＣ３,Sharpness II PC3
+4184,爆剣カフⅡＰＣ１,Bomb Sword II PC1
+4185,爆剣カフⅡＰＣ２,Bomb Sword II PC2
+4186,爆剣カフⅡＰＣ３,Bomb Sword II PC3
+4187,火剣カフⅡＰＣ１,Fire Sword II PC1
+4188,火剣カフⅡＰＣ２,Fire Sword II PC2
+4189,火剣カフⅡＰＣ３,Fire Sword II PC3
+4190,水剣カフⅡＰＣ１,Water Sword II PC1
+4191,水剣カフⅡＰＣ２,Water Sword II PC2
+4192,水剣カフⅡＰＣ３,Water Sword II PC3
+4193,雷剣カフⅡＰＣ１,Thndr Sword II PC1
+4194,雷剣カフⅡＰＣ２,Thndr Sword II PC2
+4195,雷剣カフⅡＰＣ３,Thndr Sword II PC3
+4196,氷剣カフⅡＰＣ１,Ice Sword II PC1
+4197,氷剣カフⅡＰＣ２,Ice Sword II PC2
+4198,氷剣カフⅡＰＣ３,Ice Sword II PC3
+4199,龍剣カフⅡＰＣ１,Drgn Sword II PC1
+4200,龍剣カフⅡＰＣ２,Drgn Sword II PC2
+4201,龍剣カフⅡＰＣ３,Drgn Sword II PC3
+4202,笛吹カフⅡＰＣ１,Flute Expert II PC1
+4203,笛吹カフⅡＰＣ２,Flute Expert II PC2
+4204,笛吹カフⅡＰＣ３,Flute Expert II PC3
+4205,受身カフⅡＰＣ１,Passive II PC1
+4206,受身カフⅡＰＣ２,Passive II PC2
+4207,受身カフⅡＰＣ３,Passive II PC3
+4208,絆カフⅡＰＣ１,Bond II PC1
+4209,絆カフⅡＰＣ２,Bond II PC2
+4210,絆カフⅡＰＣ３,Bond II PC3
+4211,速収カフⅡＰＣ１,Gath. Speed II PC1
+4212,速収カフⅡＰＣ２,Gath.Speed II PC2
+4213,速収カフⅡＰＣ３,Gath. Speed II PC3
+4214,特攻カフⅡＳＡ１,Stat Attack II SA1
+4215,特攻カフⅡＳＡ２,Stat Attack II SA2
+4216,斬味カフⅡＳＡ１,Sharpness II SA1
+4217,斬味カフⅡＳＡ２,Sharpness II SA2
+4218,反動カフⅡＳＡ１,Recoil II SA1
+4219,反動カフⅡＳＡ２,Recoil II SA2
+4220,千里カフⅡＳＡ１,Psychic II SA1
+4221,砲術カフⅡＳＡ１,Gunnery II SA1
+4222,速収カフⅡＳＡ１,Rap.Gathering SA1
+4223,捕獲カフⅡＳＡ１,Cap. Expert II SA1
+4224,強爆カフⅡＳＡ１,Bomb Boost II SA1
+4225,防御カフⅡＳＡ１,Defense II SA1
+4226,麻痺カフⅡＳＢ１,Para. Res II SB1
+4227,麻痺カフⅡＳＢ２,Para. Res II SB2
+4228,気絶カフⅡＳＢ１,Stun Res II SB1
+4229,気絶カフⅡＳＢ２,Stun Res II SB2
+4230,毒カフⅡＳＢ１,Poison Res II SB1
+4231,毒カフⅡＳＢ２,Poison Res II SB2
+4232,広域カフⅡＳＢ１,Wide-Area II SB1
+4233,広域カフⅡＳＢ２,Wide-Area II SB2
+4234,運搬カフⅡＳＢ１,Backpacking II SB1
+4235,運搬カフⅡＳＢ２,Backpacking II SB2
+4236,地形カフⅡＳＢ１,Terrain II SB1
+4237,地形カフⅡＳＢ２,Terrain II SB2
+4238,食坊カフⅡＳＢ１,Gluttony II SB1
+4239,食坊カフⅡＳＢ２,Gluttony II SB2
+4240,耐雪カフⅡＳＢ１,Snow. Res II SB1
+4241,耐雪カフⅡＳＢ２,Snow.Res II SB2
+4242,自防カフⅡＳＢ１,Auto-Guard II SB1
+4243,自防カフⅡＳＢ２,Auto-Guard II SB2
+4244,防御カフⅡＳＢ１,Defense Ⅱ SB1
+4245,防御カフⅡＳＢ２,Defense Ⅱ SB2
+4246,体力カフⅡＳＢ１,Health Ⅱ SB1
+4247,体力カフⅡＳＢ２,Health Ⅱ SB2
+4248,捕獲カフⅡＳＢ１,Capture Expert
+4249,捕獲カフⅡＳＢ２,Cap. Expert Ⅱ SB2
+4250,全耐カフⅡＳＣ１,All Res UP Ⅱ SC1
+4251,全耐カフⅡＳＣ２,All Res UP Ⅱ SC2
+4252,千里カフⅡＳＣ１,Psychic Ⅱ SC1
+4253,千里カフⅡＳＣ２,Psychic Ⅱ SC2
+4254,効持カフⅡＳＣ１,Everlasting Ⅱ SC1
+4255,効持カフⅡＳＣ２,Everlasting Ⅱ SC2
+4256,気紛カフⅡＳＣ１,Whim Ⅱ SC1
+4257,気紛カフⅡＳＣ２,Whim Ⅱ SC2
+4258,受身カフⅡＳＣ１,Passive Ⅱ SC1
+4259,受身カフⅡＳＣ２,Passive Ⅱ SC2
+4260,笛吹カフⅡＳＣ１,Flt.Expert Ⅱ SC1
+4261,笛吹カフⅡＳＣ２,Flt.Expert Ⅱ SC2
+4262,地形カフⅡＳＣ１,Terrain Ⅱ SC1
+4263,地形カフⅡＳＣ２,Terrain Ⅱ SC2
+4264,採取カフⅡＳＣ１,Gathering Ⅱ SC1
+4265,採取カフⅡＳＣ２,Gathering Ⅱ SC2
+4266,追貫カフⅡＳＣ１,P.Shot Add Ⅱ SC1
+4267,追貫カフⅡＳＣ２,P.Shot Add Ⅱ SC2
+4268,耐震カフⅡＳＣ１,Quake Res Ⅱ SC1
+4269,耐震カフⅡＳＣ２,Quake Res Ⅱ SC2
+4270,捕獲カフⅡＳＣ１,Cap. Expert Ⅱ SC1
+4271,捕獲カフⅡＳＣ２,Cap. Expert Ⅱ SC2
+4272,捕獲カフⅡＳＣ３,Cap. Expert Ⅱ SC3
+4273,捕獲カフⅡＳＣ４,Cap. Expert Ⅱ SC4
+4274,速逃カフⅡＳＣ１,Breakout Ⅱ SC1
+4275,速逃カフⅡＳＣ２,Breakout Ⅱ SC2
+4276,速逃カフⅡＳＣ３,Breakout Ⅱ SC3
+4277,速逃カフⅡＳＣ４,Breakout Ⅱ SC4
+4278,閃きカフⅡＳＣ１,Inspiration Ⅱ SC1
+4279,閃きカフⅡＳＣ２,Inspiration Ⅱ SC2
+4280,閃きカフⅡＳＣ３,Inspiration Ⅱ SC3
+4281,閃きカフⅡＳＣ４,Inspiration Ⅱ SC4
+4282,防御カフⅡＳＣ１,Defense Ⅱ SC1
+4283,防御カフⅡＳＣ２,Defense Ⅱ SC2
+4284,防御カフⅡＳＣ３,Defense Ⅱ SC3
+4285,防御カフⅡＳＣ４,Defense Ⅱ SC4
+4286,速復カフⅡＳＣ１,Rec. Speed Ⅱ SC1
+4287,速復カフⅡＳＣ２,Rec. Speed Ⅱ SC2
+4288,速復カフⅡＳＣ３,Rec. Speed Ⅱ SC3
+4289,速復カフⅡＳＣ４,Rec. Speed Ⅱ SC4
+4290,睡眠カフⅡＳＣ１,Sleep Res Ⅱ SC1
+4291,睡眠カフⅡＳＣ２,Sleep Res Ⅱ SC2
+4292,睡眠カフⅡＳＣ３,Sleep Res Ⅱ SC3
+4293,睡眠カフⅡＳＣ４,Sleep Res Ⅱ SC4
+4294,脱臭カフⅡＳＣ１,Deodorant Ⅱ SC1
+4295,脱臭カフⅡＳＣ２,Deodorant Ⅱ SC2
+4296,脱臭カフⅡＳＣ３,Deodorant Ⅱ SC3
+4297,脱臭カフⅡＳＣ４,Deodorant Ⅱ SC4
+4298,耐雪カフⅡＳＣ１,Snow.Res Ⅱ SC1
+4299,耐雪カフⅡＳＣ２,Snow.Res Ⅱ SC2
+4300,耐雪カフⅡＳＣ３,Snow.Res Ⅱ SC3
+4301,耐雪カフⅡＳＣ４,Snow.Res Ⅱ SC4
+4302,気配カフⅡＳＣ１,Stealth Ⅱ SC1
+4303,気配カフⅡＳＣ２,Stealth Ⅱ SC2
+4304,気配カフⅡＳＣ３,Stealth Ⅱ SC3
+4305,気配カフⅡＳＣ４,Stealth Ⅱ SC4
+4306,体力カフⅡＳＣ１,Health Ⅱ SC1
+4307,体力カフⅡＳＣ２,Health Ⅱ SC2
+4308,体力カフⅡＳＣ３,Health Ⅱ SC3
+4309,体力カフⅡＳＣ４,Health Ⅱ SC4
 4310,毒瓶珠Ｇ,Poison Coating G
 4311,痺瓶珠Ｇ,Para Coating G
 4312,眠瓶珠Ｇ,Sleep Coating G
@@ -4363,9 +4363,9 @@ index,source,target
 4361,ポイゾナー生産券,Poisoner Tkt
 4362,パラライピ生産券,Pararaipi Tkt
 4363,デモンズＲ生産券,Demonic R Tkt
-4364,カフＰＡ生産券賖,PA Cuff Tkt Ⅱ
-4365,カフＰＢ生産券賖,PB Cuff Tkt Ⅱ
-4366,カフＰＣ生産券賖,PC Cuff Tkt Ⅱ
+4364,カフＰＡ生産券Ⅱ,PA Cuff Tkt Ⅱ
+4365,カフＰＢ生産券Ⅱ,PB Cuff Tkt Ⅱ
+4366,カフＰＣ生産券Ⅱ,PC Cuff Tkt Ⅱ
 4367,頑丈な顎骨,Sturdy Jawbone
 4368,カルド鉱石【砂】,Card Ore Sand
 4369,カルド鉱石【梅】,Card Ore Plum
@@ -4376,14 +4376,14 @@ index,source,target
 4374,ＴＰ５生産券・３,TP5 Tkt・3
 4375,ＴＰ５生産券・４,TP5 Tkt・4
 4376,ＴＰ５生産券・５,TP5 Tkt・5
-4377,エナ生産券貤,Ena Tkt Ⅰ
-4378,エナ生産券賖,Ena Tkt Ⅱ
-4379,エナ生産券賕,Ena Tkt Ⅲ
-4380,エナ生産券賙,Ena Tkt Ⅳ
-4381,エナ生産券𧶠,Ena Tkt Ⅴ
-4382,エナ生産券賰,Ena Tkt Ⅵ
-4383,エナ生産券賱,Ena Tkt Ⅶ
-4384,エナ生産券𧸐,Ena Tkt Ⅷ
+4377,エナ生産券Ⅰ,Ena Tkt Ⅰ
+4378,エナ生産券Ⅱ,Ena Tkt Ⅱ
+4379,エナ生産券Ⅲ,Ena Tkt Ⅲ
+4380,エナ生産券Ⅳ,Ena Tkt Ⅳ
+4381,エナ生産券Ⅴ,Ena Tkt Ⅴ
+4382,エナ生産券Ⅵ,Ena Tkt Ⅵ
+4383,エナ生産券Ⅶ,Ena Tkt Ⅶ
+4384,エナ生産券Ⅷ,Ena Tkt Ⅷ
 4385,ＳエンテＨ生産券,S H Canard Tkt
 4386,ノッテＨ生産券,Notte H Tkt
 4387,プラートＨ生産券,Plato H Tkt
@@ -4429,7 +4429,7 @@ index,source,target
 4427,七色火薬,Rainbow Gunpowder
 4428,いにしえの木の枝,Yggdrasil Branch
 4429,墨のカケラ,Inky Fragm
-4430,感謝の証賙,Thank You Ⅳ
+4430,感謝の証Ⅳ,Thank You Ⅳ
 4431,Ｗスプーン生産券,W Spoon Tkt
 4432,Ｆスプーン生産券,F Spoon Tkt
 4433,プリティＨ生産券,Pretty H Tkt
@@ -4493,198 +4493,198 @@ index,source,target
 4491,飛竜の艶髄,Unknown Marrow
 4492,飛竜の黒尾,Unknown Tail
 4493,飛竜の艶棘,Unknown Spike
-4494,聴保カフ賖ＰＡ１,Earplugs II PA1
-4495,聴保カフ賖ＰＡ２,Earplugs II PA2
-4496,聴保カフ賖ＰＡ３,Earplugs II PA3
-4497,断食カフ賖ＰＡ１,Fasting II PA1
-4498,断食カフ賖ＰＡ２,Fasting II PA2
-4499,断食カフ賖ＰＡ３,Fasting II PA3
-4500,千里カフ賖ＰＡ１,Psychic II PA1
-4501,千里カフ賖ＰＡ２,Psychic II PA2
-4502,弾調カフ賖ＰＡ１,Am.Combiner II PA1
-4503,弾調カフ賖ＰＡ２,Am.Combiner II PA2
-4504,食事カフ賖ＰＡ１,Eating II PA1
-4505,食事カフ賖ＰＡ２,Eating II PA2
-4506,強貫カフ賖ＰＢ１,P. Shot Up II PB1
-4507,強貫カフ賖ＰＢ２,P. Shot Up II PB2
-4508,回避カフ賖ＰＢ１,Evasion II PB1
-4509,回避カフ賖ＰＢ２,Evasion II PB2
-4510,密射カフ賖ＰＢ１,Precision II PB1
-4511,密射カフ賖ＰＢ２,Precision II PB2
-4512,斬味カフ賖ＰＢ１,Sharpness II PB1
-4513,斬味カフ賖ＰＢ２,Sharpness II PB2
-4514,研師カフ賖ＰＢ１,Sharpening II PB1
-4515,研師カフ賖ＰＢ２,Sharpening II PB2
-4516,風圧カフ賖ＰＢ１,W. Pressure II PB1
-4517,風圧カフ賖ＰＢ２,W. Pressure II PB2
-4518,爆剣カフ賖ＰＢ１,Bomb Sword II PB1
-4519,爆剣カフ賖ＰＢ２,Bomb Sword II PB2
-4520,火剣カフ賖ＰＢ１,Fire Sword II PB1
-4521,火剣カフ賖ＰＢ２,Fire Sword II PB2
-4522,水剣カフ賖ＰＢ１,Water Sword II PB1
-4523,水剣カフ賖ＰＢ２,Water Sword II PB2
-4524,雷剣カフ賖ＰＢ１,Thndr Sword II PB1
-4525,雷剣カフ賖ＰＢ２,Thndr Sword II PB2
-4526,氷剣カフ賖ＰＢ１,Ice Sword II PB1
-4527,氷剣カフ賖ＰＢ２,Ice Sword II PB2
-4528,龍剣カフ賖ＰＢ１,Drgn Sword II PB1
-4529,龍剣カフ賖ＰＢ２,Drgn Sword II PB2
-4530,ガ性カフ賖ＰＣ１,Guard II PC1
-4531,ガ性カフ賖ＰＣ２,Guard II PC2
-4532,ガ性カフ賖ＰＣ３,Guard II PC3
-4533,装填カフ賖ＰＣ１,Reload II PC1
-4534,装填カフ賖ＰＣ２,Reload II PC2
-4535,装填カフ賖ＰＣ３,Reload II PC3
-4536,連射カフ賖ＰＣ１,Auto-Reload II PC1
-4537,連射カフ賖ＰＣ２,Auto-Reload II PC2
-4538,連射カフ賖ＰＣ３,Auto-Reload II PC3
-4539,反動カフ賖ＰＣ１,Recoil II PC1
-4540,反動カフ賖ＰＣ２,Recoil II PC2
-4541,反動カフ賖ＰＣ３,Recoil II PC3
-4542,強散カフ賖ＰＣ１,Pe.Shot Up II PC1
-4543,強散カフ賖ＰＣ２,Pe.Shot Up II PC2
-4544,強散カフ賖ＰＣ３,Pe.Shot Up II PC3
-4545,特攻カフ賖ＰＣ１,Stat.Attack II PC1
-4546,特攻カフ賖ＰＣ２,Stat.Attack II PC2
-4547,特攻カフ賖ＰＣ３,Stat.Attack II PC3
-4548,断食カフ賖ＰＣ１,Fasting II PC1
-4549,断食カフ賖ＰＣ２,Fasting II PC2
-4550,断食カフ賖ＰＣ３,Fasting II PC3
-4551,スタカフ賖ＰＣ１,Stamina II PC1
-4552,スタカフ賖ＰＣ２,Stamina II PC2
-4553,スタカフ賖ＰＣ３,Stamina II PC3
-4554,底力カフ賖ＰＣ１,Adrenaline II PC1
-4555,底力カフ賖ＰＣ２,Adrenaline II PC2
-4556,底力カフ賖ＰＣ３,Adrenaline II PC3
-4557,回避カフ賖ＰＣ１,Evasion II PC1
-4558,回避カフ賖ＰＣ２,Evasion II PC2
-4559,回避カフ賖ＰＣ３,Evasion II PC3
-4560,麻痺カフ賖ＰＣ１,Para. Res II PC1
-4561,麻痺カフ賖ＰＣ２,Para. Res II PC2
-4562,麻痺カフ賖ＰＣ３,Para. Res II PC3
-4563,気絶カフ賖ＰＣ１,Stun Res II PC1
-4564,気絶カフ賖ＰＣ２,Stun Res II PC2
-4565,気絶カフ賖ＰＣ３,Stun Res II PC3
-4566,毒カフ賖ＰＣ１,Poison Res II PC1
-4567,毒カフ賖ＰＣ２,Poison Res II PC2
-4568,毒カフ賖ＰＣ３,Poison Res II PC3
-4569,速収カフ賖ＰＣ４,Gath.Speed II PC4
-4570,速収カフ賖ＰＣ５,Gath.Speed II PC5
-4571,速収カフ賖ＰＣ６,Gath.Speed II PC6
-4572,千里カフ賖ＰＣ１,Psychic II PC1
-4573,千里カフ賖ＰＣ２,Psychic II PC2
-4574,千里カフ賖ＰＣ３,Psychic II PC3
-4575,調合カフ賖ＰＣ１,Combining II PC1
-4576,調合カフ賖ＰＣ２,Combining II PC2
-4577,調合カフ賖ＰＣ３,Combining II PC3
-4578,弾調カフ賖ＰＣ１,Am.Combiner II PC1
-4579,弾調カフ賖ＰＣ２,Am.Combiner II PC2
-4580,弾調カフ賖ＰＣ３,Am.Combiner II PC3
-4581,効持カフ賖ＰＣ１,Everlasting II PC1
-4582,効持カフ賖ＰＣ２,Everlasting II PC2
-4583,効持カフ賖ＰＣ３,Everlasting II PC3
-4584,耐震カフ賖ＰＣ１,Quake Res II PC1
-4585,耐震カフ賖ＰＣ２,Quake Res II PC2
-4586,耐震カフ賖ＰＣ３,Quake Res II PC3
-4587,地形カフ賖ＰＣ１,Terrain II PC1
-4588,地形カフ賖ＰＣ２,Terrain II PC2
-4589,地形カフ賖ＰＣ３,Terrain II PC3
-4590,審判カフ賖ＳＡ１,Protection II SA1
-4591,審判カフ賖ＳＡ２,Protection II SA2
-4592,強通カフ賖ＳＡ１,N.Shot Up II SA1
-4593,強通カフ賖ＳＡ２,N.Shot Up II SA2
-4594,スタカフ賖ＳＡ１,Stamina II SA1
-4595,スタカフ賖ＳＡ２,Stamina II SA2
-4596,採取カフ賖ＳＡ１,Gathering II SA1
-4597,調合カフ賖ＳＡ１,Combining II SA1
-4598,食事カフ賖ＳＡ１,Meal II SA1
-4599,耐暑カフ賖ＳＡ１,Heat Res II SA1
-4600,速復カフ賖ＳＡ１,Rec. Speed II SA1
-4601,体力カフ賖ＳＡ１,Health II SA1
-4602,砲術カフ賖ＳＢ１,Gunnery II SB1
-4603,砲術カフ賖ＳＢ２,Gunnery II SB2
-4604,千里カフ賖ＳＢ１,Psychic II SB1
-4605,千里カフ賖ＳＢ２,Psychic II SB2
-4606,腹減カフ賖ＳＢ１,Hunger II SB1
-4607,腹減カフ賖ＳＢ２,Hunger II SB2
-4608,採取カフ賖ＳＢ１,Gathering II SB1
-4609,採取カフ賖ＳＢ２,Gathering II SB2
-4610,耐震カフ賖ＳＢ１,Quake Res II SB1
-4611,耐震カフ賖ＳＢ２,Quake Res II SB2
-4612,弾調カフ賖ＳＢ１,Am.Combiner II SB1
-4613,弾調カフ賖ＳＢ２,Am.Combiner II SB2
-4614,耐火カフ賖ＳＢ１,Fire Res II SB1
-4615,耐火カフ賖ＳＢ２,Fire Res II SB2
-4616,耐水カフ賖ＳＢ１,Water Res II SB1
-4617,耐水カフ賖ＳＢ２,Water Res II SB2
-4618,耐氷カフ賖ＳＢ１,Ice Res II SB1
-4619,耐氷カフ賖ＳＢ２,Ice Res II SB2
-4620,耐雷カフ賖ＳＢ１,Thunder Res II SB1
-4621,耐雷カフ賖ＳＢ２,Thunder Res II SB2
-4622,耐暑カフ賖ＳＢ１,Heat Res II SB1
-4623,耐暑カフ賖ＳＢ２,Heat Res II SB2
-4624,耐寒カフ賖ＳＢ１,Cold Res II SB1
-4625,耐寒カフ賖ＳＢ２,Cold Res II SB2
-4626,回復カフ賖ＳＣ１,Recovery II SC1
-4627,回復カフ賖ＳＣ２,Recovery II SC2
-4628,調合カフ賖ＳＣ１,Combining II SC1
-4629,調合カフ賖ＳＣ２,Combining II SC2
-4630,弾調カフ賖ＳＣ１,Am.Combiner II SC1
-4631,弾調カフ賖ＳＣ２,Am.Combiner II SC2
-4632,食事カフ賖ＳＣ１,Eating II SC1
-4633,食事カフ賖ＳＣ２,Eating II SC2
-4634,耐龍カフ賖ＳＣ１,Dragon Res II SC1
-4635,耐龍カフ賖ＳＣ２,Dragon Res II SC2
-4636,速収カフ賖ＳＣ１,Gath.Speed II SC1
-4637,速収カフ賖ＳＣ２,Gath.Speed II SC2
-4638,運搬カフ賖ＳＣ１,Backpacking II SC1
-4639,運搬カフ賖ＳＣ２,Backpacking II SC2
-4640,広域カフ賖ＳＣ１,Wide-Area II SC1
-4641,広域カフ賖ＳＣ２,Wide-Area II SC2
-4642,腹減カフ賖ＳＣ１,Hunger II SC1
-4643,腹減カフ賖ＳＣ２,Hunger II SC2
-4644,毒カフ賖ＳＣ１,Poison Res II SC1
-4645,毒カフ賖ＳＣ２,Poison Res II SC2
-4646,自防カフ賖ＳＣ１,Auto-Guard II SC1
-4647,自防カフ賖ＳＣ２,Auto-Guard II SC2
-4648,自防カフ賖ＳＣ３,Auto-Guard II SC3
-4649,自防カフ賖ＳＣ４,Auto-Guard II SC4
-4650,圧力カフ賖ＳＣ１,Pressure II SC1
-4651,圧力カフ賖ＳＣ２,Pressure II SC2
-4652,圧力カフ賖ＳＣ３,Pressure II SC3
-4653,圧力カフ賖ＳＣ４,Pressure II SC4
-4654,無盗カフ賖ＳＣ１,Anti-Theft II SC1
-4655,無盗カフ賖ＳＣ２,Anti-Theft II SC2
-4656,無盗カフ賖ＳＣ３,Anti-Theft II SC3
-4657,無盗カフ賖ＳＣ４,Anti-Theft II SC4
-4658,強爆カフ賖ＳＣ１,Bomb Boost II SC1
-4659,強爆カフ賖ＳＣ２,Bomb Boost II SC2
-4660,強爆カフ賖ＳＣ３,Bomb Boost II SC3
-4661,強爆カフ賖ＳＣ４,Bomb Boost II SC4
-4662,食坊カフ賖ＳＣ１,Gluttony II SC1
-4663,食坊カフ賖ＳＣ２,Gluttony II SC2
-4664,食坊カフ賖ＳＣ３,Gluttony II SC3
-4665,食坊カフ賖ＳＣ４,Gluttony II SC4
-4666,地図カフ賖ＳＣ１,Map II SC1
-4667,地図カフ賖ＳＣ２,Map II SC2
-4668,地図カフ賖ＳＣ３,Map II SC3
-4669,地図カフ賖ＳＣ４,Map II SC4
-4670,錬金カフ賖ＳＣ１,Alchemy II SC1
-4671,錬金カフ賖ＳＣ２,Alchemy II SC2
-4672,錬金カフ賖ＳＣ３,Alchemy II SC3
-4673,錬金カフ賖ＳＣ４,Alchemy II SC4
-4674,速逃カフ賖ＳＣ５,Breakout II SC5
-4675,速逃カフ賖ＳＣ６,Breakout II SC6
-4676,速逃カフ賖ＳＣ７,Breakout II SC7
-4677,速逃カフ賖ＳＣ８,Breakout II SC8
-4678,肉焼カフ賖ＳＣ１,Cooking II SC1
-4679,肉焼カフ賖ＳＣ２,Cooking II SC2
-4680,肉焼カフ賖ＳＣ３,Cooking II SC3
-4681,肉焼カフ賖ＳＣ４,Cooking II SC4
-4682,追榴カフ賖ＳＣ１,C.Shot Add II SC1
-4683,追榴カフ賖ＳＣ２,C.Shot Add II SC2
-4684,追榴カフ賖ＳＣ３,C.Shot Add II SC3
-4685,追榴カフ賖ＳＣ４,C.Shot Add II SC4
+4494,聴保カフⅡＰＡ１,Earplugs II PA1
+4495,聴保カフⅡＰＡ２,Earplugs II PA2
+4496,聴保カフⅡＰＡ３,Earplugs II PA3
+4497,断食カフⅡＰＡ１,Fasting II PA1
+4498,断食カフⅡＰＡ２,Fasting II PA2
+4499,断食カフⅡＰＡ３,Fasting II PA3
+4500,千里カフⅡＰＡ１,Psychic II PA1
+4501,千里カフⅡＰＡ２,Psychic II PA2
+4502,弾調カフⅡＰＡ１,Am.Combiner II PA1
+4503,弾調カフⅡＰＡ２,Am.Combiner II PA2
+4504,食事カフⅡＰＡ１,Eating II PA1
+4505,食事カフⅡＰＡ２,Eating II PA2
+4506,強貫カフⅡＰＢ１,P. Shot Up II PB1
+4507,強貫カフⅡＰＢ２,P. Shot Up II PB2
+4508,回避カフⅡＰＢ１,Evasion II PB1
+4509,回避カフⅡＰＢ２,Evasion II PB2
+4510,密射カフⅡＰＢ１,Precision II PB1
+4511,密射カフⅡＰＢ２,Precision II PB2
+4512,斬味カフⅡＰＢ１,Sharpness II PB1
+4513,斬味カフⅡＰＢ２,Sharpness II PB2
+4514,研師カフⅡＰＢ１,Sharpening II PB1
+4515,研師カフⅡＰＢ２,Sharpening II PB2
+4516,風圧カフⅡＰＢ１,W. Pressure II PB1
+4517,風圧カフⅡＰＢ２,W. Pressure II PB2
+4518,爆剣カフⅡＰＢ１,Bomb Sword II PB1
+4519,爆剣カフⅡＰＢ２,Bomb Sword II PB2
+4520,火剣カフⅡＰＢ１,Fire Sword II PB1
+4521,火剣カフⅡＰＢ２,Fire Sword II PB2
+4522,水剣カフⅡＰＢ１,Water Sword II PB1
+4523,水剣カフⅡＰＢ２,Water Sword II PB2
+4524,雷剣カフⅡＰＢ１,Thndr Sword II PB1
+4525,雷剣カフⅡＰＢ２,Thndr Sword II PB2
+4526,氷剣カフⅡＰＢ１,Ice Sword II PB1
+4527,氷剣カフⅡＰＢ２,Ice Sword II PB2
+4528,龍剣カフⅡＰＢ１,Drgn Sword II PB1
+4529,龍剣カフⅡＰＢ２,Drgn Sword II PB2
+4530,ガ性カフⅡＰＣ１,Guard II PC1
+4531,ガ性カフⅡＰＣ２,Guard II PC2
+4532,ガ性カフⅡＰＣ３,Guard II PC3
+4533,装填カフⅡＰＣ１,Reload II PC1
+4534,装填カフⅡＰＣ２,Reload II PC2
+4535,装填カフⅡＰＣ３,Reload II PC3
+4536,連射カフⅡＰＣ１,Auto-Reload II PC1
+4537,連射カフⅡＰＣ２,Auto-Reload II PC2
+4538,連射カフⅡＰＣ３,Auto-Reload II PC3
+4539,反動カフⅡＰＣ１,Recoil II PC1
+4540,反動カフⅡＰＣ２,Recoil II PC2
+4541,反動カフⅡＰＣ３,Recoil II PC3
+4542,強散カフⅡＰＣ１,Pe.Shot Up II PC1
+4543,強散カフⅡＰＣ２,Pe.Shot Up II PC2
+4544,強散カフⅡＰＣ３,Pe.Shot Up II PC3
+4545,特攻カフⅡＰＣ１,Stat.Attack II PC1
+4546,特攻カフⅡＰＣ２,Stat.Attack II PC2
+4547,特攻カフⅡＰＣ３,Stat.Attack II PC3
+4548,断食カフⅡＰＣ１,Fasting II PC1
+4549,断食カフⅡＰＣ２,Fasting II PC2
+4550,断食カフⅡＰＣ３,Fasting II PC3
+4551,スタカフⅡＰＣ１,Stamina II PC1
+4552,スタカフⅡＰＣ２,Stamina II PC2
+4553,スタカフⅡＰＣ３,Stamina II PC3
+4554,底力カフⅡＰＣ１,Adrenaline II PC1
+4555,底力カフⅡＰＣ２,Adrenaline II PC2
+4556,底力カフⅡＰＣ３,Adrenaline II PC3
+4557,回避カフⅡＰＣ１,Evasion II PC1
+4558,回避カフⅡＰＣ２,Evasion II PC2
+4559,回避カフⅡＰＣ３,Evasion II PC3
+4560,麻痺カフⅡＰＣ１,Para. Res II PC1
+4561,麻痺カフⅡＰＣ２,Para. Res II PC2
+4562,麻痺カフⅡＰＣ３,Para. Res II PC3
+4563,気絶カフⅡＰＣ１,Stun Res II PC1
+4564,気絶カフⅡＰＣ２,Stun Res II PC2
+4565,気絶カフⅡＰＣ３,Stun Res II PC3
+4566,毒カフⅡＰＣ１,Poison Res II PC1
+4567,毒カフⅡＰＣ２,Poison Res II PC2
+4568,毒カフⅡＰＣ３,Poison Res II PC3
+4569,速収カフⅡＰＣ４,Gath.Speed II PC4
+4570,速収カフⅡＰＣ５,Gath.Speed II PC5
+4571,速収カフⅡＰＣ６,Gath.Speed II PC6
+4572,千里カフⅡＰＣ１,Psychic II PC1
+4573,千里カフⅡＰＣ２,Psychic II PC2
+4574,千里カフⅡＰＣ３,Psychic II PC3
+4575,調合カフⅡＰＣ１,Combining II PC1
+4576,調合カフⅡＰＣ２,Combining II PC2
+4577,調合カフⅡＰＣ３,Combining II PC3
+4578,弾調カフⅡＰＣ１,Am.Combiner II PC1
+4579,弾調カフⅡＰＣ２,Am.Combiner II PC2
+4580,弾調カフⅡＰＣ３,Am.Combiner II PC3
+4581,効持カフⅡＰＣ１,Everlasting II PC1
+4582,効持カフⅡＰＣ２,Everlasting II PC2
+4583,効持カフⅡＰＣ３,Everlasting II PC3
+4584,耐震カフⅡＰＣ１,Quake Res II PC1
+4585,耐震カフⅡＰＣ２,Quake Res II PC2
+4586,耐震カフⅡＰＣ３,Quake Res II PC3
+4587,地形カフⅡＰＣ１,Terrain II PC1
+4588,地形カフⅡＰＣ２,Terrain II PC2
+4589,地形カフⅡＰＣ３,Terrain II PC3
+4590,審判カフⅡＳＡ１,Protection II SA1
+4591,審判カフⅡＳＡ２,Protection II SA2
+4592,強通カフⅡＳＡ１,N.Shot Up II SA1
+4593,強通カフⅡＳＡ２,N.Shot Up II SA2
+4594,スタカフⅡＳＡ１,Stamina II SA1
+4595,スタカフⅡＳＡ２,Stamina II SA2
+4596,採取カフⅡＳＡ１,Gathering II SA1
+4597,調合カフⅡＳＡ１,Combining II SA1
+4598,食事カフⅡＳＡ１,Meal II SA1
+4599,耐暑カフⅡＳＡ１,Heat Res II SA1
+4600,速復カフⅡＳＡ１,Rec. Speed II SA1
+4601,体力カフⅡＳＡ１,Health II SA1
+4602,砲術カフⅡＳＢ１,Gunnery II SB1
+4603,砲術カフⅡＳＢ２,Gunnery II SB2
+4604,千里カフⅡＳＢ１,Psychic II SB1
+4605,千里カフⅡＳＢ２,Psychic II SB2
+4606,腹減カフⅡＳＢ１,Hunger II SB1
+4607,腹減カフⅡＳＢ２,Hunger II SB2
+4608,採取カフⅡＳＢ１,Gathering II SB1
+4609,採取カフⅡＳＢ２,Gathering II SB2
+4610,耐震カフⅡＳＢ１,Quake Res II SB1
+4611,耐震カフⅡＳＢ２,Quake Res II SB2
+4612,弾調カフⅡＳＢ１,Am.Combiner II SB1
+4613,弾調カフⅡＳＢ２,Am.Combiner II SB2
+4614,耐火カフⅡＳＢ１,Fire Res II SB1
+4615,耐火カフⅡＳＢ２,Fire Res II SB2
+4616,耐水カフⅡＳＢ１,Water Res II SB1
+4617,耐水カフⅡＳＢ２,Water Res II SB2
+4618,耐氷カフⅡＳＢ１,Ice Res II SB1
+4619,耐氷カフⅡＳＢ２,Ice Res II SB2
+4620,耐雷カフⅡＳＢ１,Thunder Res II SB1
+4621,耐雷カフⅡＳＢ２,Thunder Res II SB2
+4622,耐暑カフⅡＳＢ１,Heat Res II SB1
+4623,耐暑カフⅡＳＢ２,Heat Res II SB2
+4624,耐寒カフⅡＳＢ１,Cold Res II SB1
+4625,耐寒カフⅡＳＢ２,Cold Res II SB2
+4626,回復カフⅡＳＣ１,Recovery II SC1
+4627,回復カフⅡＳＣ２,Recovery II SC2
+4628,調合カフⅡＳＣ１,Combining II SC1
+4629,調合カフⅡＳＣ２,Combining II SC2
+4630,弾調カフⅡＳＣ１,Am.Combiner II SC1
+4631,弾調カフⅡＳＣ２,Am.Combiner II SC2
+4632,食事カフⅡＳＣ１,Eating II SC1
+4633,食事カフⅡＳＣ２,Eating II SC2
+4634,耐龍カフⅡＳＣ１,Dragon Res II SC1
+4635,耐龍カフⅡＳＣ２,Dragon Res II SC2
+4636,速収カフⅡＳＣ１,Gath.Speed II SC1
+4637,速収カフⅡＳＣ２,Gath.Speed II SC2
+4638,運搬カフⅡＳＣ１,Backpacking II SC1
+4639,運搬カフⅡＳＣ２,Backpacking II SC2
+4640,広域カフⅡＳＣ１,Wide-Area II SC1
+4641,広域カフⅡＳＣ２,Wide-Area II SC2
+4642,腹減カフⅡＳＣ１,Hunger II SC1
+4643,腹減カフⅡＳＣ２,Hunger II SC2
+4644,毒カフⅡＳＣ１,Poison Res II SC1
+4645,毒カフⅡＳＣ２,Poison Res II SC2
+4646,自防カフⅡＳＣ１,Auto-Guard II SC1
+4647,自防カフⅡＳＣ２,Auto-Guard II SC2
+4648,自防カフⅡＳＣ３,Auto-Guard II SC3
+4649,自防カフⅡＳＣ４,Auto-Guard II SC4
+4650,圧力カフⅡＳＣ１,Pressure II SC1
+4651,圧力カフⅡＳＣ２,Pressure II SC2
+4652,圧力カフⅡＳＣ３,Pressure II SC3
+4653,圧力カフⅡＳＣ４,Pressure II SC4
+4654,無盗カフⅡＳＣ１,Anti-Theft II SC1
+4655,無盗カフⅡＳＣ２,Anti-Theft II SC2
+4656,無盗カフⅡＳＣ３,Anti-Theft II SC3
+4657,無盗カフⅡＳＣ４,Anti-Theft II SC4
+4658,強爆カフⅡＳＣ１,Bomb Boost II SC1
+4659,強爆カフⅡＳＣ２,Bomb Boost II SC2
+4660,強爆カフⅡＳＣ３,Bomb Boost II SC3
+4661,強爆カフⅡＳＣ４,Bomb Boost II SC4
+4662,食坊カフⅡＳＣ１,Gluttony II SC1
+4663,食坊カフⅡＳＣ２,Gluttony II SC2
+4664,食坊カフⅡＳＣ３,Gluttony II SC3
+4665,食坊カフⅡＳＣ４,Gluttony II SC4
+4666,地図カフⅡＳＣ１,Map II SC1
+4667,地図カフⅡＳＣ２,Map II SC2
+4668,地図カフⅡＳＣ３,Map II SC3
+4669,地図カフⅡＳＣ４,Map II SC4
+4670,錬金カフⅡＳＣ１,Alchemy II SC1
+4671,錬金カフⅡＳＣ２,Alchemy II SC2
+4672,錬金カフⅡＳＣ３,Alchemy II SC3
+4673,錬金カフⅡＳＣ４,Alchemy II SC4
+4674,速逃カフⅡＳＣ５,Breakout II SC5
+4675,速逃カフⅡＳＣ６,Breakout II SC6
+4676,速逃カフⅡＳＣ７,Breakout II SC7
+4677,速逃カフⅡＳＣ８,Breakout II SC8
+4678,肉焼カフⅡＳＣ１,Cooking II SC1
+4679,肉焼カフⅡＳＣ２,Cooking II SC2
+4680,肉焼カフⅡＳＣ３,Cooking II SC3
+4681,肉焼カフⅡＳＣ４,Cooking II SC4
+4682,追榴カフⅡＳＣ１,C.Shot Add II SC1
+4683,追榴カフⅡＳＣ２,C.Shot Add II SC2
+4684,追榴カフⅡＳＣ３,C.Shot Add II SC3
+4685,追榴カフⅡＳＣ４,C.Shot Add II SC4
 4686,天壁珠Ｇ,Wall G
 4687,装填珠Ｇ,Reload G
 4688,連射珠Ｇ,Auto-Reload G
@@ -4865,14 +4865,14 @@ index,source,target
 4863,Ｖ生産券・腰,V Tkt Waist
 4864,Ｖ生産券・脚,V Tkt Legs
 4865,ブレイブ生産券,Brave Tkt
-4866,セケン生産券貤,Sequin Tkt Ⅰ
-4867,セケン生産券賖,Sequin Tkt Ⅱ
-4868,セケン生産券賕,Sequin Tkt Ⅲ
-4869,セケン生産券賙,Sequin Tkt Ⅳ
-4870,セケン生産券𧶠,Sequin Tkt Ⅴ
-4871,セケン生産券賰,Sequin Tkt Ⅵ
-4872,セケン生産券賱,Sequin Tkt Ⅶ
-4873,セケン生産券𧸐,Sequin Tkt Ⅷ
+4866,セケン生産券Ⅰ,Sequin Tkt Ⅰ
+4867,セケン生産券Ⅱ,Sequin Tkt Ⅱ
+4868,セケン生産券Ⅲ,Sequin Tkt Ⅲ
+4869,セケン生産券Ⅳ,Sequin Tkt Ⅳ
+4870,セケン生産券Ⅴ,Sequin Tkt Ⅴ
+4871,セケン生産券Ⅵ,Sequin Tkt Ⅵ
+4872,セケン生産券Ⅶ,Sequin Tkt Ⅶ
+4873,セケン生産券Ⅷ,Sequin Tkt Ⅷ
 4874,クロッス生産券頭,Kloss Tkt Head
 4875,クロッス生産券胴,Kloss Tkt Torso
 4876,クロッス生産券腕,Kloss Tkt Arms
@@ -4971,134 +4971,134 @@ index,source,target
 4969,ココモアの柔毛,Kokomoa Pelt+
 4970,跳緋獣討伐の証,Gogomoa Proof
 4971,牙獣種の燦角,Pelagus Horn
-4972,回避カフ賖ＰＡ３,Evasion Ⅱ PA3
-4973,眠剣カフ賖ＰＡ１,Sleep Sword Ⅱ PA1
-4974,痺剣カフ賖ＰＡ１,Para. Sword Ⅱ PA1
-4975,溜短カフ賖ＰＡ１,Focus Ⅱ PA1
-4976,スタカフ賖ＰＡ１,Stamina Ⅱ PA1
-4977,風圧カフ賖ＰＡ１,W.Pressure Ⅱ PA1
-4978,食事カフ賖ＰＡ３,Eating Ⅱ PA3
-4979,食事カフ賖ＰＡ４,Eating Ⅱ PA4
-4980,千里カフ賖ＰＡ３,Psychic Ⅱ PA3
-4981,千里カフ賖ＰＡ４,Psychic Ⅱ PA4
-4982,回復カフ賖ＰＡ１,Recovery Ⅱ PA1
-4983,回復カフ賖ＰＡ２,Recovery Ⅱ PA2
-4984,特攻カフ賖ＰＢ１,Stat.Attack Ⅱ PB1
-4985,特攻カフ賖ＰＢ２,Stat.Attack Ⅱ PB2
-4986,属攻カフ賖ＰＢ１,Elem.Attack Ⅱ PB1
-4987,属攻カフ賖ＰＢ２,Elem.Attack Ⅱ PB2
-4988,属攻カフ賖ＰＢ３,Elem.Attack Ⅱ PB3
-4989,属攻カフ賖ＰＢ４,Elem.Attack Ⅱ PB4
-4990,属攻カフ賖ＰＢ５,Elem.Attack Ⅱ PB5
-4991,属攻カフ賖ＰＢ６,Elem.Attack Ⅱ PB6
-4992,気回カフ賖ＰＢ１,St.Recovery Ⅱ PB1
-4993,気回カフ賖ＰＢ２,St.Recovery Ⅱ PB2
-4994,武捌カフ賖ＰＢ１,Wep.Handling Ⅱ PB1
-4995,武捌カフ賖ＰＢ２,Wep.Handling Ⅱ PB2
-4996,食事カフ賖ＰＢ１,Eating Ⅱ PB1
-4997,食事カフ賖ＰＢ２,Eating Ⅱ PB2
-4998,食事カフ賖ＰＢ３,Eating Ⅱ PB3
-4999,食事カフ賖ＰＢ４,Eating Ⅱ PB4
-5000,耐震カフ賖ＰＢ１,Quake Res Ⅱ PB1
-5001,耐震カフ賖ＰＢ２,Quake Res Ⅱ PB2
-5002,耐震カフ賖ＰＢ３,Quake Res Ⅱ PB3
-5003,耐震カフ賖ＰＢ４,Quake Res Ⅱ PB4
-5004,調合カフ賖ＰＢ１,Combining Ⅱ PB1
-5005,調合カフ賖ＰＢ２,Combining Ⅱ PB2
-5006,調合カフ賖ＰＢ３,Combining Ⅱ PB3
-5007,調合カフ賖ＰＢ４,Combining Ⅱ PB4
-5008,強通カフ賖ＰＣ１,N.Shot Up Ⅱ PC1
-5009,強通カフ賖ＰＣ２,N.Shot Up Ⅱ PC2
-5010,強通カフ賖ＰＣ３,N.Shot Up Ⅱ PC3
-5011,強通カフ賖ＰＣ４,N.Shot Up Ⅱ PC4
-5012,強貫カフ賖ＰＣ１,P.Shot Up Ⅱ PC1
-5013,強貫カフ賖ＰＣ２,P.Shot Up Ⅱ PC2
-5014,強貫カフ賖ＰＣ３,P.Shot Up Ⅱ PC3
-5015,強貫カフ賖ＰＣ４,P.Shot Up Ⅱ PC4
-5016,強散カフ賖ＰＣ４,Pe.Shot Up Ⅱ PC4
-5017,強散カフ賖ＰＣ５,Pe.Shot Up Ⅱ PC5
-5018,強散カフ賖ＰＣ６,Pe.Shot Up Ⅱ PC6
-5019,強散カフ賖ＰＣ７,Pe.Shot Up Ⅱ PC7
-5020,溜短カフ賖ＰＣ４,Focus Ⅱ PC4
-5021,溜短カフ賖ＰＣ５,Focus Ⅱ PC5
-5022,溜短カフ賖ＰＣ６,Focus Ⅱ PC6
-5023,溜短カフ賖ＰＣ７,Focus Ⅱ PC7
-5024,根性カフ賖ＰＣ４,Guts Ⅱ PC4
-5025,根性カフ賖ＰＣ５,Guts Ⅱ PC5
-5026,根性カフ賖ＰＣ６,Guts Ⅱ PC6
-5027,根性カフ賖ＰＣ７,Guts Ⅱ PC7
-5028,高設カフ賖ＰＣ４,Speed Setup Ⅱ PC4
-5029,高設カフ賖ＰＣ５,Speed Setup Ⅱ PC5
-5030,高設カフ賖ＰＣ６,Speed Setup Ⅱ PC6
-5031,高設カフ賖ＰＣ７,Speed Setup Ⅱ PC7
-5032,研師カフ賖ＰＣ４,Sharpening Ⅱ PC4
-5033,研師カフ賖ＰＣ５,Sharpening Ⅱ PC5
-5034,研師カフ賖ＰＣ６,Sharpening Ⅱ PC6
-5035,研師カフ賖ＰＣ７,Sharpening Ⅱ PC7
-5036,痺剣カフ賖ＰＣ４,Para. Sword Ⅱ PC4
-5037,痺剣カフ賖ＰＣ５,Para. Sword Ⅱ PC5
-5038,爆剣カフ賖ＰＣ４,Bomb Sword Ⅱ PC4
-5039,爆剣カフ賖ＰＣ５,Bomb Sword Ⅱ PC5
-5040,爆剣カフ賖ＰＣ６,Bomb Sword Ⅱ PC6
-5041,火剣カフ賖ＰＣ４,Fire Sword Ⅱ PC4
-5042,火剣カフ賖ＰＣ５,Fire Sword Ⅱ PC5
-5043,火剣カフ賖ＰＣ６,Fire Sword Ⅱ PC6
-5044,回復カフ賖ＰＣ１,Recovery Ⅱ PC1
-5045,回復カフ賖ＰＣ２,Recovery Ⅱ PC2
-5046,回復カフ賖ＰＣ３,Recovery Ⅱ PC3
-5047,腹減カフ賖ＰＣ１,Hunger Ⅱ PC1
-5048,腹減カフ賖ＰＣ２,Hunger Ⅱ PC2
-5049,腹減カフ賖ＰＣ３,Hunger Ⅱ PC3
-5050,砲術カフ賖ＰＣ１,Gunnery Ⅱ PC1
-5051,砲術カフ賖ＰＣ２,Gunnery Ⅱ PC2
-5052,砲術カフ賖ＰＣ３,Gunnery Ⅱ PC3
-5053,絆カフ賖ＰＣ４,Bond Ⅱ PC4
-5054,絆カフ賖ＰＣ５,Bond Ⅱ PC5
-5055,絆カフ賖ＰＣ６,Bond Ⅱ PC6
-5056,効持カフ賖ＰＣ４,Everlasting Ⅱ PC4
-5057,効持カフ賖ＰＣ５,Everlasting Ⅱ PC5
-5058,効持カフ賖ＰＣ６,Everlasting Ⅱ PC6
-5059,広域カフ賖ＰＣ１,Wide-Area Ⅱ PC1
-5060,広域カフ賖ＰＣ２,Wide-Area Ⅱ PC2
-5061,広域カフ賖ＰＣ３,Wide-Area Ⅱ PC3
-5062,気紛カフ賖ＰＣ１,Whim Ⅱ PC1
-5063,気紛カフ賖ＰＣ２,Whim Ⅱ PC2
-5064,気紛カフ賖ＰＣ３,Whim Ⅱ PC3
-5065,耐龍カフ賖ＰＣ１,Dragon Res Ⅱ PC1
-5066,耐龍カフ賖ＰＣ２,Dragon Res Ⅱ PC2
-5067,耐龍カフ賖ＰＣ３,Dragon Res Ⅱ PC3
-5068,強通カフ賖ＰＡ１,N.Shot Up Ⅱ PA1
-5069,弾調カフ賖ＰＡ３,Am.Combiner Ⅱ PA3
-5070,溜短カフ賖ＰＢ１,Focus Ⅱ PB1
-5071,溜短カフ賖ＰＢ２,Focus Ⅱ PB2
-5072,食事カフ賖ＰＢ５,Eating Ⅱ PB5
-5073,食事カフ賖ＰＢ６,Eating Ⅱ PB6
-5074,審判カフ賖ＰＣ１,Protection Ⅱ PC1
-5075,審判カフ賖ＰＣ２,Protection Ⅱ PC2
-5076,毒剣カフ賖ＰＣ４,Poison Sword Ⅱ PC4
-5077,毒剣カフ賖ＰＣ５,Poison Sword Ⅱ PC5
-5078,毒剣カフ賖ＰＣ６,Poison Sword Ⅱ PC6
-5079,龍攻カフ賖ＰＣ１,Drgn.Attack Ⅱ PC1
-5080,龍攻カフ賖ＰＣ２,Drgn.Attack Ⅱ PC2
-5081,龍攻カフ賖ＰＣ３,Drgn.Attack Ⅱ PC3
-5082,弾調カフ賖ＰＣ４,Am.Combiner Ⅱ PC4
-5083,弾調カフ賖ＰＣ５,Am.Combiner Ⅱ PC5
-5084,密射カフ賖ＳＡ１,Precision Ⅱ SA1
-5085,装填カフ賖ＳＡ１,Reload Ⅱ SA1
-5086,食事カフ賖ＳＢ１,Eating Ⅱ SB1
-5087,採取カフ賖ＳＢ３,Gathering Ⅱ SB3
-5088,速収カフ賖ＳＢ１,Gather Speed Ⅱ SB1
-5089,千里カフ賖ＳＢ３,Psychic Ⅱ SB3
-5090,氷剣カフ賖ＳＣ１,Ice Sword Ⅱ SC1
-5091,龍剣カフ賖ＳＣ１,Dragon Sword Ⅱ SC1
-5092,雷剣カフ賖ＳＣ１,Thndr.Sword Ⅱ SC1
-5093,笛吹カフ賖ＳＣ３,Flute Expert Ⅱ SC3
-5094,効持カフ賖ＳＣ３,Everlasting Ⅱ SC3
-5095,防御カフ賖ＳＣ５,Defense Ⅱ SC5
-5096,速復カフ賖ＳＣ５,Rec. Speed Ⅱ SC5
-5097,錬金カフ賖ＳＣ５,Alchemy Ⅱ SC5
-5098,捕獲カフ賖ＳＣ５,Cap. Expert Ⅱ SC5
-5099,自防カフ賖ＳＣ５,Auto-Guard Ⅱ SC5
+4972,回避カフⅡＰＡ３,Evasion Ⅱ PA3
+4973,眠剣カフⅡＰＡ１,Sleep Sword Ⅱ PA1
+4974,痺剣カフⅡＰＡ１,Para. Sword Ⅱ PA1
+4975,溜短カフⅡＰＡ１,Focus Ⅱ PA1
+4976,スタカフⅡＰＡ１,Stamina Ⅱ PA1
+4977,風圧カフⅡＰＡ１,W.Pressure Ⅱ PA1
+4978,食事カフⅡＰＡ３,Eating Ⅱ PA3
+4979,食事カフⅡＰＡ４,Eating Ⅱ PA4
+4980,千里カフⅡＰＡ３,Psychic Ⅱ PA3
+4981,千里カフⅡＰＡ４,Psychic Ⅱ PA4
+4982,回復カフⅡＰＡ１,Recovery Ⅱ PA1
+4983,回復カフⅡＰＡ２,Recovery Ⅱ PA2
+4984,特攻カフⅡＰＢ１,Stat.Attack Ⅱ PB1
+4985,特攻カフⅡＰＢ２,Stat.Attack Ⅱ PB2
+4986,属攻カフⅡＰＢ１,Elem.Attack Ⅱ PB1
+4987,属攻カフⅡＰＢ２,Elem.Attack Ⅱ PB2
+4988,属攻カフⅡＰＢ３,Elem.Attack Ⅱ PB3
+4989,属攻カフⅡＰＢ４,Elem.Attack Ⅱ PB4
+4990,属攻カフⅡＰＢ５,Elem.Attack Ⅱ PB5
+4991,属攻カフⅡＰＢ６,Elem.Attack Ⅱ PB6
+4992,気回カフⅡＰＢ１,St.Recovery Ⅱ PB1
+4993,気回カフⅡＰＢ２,St.Recovery Ⅱ PB2
+4994,武捌カフⅡＰＢ１,Wep.Handling Ⅱ PB1
+4995,武捌カフⅡＰＢ２,Wep.Handling Ⅱ PB2
+4996,食事カフⅡＰＢ１,Eating Ⅱ PB1
+4997,食事カフⅡＰＢ２,Eating Ⅱ PB2
+4998,食事カフⅡＰＢ３,Eating Ⅱ PB3
+4999,食事カフⅡＰＢ４,Eating Ⅱ PB4
+5000,耐震カフⅡＰＢ１,Quake Res Ⅱ PB1
+5001,耐震カフⅡＰＢ２,Quake Res Ⅱ PB2
+5002,耐震カフⅡＰＢ３,Quake Res Ⅱ PB3
+5003,耐震カフⅡＰＢ４,Quake Res Ⅱ PB4
+5004,調合カフⅡＰＢ１,Combining Ⅱ PB1
+5005,調合カフⅡＰＢ２,Combining Ⅱ PB2
+5006,調合カフⅡＰＢ３,Combining Ⅱ PB3
+5007,調合カフⅡＰＢ４,Combining Ⅱ PB4
+5008,強通カフⅡＰＣ１,N.Shot Up Ⅱ PC1
+5009,強通カフⅡＰＣ２,N.Shot Up Ⅱ PC2
+5010,強通カフⅡＰＣ３,N.Shot Up Ⅱ PC3
+5011,強通カフⅡＰＣ４,N.Shot Up Ⅱ PC4
+5012,強貫カフⅡＰＣ１,P.Shot Up Ⅱ PC1
+5013,強貫カフⅡＰＣ２,P.Shot Up Ⅱ PC2
+5014,強貫カフⅡＰＣ３,P.Shot Up Ⅱ PC3
+5015,強貫カフⅡＰＣ４,P.Shot Up Ⅱ PC4
+5016,強散カフⅡＰＣ４,Pe.Shot Up Ⅱ PC4
+5017,強散カフⅡＰＣ５,Pe.Shot Up Ⅱ PC5
+5018,強散カフⅡＰＣ６,Pe.Shot Up Ⅱ PC6
+5019,強散カフⅡＰＣ７,Pe.Shot Up Ⅱ PC7
+5020,溜短カフⅡＰＣ４,Focus Ⅱ PC4
+5021,溜短カフⅡＰＣ５,Focus Ⅱ PC5
+5022,溜短カフⅡＰＣ６,Focus Ⅱ PC6
+5023,溜短カフⅡＰＣ７,Focus Ⅱ PC7
+5024,根性カフⅡＰＣ４,Guts Ⅱ PC4
+5025,根性カフⅡＰＣ５,Guts Ⅱ PC5
+5026,根性カフⅡＰＣ６,Guts Ⅱ PC6
+5027,根性カフⅡＰＣ７,Guts Ⅱ PC7
+5028,高設カフⅡＰＣ４,Speed Setup Ⅱ PC4
+5029,高設カフⅡＰＣ５,Speed Setup Ⅱ PC5
+5030,高設カフⅡＰＣ６,Speed Setup Ⅱ PC6
+5031,高設カフⅡＰＣ７,Speed Setup Ⅱ PC7
+5032,研師カフⅡＰＣ４,Sharpening Ⅱ PC4
+5033,研師カフⅡＰＣ５,Sharpening Ⅱ PC5
+5034,研師カフⅡＰＣ６,Sharpening Ⅱ PC6
+5035,研師カフⅡＰＣ７,Sharpening Ⅱ PC7
+5036,痺剣カフⅡＰＣ４,Para. Sword Ⅱ PC4
+5037,痺剣カフⅡＰＣ５,Para. Sword Ⅱ PC5
+5038,爆剣カフⅡＰＣ４,Bomb Sword Ⅱ PC4
+5039,爆剣カフⅡＰＣ５,Bomb Sword Ⅱ PC5
+5040,爆剣カフⅡＰＣ６,Bomb Sword Ⅱ PC6
+5041,火剣カフⅡＰＣ４,Fire Sword Ⅱ PC4
+5042,火剣カフⅡＰＣ５,Fire Sword Ⅱ PC5
+5043,火剣カフⅡＰＣ６,Fire Sword Ⅱ PC6
+5044,回復カフⅡＰＣ１,Recovery Ⅱ PC1
+5045,回復カフⅡＰＣ２,Recovery Ⅱ PC2
+5046,回復カフⅡＰＣ３,Recovery Ⅱ PC3
+5047,腹減カフⅡＰＣ１,Hunger Ⅱ PC1
+5048,腹減カフⅡＰＣ２,Hunger Ⅱ PC2
+5049,腹減カフⅡＰＣ３,Hunger Ⅱ PC3
+5050,砲術カフⅡＰＣ１,Gunnery Ⅱ PC1
+5051,砲術カフⅡＰＣ２,Gunnery Ⅱ PC2
+5052,砲術カフⅡＰＣ３,Gunnery Ⅱ PC3
+5053,絆カフⅡＰＣ４,Bond Ⅱ PC4
+5054,絆カフⅡＰＣ５,Bond Ⅱ PC5
+5055,絆カフⅡＰＣ６,Bond Ⅱ PC6
+5056,効持カフⅡＰＣ４,Everlasting Ⅱ PC4
+5057,効持カフⅡＰＣ５,Everlasting Ⅱ PC5
+5058,効持カフⅡＰＣ６,Everlasting Ⅱ PC6
+5059,広域カフⅡＰＣ１,Wide-Area Ⅱ PC1
+5060,広域カフⅡＰＣ２,Wide-Area Ⅱ PC2
+5061,広域カフⅡＰＣ３,Wide-Area Ⅱ PC3
+5062,気紛カフⅡＰＣ１,Whim Ⅱ PC1
+5063,気紛カフⅡＰＣ２,Whim Ⅱ PC2
+5064,気紛カフⅡＰＣ３,Whim Ⅱ PC3
+5065,耐龍カフⅡＰＣ１,Dragon Res Ⅱ PC1
+5066,耐龍カフⅡＰＣ２,Dragon Res Ⅱ PC2
+5067,耐龍カフⅡＰＣ３,Dragon Res Ⅱ PC3
+5068,強通カフⅡＰＡ１,N.Shot Up Ⅱ PA1
+5069,弾調カフⅡＰＡ３,Am.Combiner Ⅱ PA3
+5070,溜短カフⅡＰＢ１,Focus Ⅱ PB1
+5071,溜短カフⅡＰＢ２,Focus Ⅱ PB2
+5072,食事カフⅡＰＢ５,Eating Ⅱ PB5
+5073,食事カフⅡＰＢ６,Eating Ⅱ PB6
+5074,審判カフⅡＰＣ１,Protection Ⅱ PC1
+5075,審判カフⅡＰＣ２,Protection Ⅱ PC2
+5076,毒剣カフⅡＰＣ４,Poison Sword Ⅱ PC4
+5077,毒剣カフⅡＰＣ５,Poison Sword Ⅱ PC5
+5078,毒剣カフⅡＰＣ６,Poison Sword Ⅱ PC6
+5079,龍攻カフⅡＰＣ１,Drgn.Attack Ⅱ PC1
+5080,龍攻カフⅡＰＣ２,Drgn.Attack Ⅱ PC2
+5081,龍攻カフⅡＰＣ３,Drgn.Attack Ⅱ PC3
+5082,弾調カフⅡＰＣ４,Am.Combiner Ⅱ PC4
+5083,弾調カフⅡＰＣ５,Am.Combiner Ⅱ PC5
+5084,密射カフⅡＳＡ１,Precision Ⅱ SA1
+5085,装填カフⅡＳＡ１,Reload Ⅱ SA1
+5086,食事カフⅡＳＢ１,Eating Ⅱ SB1
+5087,採取カフⅡＳＢ３,Gathering Ⅱ SB3
+5088,速収カフⅡＳＢ１,Gather Speed Ⅱ SB1
+5089,千里カフⅡＳＢ３,Psychic Ⅱ SB3
+5090,氷剣カフⅡＳＣ１,Ice Sword Ⅱ SC1
+5091,龍剣カフⅡＳＣ１,Dragon Sword Ⅱ SC1
+5092,雷剣カフⅡＳＣ１,Thndr.Sword Ⅱ SC1
+5093,笛吹カフⅡＳＣ３,Flute Expert Ⅱ SC3
+5094,効持カフⅡＳＣ３,Everlasting Ⅱ SC3
+5095,防御カフⅡＳＣ５,Defense Ⅱ SC5
+5096,速復カフⅡＳＣ５,Rec. Speed Ⅱ SC5
+5097,錬金カフⅡＳＣ５,Alchemy Ⅱ SC5
+5098,捕獲カフⅡＳＣ５,Cap. Expert Ⅱ SC5
+5099,自防カフⅡＳＣ５,Auto-Guard Ⅱ SC5
 5100,腕力珠Ｇ,Attack G
 5101,気短珠Ｇ,Eating 1 G
 5102,研磨珠Ｇ,Sharpening G
@@ -5235,7 +5235,7 @@ index,source,target
 5233,光耀の龍鉄,Ghost-Dragon Iron
 5234,流転の妖骨,Dark-Dragon Bone
 5235,単結晶の多面体,Polyhedron Crystal
-5236,兵器設計書賕,Wpn Design Doc Ⅲ
+5236,兵器設計書Ⅲ,Wpn Design Doc Ⅲ
 5237,金色の魚,Gold Fish
 5238,甘い時間,A Sweet Time
 5239,やわらかい白毛,Silken White Hair
@@ -5257,14 +5257,14 @@ index,source,target
 5255,ポキカ生産券・苺,Pokika Tkt Red
 5256,ポキカ生産券・縞,Pokika Tkt Striped
 5257,ポキカ生産券・白,Pokika Tkt White
-5258,ジオ生産券貤,Geo Tkt Ⅰ
-5259,ジオ生産券賖,Geo Tkt Ⅱ
-5260,ジオ生産券賕,Geo Tkt Ⅲ
-5261,ジオ生産券賙,Geo Tkt Ⅳ
-5262,ジオ生産券𧶠,Geo Tkt Ⅴ
-5263,ジオ生産券賰,Geo Tkt Ⅵ
-5264,ジオ生産券賱,Geo Tkt Ⅶ
-5265,ジオ生産券𧸐,Geo Tkt Ⅷ
+5258,ジオ生産券Ⅰ,Geo Tkt Ⅰ
+5259,ジオ生産券Ⅱ,Geo Tkt Ⅱ
+5260,ジオ生産券Ⅲ,Geo Tkt Ⅲ
+5261,ジオ生産券Ⅳ,Geo Tkt Ⅳ
+5262,ジオ生産券Ⅴ,Geo Tkt Ⅴ
+5263,ジオ生産券Ⅵ,Geo Tkt Ⅵ
+5264,ジオ生産券Ⅶ,Geo Tkt Ⅶ
+5265,ジオ生産券Ⅷ,Geo Tkt Ⅷ
 5266,ＭＳチケット,MS Tkt
 5267,ＳＢＣチケット,SBC Tkt
 5268,傷んだ皮,Damaged Skin
@@ -5426,150 +5426,150 @@ index,source,target
 5424,投剣珠,Throwing 2 Deco
 5425,慰労珠,Caring Deco
 5426,対防珠,Def Lock Deco
-5427,武捌カフ賖ＰＡ１,W.Handling Ⅱ PA1
-5428,武捌カフ賖ＰＡ２,W.Handling Ⅱ PA2
-5429,属攻カフ賖ＰＡ１,Ele Attack Ⅱ PA1
-5430,属攻カフ賖ＰＡ２,Ele Attack Ⅱ PA2
-5431,気回カフ賖ＰＡ１,Stamina Rec Ⅱ PA1
-5432,気回カフ賖ＰＡ２,Stamina Rec Ⅱ PA2
-5433,匠カフ賖ＰＡ１,Artisan Ⅱ PA1
-5434,匠カフ賖ＰＡ２,Artisan Ⅱ PA2
-5435,小刀カフ賖ＰＡ１,Throwing Ⅱ PA1
-5436,小刀カフ賖ＰＡ２,Throwing Ⅱ PA2
-5437,調合カフ賖ＰＡ３,Combining Ⅱ PA3
-5438,調合カフ賖ＰＡ４,Combining Ⅱ PA4
-5439,痺剣カフ賖ＰＢ１,Para Sword Ⅱ PB1
-5440,痺剣カフ賖ＰＢ２,Para Sword Ⅱ PB2
-5441,痺剣カフ賖ＰＢ３,Para Sword Ⅱ PB3
-5442,スタカフ賖ＰＢ３,Stamina Ⅱ PB3
-5443,スタカフ賖ＰＢ４,Stamina Ⅱ PB4
-5444,スタカフ賖ＰＢ５,Stamina Ⅱ PB5
-5445,耐震カフ賖ＰＢ５,Quake Res Ⅱ PB5
-5446,耐震カフ賖ＰＢ６,Quake Res Ⅱ PB6
-5447,耐震カフ賖ＰＢ７,Quake Res Ⅱ PB7
-5448,密射カフ賖ＰＢ３,Precision Ⅱ PB3
-5449,密射カフ賖ＰＢ４,Precision Ⅱ PB4
-5450,密射カフ賖ＰＢ５,Precision Ⅱ PB5
-5451,対防カフ賖ＰＢ１,Def Lock Ⅱ PB1
-5452,対防カフ賖ＰＢ２,Def Lock Ⅱ PB2
-5453,対防カフ賖ＰＢ３,Def Lock Ⅱ PB3
-5454,爆剣カフ賖ＰＢ３,Bomb Sword Ⅱ PB3
-5455,爆剣カフ賖ＰＢ４,Bomb Sword Ⅱ PB4
-5456,爆剣カフ賖ＰＢ５,Bomb Sword Ⅱ PB5
-5457,労りカフ賖ＰＢ１,Caring Ⅱ PB1
-5458,労りカフ賖ＰＢ２,Caring Ⅱ PB2
-5459,労りカフ賖ＰＢ３,Caring Ⅱ PB3
-5460,広域カフ賖ＰＢ１,Wide-Area Ⅱ PB1
-5461,広域カフ賖ＰＢ２,Wide-Area Ⅱ PB2
-5462,広域カフ賖ＰＢ３,Wide-Area Ⅱ PB3
-5463,風圧カフ賖ＰＣ１,W.Pressure Ⅱ PC1
-5464,風圧カフ賖ＰＣ２,W.Pressure Ⅱ PC2
-5465,風圧カフ賖ＰＣ３,W.Pressure Ⅱ PC3
-5466,風圧カフ賖ＰＣ４,W.Pressure Ⅱ PC4
-5467,風圧カフ賖ＰＣ５,W.Pressure Ⅱ PC5
-5468,眠剣カフ賖ＰＣ４,Sleep Sword Ⅱ PC4
-5469,眠剣カフ賖ＰＣ５,Sleep Sword Ⅱ PC5
-5470,眠剣カフ賖ＰＣ６,Sleep Sword Ⅱ PC6
-5471,眠剣カフ賖ＰＣ７,Sleep Sword Ⅱ PC7
-5472,眠剣カフ賖ＰＣ８,Sleep Sword Ⅱ PC8
-5473,断食カフ賖ＰＣ４,Fasting Ⅱ PC4
-5474,断食カフ賖ＰＣ５,Fasting Ⅱ PC5
-5475,断食カフ賖ＰＣ６,Fasting Ⅱ PC6
-5476,断食カフ賖ＰＣ７,Fasting Ⅱ PC7
-5477,断食カフ賖ＰＣ８,Fasting Ⅱ PC8
-5478,毒剣カフ賖ＰＣ７,Psn.Sword Ⅱ PC7
-5479,毒剣カフ賖ＰＣ８,Psn.Sword Ⅱ PC8
-5480,毒剣カフ賖ＰＣ９,Psn.Sword Ⅱ PC9
-5481,毒剣カフ賖ＰＣ10,Psn.Sword Ⅱ PC10
-5482,毒剣カフ賖ＰＣ11,Psn.Sword Ⅱ PC11
-5483,底力カフ賖ＰＣ４,Adrenaline Ⅱ PC4
-5484,底力カフ賖ＰＣ５,Adrenaline Ⅱ PC5
-5485,底力カフ賖ＰＣ６,Adrenaline Ⅱ PC6
-5486,底力カフ賖ＰＣ７,Adrenaline Ⅱ PC7
-5487,底力カフ賖ＰＣ８,Adrenaline Ⅱ PC8
-5488,填数カフ賖ＰＣ４,Loading Ⅱ PC4
-5489,填数カフ賖ＰＣ５,Loading Ⅱ PC5
-5490,填数カフ賖ＰＣ６,Loading Ⅱ PC6
-5491,填数カフ賖ＰＣ７,Loading Ⅱ PC7
-5492,填数カフ賖ＰＣ８,Loading Ⅱ PC8
-5493,耐龍カフ賖ＰＣ４,Dragon Res Ⅱ PC4
-5494,耐龍カフ賖ＰＣ５,Dragon Res Ⅱ PC5
-5495,耐龍カフ賖ＰＣ６,Dragon Res Ⅱ PC6
-5496,耐龍カフ賖ＰＣ７,Dragon Res Ⅱ PC7
-5497,耐龍カフ賖ＰＣ８,Dragon Res Ⅱ PC8
-5498,腹減カフ賖ＰＣ４,Hunger Ⅱ PC4
-5499,腹減カフ賖ＰＣ５,Hunger Ⅱ PC5
-5500,腹減カフ賖ＰＣ６,Hunger Ⅱ PC6
-5501,腹減カフ賖ＰＣ７,Hunger Ⅱ PC7
-5502,腹減カフ賖ＰＣ８,Hunger Ⅱ PC8
-5503,麻痺カフ賖ＰＣ４,Para Res Ⅱ PC4
-5504,麻痺カフ賖ＰＣ５,Para Res Ⅱ PC5
-5505,麻痺カフ賖ＰＣ６,Para Res Ⅱ PC6
-5506,麻痺カフ賖ＰＣ７,Para Res Ⅱ PC7
-5507,麻痺カフ賖ＰＣ８,Para Res Ⅱ PC8
-5508,気絶カフ賖ＰＣ４,Stun Res Ⅱ PC4
-5509,気絶カフ賖ＰＣ５,Stun Res Ⅱ PC5
-5510,気絶カフ賖ＰＣ６,Stun Res Ⅱ PC6
-5511,気絶カフ賖ＰＣ７,Stun Res Ⅱ PC7
-5512,気絶カフ賖ＰＣ８,Stun Res Ⅱ PC8
-5513,毒カフ賖ＰＣ４,Poison Res Ⅱ PC4
-5514,毒カフ賖ＰＣ５,Poison Res Ⅱ PC5
-5515,毒カフ賖ＰＣ６,Poison Res Ⅱ PC6
-5516,毒カフ賖ＰＣ７,Poison Res Ⅱ PC7
-5517,毒カフ賖ＰＣ８,Poison Res Ⅱ PC8
-5518,速収カフ賖ＰＣ７,Gthr.Speed Ⅱ PC7
-5519,速収カフ賖ＰＣ８,Gthr.Speed Ⅱ PC8
-5520,速収カフ賖ＰＣ９,Gthr.Speed Ⅱ PC9
-5521,速収カフ賖ＰＣ10,Gthr.Speed Ⅱ PC10
-5522,速収カフ賖ＰＣ11,Gthr.Speed Ⅱ PC11
-5523,武捌カフ賖ＳＡ１,Wep.Handling Ⅱ SA1
-5524,断食カフ賖ＳＡ１,Fasting Ⅱ SA1
-5525,溜短カフ賖ＳＡ１,Focus Ⅱ SA1
-5526,ガ性カフ賖ＳＡ１,Guard Ⅱ SA1
-5527,密射カフ賖ＳＡ２,Precision Ⅱ SA2
-5528,審判カフ賖ＳＡ３,Protection Ⅱ SA3
-5529,小刀カフ賖ＳＢ１,K.Throwing Ⅱ SB1
-5530,小刀カフ賖ＳＢ２,K.Throwing Ⅱ SB2
-5531,小刀カフ賖ＳＢ３,K.Throwing Ⅱ SB3
-5532,小刀カフ賖ＳＢ４,K.Throwing Ⅱ SB4
-5533,労りカフ賖ＳＢ１,Caring Ⅱ SB1
-5534,労りカフ賖ＳＢ２,Caring Ⅱ SB2
-5535,労りカフ賖ＳＢ３,Caring Ⅱ SB3
-5536,労りカフ賖ＳＢ４,Caring Ⅱ SB4
-5537,対防カフ賖ＳＢ１,Def Lock Ⅱ SB1
-5538,対防カフ賖ＳＢ２,Def Lock Ⅱ SB2
-5539,対防カフ賖ＳＢ３,Def Lock Ⅱ SB3
-5540,対防カフ賖ＳＢ４,Def Lock Ⅱ SB4
-5541,効持カフ賖ＳＣ４,Everlasting Ⅱ SC4
-5542,効持カフ賖ＳＣ５,Everlasting Ⅱ SC5
-5543,効持カフ賖ＳＣ６,Everlasting Ⅱ SC6
-5544,効持カフ賖ＳＣ７,Everlasting Ⅱ SC7
-5545,効持カフ賖ＳＣ８,Everlasting Ⅱ SC8
-5546,広域カフ賖ＳＣ３,Wide-Area Ⅱ SC3
-5547,広域カフ賖ＳＣ４,Wide-Area Ⅱ SC4
-5548,広域カフ賖ＳＣ５,Wide-Area Ⅱ SC5
-5549,広域カフ賖ＳＣ６,Wide-Area Ⅱ SC6
-5550,広域カフ賖ＳＣ７,Wide-Area Ⅱ SC7
-5551,回復カフ賖ＳＣ３,Recovery Ⅱ SC3
-5552,回復カフ賖ＳＣ４,Recovery Ⅱ SC4
-5553,回復カフ賖ＳＣ５,Recovery Ⅱ SC5
-5554,回復カフ賖ＳＣ６,Recovery Ⅱ SC6
-5555,回復カフ賖ＳＣ７,Recovery Ⅱ SC7
-5556,食坊カフ賖ＳＣ５,Gluttony Ⅱ SC5
-5557,食坊カフ賖ＳＣ６,Gluttony Ⅱ SC6
-5558,食坊カフ賖ＳＣ７,Gluttony Ⅱ SC7
-5559,食坊カフ賖ＳＣ８,Gluttony Ⅱ SC8
-5560,食坊カフ賖ＳＣ９,Gluttony Ⅱ SC9
-5561,耐雪カフ賖ＳＣ５,Snowball Res Ⅱ SC5
-5562,耐雪カフ賖ＳＣ６,Snowball Res Ⅱ SC6
-5563,耐雪カフ賖ＳＣ７,Snowball Res Ⅱ SC7
-5564,耐雪カフ賖ＳＣ８,Snowball Res Ⅱ SC8
-5565,耐雪カフ賖ＳＣ９,Snowball Res Ⅱ SC9
-5566,強爆カフ賖ＳＣ５,Bomb Boost Ⅱ SC5
-5567,強爆カフ賖ＳＣ６,Bomb Boost Ⅱ SC6
-5568,強爆カフ賖ＳＣ７,Bomb Boost Ⅱ SC7
-5569,強爆カフ賖ＳＣ８,Bomb Boost Ⅱ SC8
-5570,強爆カフ賖ＳＣ９,Bomb Boost Ⅱ SC9
+5427,武捌カフⅡＰＡ１,W.Handling Ⅱ PA1
+5428,武捌カフⅡＰＡ２,W.Handling Ⅱ PA2
+5429,属攻カフⅡＰＡ１,Ele Attack Ⅱ PA1
+5430,属攻カフⅡＰＡ２,Ele Attack Ⅱ PA2
+5431,気回カフⅡＰＡ１,Stamina Rec Ⅱ PA1
+5432,気回カフⅡＰＡ２,Stamina Rec Ⅱ PA2
+5433,匠カフⅡＰＡ１,Artisan Ⅱ PA1
+5434,匠カフⅡＰＡ２,Artisan Ⅱ PA2
+5435,小刀カフⅡＰＡ１,Throwing Ⅱ PA1
+5436,小刀カフⅡＰＡ２,Throwing Ⅱ PA2
+5437,調合カフⅡＰＡ３,Combining Ⅱ PA3
+5438,調合カフⅡＰＡ４,Combining Ⅱ PA4
+5439,痺剣カフⅡＰＢ１,Para Sword Ⅱ PB1
+5440,痺剣カフⅡＰＢ２,Para Sword Ⅱ PB2
+5441,痺剣カフⅡＰＢ３,Para Sword Ⅱ PB3
+5442,スタカフⅡＰＢ３,Stamina Ⅱ PB3
+5443,スタカフⅡＰＢ４,Stamina Ⅱ PB4
+5444,スタカフⅡＰＢ５,Stamina Ⅱ PB5
+5445,耐震カフⅡＰＢ５,Quake Res Ⅱ PB5
+5446,耐震カフⅡＰＢ６,Quake Res Ⅱ PB6
+5447,耐震カフⅡＰＢ７,Quake Res Ⅱ PB7
+5448,密射カフⅡＰＢ３,Precision Ⅱ PB3
+5449,密射カフⅡＰＢ４,Precision Ⅱ PB4
+5450,密射カフⅡＰＢ５,Precision Ⅱ PB5
+5451,対防カフⅡＰＢ１,Def Lock Ⅱ PB1
+5452,対防カフⅡＰＢ２,Def Lock Ⅱ PB2
+5453,対防カフⅡＰＢ３,Def Lock Ⅱ PB3
+5454,爆剣カフⅡＰＢ３,Bomb Sword Ⅱ PB3
+5455,爆剣カフⅡＰＢ４,Bomb Sword Ⅱ PB4
+5456,爆剣カフⅡＰＢ５,Bomb Sword Ⅱ PB5
+5457,労りカフⅡＰＢ１,Caring Ⅱ PB1
+5458,労りカフⅡＰＢ２,Caring Ⅱ PB2
+5459,労りカフⅡＰＢ３,Caring Ⅱ PB3
+5460,広域カフⅡＰＢ１,Wide-Area Ⅱ PB1
+5461,広域カフⅡＰＢ２,Wide-Area Ⅱ PB2
+5462,広域カフⅡＰＢ３,Wide-Area Ⅱ PB3
+5463,風圧カフⅡＰＣ１,W.Pressure Ⅱ PC1
+5464,風圧カフⅡＰＣ２,W.Pressure Ⅱ PC2
+5465,風圧カフⅡＰＣ３,W.Pressure Ⅱ PC3
+5466,風圧カフⅡＰＣ４,W.Pressure Ⅱ PC4
+5467,風圧カフⅡＰＣ５,W.Pressure Ⅱ PC5
+5468,眠剣カフⅡＰＣ４,Sleep Sword Ⅱ PC4
+5469,眠剣カフⅡＰＣ５,Sleep Sword Ⅱ PC5
+5470,眠剣カフⅡＰＣ６,Sleep Sword Ⅱ PC6
+5471,眠剣カフⅡＰＣ７,Sleep Sword Ⅱ PC7
+5472,眠剣カフⅡＰＣ８,Sleep Sword Ⅱ PC8
+5473,断食カフⅡＰＣ４,Fasting Ⅱ PC4
+5474,断食カフⅡＰＣ５,Fasting Ⅱ PC5
+5475,断食カフⅡＰＣ６,Fasting Ⅱ PC6
+5476,断食カフⅡＰＣ７,Fasting Ⅱ PC7
+5477,断食カフⅡＰＣ８,Fasting Ⅱ PC8
+5478,毒剣カフⅡＰＣ７,Psn.Sword Ⅱ PC7
+5479,毒剣カフⅡＰＣ８,Psn.Sword Ⅱ PC8
+5480,毒剣カフⅡＰＣ９,Psn.Sword Ⅱ PC9
+5481,毒剣カフⅡＰＣ10,Psn.Sword Ⅱ PC10
+5482,毒剣カフⅡＰＣ11,Psn.Sword Ⅱ PC11
+5483,底力カフⅡＰＣ４,Adrenaline Ⅱ PC4
+5484,底力カフⅡＰＣ５,Adrenaline Ⅱ PC5
+5485,底力カフⅡＰＣ６,Adrenaline Ⅱ PC6
+5486,底力カフⅡＰＣ７,Adrenaline Ⅱ PC7
+5487,底力カフⅡＰＣ８,Adrenaline Ⅱ PC8
+5488,填数カフⅡＰＣ４,Loading Ⅱ PC4
+5489,填数カフⅡＰＣ５,Loading Ⅱ PC5
+5490,填数カフⅡＰＣ６,Loading Ⅱ PC6
+5491,填数カフⅡＰＣ７,Loading Ⅱ PC7
+5492,填数カフⅡＰＣ８,Loading Ⅱ PC8
+5493,耐龍カフⅡＰＣ４,Dragon Res Ⅱ PC4
+5494,耐龍カフⅡＰＣ５,Dragon Res Ⅱ PC5
+5495,耐龍カフⅡＰＣ６,Dragon Res Ⅱ PC6
+5496,耐龍カフⅡＰＣ７,Dragon Res Ⅱ PC7
+5497,耐龍カフⅡＰＣ８,Dragon Res Ⅱ PC8
+5498,腹減カフⅡＰＣ４,Hunger Ⅱ PC4
+5499,腹減カフⅡＰＣ５,Hunger Ⅱ PC5
+5500,腹減カフⅡＰＣ６,Hunger Ⅱ PC6
+5501,腹減カフⅡＰＣ７,Hunger Ⅱ PC7
+5502,腹減カフⅡＰＣ８,Hunger Ⅱ PC8
+5503,麻痺カフⅡＰＣ４,Para Res Ⅱ PC4
+5504,麻痺カフⅡＰＣ５,Para Res Ⅱ PC5
+5505,麻痺カフⅡＰＣ６,Para Res Ⅱ PC6
+5506,麻痺カフⅡＰＣ７,Para Res Ⅱ PC7
+5507,麻痺カフⅡＰＣ８,Para Res Ⅱ PC8
+5508,気絶カフⅡＰＣ４,Stun Res Ⅱ PC4
+5509,気絶カフⅡＰＣ５,Stun Res Ⅱ PC5
+5510,気絶カフⅡＰＣ６,Stun Res Ⅱ PC6
+5511,気絶カフⅡＰＣ７,Stun Res Ⅱ PC7
+5512,気絶カフⅡＰＣ８,Stun Res Ⅱ PC8
+5513,毒カフⅡＰＣ４,Poison Res Ⅱ PC4
+5514,毒カフⅡＰＣ５,Poison Res Ⅱ PC5
+5515,毒カフⅡＰＣ６,Poison Res Ⅱ PC6
+5516,毒カフⅡＰＣ７,Poison Res Ⅱ PC7
+5517,毒カフⅡＰＣ８,Poison Res Ⅱ PC8
+5518,速収カフⅡＰＣ７,Gthr.Speed Ⅱ PC7
+5519,速収カフⅡＰＣ８,Gthr.Speed Ⅱ PC8
+5520,速収カフⅡＰＣ９,Gthr.Speed Ⅱ PC9
+5521,速収カフⅡＰＣ10,Gthr.Speed Ⅱ PC10
+5522,速収カフⅡＰＣ11,Gthr.Speed Ⅱ PC11
+5523,武捌カフⅡＳＡ１,Wep.Handling Ⅱ SA1
+5524,断食カフⅡＳＡ１,Fasting Ⅱ SA1
+5525,溜短カフⅡＳＡ１,Focus Ⅱ SA1
+5526,ガ性カフⅡＳＡ１,Guard Ⅱ SA1
+5527,密射カフⅡＳＡ２,Precision Ⅱ SA2
+5528,審判カフⅡＳＡ３,Protection Ⅱ SA3
+5529,小刀カフⅡＳＢ１,K.Throwing Ⅱ SB1
+5530,小刀カフⅡＳＢ２,K.Throwing Ⅱ SB2
+5531,小刀カフⅡＳＢ３,K.Throwing Ⅱ SB3
+5532,小刀カフⅡＳＢ４,K.Throwing Ⅱ SB4
+5533,労りカフⅡＳＢ１,Caring Ⅱ SB1
+5534,労りカフⅡＳＢ２,Caring Ⅱ SB2
+5535,労りカフⅡＳＢ３,Caring Ⅱ SB3
+5536,労りカフⅡＳＢ４,Caring Ⅱ SB4
+5537,対防カフⅡＳＢ１,Def Lock Ⅱ SB1
+5538,対防カフⅡＳＢ２,Def Lock Ⅱ SB2
+5539,対防カフⅡＳＢ３,Def Lock Ⅱ SB3
+5540,対防カフⅡＳＢ４,Def Lock Ⅱ SB4
+5541,効持カフⅡＳＣ４,Everlasting Ⅱ SC4
+5542,効持カフⅡＳＣ５,Everlasting Ⅱ SC5
+5543,効持カフⅡＳＣ６,Everlasting Ⅱ SC6
+5544,効持カフⅡＳＣ７,Everlasting Ⅱ SC7
+5545,効持カフⅡＳＣ８,Everlasting Ⅱ SC8
+5546,広域カフⅡＳＣ３,Wide-Area Ⅱ SC3
+5547,広域カフⅡＳＣ４,Wide-Area Ⅱ SC4
+5548,広域カフⅡＳＣ５,Wide-Area Ⅱ SC5
+5549,広域カフⅡＳＣ６,Wide-Area Ⅱ SC6
+5550,広域カフⅡＳＣ７,Wide-Area Ⅱ SC7
+5551,回復カフⅡＳＣ３,Recovery Ⅱ SC3
+5552,回復カフⅡＳＣ４,Recovery Ⅱ SC4
+5553,回復カフⅡＳＣ５,Recovery Ⅱ SC5
+5554,回復カフⅡＳＣ６,Recovery Ⅱ SC6
+5555,回復カフⅡＳＣ７,Recovery Ⅱ SC7
+5556,食坊カフⅡＳＣ５,Gluttony Ⅱ SC5
+5557,食坊カフⅡＳＣ６,Gluttony Ⅱ SC6
+5558,食坊カフⅡＳＣ７,Gluttony Ⅱ SC7
+5559,食坊カフⅡＳＣ８,Gluttony Ⅱ SC8
+5560,食坊カフⅡＳＣ９,Gluttony Ⅱ SC9
+5561,耐雪カフⅡＳＣ５,Snowball Res Ⅱ SC5
+5562,耐雪カフⅡＳＣ６,Snowball Res Ⅱ SC6
+5563,耐雪カフⅡＳＣ７,Snowball Res Ⅱ SC7
+5564,耐雪カフⅡＳＣ８,Snowball Res Ⅱ SC8
+5565,耐雪カフⅡＳＣ９,Snowball Res Ⅱ SC9
+5566,強爆カフⅡＳＣ５,Bomb Boost Ⅱ SC5
+5567,強爆カフⅡＳＣ６,Bomb Boost Ⅱ SC6
+5568,強爆カフⅡＳＣ７,Bomb Boost Ⅱ SC7
+5569,強爆カフⅡＳＣ８,Bomb Boost Ⅱ SC8
+5570,強爆カフⅡＳＣ９,Bomb Boost Ⅱ SC9
 5571,カエシス生産券頭,Kaesis Tkt Head
 5572,カエシス生産券胴,Kaesis Tkt Torso
 5573,カエシス生産券腕,Kaesis Tkt Arms
@@ -5673,14 +5673,14 @@ index,source,target
 5671,Ｇバート生産券腕,G Bato Tkt Arms
 5672,Ｇバート生産券腰,G Bato Tkt Waist
 5673,Ｇバート生産券脚,G Bato Tkt Legs
-5674,トリア生産券貤,Thoria Tkt Ⅰ
-5675,トリア生産券賖,Thoria Tkt Ⅱ
-5676,トリア生産券賕,Thoria Tkt Ⅲ
-5677,トリア生産券賙,Thoria Tkt Ⅳ
-5678,トリア生産券𧶠,Thoria Tkt Ⅴ
-5679,トリア生産券賰,Thoria Tkt Ⅵ
-5680,トリア生産券賱,Thoria Tkt Ⅶ
-5681,トリア生産券𧸐,Thoria Tkt Ⅷ
+5674,トリア生産券Ⅰ,Thoria Tkt Ⅰ
+5675,トリア生産券Ⅱ,Thoria Tkt Ⅱ
+5676,トリア生産券Ⅲ,Thoria Tkt Ⅲ
+5677,トリア生産券Ⅳ,Thoria Tkt Ⅳ
+5678,トリア生産券Ⅴ,Thoria Tkt Ⅴ
+5679,トリア生産券Ⅵ,Thoria Tkt Ⅵ
+5680,トリア生産券Ⅶ,Thoria Tkt Ⅶ
+5681,トリア生産券Ⅷ,Thoria Tkt Ⅷ
 5682,ＢＰ14生産券・１,BP14 Tkt・1
 5683,ＢＰ14生産券・２,BP14 Tkt・2
 5684,ＢＰ14生産券・３,BP14 Tkt・3
@@ -5692,10 +5692,10 @@ index,source,target
 5690,クラウドＢ生産券,Cloud B Tkt
 5691,ファイアＢ生産券,Fire B Tkt
 5692,ドラグンＳ生産券,Dragon S Tkt
-5693,感謝の証𧶠,Thank You Ⅴ
-5694,ルシウスの依頼貤,Lucius's Request Ⅰ
-5695,ルシウスの依頼賖,Lucius's Request Ⅱ
-5696,ルシウスの依頼賕,Lucius's Request Ⅲ
+5693,感謝の証Ⅴ,Thank You Ⅴ
+5694,ルシウスの依頼Ⅰ,Lucius's Request Ⅰ
+5695,ルシウスの依頼Ⅱ,Lucius's Request Ⅱ
+5696,ルシウスの依頼Ⅲ,Lucius's Request Ⅲ
 5697,スカッとする飲料,Refreshing Drink
 5698,湯のパン,Hot Water Pan
 5699,コクのある果実,Rich Fruit
@@ -5732,7 +5732,7 @@ index,source,target
 5730,錆びた重翼,Rusted Heavy Wing
 5731,錆びた鉛翼,Rusted Lead Wing
 5732,錆びた剛翼,Rusted Fellwing
-5733,演習珠賰,Exercise Beads Ⅵ
+5733,演習珠Ⅵ,Exercise Beads Ⅵ
 5734,棘茶竜の瘴棘,Espi Miasma Spike
 5735,蒼火竜の皇鱗,Azure Ruler Scale
 5736,桜火竜の艶殻,Pink Charm Shell
@@ -5858,142 +5858,142 @@ index,source,target
 5856,護身珠Ｇ,Self-Defence G
 5857,属撃珠Ｇ,Ele Atk 1 G
 5858,属攻珠Ｇ,Status Atk G
-5859,剣術カフ賖ＰＡ１,Fencing II PA1
-5860,剣術カフ賖ＰＡ２,Fencing II PA2
-5861,耐状カフ賖ＰＡ１,Status Res II PA1
-5862,耐状カフ賖ＰＡ２,Status Res II PA2
-5863,斬味カフ賖ＰＡ１,Sharpness II PA1
-5864,斬味カフ賖ＰＡ２,Sharpness II PA2
-5865,麻痺カフ賖ＰＡ１,Para Res II PA1
-5866,麻痺カフ賖ＰＡ２,Para Res II PA2
-5867,気絶カフ賖ＰＡ１,Stun Res II PA1
-5868,気絶カフ賖ＰＡ２,Stun Res II PA2
-5869,毒カフ賖ＰＡ１,Poison Res II PA1
-5870,毒カフ賖ＰＡ２,Poison Res II PA2
-5871,装填カフ賖ＰＢ１,Reload II PB1
-5872,装填カフ賖ＰＢ２,Reload II PB2
-5873,装填カフ賖ＰＢ３,Reload II PB3
-5874,眠剣カフ賖ＰＢ１,Sleep Sword II PB1
-5875,眠剣カフ賖ＰＢ２,Sleep Sword II PB2
-5876,眠剣カフ賖ＰＢ３,Sleep Sword II PB3
-5877,溜短カフ賖ＰＢ３,Focus II PB3
-5878,溜短カフ賖ＰＢ４,Focus II PB4
-5879,溜短カフ賖ＰＢ５,Focus II PB5
-5880,小刀カフ賖ＰＢ１,Throwing II PB1
-5881,小刀カフ賖ＰＢ２,Throwing II PB2
-5882,小刀カフ賖ＰＢ３,Throwing II PB3
-5883,追貫カフ賖ＰＢ１,Pierce Shot II PB1
-5884,追貫カフ賖ＰＢ２,Pierce Shot II PB2
-5885,追貫カフ賖ＰＢ３,Pierce Shot II PB3
-5886,速収カフ賖ＰＢ１,Gthr.Speed II PB1
-5887,速収カフ賖ＰＢ２,Gthr.Speed II PB2
-5888,速収カフ賖ＰＢ３,Gthr.Speed II PB3
-5889,気紛カフ賖ＰＢ１,Whim II PB1
-5890,気紛カフ賖ＰＢ２,Whim II PB2
-5891,気紛カフ賖ＰＢ３,Whim II PB3
-5892,匠カフ賖ＰＢ１,Artisan II PB1
-5893,匠カフ賖ＰＢ２,Artisan II PB2
-5894,匠カフ賖ＰＢ３,Artisan II PB3
-5895,剣術カフ賖ＰＣ１,Fencing II PC1
-5896,剣術カフ賖ＰＣ２,Fencing II PC2
-5897,剣術カフ賖ＰＣ３,Fencing II PC3
-5898,剣術カフ賖ＰＣ４,Fencing II PC4
-5899,剣術カフ賖ＰＣ５,Fencing II PC5
-5900,耐状カフ賖ＰＣ１,Status Res II PC1
-5901,耐状カフ賖ＰＣ２,Status Res II PC2
-5902,耐状カフ賖ＰＣ３,Status Res II PC3
-5903,耐状カフ賖ＰＣ４,Status Res II PC4
-5904,耐状カフ賖ＰＣ５,Status Res II PC5
-5905,武捌カフ賖ＰＣ１,W. Handling II PC1
-5906,武捌カフ賖ＰＣ２,W. Handling II PC2
-5907,武捌カフ賖ＰＣ３,W. Handling II PC3
-5908,武捌カフ賖ＰＣ４,W. Handling II PC4
-5909,武捌カフ賖ＰＣ５,W. Handling II PC5
-5910,属攻カフ賖ＰＣ１,Ele Attack II PC1
-5911,属攻カフ賖ＰＣ２,Ele Attack II PC2
-5912,属攻カフ賖ＰＣ３,Ele Attack II PC3
-5913,属攻カフ賖ＰＣ４,Ele Attack II PC4
-5914,属攻カフ賖ＰＣ５,Ele Attack II PC5
-5915,気回カフ賖ＰＣ１,Stamina Rec II PC1
-5916,気回カフ賖ＰＣ２,Stamina Rec II PC2
-5917,気回カフ賖ＰＣ３,Stamina Rec II PC3
-5918,気回カフ賖ＰＣ４,Stamina Rec II PC4
-5919,気回カフ賖ＰＣ５,Stamina Rec II PC5
-5920,根性カフ賖ＰＣ８,Guts II PC8
-5921,根性カフ賖ＰＣ９,Guts II PC9
-5922,根性カフ賖ＰＣ10,Guts II PC10
-5923,根性カフ賖ＰＣ11,Guts II PC11
-5924,根性カフ賖ＰＣ12,Guts II PC12
-5925,小刀カフ賖ＰＣ１,Throwing II PC1
-5926,小刀カフ賖ＰＣ２,Throwing II PC2
-5927,小刀カフ賖ＰＣ３,Throwing II PC3
-5928,小刀カフ賖ＰＣ４,Throwing II PC4
-5929,小刀カフ賖ＰＣ５,Throwing II PC5
-5930,労りカフ賖ＰＣ１,Caring II PC1
-5931,労りカフ賖ＰＣ２,Caring II PC2
-5932,労りカフ賖ＰＣ３,Caring II PC3
-5933,労りカフ賖ＰＣ４,Caring II PC4
-5934,労りカフ賖ＰＣ５,Caring II PC5
-5935,対防カフ賖ＰＣ１,Def Lock II PC1
-5936,対防カフ賖ＰＣ２,Def Lock II PC2
-5937,対防カフ賖ＰＣ３,Def Lock II PC3
-5938,対防カフ賖ＰＣ４,Def Lock II PC4
-5939,対防カフ賖ＰＣ５,Def Lock II PC5
-5940,追貫カフ賖ＰＣ１,Pierce Shot II PC1
-5941,追貫カフ賖ＰＣ２,Pierce Shot II PC2
-5942,追貫カフ賖ＰＣ３,Pierce Shot II PC3
-5943,追貫カフ賖ＰＣ４,Pierce Shot II PC4
-5944,追貫カフ賖ＰＣ５,Pierce Shot II PC5
-5945,採取カフ賖ＰＣ１,Gathering II PC1
-5946,採取カフ賖ＰＣ２,Gathering II PC2
-5947,採取カフ賖ＰＣ３,Gathering II PC3
-5948,採取カフ賖ＰＣ４,Gathering II PC4
-5949,採取カフ賖ＰＣ５,Gathering II PC5
-5950,麻痺カフ賖ＰＣ９,Para Res II PC9
-5951,麻痺カフ賖ＰＣ10,Para Res II PC10
-5952,麻痺カフ賖ＰＣ11,Para Res II PC11
-5953,麻痺カフ賖ＰＣ12,Para Res II PC12
-5954,麻痺カフ賖ＰＣ13,Para Res II PC13
-5955,斬味カフ賖ＳＡ３,Sharpness II SA3
-5956,匠カフ賖ＳＡ１,Artisan II SA1
-5957,連射カフ賖ＳＡ１,Auto-Reload II SA1
-5958,回避カフ賖ＳＡ１,Evasion II SA1
-5959,強貫カフ賖ＳＡ１,Pierce Up II SA1
-5960,追貫カフ賖ＳＢ１,Pierce Shot II SB1
-5961,追貫カフ賖ＳＢ２,Pierce Shot II SB2
-5962,追貫カフ賖ＳＢ３,Pierce Shot II SB3
-5963,追貫カフ賖ＳＢ４,Pierce Shot II SB4
-5964,追貫カフ賖ＳＢ５,Pierce Shot II SB5
-5965,広域カフ賖ＳＢ３,Wide-Area II SB3
-5966,広域カフ賖ＳＢ４,Wide-Area II SB4
-5967,広域カフ賖ＳＢ５,Wide-Area II SB5
-5968,広域カフ賖ＳＢ６,Wide-Area II SB6
-5969,広域カフ賖ＳＢ７,Wide-Area II SB7
-5970,運搬カフ賖ＳＣ３,Backpacking II SC3
-5971,運搬カフ賖ＳＣ４,Backpacking II SC4
-5972,運搬カフ賖ＳＣ５,Backpacking II SC5
-5973,運搬カフ賖ＳＣ６,Backpacking II SC6
-5974,運搬カフ賖ＳＣ７,Backpacking II SC7
-5975,耐龍カフ賖ＳＣ３,Dragon Res II SC3
-5976,耐龍カフ賖ＳＣ４,Dragon Res II SC4
-5977,耐龍カフ賖ＳＣ５,Dragon Res II SC5
-5978,耐龍カフ賖ＳＣ６,Dragon Res II SC6
-5979,耐龍カフ賖ＳＣ７,Dragon Res II SC7
-5980,採取カフ賖ＳＣ３,Gathering II SC3
-5981,採取カフ賖ＳＣ４,Gathering II SC4
-5982,採取カフ賖ＳＣ５,Gathering II SC5
-5983,採取カフ賖ＳＣ６,Gathering II SC6
-5984,採取カフ賖ＳＣ７,Gathering II SC7
-5985,睡眠カフ賖ＳＣ５,Sleep Res II SC5
-5986,睡眠カフ賖ＳＣ６,Sleep Res II SC6
-5987,睡眠カフ賖ＳＣ７,Sleep Res II SC7
-5988,睡眠カフ賖ＳＣ８,Sleep Res II SC8
-5989,睡眠カフ賖ＳＣ９,Sleep Res II SC9
-5990,脱臭カフ賖ＳＣ５,Deoderant II SC5
-5991,脱臭カフ賖ＳＣ６,Deoderant II SC6
-5992,脱臭カフ賖ＳＣ７,Deoderant II SC7
-5993,脱臭カフ賖ＳＣ８,Deoderant II SC8
-5994,脱臭カフ賖ＳＣ９,Deoderant II SC9
+5859,剣術カフⅡＰＡ１,Fencing II PA1
+5860,剣術カフⅡＰＡ２,Fencing II PA2
+5861,耐状カフⅡＰＡ１,Status Res II PA1
+5862,耐状カフⅡＰＡ２,Status Res II PA2
+5863,斬味カフⅡＰＡ１,Sharpness II PA1
+5864,斬味カフⅡＰＡ２,Sharpness II PA2
+5865,麻痺カフⅡＰＡ１,Para Res II PA1
+5866,麻痺カフⅡＰＡ２,Para Res II PA2
+5867,気絶カフⅡＰＡ１,Stun Res II PA1
+5868,気絶カフⅡＰＡ２,Stun Res II PA2
+5869,毒カフⅡＰＡ１,Poison Res II PA1
+5870,毒カフⅡＰＡ２,Poison Res II PA2
+5871,装填カフⅡＰＢ１,Reload II PB1
+5872,装填カフⅡＰＢ２,Reload II PB2
+5873,装填カフⅡＰＢ３,Reload II PB3
+5874,眠剣カフⅡＰＢ１,Sleep Sword II PB1
+5875,眠剣カフⅡＰＢ２,Sleep Sword II PB2
+5876,眠剣カフⅡＰＢ３,Sleep Sword II PB3
+5877,溜短カフⅡＰＢ３,Focus II PB3
+5878,溜短カフⅡＰＢ４,Focus II PB4
+5879,溜短カフⅡＰＢ５,Focus II PB5
+5880,小刀カフⅡＰＢ１,Throwing II PB1
+5881,小刀カフⅡＰＢ２,Throwing II PB2
+5882,小刀カフⅡＰＢ３,Throwing II PB3
+5883,追貫カフⅡＰＢ１,Pierce Shot II PB1
+5884,追貫カフⅡＰＢ２,Pierce Shot II PB2
+5885,追貫カフⅡＰＢ３,Pierce Shot II PB3
+5886,速収カフⅡＰＢ１,Gthr.Speed II PB1
+5887,速収カフⅡＰＢ２,Gthr.Speed II PB2
+5888,速収カフⅡＰＢ３,Gthr.Speed II PB3
+5889,気紛カフⅡＰＢ１,Whim II PB1
+5890,気紛カフⅡＰＢ２,Whim II PB2
+5891,気紛カフⅡＰＢ３,Whim II PB3
+5892,匠カフⅡＰＢ１,Artisan II PB1
+5893,匠カフⅡＰＢ２,Artisan II PB2
+5894,匠カフⅡＰＢ３,Artisan II PB3
+5895,剣術カフⅡＰＣ１,Fencing II PC1
+5896,剣術カフⅡＰＣ２,Fencing II PC2
+5897,剣術カフⅡＰＣ３,Fencing II PC3
+5898,剣術カフⅡＰＣ４,Fencing II PC4
+5899,剣術カフⅡＰＣ５,Fencing II PC5
+5900,耐状カフⅡＰＣ１,Status Res II PC1
+5901,耐状カフⅡＰＣ２,Status Res II PC2
+5902,耐状カフⅡＰＣ３,Status Res II PC3
+5903,耐状カフⅡＰＣ４,Status Res II PC4
+5904,耐状カフⅡＰＣ５,Status Res II PC5
+5905,武捌カフⅡＰＣ１,W. Handling II PC1
+5906,武捌カフⅡＰＣ２,W. Handling II PC2
+5907,武捌カフⅡＰＣ３,W. Handling II PC3
+5908,武捌カフⅡＰＣ４,W. Handling II PC4
+5909,武捌カフⅡＰＣ５,W. Handling II PC5
+5910,属攻カフⅡＰＣ１,Ele Attack II PC1
+5911,属攻カフⅡＰＣ２,Ele Attack II PC2
+5912,属攻カフⅡＰＣ３,Ele Attack II PC3
+5913,属攻カフⅡＰＣ４,Ele Attack II PC4
+5914,属攻カフⅡＰＣ５,Ele Attack II PC5
+5915,気回カフⅡＰＣ１,Stamina Rec II PC1
+5916,気回カフⅡＰＣ２,Stamina Rec II PC2
+5917,気回カフⅡＰＣ３,Stamina Rec II PC3
+5918,気回カフⅡＰＣ４,Stamina Rec II PC4
+5919,気回カフⅡＰＣ５,Stamina Rec II PC5
+5920,根性カフⅡＰＣ８,Guts II PC8
+5921,根性カフⅡＰＣ９,Guts II PC9
+5922,根性カフⅡＰＣ10,Guts II PC10
+5923,根性カフⅡＰＣ11,Guts II PC11
+5924,根性カフⅡＰＣ12,Guts II PC12
+5925,小刀カフⅡＰＣ１,Throwing II PC1
+5926,小刀カフⅡＰＣ２,Throwing II PC2
+5927,小刀カフⅡＰＣ３,Throwing II PC3
+5928,小刀カフⅡＰＣ４,Throwing II PC4
+5929,小刀カフⅡＰＣ５,Throwing II PC5
+5930,労りカフⅡＰＣ１,Caring II PC1
+5931,労りカフⅡＰＣ２,Caring II PC2
+5932,労りカフⅡＰＣ３,Caring II PC3
+5933,労りカフⅡＰＣ４,Caring II PC4
+5934,労りカフⅡＰＣ５,Caring II PC5
+5935,対防カフⅡＰＣ１,Def Lock II PC1
+5936,対防カフⅡＰＣ２,Def Lock II PC2
+5937,対防カフⅡＰＣ３,Def Lock II PC3
+5938,対防カフⅡＰＣ４,Def Lock II PC4
+5939,対防カフⅡＰＣ５,Def Lock II PC5
+5940,追貫カフⅡＰＣ１,Pierce Shot II PC1
+5941,追貫カフⅡＰＣ２,Pierce Shot II PC2
+5942,追貫カフⅡＰＣ３,Pierce Shot II PC3
+5943,追貫カフⅡＰＣ４,Pierce Shot II PC4
+5944,追貫カフⅡＰＣ５,Pierce Shot II PC5
+5945,採取カフⅡＰＣ１,Gathering II PC1
+5946,採取カフⅡＰＣ２,Gathering II PC2
+5947,採取カフⅡＰＣ３,Gathering II PC3
+5948,採取カフⅡＰＣ４,Gathering II PC4
+5949,採取カフⅡＰＣ５,Gathering II PC5
+5950,麻痺カフⅡＰＣ９,Para Res II PC9
+5951,麻痺カフⅡＰＣ10,Para Res II PC10
+5952,麻痺カフⅡＰＣ11,Para Res II PC11
+5953,麻痺カフⅡＰＣ12,Para Res II PC12
+5954,麻痺カフⅡＰＣ13,Para Res II PC13
+5955,斬味カフⅡＳＡ３,Sharpness II SA3
+5956,匠カフⅡＳＡ１,Artisan II SA1
+5957,連射カフⅡＳＡ１,Auto-Reload II SA1
+5958,回避カフⅡＳＡ１,Evasion II SA1
+5959,強貫カフⅡＳＡ１,Pierce Up II SA1
+5960,追貫カフⅡＳＢ１,Pierce Shot II SB1
+5961,追貫カフⅡＳＢ２,Pierce Shot II SB2
+5962,追貫カフⅡＳＢ３,Pierce Shot II SB3
+5963,追貫カフⅡＳＢ４,Pierce Shot II SB4
+5964,追貫カフⅡＳＢ５,Pierce Shot II SB5
+5965,広域カフⅡＳＢ３,Wide-Area II SB3
+5966,広域カフⅡＳＢ４,Wide-Area II SB4
+5967,広域カフⅡＳＢ５,Wide-Area II SB5
+5968,広域カフⅡＳＢ６,Wide-Area II SB6
+5969,広域カフⅡＳＢ７,Wide-Area II SB7
+5970,運搬カフⅡＳＣ３,Backpacking II SC3
+5971,運搬カフⅡＳＣ４,Backpacking II SC4
+5972,運搬カフⅡＳＣ５,Backpacking II SC5
+5973,運搬カフⅡＳＣ６,Backpacking II SC6
+5974,運搬カフⅡＳＣ７,Backpacking II SC7
+5975,耐龍カフⅡＳＣ３,Dragon Res II SC3
+5976,耐龍カフⅡＳＣ４,Dragon Res II SC4
+5977,耐龍カフⅡＳＣ５,Dragon Res II SC5
+5978,耐龍カフⅡＳＣ６,Dragon Res II SC6
+5979,耐龍カフⅡＳＣ７,Dragon Res II SC7
+5980,採取カフⅡＳＣ３,Gathering II SC3
+5981,採取カフⅡＳＣ４,Gathering II SC4
+5982,採取カフⅡＳＣ５,Gathering II SC5
+5983,採取カフⅡＳＣ６,Gathering II SC6
+5984,採取カフⅡＳＣ７,Gathering II SC7
+5985,睡眠カフⅡＳＣ５,Sleep Res II SC5
+5986,睡眠カフⅡＳＣ６,Sleep Res II SC6
+5987,睡眠カフⅡＳＣ７,Sleep Res II SC7
+5988,睡眠カフⅡＳＣ８,Sleep Res II SC8
+5989,睡眠カフⅡＳＣ９,Sleep Res II SC9
+5990,脱臭カフⅡＳＣ５,Deoderant II SC5
+5991,脱臭カフⅡＳＣ６,Deoderant II SC6
+5992,脱臭カフⅡＳＣ７,Deoderant II SC7
+5993,脱臭カフⅡＳＣ８,Deoderant II SC8
+5994,脱臭カフⅡＳＣ９,Deoderant II SC9
 5995,カフの素・月白,Cuff Base・Glimmer
 5996,カフの素・夏虫,Cuff Base・Insects
 5997,カフの素・淡黄,Cuff Base・Cream
@@ -6076,13 +6076,13 @@ index,source,target
 6074,[片手]真空回転斬,[SnS] Beam Slash
 6075,[双剣]刃打術,[DS] Sharpening
 6076,[大剣]薙ぎ払い,[GS] Rotation
-6077,[大剣]ガード斬貤,[GS] Counter Ⅰ
-6078,[大剣]ガード斬賖,[GS] Counter Ⅱ
+6077,[大剣]ガード斬Ⅰ,[GS] Counter Ⅰ
+6078,[大剣]ガード斬Ⅱ,[GS] Counter Ⅱ
 6079,[太刀]貫刺し,[LS] Piercing
 6080,[銃槍]踏込斬上げ,[GL] Rush Thrust
-6081,[鎚]溜移動術貤,[Hammer] Charge Ⅰ
-6082,[鎚]溜移動術賖,[Hammer] Charge Ⅱ
-6083,[鎚]溜移動術賕,[Hammer] Charge Ⅲ
+6081,[鎚]溜移動術Ⅰ,[Hammer] Charge Ⅰ
+6082,[鎚]溜移動術Ⅱ,[Hammer] Charge Ⅱ
+6083,[鎚]溜移動術Ⅲ,[Hammer] Charge Ⅲ
 6084,スタン値の印,Stun Value Sigil
 6085,音爆範囲拡大の印,Sonic Range Sigil
 6086,ダミー６０８６,Dummy 6086
@@ -6254,145 +6254,145 @@ index,source,target
 6252,砲攻珠Ｇ,Gunnery 2 G
 6253,俊避珠Ｇ,Evasion G
 6254,強体珠Ｇ,Quake Res G
-6255,剣術カフ賖ＰＡ３,Fencing II PA3
-6256,剣術カフ賖ＰＡ４,Fencing II PA4
-6257,耐状カフ賖ＰＡ３,Status Res II PA3
-6258,耐状カフ賖ＰＡ４,Status Res II PA4
-6259,匠カフ賖ＰＡ３,Artisan II PA3
-6260,匠カフ賖ＰＡ４,Artisan II PA4
-6261,武捌カフ賖ＰＡ３,W. Handling II PA3
-6262,武捌カフ賖ＰＡ４,W. Handling II PA4
-6263,属攻カフ賖ＰＡ３,Ele Attack II PA3
-6264,属攻カフ賖ＰＡ４,Ele Attack II PA4
-6265,攻撃カフ賖ＰＡ３,Attack II PA3
-6266,攻撃カフ賖ＰＡ４,Attack II PA4
-6267,装填カフ賖ＰＢ４,Reload II PB4
-6268,装填カフ賖ＰＢ５,Reload II PB5
-6269,装填カフ賖ＰＢ６,Reload II PB6
-6270,痺剣カフ賖ＰＢ４,Para Sword II PB4
-6271,痺剣カフ賖ＰＢ５,Para Sword II PB5
-6272,痺剣カフ賖ＰＢ６,Para Sword II PB6
-6273,溜短カフ賖ＰＢ６,Focus II PB6
-6274,溜短カフ賖ＰＢ７,Focus II PB7
-6275,溜短カフ賖ＰＢ８,Focus II PB8
-6276,小刀カフ賖ＰＢ４,Throwing II PB4
-6277,小刀カフ賖ＰＢ５,Throwing II PB5
-6278,小刀カフ賖ＰＢ６,Throwing II PB6
-6279,追貫カフ賖ＰＢ４,Pierce Shot II PB4
-6280,追貫カフ賖ＰＢ５,Pierce Shot II PB5
-6281,追貫カフ賖ＰＢ６,Pierce Shot II PB6
-6282,速収カフ賖ＰＢ４,Gath.Speed II PB4
-6283,速収カフ賖ＰＢ５,Gath.Speed II PB5
-6284,速収カフ賖ＰＢ６,Gath.Speed II PB6
-6285,気紛カフ賖ＰＢ４,Whim II PB4
-6286,気紛カフ賖ＰＢ５,Whim II PB5
-6287,気紛カフ賖ＰＢ６,Whim II PB6
-6288,匠カフ賖ＰＢ４,Artisan II PB4
-6289,匠カフ賖ＰＢ５,Artisan II PB5
-6290,匠カフ賖ＰＢ６,Artisan II PB6
-6291,剣術カフ賖ＰＣ６,Fencing II PC6
-6292,剣術カフ賖ＰＣ７,Fencing II PC7
-6293,剣術カフ賖ＰＣ８,Fencing II PC8
-6294,剣術カフ賖ＰＣ９,Fencing II PC9
-6295,剣術カフ賖ＰＣ10,Fencing II PC10
-6296,耐状カフ賖ＰＣ６,Status Res II PC6
-6297,耐状カフ賖ＰＣ７,Status Res II PC7
-6298,耐状カフ賖ＰＣ８,Status Res II PC8
-6299,耐状カフ賖ＰＣ９,Status Res II PC9
-6300,耐状カフ賖ＰＣ10,Status Res II PC10
-6301,武捌カフ賖ＰＣ６,W.Handling II PC6
-6302,武捌カフ賖ＰＣ７,W.Handling II PC7
-6303,武捌カフ賖ＰＣ８,W.Handling II PC8
-6304,武捌カフ賖ＰＣ９,W.Handling II PC9
-6305,武捌カフ賖ＰＣ10,W.Handling II PC10
-6306,属攻カフ賖ＰＣ６,Ele Attack II PC6
-6307,属攻カフ賖ＰＣ７,Ele Attack II PC7
-6308,属攻カフ賖ＰＣ８,Ele Attack II PC8
-6309,属攻カフ賖ＰＣ９,Ele Attack II PC9
-6310,属攻カフ賖ＰＣ10,Ele Attack II PC10
-6311,気回カフ賖ＰＣ６,Stam.Rec II PC6
-6312,気回カフ賖ＰＣ７,Stam.Rec II PC7
-6313,気回カフ賖ＰＣ８,Stam.Rec II PC8
-6314,気回カフ賖ＰＣ９,Stam.Rec II PC9
-6315,気回カフ賖ＰＣ10,Stam.Rec II PC10
-6316,根性カフ賖ＰＣ13,Guts II PC13
-6317,根性カフ賖ＰＣ14,Guts II PC14
-6318,根性カフ賖ＰＣ15,Guts II PC15
-6319,根性カフ賖ＰＣ16,Guts II PC16
-6320,根性カフ賖ＰＣ17,Guts II PC17
-6321,小刀カフ賖ＰＣ６,Throwing II PC6
-6322,小刀カフ賖ＰＣ７,Throwing II PC7
-6323,小刀カフ賖ＰＣ８,Throwing II PC8
-6324,小刀カフ賖ＰＣ９,Throwing II PC9
-6325,小刀カフ賖ＰＣ10,Throwing II PC10
-6326,労りカフ賖ＰＣ６,Caring II PC6
-6327,労りカフ賖ＰＣ７,Caring II PC7
-6328,労りカフ賖ＰＣ８,Caring II PC8
-6329,労りカフ賖ＰＣ９,Caring II PC9
-6330,労りカフ賖ＰＣ10,Caring II PC10
-6331,対防カフ賖ＰＣ６,Def Lock II PC6
-6332,対防カフ賖ＰＣ７,Def Lock II PC7
-6333,対防カフ賖ＰＣ８,Def Lock II PC8
-6334,対防カフ賖ＰＣ９,Def Lock II PC9
-6335,対防カフ賖ＰＣ10,Def Lock II PC10
-6336,追貫カフ賖ＰＣ６,Pierce Add II PC6
-6337,追貫カフ賖ＰＣ７,Pierce Add II PC7
-6338,追貫カフ賖ＰＣ８,Pierce Add II PC8
-6339,追貫カフ賖ＰＣ９,Pierce Add II PC9
-6340,追貫カフ賖ＰＣ10,Pierce Add II PC10
-6341,採取カフ賖ＰＣ６,Gathering II PC6
-6342,採取カフ賖ＰＣ７,Gathering II PC7
-6343,採取カフ賖ＰＣ８,Gathering II PC8
-6344,採取カフ賖ＰＣ９,Gathering II PC9
-6345,採取カフ賖ＰＣ10,Gathering II PC10
-6346,達人カフ賖ＰＣ１,Expert II PC1
-6347,達人カフ賖ＰＣ２,Expert II PC2
-6348,達人カフ賖ＰＣ３,Expert II PC3
-6349,達人カフ賖ＰＣ４,Expert II PC4
-6350,達人カフ賖ＰＣ５,Expert II PC5
-6351,斬味カフ賖ＳＡ４,Sharpness II SA4
-6352,匠カフ賖ＳＡ２,Artisan II SA2
-6353,連射カフ賖ＳＡ２,Auto-Reload II SA2
-6354,回避カフ賖ＳＡ２,Evasion II SA2
-6355,強貫カフ賖ＳＡ２,Pierce Up II SA2
-6356,追貫カフ賖ＳＢ６,Prce.Shot II SB6
-6357,追貫カフ賖ＳＢ７,Prce.Shot II SB7
-6358,追貫カフ賖ＳＢ８,Prce.Shot II SB8
-6359,追貫カフ賖ＳＢ９,Prce.Shot II SB9
-6360,追貫カフ賖ＳＢ10,Prce.Shot II SB10
-6361,広域カフ賖ＳＢ８,Wide-Area II SB8
-6362,広域カフ賖ＳＢ９,Wide-Area II SB9
-6363,広域カフ賖ＳＢ10,Wide-Area II SB10
-6364,広域カフ賖ＳＢ11,Wide-Area II SB11
-6365,広域カフ賖ＳＢ12,Wide-Area II SB12
-6366,運搬カフ賖ＳＣ８,Backpack.II SC8
-6367,運搬カフ賖ＳＣ９,Backpack.II SC9
-6368,運搬カフ賖ＳＣ10,Backpack.II SC10
-6369,運搬カフ賖ＳＣ11,Backpack.II SC11
-6370,運搬カフ賖ＳＣ12,Backpack.II SC12
-6371,耐龍カフ賖ＳＣ８,Dragon Res II SC8
-6372,耐龍カフ賖ＳＣ９,Dragon Res II SC9
-6373,耐龍カフ賖ＳＣ10,Dragon Res II SC10
-6374,耐龍カフ賖ＳＣ11,Dragon Res II SC11
-6375,耐龍カフ賖ＳＣ12,Dragon Res II SC12
-6376,採取カフ賖ＳＣ８,Gathering II SC8
-6377,採取カフ賖ＳＣ９,Gathering II SC9
-6378,採取カフ賖ＳＣ10,Gathering II SC10
-6379,採取カフ賖ＳＣ11,Gathering II SC11
-6380,採取カフ賖ＳＣ12,Gathering II SC12
-6381,小刀カフ賖ＳＣ１,Throwing II SC1
-6382,小刀カフ賖ＳＣ２,Throwing II SC2
-6383,小刀カフ賖ＳＣ３,Throwing II SC3
-6384,小刀カフ賖ＳＣ４,Throwing II SC4
-6385,小刀カフ賖ＳＣ５,Throwing II SC5
-6386,対防カフ賖ＳＣ１,Def Lock II SC1
-6387,対防カフ賖ＳＣ２,Def Lock II SC2
-6388,対防カフ賖ＳＣ３,Def Lock II SC3
-6389,対防カフ賖ＳＣ４,Def Lock II SC4
-6390,対防カフ賖ＳＣ５,Def Lock II SC5
+6255,剣術カフⅡＰＡ３,Fencing II PA3
+6256,剣術カフⅡＰＡ４,Fencing II PA4
+6257,耐状カフⅡＰＡ３,Status Res II PA3
+6258,耐状カフⅡＰＡ４,Status Res II PA4
+6259,匠カフⅡＰＡ３,Artisan II PA3
+6260,匠カフⅡＰＡ４,Artisan II PA4
+6261,武捌カフⅡＰＡ３,W. Handling II PA3
+6262,武捌カフⅡＰＡ４,W. Handling II PA4
+6263,属攻カフⅡＰＡ３,Ele Attack II PA3
+6264,属攻カフⅡＰＡ４,Ele Attack II PA4
+6265,攻撃カフⅡＰＡ３,Attack II PA3
+6266,攻撃カフⅡＰＡ４,Attack II PA4
+6267,装填カフⅡＰＢ４,Reload II PB4
+6268,装填カフⅡＰＢ５,Reload II PB5
+6269,装填カフⅡＰＢ６,Reload II PB6
+6270,痺剣カフⅡＰＢ４,Para Sword II PB4
+6271,痺剣カフⅡＰＢ５,Para Sword II PB5
+6272,痺剣カフⅡＰＢ６,Para Sword II PB6
+6273,溜短カフⅡＰＢ６,Focus II PB6
+6274,溜短カフⅡＰＢ７,Focus II PB7
+6275,溜短カフⅡＰＢ８,Focus II PB8
+6276,小刀カフⅡＰＢ４,Throwing II PB4
+6277,小刀カフⅡＰＢ５,Throwing II PB5
+6278,小刀カフⅡＰＢ６,Throwing II PB6
+6279,追貫カフⅡＰＢ４,Pierce Shot II PB4
+6280,追貫カフⅡＰＢ５,Pierce Shot II PB5
+6281,追貫カフⅡＰＢ６,Pierce Shot II PB6
+6282,速収カフⅡＰＢ４,Gath.Speed II PB4
+6283,速収カフⅡＰＢ５,Gath.Speed II PB5
+6284,速収カフⅡＰＢ６,Gath.Speed II PB6
+6285,気紛カフⅡＰＢ４,Whim II PB4
+6286,気紛カフⅡＰＢ５,Whim II PB5
+6287,気紛カフⅡＰＢ６,Whim II PB6
+6288,匠カフⅡＰＢ４,Artisan II PB4
+6289,匠カフⅡＰＢ５,Artisan II PB5
+6290,匠カフⅡＰＢ６,Artisan II PB6
+6291,剣術カフⅡＰＣ６,Fencing II PC6
+6292,剣術カフⅡＰＣ７,Fencing II PC7
+6293,剣術カフⅡＰＣ８,Fencing II PC8
+6294,剣術カフⅡＰＣ９,Fencing II PC9
+6295,剣術カフⅡＰＣ10,Fencing II PC10
+6296,耐状カフⅡＰＣ６,Status Res II PC6
+6297,耐状カフⅡＰＣ７,Status Res II PC7
+6298,耐状カフⅡＰＣ８,Status Res II PC8
+6299,耐状カフⅡＰＣ９,Status Res II PC9
+6300,耐状カフⅡＰＣ10,Status Res II PC10
+6301,武捌カフⅡＰＣ６,W.Handling II PC6
+6302,武捌カフⅡＰＣ７,W.Handling II PC7
+6303,武捌カフⅡＰＣ８,W.Handling II PC8
+6304,武捌カフⅡＰＣ９,W.Handling II PC9
+6305,武捌カフⅡＰＣ10,W.Handling II PC10
+6306,属攻カフⅡＰＣ６,Ele Attack II PC6
+6307,属攻カフⅡＰＣ７,Ele Attack II PC7
+6308,属攻カフⅡＰＣ８,Ele Attack II PC8
+6309,属攻カフⅡＰＣ９,Ele Attack II PC9
+6310,属攻カフⅡＰＣ10,Ele Attack II PC10
+6311,気回カフⅡＰＣ６,Stam.Rec II PC6
+6312,気回カフⅡＰＣ７,Stam.Rec II PC7
+6313,気回カフⅡＰＣ８,Stam.Rec II PC8
+6314,気回カフⅡＰＣ９,Stam.Rec II PC9
+6315,気回カフⅡＰＣ10,Stam.Rec II PC10
+6316,根性カフⅡＰＣ13,Guts II PC13
+6317,根性カフⅡＰＣ14,Guts II PC14
+6318,根性カフⅡＰＣ15,Guts II PC15
+6319,根性カフⅡＰＣ16,Guts II PC16
+6320,根性カフⅡＰＣ17,Guts II PC17
+6321,小刀カフⅡＰＣ６,Throwing II PC6
+6322,小刀カフⅡＰＣ７,Throwing II PC7
+6323,小刀カフⅡＰＣ８,Throwing II PC8
+6324,小刀カフⅡＰＣ９,Throwing II PC9
+6325,小刀カフⅡＰＣ10,Throwing II PC10
+6326,労りカフⅡＰＣ６,Caring II PC6
+6327,労りカフⅡＰＣ７,Caring II PC7
+6328,労りカフⅡＰＣ８,Caring II PC8
+6329,労りカフⅡＰＣ９,Caring II PC9
+6330,労りカフⅡＰＣ10,Caring II PC10
+6331,対防カフⅡＰＣ６,Def Lock II PC6
+6332,対防カフⅡＰＣ７,Def Lock II PC7
+6333,対防カフⅡＰＣ８,Def Lock II PC8
+6334,対防カフⅡＰＣ９,Def Lock II PC9
+6335,対防カフⅡＰＣ10,Def Lock II PC10
+6336,追貫カフⅡＰＣ６,Pierce Add II PC6
+6337,追貫カフⅡＰＣ７,Pierce Add II PC7
+6338,追貫カフⅡＰＣ８,Pierce Add II PC8
+6339,追貫カフⅡＰＣ９,Pierce Add II PC9
+6340,追貫カフⅡＰＣ10,Pierce Add II PC10
+6341,採取カフⅡＰＣ６,Gathering II PC6
+6342,採取カフⅡＰＣ７,Gathering II PC7
+6343,採取カフⅡＰＣ８,Gathering II PC8
+6344,採取カフⅡＰＣ９,Gathering II PC9
+6345,採取カフⅡＰＣ10,Gathering II PC10
+6346,達人カフⅡＰＣ１,Expert II PC1
+6347,達人カフⅡＰＣ２,Expert II PC2
+6348,達人カフⅡＰＣ３,Expert II PC3
+6349,達人カフⅡＰＣ４,Expert II PC4
+6350,達人カフⅡＰＣ５,Expert II PC5
+6351,斬味カフⅡＳＡ４,Sharpness II SA4
+6352,匠カフⅡＳＡ２,Artisan II SA2
+6353,連射カフⅡＳＡ２,Auto-Reload II SA2
+6354,回避カフⅡＳＡ２,Evasion II SA2
+6355,強貫カフⅡＳＡ２,Pierce Up II SA2
+6356,追貫カフⅡＳＢ６,Prce.Shot II SB6
+6357,追貫カフⅡＳＢ７,Prce.Shot II SB7
+6358,追貫カフⅡＳＢ８,Prce.Shot II SB8
+6359,追貫カフⅡＳＢ９,Prce.Shot II SB9
+6360,追貫カフⅡＳＢ10,Prce.Shot II SB10
+6361,広域カフⅡＳＢ８,Wide-Area II SB8
+6362,広域カフⅡＳＢ９,Wide-Area II SB9
+6363,広域カフⅡＳＢ10,Wide-Area II SB10
+6364,広域カフⅡＳＢ11,Wide-Area II SB11
+6365,広域カフⅡＳＢ12,Wide-Area II SB12
+6366,運搬カフⅡＳＣ８,Backpack.II SC8
+6367,運搬カフⅡＳＣ９,Backpack.II SC9
+6368,運搬カフⅡＳＣ10,Backpack.II SC10
+6369,運搬カフⅡＳＣ11,Backpack.II SC11
+6370,運搬カフⅡＳＣ12,Backpack.II SC12
+6371,耐龍カフⅡＳＣ８,Dragon Res II SC8
+6372,耐龍カフⅡＳＣ９,Dragon Res II SC9
+6373,耐龍カフⅡＳＣ10,Dragon Res II SC10
+6374,耐龍カフⅡＳＣ11,Dragon Res II SC11
+6375,耐龍カフⅡＳＣ12,Dragon Res II SC12
+6376,採取カフⅡＳＣ８,Gathering II SC8
+6377,採取カフⅡＳＣ９,Gathering II SC9
+6378,採取カフⅡＳＣ10,Gathering II SC10
+6379,採取カフⅡＳＣ11,Gathering II SC11
+6380,採取カフⅡＳＣ12,Gathering II SC12
+6381,小刀カフⅡＳＣ１,Throwing II SC1
+6382,小刀カフⅡＳＣ２,Throwing II SC2
+6383,小刀カフⅡＳＣ３,Throwing II SC3
+6384,小刀カフⅡＳＣ４,Throwing II SC4
+6385,小刀カフⅡＳＣ５,Throwing II SC5
+6386,対防カフⅡＳＣ１,Def Lock II SC1
+6387,対防カフⅡＳＣ２,Def Lock II SC2
+6388,対防カフⅡＳＣ３,Def Lock II SC3
+6389,対防カフⅡＳＣ４,Def Lock II SC4
+6390,対防カフⅡＳＣ５,Def Lock II SC5
 6391,甲殻種の皇液,Carapaceon Fluid
 6392,親方ネコの大好物,M. Cat's Favourite
-6393,演習珠賱,Exercise Pearl Ⅶ
+6393,演習珠Ⅶ,Exercise Pearl Ⅶ
 6394,フォートＣ生産券,Fort C Tkt
 6395,フォートＳ生産券,Fort S Tkt
 6396,ラストＬ生産券,Last L Tkt
@@ -6462,10 +6462,10 @@ index,source,target
 6460,浪漫芳香,Romantic Perfume
 6461,ざらめ玉,Rough Ball
 6462,パチパチの実,Crackling Fruit
-6463,物まね指南・弓賖,Gesture・Bow Ⅱ
-6464,物まね指南・弩賖,Gesture・LBG Ⅱ
-6465,物まね指南・片賖,Gesture・SnS Ⅱ
-6466,物まね指南・刀賖,Gesture・LS Ⅱ
+6463,物まね指南・弓Ⅱ,Gesture・Bow Ⅱ
+6464,物まね指南・弩Ⅱ,Gesture・LBG Ⅱ
+6465,物まね指南・片Ⅱ,Gesture・SnS Ⅱ
+6466,物まね指南・刀Ⅱ,Gesture・LS Ⅱ
 6467,勇猛な鍬形,Valorant Crest
 6468,勇壮な前立て,Valorant Plume
 6469,立派な忍緒,Admirable Shinobi
@@ -6786,10 +6786,10 @@ index,source,target
 6784,熾凍龍の対玉,Ivory Dgnsphire
 6785,熾凍龍の翼,Disufiroa Fellwing
 6786,熾凍龍の尻尾,Disufiroa Diretail
-6787,物まね指南・双賖,Gesture・DS Ⅱ
-6788,物まね指南・鎚賖,Gesture・Hammer Ⅱ
-6789,物まね指南・笛賖,Gesture・HH Ⅱ
-6790,物まね指南・槍賖,Gesture・Lance Ⅱ
+6787,物まね指南・双Ⅱ,Gesture・DS Ⅱ
+6788,物まね指南・鎚Ⅱ,Gesture・Hammer Ⅱ
+6789,物まね指南・笛Ⅱ,Gesture・HH Ⅱ
+6790,物まね指南・槍Ⅱ,Gesture・Lance Ⅱ
 6791,ダミー6791,Dummy 6791
 6792,ダミー6792,Dummy 6792
 6793,竜骨【特】,Unique Monst.Bone
@@ -7143,21 +7143,21 @@ index,source,target
 7141,覇種迎撃貢献証黄,Supr.Proof-Yellow
 7142,覇種迎撃貢献証白,Supr.Proof-White
 7143,覇種迎撃貢献証緑,Supr.Proof-Green
-7144,ギルド補助券赤貤,Red Pass Ⅰ
-7145,ギルド補助券青貤,Blue Pass Ⅰ
-7146,ギルド補助券青賖,Blue Pass Ⅱ
-7147,ギルド補助券黄貤,Yellow Pass Ⅰ
-7148,ギルド補助券黄賖,Yellow Pass Ⅱ
-7149,ギルド補助券黄賕,Yellow Pass Ⅲ
-7150,ギルド補助券白貤,White Pass Ⅰ
-7151,ギルド補助券白賖,White Pass Ⅱ
-7152,ギルド補助券白賕,White Pass Ⅲ
-7153,ギルド補助券白賙,White Pass Ⅳ
-7154,ギルド補助券緑貤,Green Pass Ⅰ
-7155,ギルド補助券緑賖,Green Pass Ⅱ
-7156,ギルド補助券緑賕,Green Pass Ⅲ
-7157,ギルド補助券緑賙,Green Pass Ⅳ
-7158,ギルド補助券緑𧶠,Green Pass Ⅴ
+7144,ギルド補助券赤Ⅰ,Red Pass Ⅰ
+7145,ギルド補助券青Ⅰ,Blue Pass Ⅰ
+7146,ギルド補助券青Ⅱ,Blue Pass Ⅱ
+7147,ギルド補助券黄Ⅰ,Yellow Pass Ⅰ
+7148,ギルド補助券黄Ⅱ,Yellow Pass Ⅱ
+7149,ギルド補助券黄Ⅲ,Yellow Pass Ⅲ
+7150,ギルド補助券白Ⅰ,White Pass Ⅰ
+7151,ギルド補助券白Ⅱ,White Pass Ⅱ
+7152,ギルド補助券白Ⅲ,White Pass Ⅲ
+7153,ギルド補助券白Ⅳ,White Pass Ⅳ
+7154,ギルド補助券緑Ⅰ,Green Pass Ⅰ
+7155,ギルド補助券緑Ⅱ,Green Pass Ⅱ
+7156,ギルド補助券緑Ⅲ,Green Pass Ⅲ
+7157,ギルド補助券緑Ⅳ,Green Pass Ⅳ
+7158,ギルド補助券緑Ⅴ,Green Pass Ⅴ
 7159,東光の書,Toko's Book
 7160,西光の書,Saikou's Book
 7161,仙玉,GR6 Gem
@@ -7273,7 +7273,7 @@ index,source,target
 7271,黄武玉,Yellow Valor Stone
 7272,IMトーメン生産券,IM Tomen Tkt
 7273,ラビナFU生産券,Rabina FU Tkt
-7274,感謝の証賰,AppreciationTkt VI
+7274,感謝の証Ⅵ,AppreciationTkt VI
 7275,磁力を持つ柔毛,Magnetised Fur
 7276,緊急依頼達成証,Urgent Proof
 7277,しずめ玉,Supressing Ball
@@ -8181,12 +8181,12 @@ index,source,target
 8179,響奏の結晶,Music Crystal
 8180,Ｐローム生産券,P Rome Tkt
 8181,功猟メダル返還券,
-8182,先駆者の紋章貤,
-8183,先駆者の紋章賖,
-8184,先駆者の紋章賕,
-8185,先駆者の印貤,Pioneer Mark Ⅰ
-8186,先駆者の印賖,Pioneer Mark Ⅱ
-8187,先駆者の印賕,Pioneer Mark Ⅲ
+8182,先駆者の紋章Ⅰ,
+8183,先駆者の紋章Ⅱ,
+8184,先駆者の紋章Ⅲ,
+8185,先駆者の印Ⅰ,Pioneer Mark Ⅰ
+8186,先駆者の印Ⅱ,Pioneer Mark Ⅱ
+8187,先駆者の印Ⅲ,Pioneer Mark Ⅲ
 8188,Ｓリステ生産券,
 8189,Ｇギャルド生産券,
 8190,Ｅグリード生産券,E Greed Tkt
@@ -8358,8 +8358,8 @@ index,source,target
 8356,フュアコル生産券,
 8357,神威再臨生産券,God Rebirth Tkt
 8358,神居再臨生産券,Second Coming Tkt
-8359,ジェラ貤生産券,Jera Ⅰ Tkt
-8360,エピデ貤生産券,Epide Ⅰ Tkt
+8359,ジェラⅠ生産券,Jera Ⅰ Tkt
+8360,エピデⅠ生産券,Epide Ⅰ Tkt
 8361,トワルフＰ生産券,
 8362,デオギスＪ生産券,Deogis J Tkt
 8363,双聖器Ｎ生産券,Twin Saints N Tkt
@@ -8531,11 +8531,11 @@ index,source,target
 8529,SFCP生産券・腕,SFCP Tkt Arms
 8530,SFCP生産券・腰,SFCP Tkt Waist
 8531,SFCP生産券・脚,SFCP Tkt Legs
-8532,Ｖ賖生産券・頭,VⅡ Tkt Head
-8533,Ｖ賖生産券・胴,VⅡ Tkt Torso
-8534,Ｖ賖生産券・腕,VⅡ Tkt Arms
-8535,Ｖ賖生産券・腰,VⅡ Tkt Waist
-8536,Ｖ賖生産券・脚,VⅡ Tkt Legs
+8532,ＶⅡ生産券・頭,VⅡ Tkt Head
+8533,ＶⅡ生産券・胴,VⅡ Tkt Torso
+8534,ＶⅡ生産券・腕,VⅡ Tkt Arms
+8535,ＶⅡ生産券・腰,VⅡ Tkt Waist
+8536,ＶⅡ生産券・脚,VⅡ Tkt Legs
 8537,サーブル生産券頭,Saber Tkt Head
 8538,サーブル生産券胴,Saber Tkt Torso
 8539,サーブル生産券腕,Saber Tkt Arms
@@ -8551,21 +8551,21 @@ index,source,target
 8549,ノメル生産券腕,
 8550,ノメル生産券腰,
 8551,ノメル生産券脚,
-8552,Fate賖生産券頭,Fate Ⅱ Tkt Head
-8553,Fate賖生産券胴,Fate Ⅱ Tkt Torso
-8554,Fate賖生産券腕,Fate Ⅱ Tkt Arms
-8555,Fate賖生産券腰,Fate Ⅱ Tkt Waist
-8556,Fate賖生産券脚,Fate Ⅱ Tkt Legs
+8552,FateⅡ生産券頭,Fate Ⅱ Tkt Head
+8553,FateⅡ生産券胴,Fate Ⅱ Tkt Torso
+8554,FateⅡ生産券腕,Fate Ⅱ Tkt Arms
+8555,FateⅡ生産券腰,Fate Ⅱ Tkt Waist
+8556,FateⅡ生産券脚,Fate Ⅱ Tkt Legs
 8557,リベリオン生産券,Rebellion Tkt
 8558,Ｒ改生産券,R Kai Tkt
-8559,ジェラ賖生産券,Jela Ⅱ Tkt
-8560,エピデ賖生産券,Epide Ⅱ Tkt
-8561,ジェラ賕生産券,Jela Ⅲ Tkt
-8562,エピデ賕生産券,Epide Ⅲ Tkt
-8563,ジェラ賙生産券,Jela Ⅳ Tkt
-8564,エピデ賙生産券,Epide Ⅳ Tkt
-8565,ジェラ𧶠生産券,Jela Ⅴ Tkt
-8566,エピデ𧶠生産券,Epide Ⅴ Tkt
+8559,ジェラⅡ生産券,Jela Ⅱ Tkt
+8560,エピデⅡ生産券,Epide Ⅱ Tkt
+8561,ジェラⅢ生産券,Jela Ⅲ Tkt
+8562,エピデⅢ生産券,Epide Ⅲ Tkt
+8563,ジェラⅣ生産券,Jela Ⅳ Tkt
+8564,エピデⅣ生産券,Epide Ⅳ Tkt
+8565,ジェラⅤ生産券,Jela Ⅴ Tkt
+8566,エピデⅤ生産券,Epide Ⅴ Tkt
 8567,ランポス剣珠Ｇ,Veloci BM G
 8568,ランポス剣珠GF,Veloci BM GF
 8569,ランポス剣珠GX1,Veloci BM GX1
@@ -8777,10 +8777,10 @@ index,source,target
 8775,耐状態珠Ｇ,Status Res G
 8776,銃槍珠Ｇ,Recoil G
 8777,餓狼珠Ｇ,Fasting G
-8778,乖離剣貤生産券,Divergence I Tkt
-8779,乖離剣黒貤生産券,D.Divergence I Tkt
-8780,無銘貤生産券,Unsigned Ⅰ Tkt
-8781,無銘黒貤生産券,Unsigned B. Ⅰ Tkt
+8778,乖離剣Ⅰ生産券,Divergence I Tkt
+8779,乖離剣黒Ⅰ生産券,D.Divergence I Tkt
+8780,無銘Ⅰ生産券,Unsigned Ⅰ Tkt
+8781,無銘黒Ⅰ生産券,Unsigned B. Ⅰ Tkt
 8782,マイトレ１０Ｐ券,10P Poogie Tkt
 8783,マイトレ３０Ｐ券,30P Poogie Tkt
 8784,壱式円満生産券,First Type Tkt
@@ -8795,8 +8795,8 @@ index,source,target
 8793,弐式繁栄生産券,2nd Prosperity Tkt
 8794,ルオルティ生産券,
 8795,アゲロス生産券,Ageros Tkt
-8796,ジェラ賰生産券,Jela Ⅵ Tkt
-8797,エピデ賰生産券,Epide Ⅵ Tkt
+8796,ジェラⅥ生産券,Jela Ⅵ Tkt
+8797,エピデⅥ生産券,Epide Ⅵ Tkt
 8798,ナーデルＣ生産券,Nadel C Tkt
 8799,ナーデルＬ生産券,Nadel L Tkt
 8800,エイリアＬ生産券,Alia L Tkt
@@ -9182,7 +9182,7 @@ index,source,target
 9180,あかねこの涙,Red Cat Tears
 9181,あくねこの涙,Evil Cat Tears
 9182,王者のメダル,King's Medal
-9183,感謝の証賱,Thank You Ⅶ
+9183,感謝の証Ⅶ,Thank You Ⅶ
 9184,フラン剣珠Ｇ,Franc BM G
 9185,フラン剣珠GF,Franc BM GF
 9186,フラン剣珠GX1,Franc BM GX1
@@ -9376,18 +9376,18 @@ index,source,target
 9374,スナップＢ生産券,Snap B Tkt
 9375,空裂生産券,Void fissure Tkt
 9376,蒼流旋生産券,Soryu Tkt
-9377,ＳＬ・貤生産券,SL Ⅰ Tkt
-9378,ＳＬ・賖生産券,SL Ⅱ Tkt
-9379,ＳＬ・賕生産券,SL Ⅲ Tkt
-9380,ＳＬ・賙生産券,SL Ⅳ Tkt
-9381,ＳＬ・𧶠生産券,SL Ⅴ Tkt
-9382,ＳＬ・賰生産券,SL Ⅵ Tkt
-9383,ＲＯＳ・貤生産券,ROS Ⅰ Tkt
-9384,ＲＯＳ・賖生産券,ROS Ⅱ Tkt
-9385,ＲＯＳ・賕生産券,ROS Ⅲ Tkt
-9386,ＲＯＳ・賙生産券,ROS Ⅳ Tkt
-9387,ＲＯＳ・𧶠生産券,ROS Ⅴ Tkt
-9388,ＲＯＳ・賰生産券,ROS Ⅵ Tkt
+9377,ＳＬ・Ⅰ生産券,SL Ⅰ Tkt
+9378,ＳＬ・Ⅱ生産券,SL Ⅱ Tkt
+9379,ＳＬ・Ⅲ生産券,SL Ⅲ Tkt
+9380,ＳＬ・Ⅳ生産券,SL Ⅳ Tkt
+9381,ＳＬ・Ⅴ生産券,SL Ⅴ Tkt
+9382,ＳＬ・Ⅵ生産券,SL Ⅵ Tkt
+9383,ＲＯＳ・Ⅰ生産券,ROS Ⅰ Tkt
+9384,ＲＯＳ・Ⅱ生産券,ROS Ⅱ Tkt
+9385,ＲＯＳ・Ⅲ生産券,ROS Ⅲ Tkt
+9386,ＲＯＳ・Ⅳ生産券,ROS Ⅳ Tkt
+9387,ＲＯＳ・Ⅴ生産券,ROS Ⅴ Tkt
+9388,ＲＯＳ・Ⅵ生産券,ROS Ⅵ Tkt
 9389,ファゼルＧ生産券,Fazel G Tkt
 9390,鋼連岩の希緋石,
 9391,鋼連岩の希金石,
@@ -9515,9 +9515,9 @@ index,source,target
 9513,ＦＧ１生産券・５,FG1 Tkt 5
 9514,ＦＧ１生産券・６,FG1 Tkt 6
 9515,ＦＧ１生産券・７,FG1 Tkt 7
-9516,新天地の証貤,New World Bond Ⅰ
-9517,新天地の証賖,New World Bond Ⅱ
-9518,新天地の証賕,New World Bond Ⅲ
+9516,新天地の証Ⅰ,New World Bond Ⅰ
+9517,新天地の証Ⅱ,New World Bond Ⅱ
+9518,新天地の証Ⅲ,New World Bond Ⅲ
 9519,ヒルＤ生産券,Hill D Tkt
 9520,ルイダ生産券,Ruida Tkt
 9521,フォレＲ生産券,Foret R Tkt
@@ -10366,7 +10366,7 @@ index,source,target
 10364,Ｇ炎寵カフＰＡ１,Blaze PA1
 10365,底力カフＰＡ２,Potential PA2
 10366,運気カフＰＡ１,Fate PA1
-10367,耐状態異常の石賕,Status Res Gem Ⅲ
+10367,耐状態異常の石Ⅲ,Status Res Gem Ⅲ
 10368,効果持続の石,Everlasting Gem
 10369,剥ぎ取りの石,Carving Gem
 10370,爆撃剣の石,Bomb Sword Gem
@@ -11020,140 +11020,140 @@ index,source,target
 11018,睡眠属性の印,Sleep Sigil
 11019,毒属性の印,Poison Sigil
 11020,会心の印,Affinity Sigil
-11021,通常弾の印貤,Norm S. Sigil
-11022,貫通弾の印貤,Pierce S. Sigil
-11023,散弾の印貤,Pellet S. Sigil
-11024,徹甲榴弾の印貤,Crag S. Sigil
-11025,火炎弾の印貤,Fire S. Sigil
-11026,水冷弾の印貤,Water S. Sigil
-11027,電撃弾の印貤,Thunder S. Sigil
-11028,氷結弾の印貤,Ice S. Sigil
-11029,通常弾の印賖,Norm S. Sigil Ⅱ
-11030,貫通弾の印賖,Pierce S. Sigil Ⅱ
-11031,散弾の印賖,Pellet S. Sigil Ⅱ
-11032,徹甲榴弾の印賖,Crag S. Sigil Ⅱ
-11033,火炎弾の印賖,Fire S. Sigil Ⅱ
-11034,水冷弾の印賖,Water S. Sigil Ⅱ
-11035,電撃弾の印賖,Thunder S. Sigil Ⅱ
-11036,氷結弾の印賖,Ice S. Sigil Ⅱ
-11037,回復の石貤,Rec Speed Gem Ⅰ
-11038,回復の石賖,Rec Speed Gem Ⅱ
-11039,気力回復の石貤,Stamina Rec Gem Ⅰ
-11040,気力回復の石賖,Stamina Rec Gem Ⅱ
-11041,スタミナの石貤,Stamina Gem Ⅰ
-11042,スタミナの石賖,Stamina Gem Ⅱ
+11021,通常弾の印Ⅰ,Norm S. Sigil
+11022,貫通弾の印Ⅰ,Pierce S. Sigil
+11023,散弾の印Ⅰ,Pellet S. Sigil
+11024,徹甲榴弾の印Ⅰ,Crag S. Sigil
+11025,火炎弾の印Ⅰ,Fire S. Sigil
+11026,水冷弾の印Ⅰ,Water S. Sigil
+11027,電撃弾の印Ⅰ,Thunder S. Sigil
+11028,氷結弾の印Ⅰ,Ice S. Sigil
+11029,通常弾の印Ⅱ,Norm S. Sigil Ⅱ
+11030,貫通弾の印Ⅱ,Pierce S. Sigil Ⅱ
+11031,散弾の印Ⅱ,Pellet S. Sigil Ⅱ
+11032,徹甲榴弾の印Ⅱ,Crag S. Sigil Ⅱ
+11033,火炎弾の印Ⅱ,Fire S. Sigil Ⅱ
+11034,水冷弾の印Ⅱ,Water S. Sigil Ⅱ
+11035,電撃弾の印Ⅱ,Thunder S. Sigil Ⅱ
+11036,氷結弾の印Ⅱ,Ice S. Sigil Ⅱ
+11037,回復の石Ⅰ,Rec Speed Gem Ⅰ
+11038,回復の石Ⅱ,Rec Speed Gem Ⅱ
+11039,気力回復の石Ⅰ,Stamina Rec Gem Ⅰ
+11040,気力回復の石Ⅱ,Stamina Rec Gem Ⅱ
+11041,スタミナの石Ⅰ,Stamina Gem Ⅰ
+11042,スタミナの石Ⅱ,Stamina Gem Ⅱ
 11043,食事の石,Eating Gem
-11044,攻撃の石貤,Attack Gem Ⅰ
-11045,攻撃の石賖,Attack Gem Ⅱ
-11046,攻撃の石賕,Attack Gem Ⅲ
-11047,底力の石貤,Adrenaline Gem Ⅰ
-11048,底力の石賖,Adrenaline Gem Ⅱ
-11049,達人の石貤,Expert Gem Ⅰ
-11050,達人の石賖,Expert Gem Ⅱ
-11051,達人の石賕,Expert Gem Ⅲ
-11052,達人の石賙,Expert Gem Ⅳ
-11053,達人の石𧶠,Expert Gem Ⅴ
+11044,攻撃の石Ⅰ,Attack Gem Ⅰ
+11045,攻撃の石Ⅱ,Attack Gem Ⅱ
+11046,攻撃の石Ⅲ,Attack Gem Ⅲ
+11047,底力の石Ⅰ,Adrenaline Gem Ⅰ
+11048,底力の石Ⅱ,Adrenaline Gem Ⅱ
+11049,達人の石Ⅰ,Expert Gem Ⅰ
+11050,達人の石Ⅱ,Expert Gem Ⅱ
+11051,達人の石Ⅲ,Expert Gem Ⅲ
+11052,達人の石Ⅳ,Expert Gem Ⅳ
+11053,達人の石Ⅴ,Expert Gem Ⅴ
 11054,特殊攻撃の石,Status Gem
-11055,砲術師の石貤,Gunnery Gem Ⅰ
-11056,砲術師の石賖,Gunnery Gem Ⅱ
-11057,火攻の石貤,Fire Attack Gem Ⅰ
-11058,火攻の石賖,Fire Attack Gem Ⅱ
-11059,水攻の石貤,Water Attack Gem Ⅰ
-11060,水攻の石賖,Water Attack Gem Ⅱ
-11061,氷攻の石貤,Ice Attack Gem Ⅰ
-11062,氷攻の石賖,Ice Attack Gem Ⅱ
-11063,雷攻の石貤,Thunder Attk Gem Ⅰ
-11064,雷攻の石賖,Thunder Attk Gem Ⅱ
-11065,龍攻の石貤,Dragon Attk Gem Ⅰ
-11066,龍攻の石賖,Dragon Attk Gem Ⅱ
+11055,砲術師の石Ⅰ,Gunnery Gem Ⅰ
+11056,砲術師の石Ⅱ,Gunnery Gem Ⅱ
+11057,火攻の石Ⅰ,Fire Attack Gem Ⅰ
+11058,火攻の石Ⅱ,Fire Attack Gem Ⅱ
+11059,水攻の石Ⅰ,Water Attack Gem Ⅰ
+11060,水攻の石Ⅱ,Water Attack Gem Ⅱ
+11061,氷攻の石Ⅰ,Ice Attack Gem Ⅰ
+11062,氷攻の石Ⅱ,Ice Attack Gem Ⅱ
+11063,雷攻の石Ⅰ,Thunder Attk Gem Ⅰ
+11064,雷攻の石Ⅱ,Thunder Attk Gem Ⅱ
+11065,龍攻の石Ⅰ,Dragon Attk Gem Ⅰ
+11066,龍攻の石Ⅱ,Dragon Attk Gem Ⅱ
 11067,属性攻撃の石,Elemental Attk Gem
-11068,体術の石貤,Martial Arts Gem Ⅰ
-11069,体術の石賖,Martial Arts Gem Ⅱ
-11070,断食の石貤,Fasting Gem Ⅰ
-11071,断食の石賖,Fasting Gem Ⅱ
-11072,溜め短縮の石貤,Focus Gem Ⅰ
-11073,溜め短縮の石賖,Focus Gem Ⅱ
+11068,体術の石Ⅰ,Martial Arts Gem Ⅰ
+11069,体術の石Ⅱ,Martial Arts Gem Ⅱ
+11070,断食の石Ⅰ,Fasting Gem Ⅰ
+11071,断食の石Ⅱ,Fasting Gem Ⅱ
+11072,溜め短縮の石Ⅰ,Focus Gem Ⅰ
+11073,溜め短縮の石Ⅱ,Focus Gem Ⅱ
 11074,武器捌きの石,Wpn Handling Gem
-11075,ガード性能の石貤,Guard Gem Ⅰ
-11076,ガード性能の石賖,Guard Gem Ⅱ
-11077,研ぎ師の石貤,Sharpening Gem Ⅰ
-11078,研ぎ師の石賖,Sharpening Gem Ⅱ
-11079,斬れ味の石貤,Sharpness Gem Ⅰ
-11080,斬れ味の石賖,Sharpness Gem Ⅱ
+11075,ガード性能の石Ⅰ,Guard Gem Ⅰ
+11076,ガード性能の石Ⅱ,Guard Gem Ⅱ
+11077,研ぎ師の石Ⅰ,Sharpening Gem Ⅰ
+11078,研ぎ師の石Ⅱ,Sharpening Gem Ⅱ
+11079,斬れ味の石Ⅰ,Sharpness Gem Ⅰ
+11080,斬れ味の石Ⅱ,Sharpness Gem Ⅱ
 11081,匠の石,Artisan Gem
-11082,剣術の石貤,Fencing Gem Ⅰ
-11083,剣術の石賖,Fencing Gem Ⅱ
+11082,剣術の石Ⅰ,Fencing Gem Ⅰ
+11083,剣術の石Ⅱ,Fencing Gem Ⅱ
 11084,通常弾強化の石,Normal Shot Up Gem
 11085,貫通弾強化の石,Pierce Shot Up Gem
 11086,散弾強化の石,Pellet Shot Up Gem
 11087,装填数の石,Loading Gem
-11088,装填の石貤,Reload Gem Ⅰ
-11089,装填の石賖,Reload Gem Ⅱ
-11090,装填の石賕,Reload Gem Ⅲ
-11091,反動の石貤,Recoil Gem Ⅰ
-11092,反動の石賖,Recoil Gem Ⅱ
-11093,反動の石賕,Recoil Gem Ⅲ
+11088,装填の石Ⅰ,Reload Gem Ⅰ
+11089,装填の石Ⅱ,Reload Gem Ⅱ
+11090,装填の石Ⅲ,Reload Gem Ⅲ
+11091,反動の石Ⅰ,Recoil Gem Ⅰ
+11092,反動の石Ⅱ,Recoil Gem Ⅱ
+11093,反動の石Ⅲ,Recoil Gem Ⅲ
 11094,連射の石,Auto-Reload Gem
 11095,弾調合の石,Ammo Combiner Gem
-11096,精密射撃の石貤,Precision Gem Ⅰ
-11097,精密射撃の石賖,Precision Gem Ⅱ
+11096,精密射撃の石Ⅰ,Precision Gem Ⅰ
+11097,精密射撃の石Ⅱ,Precision Gem Ⅱ
 11098,毒の石,Poison Res Gem
 11099,麻痺の石,Para Res Gem
 11100,睡眠の石,Sleep Res Gem
-11101,耐状態異常の石貤,Status Res Gem Ⅰ
-11102,耐状態異常の石賖,Status Res Gem Ⅱ
+11101,耐状態異常の石Ⅰ,Status Res Gem Ⅰ
+11102,耐状態異常の石Ⅱ,Status Res Gem Ⅱ
 11103,気絶の石,Stun Res Gem
 11104,脱臭の石,Deoderant Gem
 11105,耐雪の石,Snowball Res Gem
 11106,対防御DOWNの石,Def Lock Gem
 11107,磁力耐性の石,Magnetic Res Gem
 11108,結晶耐性の石,Crystal Res Gem
-11109,聴覚保護の石貤,Hearing Prot Gem Ⅰ
-11110,聴覚保護の石賖,Hearing Prot Gem Ⅱ
-11111,風圧の石貤,Wnd Pressure Gem Ⅰ
-11112,風圧の石賖,Wnd Pressure Gem Ⅱ
-11113,耐震の石貤,Quake Res Gem Ⅰ
-11114,耐震の石賖,Quake Res Gem Ⅱ
-11115,回避性能の石貤,Evasion Gem Ⅰ
-11116,回避性能の石賖,Evasion Gem Ⅱ
-11117,耐暑の石貤,Heat Res Gem Ⅰ
-11118,耐暑の石賖,Heat Res Gem Ⅱ
-11119,耐寒の石貤,Cold Res Gem Ⅰ
-11120,耐寒の石賖,Cold Res Gem Ⅱ
+11109,聴覚保護の石Ⅰ,Hearing Prot Gem Ⅰ
+11110,聴覚保護の石Ⅱ,Hearing Prot Gem Ⅱ
+11111,風圧の石Ⅰ,Wnd Pressure Gem Ⅰ
+11112,風圧の石Ⅱ,Wnd Pressure Gem Ⅱ
+11113,耐震の石Ⅰ,Quake Res Gem Ⅰ
+11114,耐震の石Ⅱ,Quake Res Gem Ⅱ
+11115,回避性能の石Ⅰ,Evasion Gem Ⅰ
+11116,回避性能の石Ⅱ,Evasion Gem Ⅱ
+11117,耐暑の石Ⅰ,Heat Res Gem Ⅰ
+11118,耐暑の石Ⅱ,Heat Res Gem Ⅱ
+11119,耐寒の石Ⅰ,Cold Res Gem Ⅰ
+11120,耐寒の石Ⅱ,Cold Res Gem Ⅱ
 11121,地形の石,Terrain Gem
-11122,審判の石貤,Prot Gem Ⅰ
-11123,審判の石賖,Prot Gem Ⅱ
-11124,根性の石貤,Guts Gem Ⅰ
-11125,根性の石賖,Guts Gem Ⅱ
-11126,広域の石賖,Wide-Area Gem Ⅱ
-11127,広域の石賕,Wide-Area Gem Ⅲ
+11122,審判の石Ⅰ,Prot Gem Ⅰ
+11123,審判の石Ⅱ,Prot Gem Ⅱ
+11124,根性の石Ⅰ,Guts Gem Ⅰ
+11125,根性の石Ⅱ,Guts Gem Ⅱ
+11126,広域の石Ⅱ,Wide-Area Gem Ⅱ
+11127,広域の石Ⅲ,Wide-Area Gem Ⅲ
 11128,気まぐれの石,Whim Gem
 11129,狩人の石,Hunter Gem
-11130,調合成功率の石貤,Combining Gem Ⅰ
-11131,調合成功率の石賖,Combining Gem Ⅱ
+11130,調合成功率の石Ⅰ,Combining Gem Ⅰ
+11131,調合成功率の石Ⅱ,Combining Gem Ⅱ
 11132,笛吹き名人の石,Flute Expert Gem
-11133,高速設置の石貤,Speed Setup Gem Ⅰ
-11134,高速設置の石賖,Speed Setup Gem Ⅱ
+11133,高速設置の石Ⅰ,Speed Setup Gem Ⅰ
+11134,高速設置の石Ⅱ,Speed Setup Gem Ⅱ
 11135,地図の石,Map Gem
 11136,千里眼の石,Psychic Gem
 11137,運搬の石,Backpacking Gem
 11138,高速収集の石,Gather Speed Gem Ⅱ
-11139,採取の石賖,Gathering Gem Ⅱ
+11139,採取の石Ⅱ,Gathering Gem Ⅱ
 11140,平常心の石,Mindfulness Gem
-11141,運気の石貤,Fate Gem Ⅰ
-11142,運気の石賖,Fate Gem Ⅱ
-11143,圧力の石貤,Pressure Gem Ⅰ
-11144,圧力の石賖,Pressure Gem Ⅱ
+11141,運気の石Ⅰ,Fate Gem Ⅰ
+11142,運気の石Ⅱ,Fate Gem Ⅱ
+11143,圧力の石Ⅰ,Pressure Gem Ⅰ
+11144,圧力の石Ⅱ,Pressure Gem Ⅱ
 11145,捕獲上手の石,Capture Expert Gem
-11146,いたわりの石賖,Caring Gem Ⅱ
-11147,いたわりの石賕,Caring Gem Ⅲ
+11146,いたわりの石Ⅱ,Caring Gem Ⅱ
+11147,いたわりの石Ⅲ,Caring Gem Ⅲ
 11148,Ｇ闘覇カフＳＡ１,Combat Suprem SA1
 11149,Ｇ劇物カフＳＢ１,Drug Knowledge SB1
 11150,Ｇ剛撃カフＳＡ８,Strong Attack SA8
 11151,Ｇ一閃カフＳＡ８,Issen SA8
 11152,Ｇ痛撃カフＳＡ８,Exploit SA8
-11153,物まね指南・笛貤,Motion・HH 1
-11154,物まね指南・槍貤,Motion・Lance 1
+11153,物まね指南・笛Ⅰ,Motion・HH 1
+11154,物まね指南・槍Ⅰ,Motion・Lance 1
 11155,棘茶竜の鋭錐棘,Orange Wyvernspike
 11156,おためし小判,Trial Gacha Coin
 11157,ダミー11157,Dummy 11157
@@ -11170,8 +11170,8 @@ index,source,target
 11168,愛称命名券,Nickname Ticket
 11169,ド根性ハリセン,Personality Ticket
 11170,紫黒の原鉱,Purple Black Ore
-11171,物まね指南・双貤,Motion・DS 1
-11172,物まね指南・鎚貤,Motion・Hammer 1
+11171,物まね指南・双Ⅰ,Motion・DS 1
+11172,物まね指南・鎚Ⅰ,Motion・Hammer 1
 11173,再覚之古書,Ancient Book
 11174,カルディア生産券,Cardia Tkt
 11175,ムニミィ生産券,Munimy Tkt
@@ -11249,8 +11249,8 @@ index,source,target
 11247,変幻ダンゴ【雷】,Halk Thndr Feed
 11248,変幻ダンゴ【龍】,Halk Dragn Feed
 11249,変幻ダンゴ【氷】,Halk Ice Feed
-11250,物まね指南・弓貤,Motion・Bow 1
-11251,物まね指南・銃貤,Motion・GL 1
+11250,物まね指南・弓Ⅰ,Motion・Bow 1
+11251,物まね指南・銃Ⅰ,Motion・GL 1
 11252,パローネ織・別珍,Pallone Wve Velvet
 11253,パローネ織・更紗,Pallone Wve Calico
 11254,パローネ織・錦紗,Pallone Wve Gold
@@ -11277,16 +11277,16 @@ index,source,target
 11275,翠水竜の刃ビレ,G.Plesioth Finblade
 11276,翠水竜の凄ビレ,G.PlesiothTerribFin
 11277,翠水竜の泡玉,G.Plesi Bubble Gem
-11278,物まね指南・片貤,Gesture・SnS Ⅰ
-11279,物まね指南・刀貤,Gesture・LS Ⅰ
-11280,物まね指南・重貤,Gesture・HBG Ⅰ
+11278,物まね指南・片Ⅰ,Gesture・SnS Ⅰ
+11279,物まね指南・刀Ⅰ,Gesture・LS Ⅰ
+11280,物まね指南・重Ⅰ,Gesture・HBG Ⅰ
 11281,真魂玉Ｇ,True Soul Ball G
 11282,真魂玉,True Soul Ball
 11283,龍晶石,Dragon Crystal Gem
 11284,祭典の叙情詩,Ceremony Lyrics
 11285,蜃気楼の金剛砂,Mirage Powder
 11286,いにしえの超鉄鋼,Ancient Super Stl
-11287,感謝の証𧸐,Thank You Ⅷ
+11287,感謝の証Ⅷ,Thank You Ⅷ
 11288,アゾット生産券,Azoth Tkt
 11289,アゾット青生産券,Blue Azoth Tkt
 11290,赤槍生産券,Red Spear Tkt
@@ -11664,39 +11664,39 @@ index,source,target
 11662,太古の潤滑油,Ancient Lubricant
 11663,Ｇ変撃カフＳＡ１,Status Assault SA1
 11664,薬草学の石,Herbal Science Gem
-11665,怒の石貤,Rage Gem Ⅰ
-11666,怒の石賖,Rage Gem Ⅱ
-11667,生命力の石貤,Vitality Gem Ⅰ
-11668,生命力の石賖,Vitality Gem Ⅱ
-11669,生命力の石賕,Vitality Gem Ⅲ
-11670,反射の石貤,Reflect Gem Ⅰ
-11671,反射の石賖,Reflect Gem Ⅱ
-11672,反射の石賕,Reflect Gem Ⅲ
+11665,怒の石Ⅰ,Rage Gem Ⅰ
+11666,怒の石Ⅱ,Rage Gem Ⅱ
+11667,生命力の石Ⅰ,Vitality Gem Ⅰ
+11668,生命力の石Ⅱ,Vitality Gem Ⅱ
+11669,生命力の石Ⅲ,Vitality Gem Ⅲ
+11670,反射の石Ⅰ,Reflect Gem Ⅰ
+11671,反射の石Ⅱ,Reflect Gem Ⅱ
+11672,反射の石Ⅲ,Reflect Gem Ⅲ
 11673,巧流の石,Stylish Gem
-11674,刀匠の石貤,Edgemaster Gem Ⅰ
-11675,刀匠の石賖,Edgemaster Gem Ⅱ
-11676,刀匠の石賕,Edgemaster Gem Ⅲ
+11674,刀匠の石Ⅰ,Edgemaster Gem Ⅰ
+11675,刀匠の石Ⅱ,Edgemaster Gem Ⅱ
+11676,刀匠の石Ⅲ,Edgemaster Gem Ⅲ
 11677,射手の石,Steady Hand Gem
-11678,穏射の石貤,Gentle Shot Gem Ⅰ
-11679,穏射の石賖,Gentle Shot Gem Ⅱ
-11680,穏射の石賕,Gentle Shot Gem Ⅲ
-11681,装着の石貤,Mounting Gem Ⅰ
-11682,装着の石賖,Mounting Gem Ⅱ
-11683,装着の石賕,Mounting Gem Ⅲ
-11684,扇射の石貤,Critical Shot Gem Ⅰ
-11685,扇射の石賖,Critical Shot Gem Ⅱ
-11686,扇射の石賕,Critical Shot Gem Ⅲ
-11687,弾丸節約術の石貤,Bullet Saver Gem Ⅰ
-11688,弾丸節約術の石賖,Bullet Saver Gem Ⅱ
-11689,三界の石賖,Three Worlds Gem Ⅱ
-11690,三界の石賕,Three Worlds Gem Ⅲ
-11691,調合師の石賖,Combo Exp Gem Ⅱ
-11692,調合師の石賕,Combo Exp Gem Ⅲ
-11693,鼓舞の石貤,Encourage Gem Ⅰ
-11694,鼓舞の石賖,Encourage Gem Ⅱ
+11678,穏射の石Ⅰ,Gentle Shot Gem Ⅰ
+11679,穏射の石Ⅱ,Gentle Shot Gem Ⅱ
+11680,穏射の石Ⅲ,Gentle Shot Gem Ⅲ
+11681,装着の石Ⅰ,Mounting Gem Ⅰ
+11682,装着の石Ⅱ,Mounting Gem Ⅱ
+11683,装着の石Ⅲ,Mounting Gem Ⅲ
+11684,扇射の石Ⅰ,Critical Shot Gem Ⅰ
+11685,扇射の石Ⅱ,Critical Shot Gem Ⅱ
+11686,扇射の石Ⅲ,Critical Shot Gem Ⅲ
+11687,弾丸節約術の石Ⅰ,Bullet Saver Gem Ⅰ
+11688,弾丸節約術の石Ⅱ,Bullet Saver Gem Ⅱ
+11689,三界の石Ⅱ,Three Worlds Gem Ⅱ
+11690,三界の石Ⅲ,Three Worlds Gem Ⅲ
+11691,調合師の石Ⅱ,Combo Exp Gem Ⅱ
+11692,調合師の石Ⅲ,Combo Exp Gem Ⅲ
+11693,鼓舞の石Ⅰ,Encourage Gem Ⅰ
+11694,鼓舞の石Ⅱ,Encourage Gem Ⅱ
 11695,代償の石,Compensation Gem
-11696,炎寵の石貤,Blazing Grace Gem Ⅰ
-11697,炎寵の石賖,Blazing Grace Gem Ⅱ
+11696,炎寵の石Ⅰ,Blazing Grace Gem Ⅰ
+11697,炎寵の石Ⅱ,Blazing Grace Gem Ⅱ
 11698,回帰の知恵,NP G Finesse Mat
 11699,天技指南書・序,Tower Cost Book
 11700,太陽のくさび石,NP SnS Mat
@@ -11784,9 +11784,9 @@ index,source,target
 11782,備蓄LV2 麻痺弾,Tower Para S. Lv2
 11783,備蓄LV1 睡眠弾,Tower Sleep S. LV1
 11784,備蓄LV2 睡眠弾,Tower Sleep S. Lv2
-11785,物まね指南・弩貤,Gesture・LBG Ⅰ
-11786,物まね指南・剣貤,Gesture・GS Ⅰ
-11787,物まね指南・棍貤,Gesture・Tonfa Ⅰ
+11785,物まね指南・弩Ⅰ,Gesture・LBG Ⅰ
+11786,物まね指南・剣Ⅰ,Gesture・GS Ⅰ
+11787,物まね指南・棍Ⅰ,Gesture・Tonfa Ⅰ
 11788,怒貌竜の皮,Gasurabazura Hide
 11789,怒貌竜の鱗,Gasurabazura Scale
 11790,怒貌竜のヒレ,Gasurabazura Fin
@@ -12521,7 +12521,7 @@ index,source,target
 12519,採集のコイン６Ｇ,
 12520,採集のコイン収Ｇ,
 12521,採集のコイン穫Ｇ,
-12522,ＥＶＡ生産券賖,EVA Tkt Ⅱ
+12522,ＥＶＡ生産券Ⅱ,EVA Tkt Ⅱ
 12523,ペンネコ生産券,Pen Cat Tkt
 12524,ギルスカ生産券,
 12525,アミスタ生産券頭,Amista Tkt Head
@@ -12787,7 +12787,7 @@ index,source,target
 12785,ギラギラ石,Glitter Stone
 12786,パローニャ緑布,
 12787,アミネコ生産券胴,Amineko Tkt Torso
-12788,Ｓ−ＤＡＴ,S-DAT
+12788,Ｓ－ＤＡＴ,S-DAT
 12789,ダミー１２７８９,Dummy 12789
 12790,ダミー１２７９０,Dummy 12790
 12791,ダミー１２７９１,Dummy 12791
@@ -12803,10 +12803,10 @@ index,source,target
 12801,ダミー１２８０１,Dummy 12801
 12802,ダミー１２８０２,Dummy 12802
 12803,ダミー１２８０３,Dummy 12803
-12804,物まね指南・重賖,Gesture・HBG Ⅱ
-12805,物まね指南・銃賖,Gesture・GL Ⅱ
-12806,物まね指南・剣賖,Gesture・GS Ⅱ
-12807,物まね指南・棍賖,Gesture・Tonfa Ⅱ
+12804,物まね指南・重Ⅱ,Gesture・HBG Ⅱ
+12805,物まね指南・銃Ⅱ,Gesture・GL Ⅱ
+12806,物まね指南・剣Ⅱ,Gesture・GS Ⅱ
+12807,物まね指南・棍Ⅱ,Gesture・Tonfa Ⅱ
 12808,弩岩竜の絶殻,Odi Absolute Shl
 12809,弩岩竜の絶鱗,Odi Absolute Scale
 12810,弩岩竜の剛顎,Odi Mandible
@@ -12894,11 +12894,11 @@ index,source,target
 12892,ダミー１２８９２,Dummy 12892
 12893,一匹狼の石,Lone Wolf Gem
 12894,属撃の石,Dissolver Gem
-12895,吸血の石貤,Vampirism Gem Ⅰ
-12896,吸血の石賖,Vampirism Gem Ⅱ
+12895,吸血の石Ⅰ,Vampirism Gem Ⅰ
+12896,吸血の石Ⅱ,Vampirism Gem Ⅱ
 12897,回避距離の石,Evade Distance Gem
-12898,移動速度の石貤,Movement Speed Gem Ⅰ
-12899,移動速度の石賖,Movement Speed Gem Ⅱ
+12898,移動速度の石Ⅰ,Movement Speed Gem Ⅰ
+12899,移動速度の石Ⅱ,Movement Speed Gem Ⅱ
 12900,鋼の厚龍鱗,Kushala Dragon Scl
 12901,鋼龍の重殻,Kushala Cortex
 12902,鋼龍の剛爪,Kushala Riptalon
@@ -13178,7 +13178,7 @@ index,source,target
 13176,謎の錬金石,Lotto SAF Mat
 13177,アーベン生産券,Arbden Ticket
 13178,ケラヴノ生産券,Keravuno Ticket
-13179,感謝の証贉,Proof of Appreciation Ⅸ
+13179,感謝の証Ⅸ,Proof of Appreciation Ⅸ
 13180,アメニケＰ強化券,Windbreak P Upgrade Tkt
 13181,クローニＰ強化券,P Upgrade Tkt
 13182,鬼昂鉄,Demon Iron
@@ -13326,9 +13326,9 @@ index,source,target
 13324,輝旋の毛皮,Shining Fur
 13325,厳かな棘,Solemn Thorns
 13326,和花生産券,Waka Ticket
-13327,Ｓフレア生産券貤,S Flare Tkt Ⅰ
-13328,Ｓフレア生産券賖,S Flare Tkt Ⅱ
-13329,Ｓフレア生産券賕,S Flare Tkt Ⅲ
+13327,Ｓフレア生産券Ⅰ,S Flare Tkt Ⅰ
+13328,Ｓフレア生産券Ⅱ,S Flare Tkt Ⅱ
+13329,Ｓフレア生産券Ⅲ,S Flare Tkt Ⅲ
 13330,紅蓮獅子討伐の証,Voljang Proof
 13331,キリンの絶皮,Kirin Storm Hide
 13332,キリンの絶尾,Kirin Storm Tail
@@ -13573,24 +13573,24 @@ index,source,target
 13571,ヴァクス射珠GX4,Vakusu GN GX4
 13572,ヴァクス射珠GX5,Vakusu GN GX5
 13573,ダミー１３５７３,Dummy 13573
-13574,2016年挑戦券貤,2016 ChallengeTktⅠ
-13575,2016年挑戦券賖,2016 ChallengeTktⅡ
-13576,2016年挑戦券賕,2016 ChallengeTktⅢ
-13577,2016年挑戦券賙,2016 ChallengeTktⅣ
-13578,2016年挑戦券𧶠,2016 ChallengeTktⅤ
-13579,2016年挑戦券賰,2016 ChallengeTktⅥ
-13580,2016年解答券貤Ａ,2016 Answer TktⅠＡ
-13581,2016年解答券貤Ｂ,2016 Answer TktⅠＢ
-13582,2016年解答券賖Ａ,2016 Answer TktⅡＡ
-13583,2016年解答券賖Ｂ,2016 Answer TktⅡＢ
-13584,2016年解答券賕Ａ,2016 Answer TktⅢＡ
-13585,2016年解答券賕Ｂ,2016 Answer TktⅢＢ
-13586,2016年解答券賙Ａ,2016 Answer TktⅣＡ
-13587,2016年解答券賙Ｂ,2016 Answer TktⅣＢ
-13588,2016年解答券𧶠Ａ,2016 Answer TktⅤＡ
-13589,2016年解答券𧶠Ｂ,2016 Answer TktⅤＢ
-13590,2016年解答券賰Ａ,2016 Answer TktⅥＡ
-13591,2016年解答券賰Ｂ,2016 Answer TktⅥＢ
+13574,2016年挑戦券Ⅰ,2016 ChallengeTktⅠ
+13575,2016年挑戦券Ⅱ,2016 ChallengeTktⅡ
+13576,2016年挑戦券Ⅲ,2016 ChallengeTktⅢ
+13577,2016年挑戦券Ⅳ,2016 ChallengeTktⅣ
+13578,2016年挑戦券Ⅴ,2016 ChallengeTktⅤ
+13579,2016年挑戦券Ⅵ,2016 ChallengeTktⅥ
+13580,2016年解答券ⅠＡ,2016 Answer TktⅠＡ
+13581,2016年解答券ⅠＢ,2016 Answer TktⅠＢ
+13582,2016年解答券ⅡＡ,2016 Answer TktⅡＡ
+13583,2016年解答券ⅡＢ,2016 Answer TktⅡＢ
+13584,2016年解答券ⅢＡ,2016 Answer TktⅢＡ
+13585,2016年解答券ⅢＢ,2016 Answer TktⅢＢ
+13586,2016年解答券ⅣＡ,2016 Answer TktⅣＡ
+13587,2016年解答券ⅣＢ,2016 Answer TktⅣＢ
+13588,2016年解答券ⅤＡ,2016 Answer TktⅤＡ
+13589,2016年解答券ⅤＢ,2016 Answer TktⅤＢ
+13590,2016年解答券ⅥＡ,2016 Answer TktⅥＡ
+13591,2016年解答券ⅥＢ,2016 Answer TktⅥＢ
 13592,ダミー１３５９２,Dummy 13592
 13593,止血玉,Bleed Cure
 13594,ダミー１３５９４,Dummy 13594
@@ -14189,7 +14189,7 @@ index,source,target
 14187,シエロ生産券Ｃ,Cielo C Tkt
 14188,アイルー生産券Ｃ,Felyne C Tkt
 14189,Fate／SN生産券Ｄ,Fate/SN Tkt D
-14190,Fate賖生産券Ｄ,Fate Ⅱ Tkt D
+14190,FateⅡ生産券Ｄ,Fate Ⅱ Tkt D
 14191,アーベン生産券Ｄ,Arben D Tkt
 14192,アウラ生産券Ｄ,Aura D Tkt
 14193,クロフィ生産券Ｄ,Clofi D Tkt
@@ -14340,16 +14340,16 @@ index,source,target
 14338,巧撃の石,S. Assault Gem
 14339,纏雷の石,Thunder Clad
 14340,閃転の石,Crit Conversion Gem
-14341,剣神の石貤,Sword God Gem Ⅰ
-14342,剣神の石賖,Sword God Gem Ⅱ
-14343,一閃の石貤,Issen Gem Ⅰ
-14344,一閃の石賖,Issen Gem Ⅱ
-14345,一閃の石賕,Issen Gem Ⅲ
-14346,配達員のメモ貤,Courrier Notes Ⅰ
-14347,配達員のメモ賖,Courrier Notes Ⅱ
-14348,配達員のメモ賕,Courrier Notes Ⅲ
-14349,配達員のメモ賙,Courrier Notes Ⅳ
-14350,配達員のメモ𧶠,Courrier Notes Ⅴ
+14341,剣神の石Ⅰ,Sword God Gem Ⅰ
+14342,剣神の石Ⅱ,Sword God Gem Ⅱ
+14343,一閃の石Ⅰ,Issen Gem Ⅰ
+14344,一閃の石Ⅱ,Issen Gem Ⅱ
+14345,一閃の石Ⅲ,Issen Gem Ⅲ
+14346,配達員のメモⅠ,Courrier Notes Ⅰ
+14347,配達員のメモⅡ,Courrier Notes Ⅱ
+14348,配達員のメモⅢ,Courrier Notes Ⅲ
+14349,配達員のメモⅣ,Courrier Notes Ⅳ
+14350,配達員のメモⅤ,Courrier Notes Ⅴ
 14351,支給品の一部,
 14352,虫魂岩,Insect Soul Stone
 14353,黄金翼生産券,Golden Wings Tkt
@@ -14887,9 +14887,9 @@ index,source,target
 14885,冥雷竜の憐尾,Dora Grief Tail
 14886,冥雷竜の焼爛尾,Dora Erosion Tail
 14887,EXTELLAくじ券,EXTELLA Gacha Token
-14888,物まね指南・斧貤,Gesture・SAF Ⅰ
-14889,物まね指南・斧賖,Gesture・SAF Ⅱ
-14890,物まね指南・踊賖,Gesture・Dance Ⅱ
+14888,物まね指南・斧Ⅰ,Gesture・SAF Ⅰ
+14889,物まね指南・斧Ⅱ,Gesture・SAF Ⅱ
+14890,物まね指南・踊Ⅱ,Gesture・Dance Ⅱ
 14891,カイファ生産券,Kaifa Ticket
 14892,虹色の粉,Rainbow Powder
 14893,鬼凍鉄,Freezing Iron
@@ -14903,10 +14903,10 @@ index,source,target
 14901,恋の証,Proof of Passion
 14902,愛の証,Proof of Love
 14903,絢爛四季手箱・春,
-14904,FateAP貤生産券,Fate AP Ⅰ Tkt
-14905,FateAP賖生産券,Fate AP Ⅱ Tkt
-14906,FateAP貤生産券Ｄ,Fate AP Ⅰ Tkt D
-14907,FateAP賖生産券Ｄ,Fate AP Ⅱ Tkt D
+14904,FateAPⅠ生産券,Fate AP Ⅰ Tkt
+14905,FateAPⅡ生産券,Fate AP Ⅱ Tkt
+14906,FateAPⅠ生産券Ｄ,Fate AP Ⅰ Tkt D
+14907,FateAPⅡ生産券Ｄ,Fate AP Ⅱ Tkt D
 14908,聖女ネコ生産券,Saint Cat Tkt
 14909,燦然と輝く生産券,Glittering Tkt
 14910,幻想大剣生産券,Fantasy GS Tkt
@@ -15026,9 +15026,9 @@ index,source,target
 15024,ゴールデン生産券,Golden Tkt
 15025,アウナス鎌生産券,
 15026,竜鱗の剣生産券,Drgn Scl Sword Tkt
-15027,サガ賖生産券,Saga II Ticket
-15028,サガ賖生産券Ｄ,Saga II D Ticket
-15029,サガ賖くじ券,Saga II Gacha Token
+15027,サガⅡ生産券,Saga II Ticket
+15028,サガⅡ生産券Ｄ,Saga II D Ticket
+15029,サガⅡくじ券,Saga II Gacha Token
 15030,サイネ生産券,Saine Ticket
 15031,サイネ生産券Ｄ,Saine D Tkt
 15032,煉緋解放券Ｄ,Nerihi D Tkt
@@ -15044,7 +15044,7 @@ index,source,target
 15042,ポルタカシワ,
 15043,極上の柏葉,
 15044,ポルタアンコ,Porta Anko
-15045,感謝の証贎,Thank You Ⅹ
+15045,感謝の証Ⅹ,Thank You Ⅹ
 15046,千刃竜の鋭刃鱗,Seregios Slavescale
 15047,千刃竜の飛刃,Seregios Airblade
 15048,千刃竜の刻爪,Seregios Carver
@@ -15211,10 +15211,10 @@ index,source,target
 15209,デストラ生産券,Desutora Tkt
 15210,デストラ生産券Ｄ,Desutora D Tkt
 15211,華燭解放券Ｄ,Kashoku D Tkt
-15212,物まね指南・座貤,Gesture・Sit Ⅰ
-15213,物まね指南・踊賕,Gesture・Dance Ⅲ
-15214,物まね指南・踊賙,Gesture・Dance Ⅳ
-15215,物まね指南・踊𧶠,Gesture・Dance Ⅴ
+15212,物まね指南・座Ⅰ,Gesture・Sit Ⅰ
+15213,物まね指南・踊Ⅲ,Gesture・Dance Ⅲ
+15214,物まね指南・踊Ⅳ,Gesture・Dance Ⅳ
+15215,物まね指南・踊Ⅴ,Gesture・Dance Ⅴ
 15216,物まね指南・感謝,Gesture・Thanks
 15217,奇面族の毒塊,Shaka Poison Lump
 15218,奇面族の強毒塊,Shaka Venom Lump
@@ -16360,8 +16360,8 @@ index,source,target
 16358,オトノ解放券Ｄ,Otono D Tkt
 16359,ホープ解放券Ｄ,Hope D Tkt
 16360,物まね指南・話す,Gesture・Speak
-16361,物まね指南・踊賰,Gesture・Dance Ⅵ
-16362,物まね指南・踊賱,Gesture・Dance Ⅶ
+16361,物まね指南・踊Ⅵ,Gesture・Dance Ⅵ
+16362,物まね指南・踊Ⅶ,Gesture・Dance Ⅶ
 16363,魂の塊【剣聖】,SnS Soul Mass
 16364,綬の塊【剣聖】,SnS Ribbon Mass
 16365,勲の塊【剣聖】,SnS Merit Mass
