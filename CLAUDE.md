@@ -24,10 +24,9 @@ Rules when writing to these files:
   colour spans. Do *not* enforce marker-for-marker parity with the source —
   Japanese terminates colour spans implicitly, so French often needs an
   explicit `{/c}` the source does not have.
-- **Line endings are mixed**: a minority of the CSVs are CRLF, the rest LF.
-  Python `csv.writer` emits `\r\n` by default, which silently rewrites a whole
-  file and buries the real change in a full-file diff. Always detect the
-  file's existing ending and pass `lineterminator=` to match.
+- **Line endings are LF everywhere**, enforced by `.gitattributes`. Python's
+  `csv.writer` emits `\r\n` by default, which rewrites a whole file and buries
+  the real change in a full-file diff, so always pass `lineterminator="\n"`.
 - An empty `target` means untranslated. Never copy `source` into `target`.
 - Run `python scripts/validate.py` before committing.
 

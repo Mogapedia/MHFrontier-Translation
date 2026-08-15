@@ -1,0 +1,14 @@
+# Translation CSVs must stay LF in the working tree on every platform.
+#
+# These files are edited by scripts as often as by hand, and Python's
+# csv.writer emits CRLF unless told otherwise. When a file's endings did not
+# match what a script wrote, the whole file was rewritten and the real change
+# vanished into a full-file diff. Normalising here makes that class of noise
+# impossible rather than something each script has to remember.
+#
+# `-text` is deliberate: it disables git's own eol conversion, so a Windows
+# checkout also gets LF and cannot silently reintroduce CRLF on commit.
+*.csv   -text
+*.py    -text
+*.md    -text
+*.json  -text
