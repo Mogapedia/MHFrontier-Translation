@@ -66,7 +66,56 @@ scripts/
   migrate_to_index.py      ← one-shot: rewrite legacy location-keyed CSVs as index-keyed
   migrate_join_markers.py  ← one-shot: rewrite <join at="…"> → {j} for FTH 1.6.0
   build_bins.py            ← apply translations and produce game-ready binaries
+  armor_names.py           ← deterministic FR armour-name generator
+  resolve_series.py        ← fill the armour series-stem table
+  kana.py                  ← katakana → Latin transliteration (etymology restoration)
+docs/
+  armor_vocab.fr.json      ← closed vocabularies: slots (+gender), colours, tiers
+  armor_series.fr.csv      ← series stem → FR, with `origin` trust level
 ```
+
+## Armour names are generated, not translated
+
+Armour names are compositional:
+
+```
+SERIES [TIER] SLOT [・COLOUR]              シャランＦヘッド・青
+SERIES・SLOT_KANJI：CLASS [TIER] COLOUR     赤原礼装・頭：剣HS赤
+```
+
+77% of the 67,724 armour name rows parse against that grammar. Everything
+except the series stem is a **closed vocabulary** — 24 slot nouns, 16
+colours, 29 tier markers — so those rows need no translation and no review
+queue: `scripts/armor_names.py` renders them, applying French adjective
+agreement from the gender/number recorded per slot in
+`docs/armor_vocab.fr.json` (`Heaume … cramoisi` vs `Casquette … cramoisie`).
+
+Series stems are proper nouns and are **restored, not translated**.
+`resolve_series.py` fills them from four sources and records which one won
+in the `origin` column:
+
+| origin | trust | meaning |
+|---|---|---|
+| `hand` | shipped | a human wrote it |
+| `monster` | shipped | matched `docs/monster_names.fr.csv` |
+| `etymology` | shipped | hand-confirmed original spelling (ステノ → Stheno) |
+| `en-patch` | shipped | reused the English patch's romanisation |
+| `romaji` | **not shipped** | `kana.py` proposal; kana loses vowel quality (スリート is *Sleet*, not *Slit*) |
+
+`--apply` only writes stems in the shipped set; pass `--include-romaji` to
+override. Hand edits to `fr` are never overwritten, and `--apply` never
+touches a row that already has a target.
+
+```bash
+python scripts/armor_names.py --report        # coverage + width check
+python scripts/armor_names.py --emit-series   # refresh the stem table
+python scripts/resolve_series.py              # fill stems, print trust breakdown
+python scripts/armor_names.py --apply         # write targets
+```
+
+**Known gap**: `en-patch` stems are English (ギルドガード → `Guild`). They are
+correct as identifiers but not yet francised; that pass is done by editing
+the `fr` column of `docs/armor_series.fr.csv`.
 
 ## Known data quality issues
 

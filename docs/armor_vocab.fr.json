@@ -1,0 +1,297 @@
+{
+  "_comment": [
+    "Closed vocabularies for scripts/armor_names.py.",
+    "slots: fr = French noun, g = grammatical gender (m/f), n = number (s/p).",
+    "  Gender and number drive colour-adjective agreement, so they must be right.",
+    "colours: the four agreement forms (ms/fs/mp/fp). Invariable adjectives",
+    "  (azur, orange, rose, emeraude, jade) simply repeat the same form.",
+    "tiers: upgrade-stage codes. HS = 狩護 (premium armour), GS/GP = G級狩護.",
+    "  Kept as opaque codes pending a decision on how to render 狩護 in French;",
+    "  changing the value here changes all ~18000 affected names at once.",
+    "classes: weapon-class marker after the colon (EN patch uses BM/GN)."
+  ],
+  "slots": {
+    "ヘルム": {
+      "fr": "Heaume",
+      "g": "m",
+      "n": "s"
+    },
+    "キャップ": {
+      "fr": "Casquette",
+      "g": "f",
+      "n": "s"
+    },
+    "ヘッド": {
+      "fr": "Coiffe",
+      "g": "f",
+      "n": "s"
+    },
+    "マスク": {
+      "fr": "Masque",
+      "g": "m",
+      "n": "s"
+    },
+    "ハット": {
+      "fr": "Chapeau",
+      "g": "m",
+      "n": "s"
+    },
+    "バンド": {
+      "fr": "Bandeau",
+      "g": "m",
+      "n": "s"
+    },
+    "ピアス": {
+      "fr": "Piercing",
+      "g": "m",
+      "n": "s"
+    },
+    "ハール": {
+      "fr": "Chevelure",
+      "g": "f",
+      "n": "s"
+    },
+    "メイル": {
+      "fr": "Cotte",
+      "g": "f",
+      "n": "s"
+    },
+    "スーツ": {
+      "fr": "Combinaison",
+      "g": "f",
+      "n": "s"
+    },
+    "ベスト": {
+      "fr": "Gilet",
+      "g": "m",
+      "n": "s"
+    },
+    "レジスト": {
+      "fr": "Veste",
+      "g": "f",
+      "n": "s"
+    },
+    "アーム": {
+      "fr": "Brassards",
+      "g": "m",
+      "n": "p"
+    },
+    "ガード": {
+      "fr": "Gardes",
+      "g": "f",
+      "n": "p"
+    },
+    "篭手": {
+      "fr": "Kote",
+      "g": "m",
+      "n": "s"
+    },
+    "コイル": {
+      "fr": "Ceinturon",
+      "g": "m",
+      "n": "s"
+    },
+    "コート": {
+      "fr": "Manteau",
+      "g": "m",
+      "n": "s"
+    },
+    "フォールド": {
+      "fr": "Tassettes",
+      "g": "f",
+      "n": "p"
+    },
+    "ウエスト": {
+      "fr": "Taille",
+      "g": "f",
+      "n": "s"
+    },
+    "ベルト": {
+      "fr": "Ceinture",
+      "g": "f",
+      "n": "s"
+    },
+    "グリーヴ": {
+      "fr": "Grèves",
+      "g": "f",
+      "n": "p"
+    },
+    "レギンス": {
+      "fr": "Jambières",
+      "g": "f",
+      "n": "p"
+    },
+    "ブーツ": {
+      "fr": "Bottes",
+      "g": "f",
+      "n": "p"
+    },
+    "フット": {
+      "fr": "Chausses",
+      "g": "f",
+      "n": "p"
+    }
+  },
+  "kanji_slots": {
+    "頭": {
+      "fr": "Tête",
+      "g": "f",
+      "n": "s"
+    },
+    "胴": {
+      "fr": "Torse",
+      "g": "m",
+      "n": "s"
+    },
+    "腕": {
+      "fr": "Bras",
+      "g": "m",
+      "n": "p"
+    },
+    "腰": {
+      "fr": "Taille",
+      "g": "f",
+      "n": "s"
+    },
+    "脚": {
+      "fr": "Jambes",
+      "g": "f",
+      "n": "p"
+    }
+  },
+  "colours": {
+    "青": {
+      "ms": "bleu",
+      "fs": "bleue",
+      "mp": "bleus",
+      "fp": "bleues"
+    },
+    "赤": {
+      "ms": "rouge",
+      "fs": "rouge",
+      "mp": "rouges",
+      "fp": "rouges"
+    },
+    "白": {
+      "ms": "blanc",
+      "fs": "blanche",
+      "mp": "blancs",
+      "fp": "blanches"
+    },
+    "黒": {
+      "ms": "noir",
+      "fs": "noire",
+      "mp": "noirs",
+      "fp": "noires"
+    },
+    "緑": {
+      "ms": "vert",
+      "fs": "verte",
+      "mp": "verts",
+      "fp": "vertes"
+    },
+    "紫": {
+      "ms": "violet",
+      "fs": "violette",
+      "mp": "violets",
+      "fp": "violettes"
+    },
+    "黄": {
+      "ms": "jaune",
+      "fs": "jaune",
+      "mp": "jaunes",
+      "fp": "jaunes"
+    },
+    "紅": {
+      "ms": "cramoisi",
+      "fs": "cramoisie",
+      "mp": "cramoisis",
+      "fp": "cramoisies"
+    },
+    "金": {
+      "ms": "doré",
+      "fs": "dorée",
+      "mp": "dorés",
+      "fp": "dorées"
+    },
+    "茶": {
+      "ms": "brun",
+      "fs": "brune",
+      "mp": "bruns",
+      "fp": "brunes"
+    },
+    "蒼": {
+      "ms": "azur",
+      "fs": "azur",
+      "mp": "azur",
+      "fp": "azur"
+    },
+    "橙": {
+      "ms": "orange",
+      "fs": "orange",
+      "mp": "orange",
+      "fp": "orange"
+    },
+    "銀": {
+      "ms": "argenté",
+      "fs": "argentée",
+      "mp": "argentés",
+      "fp": "argentées"
+    },
+    "桃": {
+      "ms": "rose",
+      "fs": "rose",
+      "mp": "roses",
+      "fp": "roses"
+    },
+    "碧": {
+      "ms": "émeraude",
+      "fs": "émeraude",
+      "mp": "émeraude",
+      "fp": "émeraude"
+    },
+    "翠": {
+      "ms": "jade",
+      "fs": "jade",
+      "mp": "jade",
+      "fp": "jade"
+    }
+  },
+  "tiers": {
+    "Ｆ": "F",
+    "F": "F",
+    "ＦＺ": "FZ",
+    "FZ": "FZ",
+    "ＨＣ": "HC",
+    "HC": "HC",
+    "ＨＳ": "HS",
+    "HS": "HS",
+    "ＧＳ": "GS",
+    "GS": "GS",
+    "ＧＰ": "GP",
+    "GP": "GP",
+    "Ｚ": "Z",
+    "Ｄ": "D",
+    "D": "D",
+    "ZP": "ZP",
+    "ＺＰ": "ZP",
+    "Ｇ": "G",
+    "G": "G",
+    "GX": "GX",
+    "ＧＸ": "GX",
+    "Ｒ": "R",
+    "R": "R",
+    "FY": "FY",
+    "Ｌ": "L",
+    "L": "L",
+    "FX": "FX",
+    "Ｓ": "S",
+    "S": "S"
+  },
+  "classes": {
+    "剣": "Lame",
+    "弓": "Arc",
+    "銃": "Fusil",
+    "打": "Frappe"
+  }
+}
