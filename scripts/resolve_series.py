@@ -78,7 +78,62 @@ ETYMOLOGY = {
     "カエシス": "Cayssis", "アクラ": "Akura",
 }
 
+# The English patch renders loanword stems back into English. Those are
+# borrowings, not proper nouns, so French output should carry French words:
+# フレイム is "flame", and a French player should read Flamme.
+#
+# Only unambiguous loanwords are listed. Stems whose English happens to be a
+# dictionary word but is really a name (ノエル Noel, フィーネ Fine, ボニト
+# Bonito) are deliberately absent and keep their English form.
+FRANCISATION = {
+    "シャドウ": "Ombre", "ワイルド": "Sauvage", "フレイム": "Flamme",
+    "フラウア": "Fleur", "フィアラル": "Féral", "エンプレス": "Impératrice",
+    "ボーン": "Os", "プロミス": "Promesse", "バトル": "Bataille",
+    "マーブル": "Marbre", "キャリッジ": "Carrosse", "ホープ": "Espoir",
+    "ギルドガード": "Guilde", "ギルドバード": "Guilde", "ギルドナイト": "Guilde",
+    "ヴェノム": "Venin", "ヘマタイト": "Hématite", "プランダ": "Pillard",
+    "ブラッド": "Sang", "ハーヴェスト": "Moisson", "トルペド": "Torpille",
+    "トランス": "Transe", "トラッカー": "Traqueur", "トパーズ": "Topaze",
+    "デゼール": "Désert", "チェイサー": "Poursuivant", "サファイア": "Saphir",
+    "コーラル": "Corail", "コムラド": "Camarade", "ガーネット": "Grenat",
+    "アメジスト": "Améthyste", "ナイト": "Chevalier", "レザーライト": "Cuir",
+    "ルーキー": "Recrue", "セイラー": "Matelot", "ガーディアン": "Gardien",
+    "ベクター": "Vecteur", "スティール": "Acier", "プレデタ": "Prédateur",
+    "ギア": "Engrenage", "アービター": "Arbitre", "スカラー": "Érudit",
+    "エンブレイス": "Étreinte", "ヒーラー": "Guérisseur",
+    "テンペスト": "Tempête", "エアリアル": "Aérien", "セフティ": "Sûreté",
+    "ヘルパー": "Assistant", "ストレングス": "Force", "メイド": "Soubrette",
+    "プレート": "Plaque", "ハイド": "Peau", "トリビュート": "Tribut",
+    "スカイ": "Ciel", "アイアン": "Fer", "マリジュ": "Mariage",
+    "ウイング": "Aile", "アメショ": "Tigré", "リエット": "Émeute",
+    "ホワイトメタル": "Métal blanc", "ピンクメタル": "Métal rose",
+    "シルバーメタル": "Métal argenté",
+    # Common nouns that etymology restoration resolves to an English word.
+    # Restoring the etymology tells us what the word *is*; the French build
+    # should still show the French one.
+    "スリート": "Grésil", "クロース": "Étoffe", "ダスク": "Crépuscule",
+    "アッシュ": "Cendre", "ゲノム": "Génome", "ブリス": "Félicité",
+    "ランページ": "Déchaînement", "ブレイズ": "Brasier", "レディ": "Dame",
+    "ブライト": "Éclat", "テンペスト": "Tempête", "カオス": "Chaos",
+    "デモン": "Démon", "レイジ": "Rage",
+}
+
 KATAKANA = re.compile(r"^[ァ-ヶー・]+$")
+CJK = re.compile(r"[぀-ヿ一-鿿]")
+
+
+def load_english_words():
+    """Lowercase English headwords, used to spot bad en-patch values."""
+    words = set()
+    for path in ("/usr/share/hunspell/en_US.dic", "/usr/share/dict/words"):
+        if os.path.exists(path):
+            with open(path, encoding="utf-8", errors="ignore") as f:
+                for line in f:
+                    w = line.split("/")[0].strip()
+                    if w and w.islower() and w.isalpha():
+                        words.add(w)
+            break
+    return words
 
 
 def load_monsters():
@@ -112,6 +167,7 @@ def main():
     args = ap.parse_args()
 
     monsters = load_monsters()
+    english = load_english_words()
     en_hints = {}
     if args.en_hints and os.path.exists(args.en_hints):
         import json
@@ -138,10 +194,20 @@ def main():
         fr, origin = None, None
         if jp in monsters:
             fr, origin = monsters[jp], "monster"
+        elif jp in FRANCISATION:
+            fr, origin = FRANCISATION[jp], "francised"
         elif jp in ETYMOLOGY:
             fr, origin = ETYMOLOGY[jp], "etymology"
         elif en_hints.get(jp):
-            fr, origin = en_hints[jp][0], "en-patch"
+            cand = en_hints[jp][0]
+            # A CJK stem whose English value is an ordinary dictionary word is
+            # a partial romanisation, not a name (蒼ノ剣雄 -> "Sword"). Shipping
+            # it would put stray English in the French build, so it goes to a
+            # human instead.
+            if CJK.search(jp) and cand.lower() in english:
+                origin = "unresolved"
+            else:
+                fr, origin = cand, "en-patch"
         elif KATAKANA.match(jp):
             fr, origin = restore(jp), "romaji"
         else:
@@ -162,11 +228,13 @@ def main():
     total_rows = sum(int(r["occurrences"]) for r in rows)
     print(f"{len(rows)} series stems, {total_rows} armour name rows\n")
     print(f"{'origin':12s} {'stems':>7s} {'rows':>8s}   {'% rows':>7s}")
-    for o in ["hand", "monster", "etymology", "en-patch", "romaji", "unresolved"]:
+    for o in ["hand", "monster", "etymology", "francised", "en-patch",
+              "romaji", "unresolved"]:
         if origins[o]:
             print(f"{o:12s} {origins[o]:7d} {rows_by_origin[o]:8d}   "
                   f"{100.0*rows_by_origin[o]/total_rows:6.1f}%")
-    shippable = sum(rows_by_origin[o] for o in ["hand", "monster", "etymology", "en-patch"])
+    shippable = sum(rows_by_origin[o] for o in
+                    ["hand", "monster", "etymology", "francised", "en-patch"])
     print(f"\nshippable without review: {shippable} rows "
           f"({100.0*shippable/total_rows:.1f}% of parsed armour names)")
 

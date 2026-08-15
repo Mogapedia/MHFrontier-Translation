@@ -98,13 +98,26 @@ in the `origin` column:
 |---|---|---|
 | `hand` | shipped | a human wrote it |
 | `monster` | shipped | matched `docs/monster_names.fr.csv` |
+| `francised` | shipped | an English loanword rendered in French (フレイム → Flamme) |
 | `etymology` | shipped | hand-confirmed original spelling (ステノ → Stheno) |
 | `en-patch` | shipped | reused the English patch's romanisation |
 | `romaji` | **not shipped** | `kana.py` proposal; kana loses vowel quality (スリート is *Sleet*, not *Slit*) |
+| `unresolved` | **not shipped** | needs a human |
 
 `--apply` only writes stems in the shipped set; pass `--include-romaji` to
 override. Hand edits to `fr` are never overwritten, and `--apply` never
 touches a row that already has a target.
+
+`francised` is checked **before** `etymology`, so that whether a stem comes
+out French does not depend on which table happened to contain it. Etymology
+restoration tells us what a stem *is* (スリート is *sleet*); francisation
+decides what the French build *shows* (Grésil). Stems whose English is a
+name rather than a common noun — Noel, Fine, Bonito — are deliberately left
+alone.
+
+A CJK stem whose en-patch value is an ordinary English dictionary word is a
+partial romanisation, not a name (蒼ノ剣雄 → "Sword"), so it is forced to
+`unresolved` rather than shipped.
 
 ```bash
 python scripts/armor_names.py --report        # coverage + width check
@@ -113,9 +126,10 @@ python scripts/resolve_series.py              # fill stems, print trust breakdow
 python scripts/armor_names.py --apply         # write targets
 ```
 
-**Known gap**: `en-patch` stems are English (ギルドガード → `Guild`). They are
-correct as identifiers but not yet francised; that pass is done by editing
-the `fr` column of `docs/armor_series.fr.csv`.
+**Remaining English**: seven name-like stems still render in English —
+Real, Gold, Barney, Pyx, Wither, Truss, Core. They are left as names rather
+than guessed at; add them to `FRANCISATION` in `resolve_series.py` if they
+turn out to be common nouns.
 
 ## Known data quality issues
 

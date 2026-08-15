@@ -51,7 +51,7 @@ def load_vocab():
 # Stem origins trusted enough to ship without human review. `romaji` is
 # excluded: kana transliteration loses vowel quality, so those stems are
 # proposals for a reviewer, not output.
-TRUSTED_ORIGINS = {"hand", "monster", "etymology", "en-patch"}
+TRUSTED_ORIGINS = {"hand", "monster", "etymology", "francised", "en-patch"}
 
 
 def load_series(include_romaji=False):
