@@ -2,51 +2,75 @@ index,source,target
 0,ダミー,
 1,"あらゆるアクションによる
 斬れ味の減少を無効化します。
-また、斬れ味レベル+1の効果が発動します。",
+また、斬れ味レベル+1の効果が発動します。","Sharpness consumption is disabled.
+It gives you ""Sharpness +1""."
 2,"ボウガンの「反動値」と
-「装填速度値」を低下させます。",
+「装填速度値」を低下させます。","Reduce the ""Recoil"" and ""Reload"" duration
+for bowguns and bow."
 3,"斬属性以外の攻撃でも
-モンスターの尻尾を切断できるようになります。",
+モンスターの尻尾を切断できるようになります。","You can now cut a tail with
+every weapon."
 4,"体力ゲージの赤い部分以外も自動的に回復します。
 火事場力発動中は一定値以上の体力が必要です。
-また、スタミナの回復速度が上昇します。",
+また、スタミナの回復速度が上昇します。","Your health bar regenerates in any circumstance.
+You must have a certain amount of endurance.
+Your endurance regenerates faster."
 5,"秘伝書の「地ノ型」を装備している場合、
 モンスターに攻撃を当てた際、
-モンスターをより怯ませやすくなります。",
+モンスターをより怯ませやすくなります。","When you're using Earth Style,
+monsters flinch more easily."
 6,"秘伝書の「天ノ型」を装備している場合、
 モンスターに攻撃を当てた際、
-モンスターをより怯ませやすくなります。",
+モンスターをより怯ませやすくなります。","When you're using Heaven Style,
+monsters flinch more easily."
 7,"秘伝書の「嵐ノ型」を装備している場合、
 モンスターに攻撃を当てた際、
-モンスターをより怯ませやすくなります。",
+モンスターをより怯ませやすくなります。","When you're using Storm Style,
+monsters flinch more easily."
 8,"斬属性の武器で攻撃した時、
 ダメージがより通りやすくなります。
-ただし、属性ダメージは変化しません。",
+ただし、属性ダメージは変化しません。","When you're using a cutting attack,
+HZV is increased.
+Elemental damages are not affected."
 9,"打属性の武器で攻撃した時、
 ダメージがより通りやすくなります。
-ただし、属性ダメージは変化しません。",
+ただし、属性ダメージは変化しません。","When you're using an Impact attack,
+HZV is increased.
+Elemental damages are not affected."
 10,"弾属性の武器で攻撃した時、
 ダメージがより通りやすくなります。
-ただし、属性ダメージは変化しません。",
+ただし、属性ダメージは変化しません。","When you're using bullets,
+HZV is increased.
+Elemental damages are not affected."
 11,"モンスターが状態異常にかかった際の
-持続時間が長くなります。",
-12,モンスターが状態異常にかかりやすくなります。,
+持続時間が長くなります。",Status duration is increased.
+12,モンスターが状態異常にかかりやすくなります。,Status effect chance is increased.
 13,"肉質が一定値以上の部位に攻撃した時、
 対象部位へのダメージが上昇します。
-ただし、属性ダメージは変化しません。",
-14,モンスターへの属性ダメージが増加します。,
+ただし、属性ダメージは変化しません。","When you attack a monster part,
+once it reaches a certain value,
+the damage is improved.
+Elemental damage is not improved."
+14,モンスターへの属性ダメージが増加します。,Increase elemental damages.
 15,"モンスターが戦闘状態の間、そのモンスターは
 別のエリアに移動しなくなります。
-瀕死状態や特定のモンスターには無効です。",
+瀕死状態や特定のモンスターには無効です。","While in combat, the monster
+cannot leave the area.
+Ineffective against weakened monsters or certain monster types."
 16,"ギルド貢献ポイントと交換できる
-アイテムやスキルの品揃えが豊富になります。",
+アイテムやスキルの品揃えが豊富になります。","A wider selection of items and
+skills are available
+in exchange for GCP."
 17,"クエストに参加しているプレイヤーキャラクター
-の人数に応じて、攻撃力が上昇します。",
-18,様々な保護系の効果が発動します。,
-19,武器の会心率が上がります。,
-20,火属性への耐性が上がります。,
-21,水属性への耐性が上がります。,
-22,氷属性への耐性が上がります。,
-23,雷属性への耐性が上がります。,
-24,龍属性への耐性が上がります。,
-25,すべての属性への耐性が上がります。,
+の人数に応じて、攻撃力が上昇します。","Improves the attack based on the number of
+players participating in the quest."
+18,様々な保護系の効果が発動します。,"Diva's Blessing gives you
+a chance to avoid taking
+damage."
+19,武器の会心率が上がります。,Affinity has been increased.
+20,火属性への耐性が上がります。,Fire Resistance has been increased.
+21,水属性への耐性が上がります。,Water Resistance has been increased.
+22,氷属性への耐性が上がります。,Ice Resistance has been increased.
+23,雷属性への耐性が上がります。,Thunder Resistance has been increased.
+24,龍属性への耐性が上がります。,Dragon Resistance has been increased.
+25,すべての属性への耐性が上がります。,All Resistances have been increased.
