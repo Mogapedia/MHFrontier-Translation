@@ -746,3 +746,9 @@ dat/equipment/description,64713,平和を守りし遠国の騎士団に{j}受け
 dat/equipment/description,64714,天廊にて発見された古代人の{j}技術を利用し造りあげた{j}脚防具。{c19}≪天廊防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪狩護防具≫{/c}
 dat/equipment/description,64715,天廊にて発見された古代人の{j}技術を利用し造りあげた{j}脚防具。{c19}≪天廊防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
 dat/equipment/description,64716,天廊にて発見された古代人の{j}技術を利用し造りあげた{j}脚防具。{c19}≪天廊防具≫{/c},EVAと呼ばれる異世界の{j}人型兵器を模した脚防具。{j}{c11}≪Ｇ級狩護≫{/c}
+dat/armors/head,1463,ダミー,Dummy
+dat/armors/body,235,ダミー,Dummy
+dat/armors/body,342,ダミー,Dummy
+dat/armors/body,1227,ダミー,Dummy
+dat/armors/waist,337,ダミー,Dummy
+dat/armors/legs,340,ダミー,Dummy

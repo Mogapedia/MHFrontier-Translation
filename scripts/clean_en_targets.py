@@ -57,6 +57,33 @@ HAN = re.compile(r"[一-鿿]")
 COLOUR = re.compile(r"\{/?c\d*\}")
 PLACEHOLDER = {"", "0", "ダミー"}
 
+# Name sections are not prose: the strings are too short to share a {j}
+# segment, so the prose rule below cannot judge them. They get their own.
+NAME_SECTIONS = {
+    "dat/armors/head", "dat/armors/body", "dat/armors/arms",
+    "dat/armors/waist", "dat/armors/legs",
+    "dat/weapons/melee/name", "dat/weapons/ranged/name",
+}
+
+# The source column was decoded with the wrong Shift-JIS variant: CP932 maps
+# 0x8754-0x875D to Ⅰ-Ⅹ, another table maps them to these rare kanji. The
+# English column kept the right character, so normalise before comparing or
+# every numbered weapon looks like a mismatch.
+MOJIBAKE = {"貤": "Ⅰ", "賖": "Ⅱ", "賕": "Ⅲ", "賙": "Ⅳ",
+            "\U00027DA0": "Ⅴ", "賰": "Ⅵ"}
+HEX_ID = re.compile(r"^[0-9A-Fa-f]{4}・")
+
+# Kana, han and the bracket forms — but NOT ・ (U+30FB) or ー (U+30FC), which
+# sit inside the kana block yet are used as separators in finished English
+# names ("Steel Bow・Armor Piercer").
+CJK_CHAR = re.compile(r"[぀-ゟ゠-ヺ一-鿿：【】]")
+
+
+def demojibake(s):
+    for bad, good in MOJIBAKE.items():
+        s = s.replace(bad, good)
+    return s
+
 
 def has_cjk(s):
     return bool(KANA.search(s) or HAN.search(s))
@@ -67,8 +94,40 @@ def segments(s):
     return [x.strip() for x in re.split(r"\{j\}|\n", COLOUR.sub("", s)) if x.strip()]
 
 
-def classify(source, target):
+def classify_name(source, target):
+    """Judge a name row. Names have no {j} segments, so overlap cannot help.
+
+    A name is translated piece by piece — 真空Ｆ鉢巻・黒 becomes
+    "True 空F Hachimaki・Black" long before every kanji is gone. That is a
+    real, correctly-keyed translation in progress and must survive. What
+    distinguishes it from displaced text is that the kanji still showing are
+    a subset of the ones in its own source; a name belonging to another row
+    brings in characters this source never had.
+    """
+    src = demojibake(source.strip())
+    tgt = demojibake(target.strip())
+
+    if src in PLACEHOLDER:
+        return False, "source is a placeholder"
+    if tgt == src:
+        return False, "target copies source"
+    stripped = HEX_ID.sub("", tgt)
+    if stripped == src:
+        # "5317・ロジアルメント": the row index in little-endian hex glued to
+        # the untranslated name. A marker for the translator, not English.
+        return False, "index prefix on an untranslated name"
+    if not CJK_CHAR.search(tgt):
+        return True, "english"
+    if set(CJK_CHAR.findall(tgt)) <= set(CJK_CHAR.findall(src)):
+        return True, "partial romanisation"
+    return False, "displaced text"
+
+
+def classify(source, target, section=None):
     """Return (keep, reason). Only called for non-empty targets."""
+    if section in NAME_SECTIONS:
+        return classify_name(source, target)
+
     src = source.strip()
     tgt = target.strip()
 
@@ -89,11 +148,14 @@ def classify(source, target):
     return False, "displaced text"
 
 
-def process(path):
+def process(path, section=None):
     with open(path, encoding="utf-8", newline="") as f:
         raw = f.read()
     crlf = "\r\n" in raw
     rows = list(csv.DictReader(raw.splitlines(True)))
+    if section is None:
+        section = os.path.relpath(
+            path, os.path.join(HERE, "translations", "en")).replace(os.sep, "/")[:-4]
 
     stats = {}
     for r in rows:
@@ -101,7 +163,7 @@ def process(path):
         if not t:
             stats["empty"] = stats.get("empty", 0) + 1
             continue
-        keep, reason = classify(r["source"] or "", r["target"] or "")
+        keep, reason = classify(r["source"] or "", r["target"] or "", section)
         key = ("keep: " if keep else "blank: ") + reason
         stats[key] = stats.get(key, 0) + 1
         if not keep:

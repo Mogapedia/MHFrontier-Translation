@@ -339,8 +339,8 @@ index,source,target
 337,コムラダブーツ【青】,Comrada Boots 【 Blue 】
 338,コムラダブーツ【緑】,Comrada Boots 【 Green 】
 339,コムラダブーツ【橙】,Comrada Boots 【 Orange 】
-340,ダミー,Dummy
-341,ダミー,護靈者靴GS
+340,ダミー,
+341,ダミー,
 342,エスピナフェルゼ,Espinas Heel
 343,エスピナアヴィレ,Espinas March
 344,エスピナＦフェルゼ,Espinas F Heel
@@ -671,7 +671,7 @@ index,source,target
 669,鬼神ノ足枷,Demon Lord ノ足枷
 670,ラスタ教官脚,Rasta 教官 Foot
 671,童子ノ足枷,
-672,ダミー,護靈者靴GP
+672,ダミー,
 673,イクスフット・白,Ex Feet・White
 674,イクスＦフット・白,Ex F Feet・White
 675,イクスブーツ・白,Ex Boots・White
@@ -1192,36 +1192,36 @@ index,source,target
 1190,アクラFXレギンス紅,Vashimu FX Leggings Crimson
 1191,アスールＦグリーヴ,Azul F Greaves
 1192,アスールＦレギンス,Azul F Leggings
-1193,ダミー,護靈者靴ZP
-1194,ダミー,護靈者絲襪GS
-1195,ダミー,護靈者絲襪GP
-1196,ダミー,護靈者絲襪ZP
-1197,ダミー,兵士護腿GS
-1198,ダミー,兵士護腿GP
-1199,ダミー,兵士護腿ZP
-1200,ダミー,兵士吊帶襪GS
-1201,ダミー,兵士吊帶襪GP
-1202,ダミー,兵士吊帶襪ZP
-1203,ダミー,野蠻護腿GS
-1204,ダミー,野蠻護腿GP
-1205,ダミー,野蠻護腿ZP
-1206,ダミー,野蠻脛甲GS
-1207,ダミー,野蠻脛甲GP
-1208,ダミー,野蠻脛甲ZP
-1209,ダミー,晴雲脛甲GS
-1210,ダミー,晴雲脛甲GP
-1211,ダミー,晴雲脛甲ZP
-1212,ダミー,晴雲護腿GS
-1213,ダミー,晴雲護腿GP
-1214,ダミー,晴雲護腿ZP
-1215,ダミー,失落狂脛GS
-1216,ダミー,失落狂脛GP
-1217,ダミー,失落狂脛ZP
-1218,ダミー,失落猛脛GS
-1219,ダミー,失落猛脛GP
-1220,ダミー,失落猛脛ZP
-1221,ダミー,護靈者D靴
-1222,ダミー,兵士D護腿
+1193,ダミー,
+1194,ダミー,
+1195,ダミー,
+1196,ダミー,
+1197,ダミー,
+1198,ダミー,
+1199,ダミー,
+1200,ダミー,
+1201,ダミー,
+1202,ダミー,
+1203,ダミー,
+1204,ダミー,
+1205,ダミー,
+1206,ダミー,
+1207,ダミー,
+1208,ダミー,
+1209,ダミー,
+1210,ダミー,
+1211,ダミー,
+1212,ダミー,
+1213,ダミー,
+1214,ダミー,
+1215,ダミー,
+1216,ダミー,
+1217,ダミー,
+1218,ダミー,
+1219,ダミー,
+1220,ダミー,
+1221,ダミー,
+1222,ダミー,
 1223,ベルドラグリーヴ,Beru ドラ Greaves
 1224,ベルドラレギンス,Beru ドラ Leggings
 1225,ディールグリーヴ,Diru Greaves
@@ -1460,8 +1460,8 @@ index,source,target
 1458,ゲリョスレギンスSP赤,Gypceros Leggings SP Red
 1459,ゲリョスレギンスSP黄,Gypceros Leggings SP Yellow
 1460,ゲリョスレギンスSP緑,Gypceros Leggings SP Green
-1461,ダミー,野蠻D護腿
-1462,ダミー,晴雲D脛甲
+1461,ダミー,
+1462,ダミー,
 1463,ミラルーツＲフット,White Fatalis R Feet
 1464,Ｇ・ルナＲレギンス,G・Lune R Leggings
 1465,Ｓ・ソルＲレギンス,S・Sol R Leggings
@@ -1654,9 +1654,9 @@ index,source,target
 1652,ブリッツレガース,Blitz レガース
 1653,ブリッツブーツ,Blitz Boots
 1654,リルスグリーヴ,Lils Greaves
-1655,ダミー,失落D狂脛
+1655,ダミー,
 1656,リルスレギンス,Lils Leggings
-1657,ダミー,噬天D光脛
+1657,ダミー,
 1658,神楽FX【袴】,Kagura FX【 Hakama 】
 1659,神座FX【袴】,Kamiza FX【 Hakama 】
 1660,蒼空ノ袴,Green 空ノ Hakama
@@ -2226,7 +2226,7 @@ index,source,target
 2224,ガリトスFZブーツ・黒,Galitos FZ Boots・Black
 2225,ガリトスFZブーツ・水,Galitos FZ Boots・Water
 2226,ベイルＦディバイダー,Beil F Divider
-2227,ダミー,小藍ＣＯＳ靴
+2227,ダミー,
 2228,ジェスグリーヴ,Jess Greaves
 2229,ジェスＦグリーヴ,Jess F Greaves
 2230,ジェスFYグリーヴ,Jess FY Greaves
@@ -2299,7 +2299,7 @@ index,source,target
 2297,シャランHCフット・白,Shaln HC Feet・White
 2298,シャランFZブーツ・白,Shaln FZ Boots・White
 2299,シャランHCブーツ・白,Shaln HC Boots・White
-2300,ダミー,ヴァンパイアＤフット
+2300,ダミー,
 2301,ダミー,
 2302,ダミー,
 2303,ダミー,

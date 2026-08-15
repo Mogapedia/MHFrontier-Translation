@@ -185,22 +185,42 @@ python scripts/fix_accents.py --apply
    corpus was bootstrapped from a binary patched by an older fan translation,
    built from a different pointer table, so many targets hold text belonging
    to other rows — including Traditional Chinese from the Taiwanese release.
-   `dat/equipment/description` has been cleaned; `dat/armors/*` and
-   `dat/weapons/*/name` are still ~15–19% polluted. **Check before using the
-   English column as translation memory:**
+   `dat/equipment/description`, `dat/armors/*` and `dat/weapons/*/name` have
+   been cleaned. **Check any other section before using the English column as
+   translation memory:**
 
    ```bash
    python scripts/clean_en_targets.py --survey
    python scripts/clean_en_targets.py --report <section>
    ```
 
-   The heuristic was tuned on prose and is not validated for name sections.
+   Prose and name sections are judged by different rules (`NAME_SECTIONS`):
+   names are too short to share a `{j}` segment, and a half-romanised name
+   like "True 空F Hachimaki・Black" is a correct translation in progress, not
+   displaced text. It is recognised by its remaining kanji being a subset of
+   its own source's.
 2. **Some `source` rows hold English, not Japanese** (~669 rows across 8
    sections), from the same patched binary. Fixing needs sequence alignment or
    a fresh unpatched JP dump.
-3. **Placeholder rows**: `0`, `ダミー`, `dummy` are unused pointer-table slots.
+3. **Roman numerals are mojibake in `source`.** CP932 maps `0x8754`–`0x875D`
+   to Ⅰ–Ⅹ, but the extraction used a Shift-JIS table that maps them to rare
+   kanji instead. 10724 rows are affected across both languages:
+
+   | in `source` | should be | | in `source` | should be |
+   |---|---|---|---|---|
+   | 貤 | Ⅰ | | 𧶠 | Ⅴ |
+   | 賖 | Ⅱ | | 賰 | Ⅵ |
+   | 賕 | Ⅲ | | | |
+   | 賙 | Ⅳ | | | |
+
+   Searching for a weapon by its real name (`ダガダイアⅡ`) will therefore miss.
+   `MOJIBAKE` in `clean_en_targets.py` holds the mapping; `demojibake()`
+   normalises before comparing. The source column is not patched here — the
+   fix belongs upstream in the FTH extraction, and `source` is not edited in
+   this repo.
+4. **Placeholder rows**: `0`, `ダミー`, `dummy` are unused pointer-table slots.
    Leave the target empty; they do not render in-game.
-4. **Control-code-only rows** (`{j}`, `{cNN}`) are not translatable alone.
+5. **Control-code-only rows** (`{j}`, `{cNN}`) are not translatable alone.
 
 ## Workflows
 

@@ -234,7 +234,7 @@ index,source,target
 232,メイドベスト,Maid Vest
 233,プライベートベスト,Private Vest
 234,狩人Ｔシャツ,狩人Tシャツ
-235,ダミー,Dummy
+235,ダミー,
 236,ギルドガードスーツ蒼,Guild Guard Suit Green
 237,ギルドガードベスト蒼,Guild Guard Vest Green
 238,ギルドガードスーツ蒼,Guild Guard Suit Green
@@ -341,8 +341,8 @@ index,source,target
 339,コムラダメイル【青】,Comrada Mail 【 Blue 】
 340,コムラダメイル【緑】,Comrada Mail 【 Green 】
 341,コムラダメイル【橙】,Comrada Mail 【 Orange 】
-342,ダミー,Dummy
-343,ダミー,護靈者風衣GS
+342,ダミー,
+343,ダミー,
 344,エスピナムスケル,Espinas Muscle
 345,エスピナケミュート,Espinas Heart
 346,エスピナＦムスケル,Espinas F Muscle
@@ -672,7 +672,7 @@ index,source,target
 670,鬼神ノ肩鎧,Demon Lord ノ肩鎧
 671,ラスタ教官胴,Rasta 教官胴
 672,童子ノ肩鎧,
-673,ダミー,護靈者風衣GP
+673,ダミー,
 674,イクスベスト・白,Ex Vest・White
 675,イクスＦベスト・白,Ex F Vest・White
 676,イクススーツ・白,Ex Suit・White
@@ -1198,36 +1198,36 @@ index,source,target
 1196,アクラFXレジスト紅,Vashimu FX Vest Crimson
 1197,アスールＦジャケット,Azul F Jacket
 1198,アスールＦスーツ,Azul F Suit
-1199,ダミー,護靈者風衣ZP
-1200,ダミー,護靈者之翼GS
-1201,ダミー,護靈者之翼GP
-1202,ダミー,護靈者之翼ZP
-1203,ダミー,兵士外衣GS
-1204,ダミー,兵士外衣GP
-1205,ダミー,兵士外衣ZP
-1206,ダミー,兵士披肩GS
-1207,ダミー,兵士披肩GP
-1208,ダミー,兵士披肩ZP
-1209,ダミー,野蠻護甲GS
-1210,ダミー,野蠻護甲GP
-1211,ダミー,野蠻護甲ZP
-1212,ダミー,野蠻鎖甲GS
-1213,ダミー,野蠻鎖甲GP
-1214,ダミー,野蠻鎖甲ZP
-1215,ダミー,晴雲鎖甲GS
-1216,ダミー,晴雲鎖甲GP
-1217,ダミー,晴雲鎖甲ZP
-1218,ダミー,晴雲衣裳GS
-1219,ダミー,晴雲衣裳GP
-1220,ダミー,晴雲衣裳ZP
-1221,ダミー,失落狂甲GS
-1222,ダミー,失落狂甲GP
-1223,ダミー,失落狂甲ZP
-1224,ダミー,失落猛甲GS
-1225,ダミー,失落猛甲GP
-1226,ダミー,失落猛甲ZP
-1227,ダミー,Dummy
-1228,ダミー,護靈者D風衣
+1199,ダミー,
+1200,ダミー,
+1201,ダミー,
+1202,ダミー,
+1203,ダミー,
+1204,ダミー,
+1205,ダミー,
+1206,ダミー,
+1207,ダミー,
+1208,ダミー,
+1209,ダミー,
+1210,ダミー,
+1211,ダミー,
+1212,ダミー,
+1213,ダミー,
+1214,ダミー,
+1215,ダミー,
+1216,ダミー,
+1217,ダミー,
+1218,ダミー,
+1219,ダミー,
+1220,ダミー,
+1221,ダミー,
+1222,ダミー,
+1223,ダミー,
+1224,ダミー,
+1225,ダミー,
+1226,ダミー,
+1227,ダミー,
+1228,ダミー,
 1229,ベルドラメイル,Beru ドラ Mail
 1230,ベルドラレジスト,Beru ドラ Vest
 1231,ディールジャケット,Diru Jacket
@@ -1468,8 +1468,8 @@ index,source,target
 1466,ゲリョスレジストSP赤,Gypceros Vest SP Red
 1467,ゲリョスレジストSP黄,Gypceros Vest SP Yellow
 1468,ゲリョスレジストSP緑,Gypceros Vest SP Green
-1469,ダミー,兵士D外衣
-1470,ダミー,野蠻D護甲
+1469,ダミー,
+1470,ダミー,
 1471,ミラルーツＲハイド,White Fatalis R Hide
 1472,Ｇ・ルナＲレジスト,G・Lune R Vest
 1473,Ｓ・ソルＲレジスト,S・Sol R Vest
@@ -1662,9 +1662,9 @@ index,source,target
 1660,ブリッツベスト,Blitz Vest
 1661,ブリッツケープ,Blitz ケープ
 1662,リルスメイル,Lils Mail
-1663,ダミー,晴雲D鎖甲
+1663,ダミー,
 1664,リルスレジスト,Lils Vest
-1665,ダミー,失落D狂甲
+1665,ダミー,
 1666,神楽FX【胴当て】,Kagura FX【胴当て】
 1667,神座FX【胸当て】,Kamiza FX [Chestplate 】
 1668,蒼空ノ羽織,Blue Sky Haori
@@ -2234,7 +2234,7 @@ index,source,target
 2232,ガリトスFZスーツ・黒,Galitos FZ Suit・Black
 2233,ガリトスFZスーツ・水,Galitos FZ Suit・Water
 2234,ベイルＦブリガンテス,Beil F Brigantes
-2235,ダミー,噬天D光甲
+2235,ダミー,
 2236,ジェスメイル,Jess Mail
 2237,ジェスＦメイル,Jess F Mail
 2238,ジェスFYメイル,Jess FY Mail
@@ -2307,8 +2307,8 @@ index,source,target
 2305,シャランHCベスト・白,Shaln HC Vest・White
 2306,シャランFZスーツ・白,Shaln FZ Suit・White
 2307,シャランHCスーツ・白,Shaln HC Suit・White
-2308,ダミー,小藍ＣＯＳ服裝
-2309,ダミー,ヴァンパイアＤメイル
+2308,ダミー,
+2309,ダミー,
 2310,ダミー,
 2311,ダミー,
 2312,ダミー,
