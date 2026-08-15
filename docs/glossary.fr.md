@@ -172,6 +172,39 @@ correspondantes du wiki.
 | ハンターランク | Hunter Rank (HR) | **Rang de chasseur (HR)** | |
 | 大老殿 | Great Slaying | **Grand sanctuaire** | |
 | ギルド | Guild | **Guilde** | |
+| 辿異 | Zenith | **Zénith** | aligné sur Mogapédia |
+| 装飾品 | Decoration (Deco) | **Joyau** | terme officiel Capcom, cf. règle d'or |
+| 狩護 | *(non traduit ; code HS)* | **Chassegarde** | voir ci-dessous |
+| 狩護防具 | *(non traduit)* | **Armure Chassegarde** | marqueur `≪狩護防具≫` |
+| Ｇ級狩護 | *(non traduit ; GS/GP)* | **Chassegarde G** | marqueur `≪Ｇ級狩護≫` |
+| 辿異狩護 | *(non traduit)* | **Chassegarde Zénith** | marqueur `≪辿異狩護≫` |
+| 狩護効果 | *(non traduit)* | **Effet Chassegarde** | descriptions de sigils |
+
+### 狩護 → « Chassegarde »
+
+`狩護` n'est pas un mot japonais : c'est un mot-valise créé pour MHF. Il se
+lit シュゴ *shugo* et calque **守護** *shugo* « protection, sauvegarde », dont
+le premier caractère 守 « garder » est remplacé par 狩 « chasser ». Les
+armures Chassegarde arrivent en Forward.5 comme dérivé des armures HC :
++20 de défense par pièce, réduction de dégâts de 10 % (1 pièce) à 30 %
+(5 pièces), et régénération automatique sous conditions.
+
+« Chassegarde » reproduit exactement la construction, *sauvegarde* se
+décomposant de la même façon :
+
+```
+守護  sauve + garde   →   狩護  chasse + garde
+      garder  protéger      chasser protéger
+```
+
+**Les codes HS / GS / GP ne changent pas.** Ils apparaissent déjà en
+lettres latines dans le japonais d'origine (`ラヴィHSアーム`), le patch
+anglais les conserve tels quels, et toute la documentation communautaire —
+y compris japonaise — les utilise. Les renommer ferait du français la seule
+langue à désynchroniser 18 038 noms d'armures des wikis et de Mogapédia.
+« Chassegarde » sert à traduire le mot quand il est écrit en toutes lettres
+(les marqueurs `≪…≫` des descriptions d'équipement), pas à recoder les
+noms.
 
 ---
 

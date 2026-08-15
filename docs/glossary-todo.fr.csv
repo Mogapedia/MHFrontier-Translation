@@ -40,17 +40,17 @@ B-colour,桃,,345,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances disti
 B-colour,碧,,135,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
 B-colour,翠,,2,,suffixe couleur ・X ; 赤/紅 et 青/蒼/碧 = nuances distinctes a differencier
 C-tier-marker,Ｆ,,8412,,F (Forward)
-C-tier-marker,HS,,6571,,= 狩護 premium armour
-C-tier-marker,GS,,5787,,= G級狩護
+C-tier-marker,HS,,6571,HS,= 狩護 Chassegarde ; code inchange (deja latin en JP) - RESOLU
+C-tier-marker,GS,,5787,GS,= G級狩護 Chassegarde G ; code inchange - RESOLU
 C-tier-marker,FZ,,5729,,FZ
-C-tier-marker,GP,,5680,,= G級狩護 (variante)
+C-tier-marker,GP,,5680,GP,= G級狩護 (variante) ; code inchange - RESOLU
 C-tier-marker,F,,5071,,F (Forward)
 C-tier-marker,HC,,1829,,Hardcore / 剛種
 C-tier-marker,Ｚ,,442,,Z
-D-mhf-mechanic,狩護,HS,19993,,armure premium (kadaka) ajoutee en Forward.5 ; +20 def/piece ; derive des HC
-D-mhf-mechanic,Ｇ級狩護,GS/GP,11467,,stade final des armures premium ; 狩護 + proprietes G
-D-mhf-mechanic,辿異,Zenith,5812,,"Mogapedia = ""Zenith"" (Monstre Zenith / Espece Zenith) - CONFIRME"
-D-mhf-mechanic,装飾品,decoration/jewel,7343,,joyaux sertis ; distinct de 装飾 (ornement descriptif)
+D-mhf-mechanic,狩護,HS,19993,Chassegarde,"lit. shugo ; mot-valise calquant 守護 (sauve+garde -> chasse+garde) ; Forward.5, derive des HC ; +20 def/piece - RESOLU"
+D-mhf-mechanic,Ｇ級狩護,GS/GP,11467,Chassegarde G,stade final ; 狩護 + proprietes G - RESOLU
+D-mhf-mechanic,辿異,Zenith,5812,Zénith,"Mogapedia = ""Zenith"" (Monstre Zenith / Espece Zenith) - RESOLU"
+D-mhf-mechanic,装飾品,decoration/jewel,7343,Joyau,"terme officiel Capcom (World/Rise/Wilds) ; distinct de 装飾 (ornement descriptif) - RESOLU"
 D-mhf-mechanic,至極,Ultimate/Supr.,2560,,"arme/armure de maitrise d'arme : ""X技を極めた者だけが..."""
 D-mhf-mechanic,生産券,Ticket (Tkt),2434,,bon de fabrication ; suffixe systematique de nom d'objet
 D-mhf-mechanic,精錬,smelt/refine,2328,,"distinct de 調合 (=Combiner, deja au glossaire)"
