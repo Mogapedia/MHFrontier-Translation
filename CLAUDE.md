@@ -30,8 +30,11 @@ Rules when writing to these files:
 - An empty `target` means untranslated. Never copy `source` into `target`.
 - Run `python scripts/validate.py` before committing.
 
-**Required FTH version: ≥ 1.8.0**, for the CP932 encoding fix (see "What not
-to trust" #3). ≥ 1.6.0 is the floor for understanding `{j}` and `{cNN}`.
+**Required FTH version: ≥ 1.9.0.** 1.8.0 brought the CP932 encoding fix (see
+"What not to trust" #3); 1.9.0 extracts the grouped `pac/text_14`…`text_54`
+tables as groups again (1.6.0–1.8.0 read them one row per pointer and could
+not import these CSVs) and lets `--apply-translations` fold accented text.
+≥ 1.6.0 is the floor for understanding `{j}` and `{cNN}`.
 Importing an index-keyed CSV requires `--xpath` so the importer can
 resolve indexes against the live pointer table; here the xpath is implicit in
 the file path (`translations/fr/dat/armors/head.csv` → `dat/armors/head`) and

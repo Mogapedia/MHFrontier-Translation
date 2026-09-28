@@ -54,7 +54,8 @@ def main() -> None:
     fth_dir = args.fth_dir.resolve()
     trans_root = args.translations_dir.resolve() / args.lang
     out_dir = args.out.resolve()
-    headers_json = fth_dir / "headers.json"
+    # FTH >= 1.9.0 ships headers.json inside its package.
+    headers_json = fth_dir / "src" / "headers.json"
 
     if not fth_dir.exists():
         sys.exit(f"ERROR: FrontierTextHandler not found at {fth_dir}")
@@ -113,6 +114,8 @@ def main() -> None:
                 encrypt=False,             # single compress+encrypt pass at the end
                 xpath=xpath,
                 headers_path=str(headers_json),
+                # CP932 has no accented Latin: fold é → e and the like.
+                fold_unsupported_chars=True,
             )
             if result is not None:
                 applied += 1

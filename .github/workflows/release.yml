@@ -67,14 +67,11 @@ jobs:
             # 1. Download the per-language gzipped payload into your game dir
             mhf-outpost translate --path ~/mhf --lang fr
 
-            # 2. Decompress (FTH currently expects plain JSON)
-            gunzip ~/mhf/translations-fr.json.gz
-
-            # 3. Apply to your game files (requires FrontierTextHandler ≥ 1.6.0)
+            # 2. Apply to your game files (requires FrontierTextHandler ≥ 1.9.0)
             cd FrontierTextHandler
-            python main.py ~/mhf/translations-fr.json \
+            python main.py ~/mhf/translations-fr.json.gz \
               --apply-translations --lang fr --game-dir ~/mhf \
-              --compress --encrypt
+              --fold-unsupported-chars --compress --encrypt
             ```
 
             Or use `scripts/build_bins.py` locally for a full rebuild from CSVs.
@@ -97,7 +94,7 @@ jobs:
             - `translations-fr.json.gz` / `translations-en.json.gz` — per-language launcher payloads (translated rows only, no source, gzipped)
             - `translations.json` — full export with source, all languages
 
-            Requires [FrontierTextHandler](https://github.com/Houmgaor/FrontierTextHandler) ≥ 1.6.0 (index-keyed CSV with `{j}` join markers and `{cNN}/{/c}` color codes).
+            Requires [FrontierTextHandler](https://github.com/Houmgaor/FrontierTextHandler) ≥ 1.9.0. Without installing anything, the [FrontierTextHandler web page](https://houmgaor.github.io/FrontierTextHandler/) applies `translations-<lang>.json.gz` to a game file in the browser.
           files: |
             translations.json
             translations-fr.json.gz

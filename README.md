@@ -89,7 +89,15 @@ they would be indexed without context.
 
 ### I want to apply translations to my game files
 
-You need [FrontierTextHandler](https://github.com/Houmgaor/FrontierTextHandler) **≥ 1.5.1** (the index-keyed CSV format requires `--with-index` support) and your own copy of the game files.
+You need your own copy of the game files and [FrontierTextHandler](https://github.com/Houmgaor/FrontierTextHandler) **≥ 1.9.0** (earlier versions fail on accented text in releases and skip the grouped `pac` tables).
+
+The simplest way needs no installation: open the
+[FrontierTextHandler web page](https://houmgaor.github.io/FrontierTextHandler/),
+load a game file (`mhfdat.bin`, `mhfpac.bin`, …), add
+`translations-fr.json.gz` from [Releases](https://github.com/Mogapedia/MHFrontier-Translation/releases),
+and download the game-ready file. Everything runs in your browser.
+
+From the command line:
 
 ```bash
 # 1. Clone this repo
@@ -103,9 +111,11 @@ python path/to/FrontierTextHandler/main.py \
     --xpath=dat/items/name \
     --compress --encrypt
 
-# Or apply all sections using the pre-built release JSON
-#   → download translations-translated.json from Releases
-#   → FrontierTextHandler --merge-json translations-translated.json data/mhfdat.bin
+# Or apply every section to a whole game directory from a release
+#   → download translations-fr.json.gz from Releases (gzipped is fine)
+python path/to/FrontierTextHandler/main.py translations-fr.json.gz \
+    --apply-translations --lang fr --game-dir path/to/mhf \
+    --fold-unsupported-chars --compress --encrypt
 ```
 
 ### I want to migrate a legacy `location`-keyed fork
