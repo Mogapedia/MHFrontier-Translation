@@ -1,11 +1,13 @@
 index,source,target
-0,"Yeah! We're finally heading out!
+0,"オウ！いよいよ出発だな！
+ここから先は何が待っているのかわからない。
+装備は万全に整えて行った方がいいぜ！","Yeah! We're finally heading out!
 We don't know what awaits us from here on.
-You better go in fully armed!",
-1,"Come on, hurry up and exchange for items
+You better go in fully armed!"
+1,さぁ、早速ジェムと交換するアイテムを選んでくれ！一度出発したらここにはもう戻れないから、よ～く考えて選べよ！,"Come on, hurry up and exchange for items
 with those Gems! Once you leave you can't
-come back here, so choose carefully!",
-2,Later. Wish ya luck!,
+come back here, so choose carefully!"
+2,じゃあな。健闘を祈るぜ！,Later. Wish ya luck!
 3,"オウ！長旅、お疲れさま。到着したぜ！
 目の前のでかい建物がお目当ての{c05}≪天廊≫{/c}だ。",
 4,演習とはいえ、念のため準備は万全にして行った方がいいぜ！ということで、さぁ、早速ジェムと交換するアイテムを選んでくれ！,

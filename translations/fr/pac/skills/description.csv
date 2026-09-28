@@ -184,7 +184,7 @@ index,source,target
 を行うことはできません。各ゲームの
 受付に話しかけて、ゲームの説明を
 確認してください）
-{j}��",
+{j}�",
 24,"c
 {j}{j}{j}{j}{j}ゲームのゲーム内容や操作の確認
 を行うことはできません。各ゲームの
@@ -237,7 +237,7 @@ index,source,target
 券{c17}」の２種類があります。
 {j}{j}{j}煦",
 32,"ac
-{j}��{j}��{j}��{j}${j}ケットは１人用ミニゲームに使う
+{j}�{j}�{j}�{j}${j}ケットは１人用ミニゲームに使う
 「{c18}メゼフェス１人用券{c17}」と、４人用
 ミニゲームに使う「{c18}メゼフェス４人用
 券{c17}」の２種類があります。
@@ -391,7 +391,7 @@ index,source,target
 {c69}▼△▼△▼△▼△▼△▼△▼△▼△▼{c17}
 {j}{j}�{j}煦",
 55,"ac
-{j}��{j}��{j}��{j}${j}る」は{c69}ミニゲーム
+{j}�{j}�{j}�{j}${j}る」は{c69}ミニゲーム
 　の種類を選べない{c17}代わりに、
 　ボーナスポイントが発生します。
 　（１人用ゲームのみ対象）
@@ -509,7 +509,7 @@ index,source,target
 {c69}▼△▼△▼△▼△▼△▼△▼△▼△▼{c17}
 {j}{j}{j}煦",
 71,"ac
-{j}{j}{j}{j}��{j}る」は{c69}ミニゲーム
+{j}{j}{j}{j}�{j}る」は{c69}ミニゲーム
 　の種類を選べない{c17}代わりに、
 　ボーナスポイントが発生します。
 　（１人用ゲームのみ対象）
@@ -531,7 +531,7 @@ index,source,target
 {c69}▼△▼△▼△▼△▼△▼△▼△▼△▼{c17}
 {j}{j}{j}煦",
 74,"ac
-{j}��{j}��{j}��{j}{j}る」は{c69}ミニゲーム
+{j}�{j}�{j}�{j}{j}る」は{c69}ミニゲーム
 　の種類を選べない{c17}代わりに、
 　ボーナスポイントが発生します。
 　（１人用ゲームのみ対象）
@@ -645,7 +645,7 @@ index,source,target
 属性の付いていない武器や、属性の通らない
 肉質に対してダメージを与えた場合には、
 無属性が蓄積されます。
-{j}{j}��{j}煦",
+{j}{j}�{j}煦",
 85,"ac
 {j}{j}{j}{j}${j}ﾃきます。
 
@@ -700,9 +700,9 @@ index,source,target
 属性の付いていない武器や、属性の通らない
 肉質に対してダメージを与えた場合には、
 無属性が蓄積されます。
-{j}{j}�ﾒ{j}煦",
+{j}{j}ﾒ{j}煦",
 91,"ac
-{j}��{j}��{j}��{j}${j}ﾃきます。
+{j}�{j}�{j}�{j}${j}ﾃきます。
 
 発動条件を満たした時に、一番多く蓄積され
 ている属性の六華閃舞が発動します。
@@ -795,7 +795,7 @@ index,source,target
 無属性が蓄積されます。
 {j}{j}{j}煦",
 101,"ac
-{j}�ﾒ{j}�ﾒ{j}�ﾒ{j}${j}ﾃきます。
+{j}ﾒ{j}ﾒ{j}ﾒ{j}${j}ﾃきます。
 
 発動条件を満たした時に、一番多く蓄積され
 ている属性の六華閃舞が発動します。
@@ -886,7 +886,7 @@ index,source,target
 属性の付いていない武器や、属性の通らない
 肉質に対してダメージを与えた場合には、
 無属性が蓄積されます。
-{j}{j}��{j}煦",
+{j}{j}�{j}煦",
 111,"ac
 {j} 8{j} 8{j} 8{j}${j}ﾃきます。
 
@@ -907,7 +907,7 @@ index,source,target
 肉質に対してダメージを与えた場合には、
 無属性が蓄積されます。
 {j}ac
-{j}��{j}煦",
+{j}�{j}煦",
 113,"ac
 {j}{j}{j}{j}${j}ﾃきます。
 
@@ -1031,7 +1031,7 @@ index,source,target
 属性の付いていない武器や、属性の通らない
 肉質に対してダメージを与えた場合には、
 無属性が蓄積されます。
-{j}{j}��{j}煦",
+{j}{j}�{j}煦",
 126,"ac
 {j}`�{j}`�{j}`�{j}ac
 {j}ﾃきます。
@@ -1043,7 +1043,7 @@ index,source,target
 無属性が蓄積されます。
 {j}{j}獏{j}煦",
 127,"ac
-{j}��{j}��{j}��{j}ac
+{j}�{j}�{j}�{j}ac
 {j}ﾃきます。
 
 発動条件を満たした時に、一番多く蓄積され
@@ -1154,7 +1154,7 @@ index,source,target
 {j}{j}{j}煦",
 139,"ac
 ",
-140,ﾄ{j}ﾄ{j}ﾄ{j}(�{j}{j}ﾄ{j}>L{j}ｨJ{j}{j}ｴF{j}ｶ@{j}　,
+140,ﾄ{j}ﾄ{j}ﾄ{j}��{j}{j}ﾄ{j}>L{j}ｨJ{j}{j}ｴF{j}ｶ@{j}　,
 141,OFF{j}90％{j}80％{j}70％{j}60％{j}50％{j}40％{j}30％{j}20％{j}10％{j}0％,
 142,"Ｇ級クエストで得られる素材をメイン
 に多くの素材から生産・強化すること
@@ -1280,370 +1280,318 @@ index,source,target
 適用されるため、Ｇ級専用の通貨
 【Ｇｚ】やランクポイント【ＧＲＰ】
 を扱うことになります。",
-147,{j}ID　  ：{j}Held  ：{j}　　　：{j}Color ：{j}Comment：{j}Mark：{j}Friends Invite：{j}HR　  ：{j}HRP  ：{j}SR　  ：{j}SRP  ：{j}GSR　 ：{j}GSRP  ：{j}GR　  ：{j}GRP   ：{j}ＧＲ　：{j}Quest Gear{j}Town Gear{j}Skill Pts Wep Hea Che Arm Wst Leg Cuff All{j}Active Skill／Quest Gear{j}Skill Description{j}{j}[Caravan Jewel Info]{j}Maintenance Expiration{j}＜Expired＞{j}Caravan Skill：{j}Caravan P：{j}Ranking  ：{j}Great Slay P：{j}Server：{j}   Rasta Info{j}【Conquests】{j}【Battle Log】{j}Great Arena：{j}Wins{j}HS Rank：{j}【Festival】{j}【Bond Point Bonuses】{j}     Other,
-148,"None{j}Invincibility time after
-getting up from an attack
-is ×3 times longer.{j}Increased or decreased
-chance for standard
-quest rewards.{j}Speed increased when
-carrying heavy items
-※Eggs, Powderstone...{j}Automatically blocks
-attacks when your
-weapon is unsheated.{j}Take less or more dmg
-knock-back and stamina
-consume when guarding.{j}Increased or decreased
-effectiveness of recovery
-items.{j}Increased or decreased
-recovery speed for the
-red portion of your health.{j}Add Cluster S to the
-loadable ammo types of
-your weapon.{j}Increased or Decreased
-Chance for Reduced or
-increased Damage taken{j}Increased or decreased
-Thunder Resistance.{j}Increased power for
-Pierce S and Pierce
-arrows. ※ +10％{j}Add Pierce S to the
-loadable ammo types of
-your weapon.{j}Negate, Halve or Double
-your Stun duration.{j}Affects breaking chance
-of Pickaxes, Bugnets,
-Flutes and Boomerangs.{j}Increased or decreased
-weapon sharpness loss
-on higher levels :
-+50％ Chance for no loss{j}Increased stamina
-recovery from Meat and
-consumable items.{j}Monster target you more
-or less in a fight.{j}Increased Affinity/Critical
-Chance.
-※ Up to +50％{j}※未実装{j}※未実装{j}Increases Attack Power.{j}Increased or decreased
-chance for more items
-on Gathering & Mining
-spots.{j}Increased Damage of
-Pellet S & Scatter arrows.
-※ +30％{j}Add Pellet S to the
-loadable ammo types of
-your weapon.{j}Negate, Halve or Double
-your Sleep duration.{j}Increases or decreases
-All Elemental Resistance.{j}Detailed Map icon for
-marked monsters and
-Perm Paintball Effect.{j}Increased or Decreased
-Bowgun ammo/Bow coat
-& Auto reload/coat apply{j}Negate, Halve or Double
-your Stamina loss in
-Cold areas.{j}Negate, Halve or Double
-your Health loss in Hot
-areas.{j}Increases or Decreases
-your Health Points.{j}Melee Weapons get
-additonal Weapon
-Sharpness Level +1.{j}※未実装{j}Guaranteed Max amount
-of Ammo and Coatings
-when combining.{j}Permament Map display
-even without a Map in
-your inventory.{j}Negate or reduce the
-effectiveness of Monster
-Roars/Screams.{j}Increases the success
-rate for combining items.
-※Up to +30％{j}Increased damage for
-Normal Ammo and Rapid
-arrows ※ +10％{j}Add Normal S to the
-loadable ammo types of
-your weapon.{j}Fish always bites on the
-first try to catch.
-(One Wiggle){j}※未実装{j}※未実装{j}※未実装{j}Increased Range and
-Speed + less chance to
-lose Boomerangs{j}Increased or Decreased
-Sharpening speed. High
-level gives +1 Sharpness
-& ※30s Inf Sharpness{j}Negate, Halve or Double
-Poison time.{j}Increases Abnormal
-Status Build Up.
-※ +12％{j}※未実装{j}Immune against item
-Steal caused by Monster
-※ Melynx , Chameleos...{j}Lg Bombs & Blast Elem
-Damage increased +50％
-※100％ Combo for Bomb{j}Slower or Faster Stamina
-decrease of Hunger or 
-Negate Stamina reduction{j}Recoil reduction for
-Bowgun & additional
-Evade move for GunLan{j}Increased or Decreased
-Fire Resistance.{j}Increases or Negates
-resistance against
-Wind pressure.{j}※未実装{j}Increases or Decreases
-flat amount of Defense.
-※Up to +120{j}Negate, Halve or Double
-Paralysis time.{j}Increased or Decreased
-Water Resistance.{j}Increased or Decreased
-Dragon Resistance.{j}Add Crag S to the
-loadable ammo types of
-your weapon.{j}You are able to use
-Alchemy Combinations{j}Bowgun auto load ammo
-& Bow Coating load fast
-※ +15％ Bow Loading{j}Increased speed for
-Gathering, Carving
-Mining and Bugnet use.{j}Increases invincibility
-time when performing an
-Dodge / Evasion move.{j}Increased or Decreased
-Attack and Defense
-when HP gets ≦40.{j}Increased or Decreased
-effect duration for items.
-※ +50％ -35％{j}Increased or Decreased
-consume of Stamina for
-Actions depleting it.{j}Bowgun and Gunlance
-get +1 Bullet & Shell.
-※4th Charge lvl on Bow{j}Bullets fly more straight
-and critical range
-damage is increased.{j}Higher chance for a
-Bigger Size for the 
-Targeted Monster.{j}Increases speed of
-consuming items.
-※Meat, Potions etc..{j}Allows more Carving
-from any Source.
-※ +1 Carve{j}Decreased environment
-damage i.e Fire Auras.{j}Negates Stench Status.
-(Dung effect){j}Negates Snowball Status{j}Increased or Decreased
-Ice Resistance.{j}Negates smaller and
-Stronger Tremors making
-you lose no Balance.{j}Several items effect the
-entire party more items
-and potency on Higher lvl{j}Negates or Halves
-stamina loss from certain
-muting effects.{j}Cooking meat and fish
-perfectly is significant
-easier then before.{j}Ballista, Tonfa Special
-GL Shells&WyFire, Crag
-&Cluster, LGB HB Boost{j}※未実装{j}※未実装{j}※未実装{j}Increases duration and
-less chance to break for
-Flutes & HH +50%{j}※未実装{j}※未実装{j}※未実装{j}※未実装{j}Increased Running away
-speed when health is
-below 20％{j}Increased dmg for kicks
-and tonfa kicks also
-※Get a Turn&Drop Kick{j}Increased Damage for
-Throwable items.
-※ Paintball, Knifes etc..{j}※未実装{j}Grants a random positive
-or negative effect at the
-start of the Quest.{j}Invincibility time after
-getting up from an attack
-is ×3 times longer.{j}※未実装{j}※未実装{j}※未実装{j}※未実装{j}If the Opposite Gender is
-present gain ATK as Man
-& DEF as Woman.{j}※未実装{j}High Health lets you
-survive lethal hits on 1HP
-※ Paralysis negates it.{j}※未実装{j}You receive more Zenny
-for killing Monsters.
-※+30％ & Up to +150% rng{j}Chance is increased for
-captured Monsters to
-become pets. Map Icon
-Flashes on Capture rdy.{j}※未実装{j}※未実装{j}Bows can use
-Poison Coating.{j}Bows can use
-Paralysis Coating.{j}Bows can use
-Sleep Coating.{j}Increased Fire Attack
-Damage.
-※ Up to +20％{j}Increased Water Attack
-Damage.
-※Up to +20％{j}Increased Thunder Attack
-Damage.
-※Up to +20％{j}Increased Ice Attack
-Damage.
-※Up to +20％{j}Increased Dragon Attack
-Damage.
-※Up to +20％{j}Grants Evasion and
-Affinity when Stamina is
-critical. ※Red Stamina{j}※未実装{j}Enables the use of
-Bomb Crystals{j}※未実装{j}Enables the use of
-Poison Crystals{j}Enables the use of
-Paralysis Crystals{j}Enables the use of
-Sleep Crystals{j}Enables the use of
-Fire Crystals{j}Enables the use of
-Water Crystals{j}Enables the use of
-Thunder Crystals{j}Enables the use of
-Ice Crystals{j}Enables the use of
-Dragon Crystals{j}Increased or Decreased
-Charge time and build up
-for charging attacks.{j}Hiden Sword & Shield
-Skill increasing its power
-& grants various buffs.{j}Hiden Dual Sword Skill
-increasing its power
-& grants various buffs.{j}Hiden Great Sword Skill
-increasing its power
-& grants various buffs.{j}Hiden Long Sword Skill
-increasing its power
-& grants various buffs.{j}Hiden Hammer Skill
-increasing its power
-& grants various buffs.{j}Hiden Hunting Horn Skill
-increasing its power
-& grants various buffs.{j}Hiden Lance Skill
-increasing its power
-& grants various buffs.{j}Hiden Gunlance Skill
-increasing its power
-& grants various buffs.{j}Hiden Hevy Bowgun Skill
-increasing its power
-& grants various buffs.{j}Hiden Light Bowgun Skill
-increasing its power
-& grants various buffs.{j}Hiden Bow Skill
-increasing its power
-& grants various benefits.{j}Increased Speed for Trap
-related items & 100%
-combination rate for them{j}Weapon Sheathing and
-Unsheathing increased.
-※ +20％{j}Increases or Decreases
-Elemental Damage.
-※ ± 10％{j}Increased or Decreased
-Stamina Recovery Speed
-※Up to +100％ -50％{j}Throw up to 5 Additional
-Knifes also Unlocks
-※Knife G Combo Unlock{j}Prevents Rasta and other
-Hunter to hit you and vice
-versa.{j}Negates Defense Down
-Status effect.{j}Prevents bouncing off.
-※ Fencing +2 Attack hit
-twice. (Hitlag Possible){j}Negates, Halves or
-Doubles various Status
-effects.{j}Negates or Increases
-the Drunk status effect.{j}Negates or Increases
-the Crystal status effect{j}Negates or Increases
-the Magnetic status effect{j}Immunity against Monster
-Pitfall attacks.
-※ Gasu Quicksand etc...{j}Rasta, Fosta, Partner
-and Halks recover 50％
-faster ※ Legendary dont.{j}Attack power increases
-as longer the Quest goes.
-※Up to +50 at 35min{j}If you Hunt alone you get
-Raw Damage +100.
-※ Halk´s can be used.{j}Grants Wind Pressure
-Earplug, and Tremor res
-effect Increases with lvl{j}Blocking Attacks reflects
-damage back to the
-attacking Monster{j}Sharpness+1, Atk UP+5
-Evasion+2, Critical Eye+4
-& 1/8 Chance to die on Hit{j}※ Artisan +1
-※Up to Attack UP +5{j}Adds +1 Shot to
-Rapid Fire.{j}Increases Raw Damage
-Massivly Up to +150.
-※Attack Up doesnt stack{j}Everyone Up to Evasion +2
-StunRes Negate &
-Horn Maestro.{j}Get a wide variety of Skills
-when you have ＜3
-Skills including Grace.{j}Def+90, RecSpeed+2,
-Recovery, Combo rate on
-Recovery items +100％{j}※ True Guts
-※Up to Adrenaline +2{j}Throwing Distance UP
-Strong Arm+Knife Throw
-Increases GuardPoint{j}Increased Chance for
-Item Drops from Halk &
-Poogie after Quest.{j}※未実装{j}Increased Affinity &
-Critical Hit Multiplier.
-※Up to +20％ & ×1.5{j}If you cart your Attack &
-Defense increases.
-※+True Guts 2nd cart{j}Normal/Rapid,
-Pierce/Pierce,
-Pellet/Spread UP &
-Critical Distance Boost.{j}※ Load UP
-※Up to Reload +3{j}Increased Damage on
-Weak Spots of Monsters.{j}Combining, Recovery
-& Ammo Combiner
-※Effects increase with lvl{j}Fishing, Cooking & Map
-※ Psychic on Higher lvl{j}Up to Attack UP +5
-Critical distance Boost
-※Precision doesnt stack{j}{j}Evasion / Dodge
-distance is increased{j}Charged Melee Attacks
-Raw and Elemental dmg{j}Gives a chance for Bullet
-& Coatings not to be
-consumed.{j}Increases Move Speed
-when your weapon is
-sheathed. ※ +20％{j}Grants Buffs to Hunters
-when hitting each other.
-※ Aura indicates buffs{j}Attacks have a chance to
-Lifesteal & additionaly
-Leech trigger give an 
-Attack Boost.{j}100 HP or more changes
-your Attack type depends
-on the Monster WeakSpot{j}When you die you get
-temporarily revieved with
-various buffs.{j}Heal items recover red
-HP Portion. Stack the skill
-for WideArea & Recovery{j}Tonfas get a variety of
-Buffs depending on the
-Skill Level.{j}Attack Monsters to draw
-their attention to you.
-※ 30s Cooldown{j}Grants a wide variety of
-Fire related Buffs{j}Status related attacks
-Build Up on every hit.
-※Default is 33％ Chance{j}Negate 1 atk taken has a
-cooldown and you do less
-dmg while CD is active.{j}Increases dmg received
-or negate interruption
-when you gather items.{j}ダミー
+147,{j}ＩＤ　：{j}所持金：{j}　　　：{j}シンボルカラー：{j}コメント：{j}マーク：{j}フレンド登録制限：{j}ＨＲ　：{j}ＨＲＰ：{j}ＳＲ　：{j}ＳＲＰ：{j}ＧＳＲ　：{j}ＧＳＲＰ：{j}ＧＲ　：{j}ＧＲＰ：{j}ＧＲ　：{j}クエスト装備{j}ロビー装備{j}スキル系統　武　頭　胴　腕　腰　脚　プ　計{j}発動スキル／クエスト装備{j}スキル説明{j}{j}【狩人珠情報】{j}おていれ有効期限{j}＜期限切れ中＞{j}狩人珠スキル：{j}キャラバンＰ：{j}知名度：{j}大討伐貢献Ｐ：{j}大討伐－参加場所：{j}   ラスタ情報 {j}【極征戦績】{j}【戦歴】{j}大闘技会　　：{j}勝{j}狩猟技段位：{j}【狩人祭】{j}【絆ポイントボーナス】{j}     その他   ,
+148,"なし{j}ダウン後の起き上がりの
+無敵時間を延長する。{j}クエストクリア時の報酬を
+貰える確率が増減する。{j}運搬時に移動速度が
+上昇する。{j}モンスターから攻撃を
+受けた時、自動的に
+ガードを行う。{j}ガードできる武器を装備
+している時、ガード時の
+仰け反り難さが増減する。{j}体力回復アイテムの
+回復量が増減する。{j}体力ゲージの赤い部分の
+回復速度が増減する。{j}拡散弾が使用可能になる。
+各スキル毎に使用可能な
+拡散弾のＬＶが異なる。{j}スキル発動時に自身が
+受けるダメージ量が
+大きく変化する。{j}雷耐性値が増減する。{j}ボウガンは貫通弾、
+弓は貫通矢の
+威力が上昇する。{j}貫通弾が使用可能になる。
+各スキル毎に使用可能な
+貫通弾のＬＶが異なる。{j}気絶状態への耐性が
+変化する。{j}ピッケル、虫あみ、笛の
+壊れる確率に影響する。{j}斬れ味の消費量に影響する。{j}肉や特定アイテムを消費
+する際にスタミナ最大値が
+回復する。{j}大型モンスターから
+発見され易くなったり、
+狙われ難くなったりする。{j}会心率が上昇する。{j}※未実装{j}※未実装{j}攻撃力が上昇する。{j}採集ポイントで
+アイテムを採集できる
+回数が変化する。{j}ボウガンは散弾、
+弓は拡散矢の
+威力が上昇する。{j}散弾が使用可能になる。
+各スキル毎に使用可能な
+散弾のＬＶが異なる。{j}睡眠状態にならない、また
+は睡眠状態になった場合の
+持続時間に影響する。{j}各耐性値が増減する。{j}大型モンスターが
+常にマップ表示される。{j}ボウガン、弓のリロード、
+装填速度が増減する。
+または自動装着される。{j}寒さによるスタミナ最大値
+の減少速度に影響する。{j}暑さによる体力減少速度に
+影響する。「夏男夏女」は
+回復速度が上昇する。{j}体力の最大値が増減する。{j}斬れ味が１段階上昇する。{j}※未実装{j}弾丸調合時、
+必ず最大数で生産できる。{j}地図を持たなくても
+マップが表示される。{j}モンスターの一部咆哮を
+無効にする。無効不可の
+場合怯み時間を短縮する。{j}調合成功率に影響する。{j}ボウガンは通常弾、
+弓は連射矢の
+威力が上昇する。{j}全てのレベルの通常弾が
+使用可能になる。{j}釣りエサに魚が
+食いつきやすくなる。{j}※未実装{j}※未実装{j}※未実装{j}投擲アイテムの飛距離、
+速度上昇。ブーメランが
+手元に戻ってきやすい。{j}砥ぎ時間が増減する。{j}毒状態にならない、または
+毒状態のダメージ進行速度
+に影響する。{j}状態異常攻撃の属性値を
+強化する。{j}※未実装{j}アイテムを盗まれない。{j}タル爆弾と爆破属性による
+ダメージが増加し、爆弾系
+調合成功率が増加する。{j}スタミナの最大値の
+減少速度に影響する。{j}ボウガン、または
+ガンランスの砲撃による
+反動を軽減する。{j}火耐性値が増減する。{j}各風圧を無効にする。{j}※未実装{j}防御力が増減する。{j}麻痺状態にならない、また
+は麻痺状態になった場合の
+継続時間に影響する。{j}水耐性値が増減する。{j}龍耐性値が増減する。{j}徹甲榴弾が使用可能になる。
+各スキル毎に使用可能な
+徹甲榴弾のＬＶが異なる。{j}錬金調合ができる。{j}ボウガンは速射対応の弾を
+除きリロードせず撃てる。
+弓は溜め時間が短縮する。{j}剥ぎ取り、採集、虫取り、
+採掘の速度が上昇する。{j}回避の無敵時間が
+増加する。{j}体力が一定数値以下に
+なると攻撃力、防御力が
+増減する。{j}特定アイテムの
+効果持続時間に影響する。{j}スタミナの減少速度に
+影響する。{j}ボウガン、ガンランスは
+装填数が＋１、弓は
+溜め段階が１段階増える。{j}弾のブレ幅を増減する。
+狙い撃ちは適正距離での
+ヒット時に高威力になる。{j}モンスターのビッグサイズ
+が出現し易くなる…かも？{j}食べる事で効果を発揮する
+アイテムを使用した際その
+速度が変化する。{j}剥ぎ取れる回数が
+１回増える。{j}溶岩など地形から受ける
+ダメージが増減する。{j}一部アイテムが使用不可
+状態にならなくなる。{j}雪だるま状態にならない。{j}氷耐性値が増減する。{j}特定の震動を無効にする。{j}特定アイテム使用時に
+同エリア内メンバーへ
+同等／半分の効果を付与。{j}特殊攻撃によるスタミナ
+減少とチャット不可状態を
+無効または半減する。{j}肉、魚を焼く時の
+こんがり焼ける
+時間に影響する。{j}砲撃の運用能力が上達する
+度に威力が増加する。{j}※未実装{j}※未実装{j}※未実装{j}笛系アイテムが壊れ難く
+なる。狩猟笛の演奏効果
+時間が長くなる。{j}※未実装{j}※未実装{j}※未実装{j}※未実装{j}体力が一定以下になると、
+逃走のみ移動速度が
+上昇する。{j}キック等の徒手空拳による
+戦闘能力が強化される。{j}石ころ、ペイントボール、
+投げナイフ等、一部の投擲
+アイテムの攻撃力が増加。{j}※未実装{j}クエスト開始時に
+ランダムで特定スキル
+効果が発動する。{j}ダウン後の起き上がりの
+無敵時間が伸びる。{j}※未実装{j}※未実装{j}※未実装{j}※未実装{j}クエストメンバーに異性が
+いる場合、男性は攻撃力、
+女性は防御力が増加する。{j}※未実装{j}特定の条件下で即死攻撃を
+受けても体力が１残る。
+麻痺状態では発動しない。{j}※未実装{j}モンスターの取引価格が
+高くなる。{j}大型モンスター捕獲時に
+ペットになる確率が
+上昇する。{j}※未実装{j}※未実装{j}毒ビンが
+使用可能になる。{j}麻痺ビンが
+使用可能になる。{j}睡眠ビンが
+使用可能になる。{j}火属性攻撃値が上昇する。{j}水属性攻撃値が上昇する。{j}雷属性攻撃値が上昇する。{j}氷属性攻撃値が上昇する。{j}龍属性攻撃値が上昇する。{j}スタミナゲージが一定数値
+以下の時、会心率が上昇し
+回避の無敵時間が伸びる。{j}※未実装{j}剣士武器に「爆撃剣晶」が
+装填可能となり、装填時に
+爆撃剣の効果が発動する。{j}※未実装{j}剣士武器に「猛毒剣晶」が
+装填可能となり、装填時に
+猛毒剣の効果が発動する。{j}剣士武器に「麻痺剣晶」が
+装填可能となり、装填時に
+麻痺剣の効果が発動する。{j}剣士武器に「睡眠剣晶」が
+装填可能となり、装填時に
+睡眠剣の効果が発動する。{j}剣士武器に「火炎剣晶」が
+装填可能となり、装填時に
+火炎剣の効果が発動する。{j}剣士武器に「水激剣晶」が
+装填可能となり、装填時に
+水激剣の効果が発動する。{j}剣士武器に「雷神剣晶」が
+装填可能となり、装填時に
+雷神剣の効果が発動する。{j}剣士武器に「氷結剣晶」が
+装填可能となり、装填時に
+氷結剣の効果が発動する。{j}剣士武器に「龍王剣晶」が
+装填可能となり、装填時に
+龍王剣の効果が発動する。{j}大剣・ハンマーの溜め時間
+と練気・龍気・排熱噴射の
+ゲージ蓄積量が変化する。{j}片手剣の力を
+最大限に引き出すスキル。
+様々な恩恵が得られる。{j}双剣の力を
+最大限に引き出すスキル。
+様々な恩恵が得られる。{j}大剣の力を
+最大限に引き出すスキル。
+様々な恩恵が得られる。{j}太刀の力を
+最大限に引き出すスキル。
+様々な恩恵が得られる。{j}ハンマーの力を
+最大限に引き出すスキル。
+様々な恩恵が得られる。{j}狩猟笛の力を
+最大限に引き出すスキル。
+様々な恩恵が得られる。{j}ランスの力を
+最大限に引き出すスキル。
+様々な恩恵が得られる。{j}ガンランスの力を
+最大限に引き出すスキル。
+様々な恩恵が得られる。{j}ヘヴィボウガンの力を
+最大限に引き出すスキル。
+様々な恩恵が得られる。{j}ライトボウガンの力を
+最大限に引き出すスキル。
+様々な恩恵が得られる。{j}弓の力を
+最大限に引き出すスキル。
+様々な恩恵が得られる。{j}設置アイテムの設置速度が
+上昇し、特定のアイテムの
+調合が必ず成功する。{j}抜刀及び、納刀する速度が
+上昇する。{j}武器と弾の全属性攻撃値が
+増減する。{j}時間経過によるスタミナの
+回復速度が増減する。{j}投げナイフ投擲動作が
+変化し、投げナイフＧの
+調合が可能になる。{j}攻撃が味方に当たった時、
+また味方の攻撃が自分に
+当たった時の挙動が変化。{j}防御力ＤＯＷＮ状態に
+ならない。{j}弾かれモーションを
+無効にする。{j}毒、麻痺、睡眠を含む様々な
+状態異常の効果時間や
+無効化に影響する。{j}泥酔状態にならない、また
+は泥酔状態になった場合の
+効果時間が長くなる。{j}結晶化にならない、
+または結晶化解除に
+影響する。{j}磁力やられを無効化、
+または磁力の引き寄せ、
+引き離しに影響する。{j}特定モンスターの
+落とし穴を無効化する。{j}ラスタ、フォスタ、ホルク
+の復帰スピードが上がる。
+レジェンドラスタは不可。{j}クエスト経過時間に応じて
+攻撃力が増加する。{j}同じエリアにハンター、
+ラスタがいない場合、武器
+倍率上昇。ホルクは対象外。{j}風圧無効、耐震、耳栓
+系スキルが同時に
+発動する。{j}モンスターからの攻撃を
+ガード時、自分の周囲に
+攻撃を反射する。{j}死神の抱擁、攻撃力ＵＰ、
+見切り、回避性能、斬れ味
+レベル＋１が発動する。{j}斬れ味レベル＋１、
+攻撃力ＵＰスキルが
+同時発動する。{j}超速射以外の速射弾の
+発射数が＋１される。{j}攻撃力が増加する。
+攻撃力ＵＰとは
+重複しない。{j}笛吹き名人を発動し、
+さらにクエストメンバーの
+ステータスを強化する。{j}発動スキル数が一定数以下
+時に、複数のスキル効果
+が同時に発動する。{j}防御力が増減し、複数の
+スキルを同時発動する。{j}真根性、火事場を
+同時に発揮する。{j}投擲技術ＵＰ、強肩、
+スローイングナイフを
+同時に発揮する。{j}マイトレプーギーとホルク
+から得られるアイテムに
+影響する。{j}※未実装{j}会心率と会心による
+ダメージが増加する。{j}プレイヤーが力尽きる度に
+ステータスが強化される。{j}通常弾、貫通弾、散弾、
+打撃弾の威力が強化
+される。{j}装填数ＵＰと
+装填速度を
+同時に発動する。{j}特に柔らかい肉質に対して
+攻撃した場合、その肉質を
+さらに変化させる。{j}調合成功率と
+最大弾数生産を
+同時に発動する。{j}釣り名人、焼き師匠、
+地図常備、千里眼が
+同時に発動する。{j}通常弾、貫通弾、徹甲榴弾、
+矢をクリティカル距離で
+ヒットすると威力が増加。{j}{j}回転回避・ステップ回避、
+ジャンプ回避の
+移動距離が伸びる。{j}溜め攻撃の
+攻撃力が上昇し、
+属性値が強化される。{j}弾、ビンの消費を
+無効にすることがある。
+{j}納刀時の移動速度が
+上昇する。{j}味方を攻撃して
+喝をいれることで、
+味方を強化する。{j}攻撃を当てるごとに確率で
+体力を回復し、ダメージを
+受けるまで攻撃力が上昇。{j}体力が一定以上のとき、
+モンスターの肉質に
+有効な属性で攻撃を行う。{j}体力が尽きたとき、
+一定時間、黒焔の力を
+まとって復活する。{j}回復アイテム使用時に、
+赤ゲージが全回復する。
+複数人発動で追加効果。{j}穿龍棍の力を
+最大限に引き出すスキル。
+様々な恩恵が得られる。{j}モンスターを攻撃し続ける
+ことで注意を引きつけ、
+攻撃力が上昇する。{j}紅焔にまつわる
+複数のスキル効果が
+同時に発動する。{j}状態異常属性を持つ
+武器の力を最大限に
+引き出すことができる。{j}堅固な守りで攻撃を無効化
+する。効果後しばらくは
+攻撃力が低下する。{j}アイテム使用時や
+採集時等に攻撃を
+受けても怯まなくなる。{j}ダミー
 ダミー
-ダミー{j}You gain Sharpness for
-Perfect Evading attacks.{j}Recovery Speed+2,
-Immunity, Peerless & atk
-+ def to nearby Hunters{j}※ Load UP
-※Up to Recoil +3{j}Increases the Elemental
-damage on Monster
-weakspots.{j}Aslong your weapon is
-Drawn +20％ damage
-※Stamina will be drained{j}Gain a Damage Boost
-when your HP is 100+
-※ +10％{j}※ Sharpness+1
-※ Up to Razor Sharp +2
-※ Up to Fencing +2{j}Fill a new Gauge to get
-several Buffs.
-Attacking, Movement &
-Dodge Attacks fill it up.{j}Deal additonal Damage
-to Monster afflicted by the
-Status your weapon deals{j}Gain different buffs when
-your weapon is sheathed
-and unsheathed.{j}Negates Blast Status.{j}Affinity beyond 100％ will
-convert into Atk dmg &
-gain. ※ +30％ Affinity{j}Grants a Variety of dmg
-Skills but also disables a
-variety of survival skills.{j}Evading attacks grants a
-temporary Attack Boost.
-※+100 Up to 24sec{j}Negates some freezing
-debuffs.{j}Attacking Monster grants
-an damage aura & buffs
-to you & nearby Hunters.{j}Melee & Bow gain a Large
-Dmg boost but receive
-Higher Sharpness & Coat
-loss.{j}Switch Axe F gets a
-variety of Buffs depending
-on the Skill Level.{j}※Up to Guard +2
-※ Weapon Handling
-※ Stamina{j}※ Critical Distance Boost
-※ Auto-Relaod
-※ Weakness Exploit{j}Successfull Guard Boost
-Attack Damage, being
-Knocked down cancels it.{j}※ Evasion+2
-※ Evasion Distance UP{j}Unsheathed Attacks &
-Guarding Boost Stack
-Dmg ※At Max Stacks
-gain Stamina Buffs.{j}※ Guts + Eating
-※ Movement Speed
-※ Weapon Handling{j}Constant Attacks boost
-Affinity & Critical Hit 
-Multiplier. Its lost when
-not attacking for a while.{j}Constant Attacks on
-Monster parts increase
-weak spot damage.
-※ Does reset{j}※ Status Attack UP
-※ Drug Knowledge
-※ Status Assault{j}Increased Critical
-distance Range, attacks
-inside of it give various
-buffs.{j}Focus + Martial Arts
-and your attacks dont
-stop allies anymore.{j}Attacking, Evading, Block
-increase Attack, Affinity
-Elemental & Status dmg{j}Magnet Spikes get a
-variety of Buffs depending
-on the Skill Level.",
-149,{j}─{j}─{j}─{j}─{j}─{j}─{j}Obtain a Goocoo{j}─{j}─{j}─{j}G Rank Certificate{j}Hunt 100 Velocidrome{j}Hunt 100 Gendrome{j}Hunt 100 Iodrome{j}Hunt 100 Yian Kut-Ku{j}Hunt 100 Blue Yian Kut-Ku{j}Hunt 100 Yian Garuga{j}Hunt 100 Gypceros{j}Hunt 100 Purple Gypceros{j}Hunt 100 Hypnoc{j}Hunt 100 Bright Hypnoc{j}Hunt 100 Silver Hypnoc{j}Hunt 100 Rathian{j}Hunt 100 Pink Rathian{j}Hunt 100 Gold Rathian{j}Hunt 100 Rathalos{j}Hunt 100 Azure Rathalos{j}Hunt 100 Silver Rathalos{j}Hunt 100 Khezu{j}Hunt 100 Red Khezu{j}Hunt 100 Basarios{j}Hunt 100 Gravios{j}Hunt 100 Black Gravios{j}Hunt 100 Monoblos{j}Hunt 100 White Monoblos{j}Hunt 100 Diablos{j}Hunt 100 Black Diablos{j}Hunt 100 Akantor{j}Hunt 100 Tigrex{j}Hunt 100 Espinas{j}Hunt 100 Brown Espinas{j}Hunt 100 White Espinas{j}Hunt 100 Berukyurosu{j}Hunt 100 Pariapuria{j}Hunt 100 Dyuragaua{j}Hunt 100 Gurenzeburu{j}Hunt 100 Bulldrome{j}Hunt 100 Congalala{j}Hunt 100 Blangonga{j}Hunt 100 Rajang{j}Hunt 100 Kamu Orugaron{j}Hunt 100 Nono Orugaron{j}Hunt 100 Gogomoa{j}Slay 100 Daimyo{j}Slay 100 Shogun{j}Slay 100 Shen Gaoren{j}Slay 100 Akura Vashimu{j}Slay 100 Akura Jebia{j}Slay 100 Taikun Zamuza{j}Hunt 100 Plesioth{j}Hunt 100 Green Plesioth{j}Hunt 100 Volganos{j}Hunt 100 Red Volganos{j}Hunt 100 Cephadrome{j}Hunt 100 Abiorugu{j}Slay 100 Chameleos{j}Slay 100 Kirin{j}Slay 100 Kushala{j}Slay 100 Rusted Kushala{j}Slay 100 Teostra{j}Slay 100 Lunastra{j}Slay 100 Fatalis{j}Slay 100 Crimson Fatalis{j}Slay 100 White Fatalis{j}Slay 100 Lao-Shan Lung{j}Slay 100 Ashen Lao-Shan Lung{j}Slay 100 Yamatsukami{j}Slay 100 Rukodiora{j}Hunt 100 Pokaradon{j}Hunt 100 Farunokku{j}Hunt 100 Hyujikiki{j}Hunt 100 Midogaron{j}Hunt 100 Anorupatisu{j}Hunt 100 Giaorugu{j}----{j}Slay 100 Rebidiora{j}----{j}Slay 100 Shantien{j}----{j}Hunt 100 Baruragaru{j}Slay 100 Zerureusu{j}Hunt 100 Gougarf{j}Slay 100 Meraginasu{j}Hunt 1 Forokururu{j}Hunt 100 Forokururu{j}Slay 100 Diorekkusu{j}Slay 100 Garuba Daora{j}Slay 100 Inagami{j}Slay 100 Poborubarumu{j}Slay 100 Varusaburosu{j}Slay 100 Gureadomosu{j}Slay 100 Harudomerugu{j}Hunt 100 Zinogre{j}Hunt 100 Gasurabazura{j}Hunt 100 Deviljho{j}Hunt 100 Brachydios{j}Hunt 100 Toridcless{j}Hunt 100 Barioth{j}Slay 100 Toa Tesukatora{j}Hunt 100 Uragaan{j}Slay 100 Guanzorumu{j}Hunt 100 Nargacuga{j}Hunt 100 Stygian Zinogre{j}Slay 100 Voljang{j}Hunt 100 Zenaserisu{j}Hunt 100 Gore Magala{j}Clear Higanjima Quest 10 Times{j}Slay 100 Keoaruboru{j}Clear One True Love Quest{j}Slay 100 Shagaru Magala{j}Clear Nier Quest 1{j}Clear Nier Quest 2{j}Clear Nier Quest 3{j}Slay 100 Elzelion{j}Slay 100 Amatsu{j}Clear Fate Collab Quest{j}Clear Miku Collab Quest{j}Complete VR Quest{j}Fail VR Quest{j}Clear Fate Collab Quest{j}Hunt 100 Seregios{j}Complete SaGa Collab Quest{j}Slay 100 Bogabadorumu{j}Complete PSO Collab Sub A{j}Complete PSO Collab Quest{j}Complete Rockman 11 Quest{j}Complete Rockman 11 Sub A,
-150,{j}Simple Pattern 1{j}Simple Pattern 2{j}Simple Pattern 3{j}Rest Together{j}Hunter Feast{j}Poogie Landscape{j}Goocoo Landscape{j}Halk Landscape{j}Felyne{j}Hunter's Proof{j}G Hunter's Proof{j}Velocidrome{j}Gendrome{j}Iodrome{j}Yian Kut-Ku{j}Blue Yian Kut-Ku{j}Yian Garuga{j}Gypceros{j}Purple Gypceros{j}Hypnoc{j}Bright Hypnoc{j}Silver Hypnoc{j}Rathian{j}Pink Rathian{j}Gold Rathian{j}Rathalos{j}Azure Rathalos{j}Silver Rathalos{j}Khezu{j}Red Khezu{j}Basarios{j}Gravios{j}Black Gravios{j}Monoblos{j}White Monoblos{j}Diablos{j}Black Diablos{j}Akantor{j}Tigrex{j}Espinas{j}Brown Espinas{j}White Espinas{j}Berukyurosu{j}Pariapuria{j}Dyuragaua{j}Gurenzeburu{j}Bulldrome{j}Congalala{j}Blangonga{j}Rajang{j}Kamu Orugaron{j}Nono Orugaron{j}Gogomoa{j}Daimyo Hermitaur{j}Shogun Ceanataur{j}Shen Gaoren{j}Akura Vashimu{j}Akura Jebia{j}Taikun Zamuza{j}Plesioth{j}Green Plesioth{j}Volganos{j}Red Volganos{j}Cephadrome{j}Abiorugu{j}Chameleos{j}Kirin{j}Kushala Daora{j}Rusted Kushala Daora{j}Teostra{j}Lunastra{j}Fatalis{j}紅龍{j}祖龍{j}Lao-Shan Lung{j}Ashen Lao-Shan Lung{j}Yamatsukami{j}Rukodiora{j}Pokaradon{j}Farunokku{j}Hyujikiki{j}Midogaron{j}Anorupatisu{j}Giaorugu{j}----{j}Rebidiora{j}----{j}Shantien{j}----{j}Baruragaru{j}Zerureusu{j}Gougarf{j}Meraginasu{j}Uruki{j}Forokururu{j}Diorekkusu{j}Garuba Daora{j}Inagami{j}Poborubarumu{j}Varusaburosu{j}Gureadomosu{j}Harudomerugu{j}Zinogre{j}Gasurabazura{j}Deviljho{j}Brachydios{j}Toridcless{j}Barioth{j}Toa Tesukatora{j}Uragaan{j}Guanzorumu{j}Nargacuga{j}Stygian Zinogre{j}Voljang{j}Zenaserisu{j}Gore Magala{j}Higanjima Collab{j}Keoaruboru{j}That Person's Lovely Love{j}Shagaru Magala{j}NieR:Automata{j}2B・9S・ポット{j}Emil{j}Elzelion{j}Amatsu{j}Fate/EXTELLA{j}Hatsune Miku Collab{j}Clash! Strongest Fanged Beast!{j}My Last View{j}Fate/Apocrypha{j}Seregios{j}Imperial SaGa{j}Bogabadorumu{j}Rappy{j}PSO2{j}Rockman11_A{j}Rockman11_B,
-151,"{j}  Basic Info  {j}  Billing　  {j}  Equipment　　{j}  Skill 　　{j}  Caravan {j}  Event　{j}  Points {j}  Other 　{j}  Basic Info  {j}  Quest Gear{j}  Town Gear{j}  Other　{j}  Mission {j}STR_CHECKPOINT_1{j}/{j}Ｇｚ{j}Held  ：{j}ＩＤ　：{j}Color ：{j}ＨＲ　：{j}ＨＲＰ：{j}Mark：{j}Friends Invite：{j}Comment：{j}Course Info：{j}Alliance Info：{j}ＧＲ{j}ＧＲ　：{j}ＧＲＰ{j}Ｇｚ{j}ＳＲ　：{j}----{j}ＧＳＲ：{j}----{j}Location：{j}Weapon：{j}STR_CHECKPOINT_2{j}Show Sub Menu{j}Edit Comment{j}Change Wallpaper{j}Check Rasta{j}STR_CHECKPOINT_3{j}GR Hunter Info{j}About G Rank{j}About GR Quests{j}About Gz{j}About GR & GSR{j}About GR Equipment{j}Settings{j}My House Invitation{j}Title{j}Alias{j}Hunter Info{j}Hunting Horn Songs{j}古の狩猟笛の楽譜{j}My Facilities Info{j}My Tore Info{j}My House Info{j}My Garden Info{j}Review basic knowledge about
-G Rank hunters.{j}Review the information for the
-G Rank Quests.{j}Review the information for the new
-currency given to G Rank hunters.{j}Review the information for GR & GSR.{j}Review the information for
-GR Weapons & GR Armors.{j}My House invitation settings.{j}Set the title.{j}Set the alias.{j}Check Hunting Horn Songs.{j}古の狩猟笛の楽譜を確認します。{j}Check My Tore Points and other
-related information.{j}Renovation of My House.{j}Check information about Goocoos.{j}卓越した技術を持つ優れたハンターに
+ダミー{j}モンスターの攻撃を
+回避することで、
+斬れ味が回復する。{j}一定範囲内にいる味方に
+回復速度+2、状態異常無効
+絶倫の効果等を付与する。{j}装填数ＵＰと
+反動軽減を
+同時に発動する。{j}特に属性が効く部位に攻撃
+した場合、その属性効果を
+さらに変化させる。{j}抜刀中、スタミナが
+減少する代わりに、
+攻撃力が上昇する。{j}体力が一定以上のとき
+攻撃力が上昇する。{j}斬れ味レベル＋１、
+業物、剣術スキルが
+同時に発動する。{j}攻撃や回避を成功し続ける
+とゲージが溜まり、最大に
+なると様々な効果が発動。{j}状態異常中のモンスターに
+状態異常攻撃による
+追加ダメージを与える。{j}抜刀時にスタミナと回避性
+能が、納刀時には回復速度
+と気力回復が発動する。{j}爆破やられにならない。
+{j}会心率が上昇する。また、
+１００％を超えた余剰値に
+応じて攻撃力が上昇する。{j}様々な攻撃強化効果が発動
+するが、一部のスキルが
+使用不能となる。{j}モンスターの攻撃を
+回避することで、
+一定時間攻撃力が上昇する。{j}氷漬け、凍傷にならない。
+ただし、絶凍に対しては
+効果が無い。
+{j}周囲のモンスターには継続
+ダメージ、味方には業物と
+気力回復の効果を与える。
+{j}斬れ味や弓のビンを多く
+消費する代わりに、
+攻撃力が上昇する。{j}スラッシュアックスＦの力
+を最大限に引き出すスキル。
+様々な恩恵が得られる。{j}ガード性能、スタミナ、
+武器捌きスキルが
+同時に発動する。{j}弾、矢がクリティカル距離
+でヒット時に威力が増加。
+スキル「連射」が発動。{j}ガードに成功するたびに、
+攻撃力が上昇する。{j}回避性能、回避距離
+スキルが同時に発動する。{j}攻撃やガード成功で段階的
+に攻撃力が上昇、納刀かア
+イテム使用で効果が消える。{j}食事、移動速度、
+武器捌き、根性スキルが
+同時に発動する。{j}攻撃を当てると段階で
+会心率、会心威力が上昇。
+一定時間当てないと消失。{j}モンスターの一つの部位に
+攻撃を当て続けると、肉質
+が軟化する。{j}変撃、劇物の心得、
+特殊攻撃スキルが
+同時に発動する。{j}新たなクリティカル距離が
+発生、そこで攻撃を当て続
+けると様々な効果が発動。{j}溜め短縮、体術のスキルが
+同時に発動し、攻撃時に
+味方を怯ませなくなる。
+{j}攻撃や回避などを成功
+させ続けることで能力が
+上昇していく。
+{j}マグネットスパイクの力
+を最大限に引き出すスキル。
+様々な恩恵が得られる。",
+149,{j}─{j}─{j}─{j}─{j}─{j}─{j}グークを手に入れよう{j}─{j}─{j}─{j}Ｇ級ハンター認定{j}ドスランポス100頭の狩猟{j}ドスゲネポス100頭の狩猟{j}ドスイーオス100頭の狩猟{j}イャンクック100頭の狩猟{j}イャンクック亜種100頭の狩猟{j}イャンガルルガ100頭の狩猟{j}ゲリョス100頭の狩猟{j}ゲリョス亜種100頭の狩猟{j}ヒプノック100頭の狩猟{j}ヒプノック繁殖期100頭の狩猟{j}ヒプノック希少種100頭の狩猟{j}リオレイア100頭の狩猟{j}リオレイア亜種100頭の狩猟{j}リオレイア希少種100頭の狩猟{j}リオレウス100頭の狩猟{j}リオレウス亜種100頭の狩猟{j}リオレウス希少種100頭の狩猟{j}フルフル100頭の狩猟{j}フルフル亜種100頭の狩猟{j}バサルモス100頭の狩猟{j}グラビモス100頭の狩猟{j}グラビモス亜種100頭の狩猟{j}モノブロス100頭の狩猟{j}モノブロス亜種100頭の狩猟{j}ディアブロス100頭の狩猟{j}ディアブロス亜種100頭の狩猟{j}アカムトルム100頭の狩猟{j}ティガレックス100頭の狩猟{j}エスピナス100頭の狩猟{j}エスピナス亜種100頭の狩猟{j}エスピナス希少種100頭の狩猟{j}ベルキュロス100頭の狩猟{j}パリアプリア100頭の狩猟{j}デュラガウア100頭の狩猟{j}グレンゼブル100頭の狩猟{j}ドスファンゴ100頭の狩猟{j}ババコンガ100頭の狩猟{j}ドドブランゴ100頭の狩猟{j}ラージャン100頭の狩猟{j}カム・オルガロン100頭の狩猟{j}ノノ・オルガロン100頭の狩猟{j}ゴゴモア100頭の狩猟{j}ダイミョウザザミ100匹の狩猟{j}ショウグンギザミ100匹の狩猟{j}シェンガオレン100匹の狩猟{j}アクラ・ヴァシム100匹の討伐{j}アクラ・ジェビア100匹の討伐{j}タイクンザムザ100匹の狩猟{j}ガノトトス100頭の狩猟{j}ガノトトス亜種100頭の狩猟{j}ヴォルガノス100頭の狩猟{j}ヴォルガノス亜種100頭の狩猟{j}ドスガレオス100頭の狩猟{j}アビオルグ100頭の狩猟{j}オオナズチ100体の討伐{j}キリン100頭の討伐{j}クシャルダオラ100体の討伐{j}クシャルダオラ【錆】100体の討伐{j}テオ・テスカトル100体の討伐{j}ナナ・テスカトリ100体の討伐{j}ミラボレアス100体の討伐{j}紅龍100体の討伐{j}祖龍100体の討伐{j}ラオシャンロン100体の討伐{j}ラオシャンロン亜種100体の討伐{j}ヤマツカミ100体の討伐{j}ルコディオラ100体の討伐{j}ポカラドン100頭の狩猟{j}ファルノック100頭の狩猟{j}ヒュジキキ100頭の狩猟{j}ミドガロン100頭の狩猟{j}アノルパティス100頭の狩猟{j}ギアオルグ100頭の狩猟{j}----{j}レビディオラ100体の討伐{j}----{j}シャンティエン100体の討伐{j}----{j}バルラガル100頭の狩猟{j}ゼルレウス100頭の討伐{j}ゴウガルフ100頭の狩猟{j}メラギナス100頭の討伐{j}フォロクルル1頭の狩猟{j}フォロクルル100頭の狩猟{j}ディオレックス100頭の討伐{j}ガルバダオラ100体の討伐{j}イナガミ100体の討伐{j}ポボルバルム100頭の討伐{j}ヴァルサブロス100頭の討伐{j}グレアドモス100頭の討伐{j}ハルドメルグ100体の討伐{j}ジンオウガ100頭の狩猟{j}ガスラバズラ100頭の狩猟{j}イビルジョー100頭の狩猟{j}ブラキディオス100頭の狩猟{j}トリドクレス100頭の狩猟{j}ベリオロス100頭の狩猟{j}トア・テスカトラ100体の討伐{j}ウラガンキン100頭の狩猟{j}グァンゾルム100体の討伐{j}ナルガクルガ100頭の狩猟{j}ジンオウガ亜種100頭の狩猟{j}ヴォージャン100頭の討伐{j}ゼナセリス100頭の狩猟{j}ゴア・マガラ100頭の狩猟{j}彼岸島クエストを10回クリア{j}ケオアルボル100体の討伐{j}あの人の愛のクエストをクリア{j}シャガルマガラ100体の討伐{j}ニーアコラボクエスト1のクリア{j}ニーアコラボクエスト2のクリア{j}ニーアコラボクエスト3のクリア{j}エルゼリオン100体の討伐{j}アマツマガツチ100体の討伐{j}Fateコラボクエストのクリア{j}ミクコラボクエストのクリア{j}VRクエストのクリア{j}VRクエストの失敗{j}Fateコラボクエストのクリア{j}セルレギオス100頭の狩猟{j}SaGaコラボクエストのクリア{j}ボガバドルム100頭の討伐{j}PSO2コラボクエスト（サブＡ）のクリア{j}PSO2コラボクエストのクリア{j}ロックマン11コラボクエストのクリア{j}ロックマン11コラボクエスト（サブＡ）のクリア,
+150,{j}シンプルパターン１{j}シンプルパターン２{j}シンプルパターン３{j}みんなでひとやすみ{j}狩人たちの宴{j}プーギーの風景{j}グークの風景{j}ホルクの風景{j}アイルー{j}ハンターの証{j}G級ハンターの証{j}ドスランポス{j}ドスゲネポス{j}ドスイーオス{j}イャンクック{j}イャンクック亜種{j}イャンガルルガ{j}ゲリョス{j}ゲリョス亜種{j}ヒプノック{j}ヒプノック繁殖期{j}ヒプノック希少種{j}リオレイア{j}リオレイア亜種{j}リオレイア希少種{j}リオレウス{j}リオレウス亜種{j}リオレウス希少種{j}フルフル{j}フルフル亜種{j}バサルモス{j}グラビモス{j}グラビモス亜種{j}モノブロス{j}モノブロス亜種{j}ディアブロス{j}ディアブロス亜種{j}アカムトルム{j}ティガレックス{j}エスピナス{j}エスピナス亜種{j}エスピナス希少種{j}ベルキュロス{j}パリアプリア{j}デュラガウア{j}グレンゼブル{j}ドスファンゴ{j}ババコンガ{j}ドドブランゴ{j}ラージャン{j}カム・オルガロン{j}ノノ・オルガロン{j}ゴゴモア{j}ダイミョウザザミ{j}ショウグンギザミ{j}シェンガオレン{j}アクラ・ヴァシム{j}アクラ・ジェビア{j}タイクンザムザ{j}ガノトトス{j}ガノトトス亜種{j}ヴォルガノス{j}ヴォルガノス亜種{j}ドスガレオス{j}アビオルグ{j}オオナズチ{j}キリン{j}クシャルダオラ{j}クシャルダオラ【錆】{j}テオ・テスカトル{j}ナナ・テスカトリ{j}ミラボレアス{j}紅龍{j}祖龍{j}ラオシャンロン{j}ラオシャンロン亜種{j}ヤマツカミ{j}ルコディオラ{j}ポカラドン{j}ファルノック{j}ヒュジキキ{j}ミドガロン{j}アノルパティス{j}ギアオルグ{j}----{j}レビディオラ{j}----{j}シャンティエン{j}----{j}バルラガル{j}ゼルレウス{j}ゴウガルフ{j}メラギナス{j}ウルキー{j}フォロクルル{j}ディオレックス{j}ガルバダオラ{j}イナガミ{j}ポボルバルム{j}ヴァルサブロス{j}グレアドモス{j}ハルドメルグ{j}ジンオウガ{j}ガスラバズラ{j}イビルジョー{j}ブラキディオス{j}トリドクレス{j}ベリオロス{j}トア・テスカトラ{j}ウラガンキン{j}グァンゾルム{j}ナルガクルガ{j}ジンオウガ亜種{j}ヴォージャン{j}ゼナセリス{j}ゴア・マガラ{j}彼岸島コラボ{j}ケオアルボル{j}あの人の恋と愛{j}シャガルマガラ{j}NieR:Automata{j}2B・9S・ポット{j}エミール{j}エルゼリオン{j}アマツマガツチ{j}Fate/EXTELLA{j}初音ミクコラボ{j}激突！最強の牙獣種！{j}私が見た最後の光景{j}Fate/Apocrypha{j}セルレギオス{j}Imperial SaGa{j}ボガバドルム{j}ラッピー{j}PSO2{j}ロックマン11_A{j}ロックマン11_B,
+151,"{j}　基本情報　{j}　課金情報　{j}　　装備　　{j}　 スキル 　{j} キャラバン {j}　イベント　{j} ポイント等 {j}　 その他 　{j}　基本情報　{j}クエスト装備{j} ロビー装備 {j}　 その他 　{j} ミッション {j}STR_CHECKPOINT_1{j}/{j}Ｇｚ{j}所持金：{j}ＩＤ　：{j}シンボルカラー：{j}ＨＲ　：{j}ＨＲＰ：{j}マーク：{j}フレンド登録制限：{j}コメント：{j}コース情報：{j}同盟情報：{j}ＧＲ{j}ＧＲ　：{j}ＧＲＰ{j}Ｇｚ{j}ＳＲ　：{j}----{j}ＧＳＲ：{j}----{j}現在地詳細：{j}武器　：{j}STR_CHECKPOINT_2{j}サブメニュー表示{j}コメント編集{j}壁紙編集{j}ラスタを確認{j}STR_CHECKPOINT_3{j}Ｇ級ハンター心得{j}Ｇ級とは{j}Ｇ級クエストとは{j}Ｇｚとは{j}ＧＲとＧＳＲとは{j}Ｇ級武具とは{j}設定{j}マイハウス招待{j}称号{j}通り名称号{j}ハンターの心得{j}狩猟笛の楽譜{j}古の狩猟笛の楽譜{j}マイシリーズ情報{j}マイトレ情報{j}マイハウス改装{j}マイガーデン情報{j}Ｇ級ハンターについての
+基礎知識を確認します。{j}Ｇ級クエストについての
+説明を確認します。{j}Ｇ級ハンターに新たに与えられる
+通貨についての説明を確認します。{j}ＧＲとＧＳＲについての
+説明を確認します。{j}Ｇ級武器とＧ級防具についての
+説明を確認します。{j}マイハウスの招待の設定を行います。{j}称号の設定を行います。{j}通り名称号の設定を行います。{j}狩猟笛の楽譜を確認します。{j}古の狩猟笛の楽譜を確認します。{j}現在のマイトレポイントなど
+マイトレに関する情報を確認します。{j}マイハウスの改装を行います。{j}グークに関する情報を確認します。{j}卓越した技術を持つ優れたハンターに
 与えられる称号です。
 Ｇ級になるためには、ＨＲ７に
 なった後、Ｇ級昇格試験を突破する
@@ -1698,11 +1646,14 @@ related information.{j}Renovation of My House.{j}Check information about Goocoos
 【防具】
 全部位を揃えて装備することにより、
 発動スキルの上限を突破することが
-可能です。{j}Ｇ級武具とは：３ページ目{j}STR_CHECKPOINT_4{j}Change wallpaper?{j}Yes{j}　No{j}Rasta Info{j}Rasta Info{j}Equipment Status{j}Cancel Contract{j}Use Items{j}Temporary Contract{j}Already have a contract{j}Name：{j}ID：{j}Temporarily contract the above Player's Rasta?{j}Signed a temporary contract.
-Contract expires on logging out.{j}Cancelled contract.{j}You have an existing contract with a player.
-Cancel temporary contract?{j}Contract has been cancelled.{j}Town Gear{j}Quest Gear{j}Sub Menu{j}Edit Comment{j}Change Wallpaper{j}Confirm Rasta{j}Add Friend{j}Invite to Clan{j}Add to Blacklist{j}Hunter Career{j}Equipment Status{j}Battle Results{j}【Results】{j}HS Rank：{j}VS Participation：{j}【Point Info】{j}G C Points　：{j}Tore Points ：{j}N Points　　：{j}【Remaining Uses】{j}Bonus Points　　：{j}Halk Pots　　 　：{j}Daily Quests　　：{j}%d Remaining{j}Ranking  ：{j}Caravan P：{j}Skill Pts Wep Hea Che Arm Wst Leg Cuff All{j}【Active Skill】{j}Skill Info{j}Skill Description{j}【開発用】ダミー０{j}やっとこのことでＧ級になったハンター。そこで待
+可能です。{j}Ｇ級武具とは：３ページ目{j}STR_CHECKPOINT_4{j}壁紙を変更しますか？{j}はい{j}いいえ{j} ラスタ情報 {j} ラスタ情報 {j}装備ステータス{j}救援契約先{j}貸出中のアイテム{j}ラスタと一時契約する{j}既に同行契約をしています{j}名前：{j}ＩＤ：{j}上記のプレイヤーのラスタと一時契約しますか？{j}一時契約を結びました。
+ログアウトすることで
+自動的に契約は解除されます。{j}契約を取り止めました{j}すでに上記のプレイヤーと一時契約中です。
+契約を解除しますか？{j}契約を解除しました。{j}ロビー装備{j}クエスト装備{j}サブメニュー{j}コメント編集{j}壁紙編集{j}ラスタ確認{j}フレンド登録{j}猟団に勧誘{j}迷惑リスト登録{j}ハンターキャリア{j}装備ステータス確認{j}戦績情報{j}【戦績】{j}狩猟技段位：{j}参加中のVSトーナメント：{j}【ポイント情報】{j}ギルド貢献Ｐ：{j}マイトレＰ　：{j}Ｎポイント　：{j}【残り回数】{j}ポイントボーナス：{j}元気のみなもと　：{j}デイリークエスト：{j}残り%d回{j}知名度：{j}キャラバンＰ：{j}スキル系統　武　頭　胴　腕　腰　脚　プ　計{j}【発動スキル】{j}スキル詳細{j}スキル説明{j}【開発用】ダミー０{j}やっとこのことでＧ級になったハンター。そこで待
 ち受けていたのは、更なる狩猟生活であった。
-飽くなき狩猟生活は続く……。頑張れハンター。{j}【開発用】ダミー２{j}１２３４５６７８９拾１２３４５６７８９弐１２３４５６７８９参{j}【開発用】ダミー４{j}【GR1 Path】{j}To G Rank Challenge{j}Beyond the Aurora{j}－－－－－－－－－－{j}【開発用】ダミー９{j}【%s】{j}【Basic Info】{j}G Rank (GR)：{j}Money (Gz)　：{j}【GRP Info】{j}To Next Class ：{j}－－－－－－－－－－{j}Great Arena：{j}Wins{j}{c05}VS Quests  ： {/c}%4d{c05}Win {/c}%4d{c05}Lose{/c}{j}{c05} (Invalid Quests： {/c}%4d{c05}){/c}{j}%d
+飽くなき狩猟生活は続く……。頑張れハンター。{j}【開発用】ダミー２{j}１２３４５６７８９拾１２３４５６７８９弐１２３４５６７８９参{j}【開発用】ダミー４{j}【ＧＲ１の軌跡】{j}Ｇ級への挑戦{j}オーロラの彼方へ{j}－－－－－－－－－－{j}【開発用】ダミー９{j}【%s】{j}【基本情報】{j}Ｇ級ランク(ＧＲ)：{j}所持金(Ｇｚ)　：{j}【ＧＲＰ情報】{j}次のクラスまで：{j}－－－－－－－－－－{j}大闘技会　　：{j}勝{j}{c05}ＶＳクエスト： {/c}%4d{c05}勝  {/c}%4d{c05}敗{/c}{j}{c05}      (無効クエスト数： {/c}%4d{c05}){/c}{j}%d
 (Next:%d){j}%d
-(Next:%d){j}Caravan Jewel Info：{j}Caravan Skill：{j}Deterioration Time：{j}＜Expired＞{j}Great Arena：　 F　　 W　　 L{j}（Total Time：　　Hrs 　　Min）{j}Great Slay P：{j}Server：{j}Gamer Card{j}Back{j}{c05}GR Suitability Lvl：{/c}　%s{j}None{j}【Conquest Support】{j}About Hybrid Elements{j}Check Hybrid Elements.{j}【Completion Support Effect】{j}【Return World】{j}%04d/%2d/%2d %02d:%02d{j}Extra Rights　　：{j}【Diva Song Effect】{j}【Boost Time】{j}Held Souls ：{j}Total Souls ：{j}Bond Points：{j}Great Caravan ：{j}Tower Survey ：{j}E. Conquest ：{j}Great Slaying ：{j}Bonus Info{j}Back{j}{c05}%-24s：{/c}%d Remaining{j}Koryo Point ：{j}Alias：{j}Title：{j}Combo Display：ON{j}Combo Display：OFF{j}Set the alias.{j}Set the title.{j}ON: Displays Alias & Title together
-OFF: Alias takes priority",
+(Next:%d){j}狩人珠情報：{j}狩人珠スキル：{j}劣化期限：{j}＜期限切れ中＞{j}大闘技会：　　戦　　勝　　敗{j}（総戦闘時間：　　時間　　分）{j}大討伐貢献Ｐ：{j}大討伐－参加場所：{j}ゲーマーカード{j}戻る　　　{j}{c05}Ｇ級適正防具レベル：{/c}　%s{j}なし{j}【極限征伐戦支援効果】{j}複属性とは{j}複属性の性能を確認します。{j}【依頼達成時 期待支援効果】{j}【復帰区利用期限】{j}%04d/%2d/%2d %02d:%02d{j}追加デイリー権利：{j}【歌姫／歌の効果】{j}【ブーストタイム】{j}所持魂数    ：{j}個人総入魂数：{j}絆ポイント  ：{j}パローネ大航祭：{j}天廊遠征録    ：{j}極限征伐戦    ：{j}大討伐        ：{j}ボーナス詳細{j}戻る　　　　{j}{c05}%-24s：{/c}残り%d回{j}功猟ポイント：{j}通り名称号：{j}称号：{j}組み合わせ表示：ON{j}組み合わせ表示：OFF{j}通り名称号の設定を行います。{j}称号の設定を行います。{j}ONにすると通り名称号と称号を組み
+合わせることができます。OFFにすると
+通り名称号から優先的に表示されます。
+",

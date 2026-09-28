@@ -1,6 +1,6 @@
 index,source,target
-0,Item{j}Combine{j}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}Pause{j}Advice,
-1,Item{j}{c10}Combine{j}{/c}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}Pause{j}Advice,
-2,Item{j}Combine{j}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}{c10}Pause{j}Advice,
-3,Item{j}{c10}Combine{j}{/c}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}{c10}Pause{j}Advice,
-4,{c10}Items{j}Combine{j}{/c}Status{j}Quest Confirmation{j}Misc Info{j}Edit Shoutouts{j}Bind F Key{j}Options{j}Unpause{j}Advice,
+0,アイテム{j}調合{j}ステータス{j}クエスト確認{j}各種情報{j}定型文編集{j}Ｆキー登録{j}オプション{j}一時停止{j}アドバイス,
+1,アイテム{j}{c10}調合{j}{/c}ステータス{j}クエスト確認{j}各種情報{j}定型文編集{j}Ｆキー登録{j}オプション{j}一時停止{j}アドバイス,
+2,アイテム{j}調合{j}ステータス{j}クエスト確認{j}各種情報{j}定型文編集{j}Ｆキー登録{j}オプション{j}{c10}一時停止{j}アドバイス,
+3,アイテム{j}{c10}調合{j}{/c}ステータス{j}クエスト確認{j}各種情報{j}定型文編集{j}Ｆキー登録{j}オプション{j}{c10}一時停止{j}アドバイス,
+4,{c10}アイテム{j}調合{j}{/c}ステータス{j}クエスト確認{j}各種情報{j}定型文編集{j}Ｆキー登録{j}オプション{j}停止解除{j}アドバイス,

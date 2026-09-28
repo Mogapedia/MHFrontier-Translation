@@ -123,10 +123,8 @@ l'application à partir du nombre et de l'ordre des marqueurs — le
   `target` vide, ne s'affichent pas en jeu.
 - Lignes ne contenant que ponctuation ou séparateurs (`−−−−−−`,
   espaces, points) : recopier la source telle quelle.
-- Lignes dont la `source` est en anglais (pollution documentée
-  dans CLAUDE.md §« Known data quality issues ») : traduire **depuis
-  l'anglais** en signalant le cas dans le commit ; ne pas inventer
-  de japonais hypothétique.
+- Lignes dont la `source` est un nom interne en anglais
+  (`Z3P_item_089`) : `target` vide, ce sont des emplacements inutilisés.
 
 ## 7. Cohérence terminologique
 

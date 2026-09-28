@@ -69,6 +69,7 @@ scripts/
   migrate_to_index.py      ← one-shot: legacy location-keyed → index-keyed
   migrate_join_markers.py  ← one-shot: <join at="…"> → {j}
   migrate_cp932.py         ← one-shot: re-decode text extracted as shift_jisx0213
+  resync_sources.py        ← re-extract `source` from unpatched game files
 docs/
   glossary.fr.md           ← canonical FR terms — read before translating
   style.fr.md              ← tone, typography, length, control-code rule
@@ -205,9 +206,15 @@ python scripts/fix_accents.py --apply
    like "True 空F Hachimaki・Black" is a correct translation in progress, not
    displaced text. It is recognised by its remaining kanji being a subset of
    its own source's.
-2. **Some `source` rows hold English, not Japanese** (~669 rows across 8
-   sections), from the same patched binary. Fixing needs sequence alignment or
-   a fresh unpatched JP dump.
+2. **English `source` rows — fixed 2026-09.** pac, gao, jmp, rcc and inf were
+   extracted from the same patched binary, so ~3,000 `source` rows held the
+   patch's English and quest text overwritten in place was truncated.
+   `scripts/resync_sources.py` re-extracted every section from the unpatched
+   JP client (`client/pc-z-jp/dat`, whose `mhfdat.bin` decodes byte-identical
+   to the one the dat CSVs came from), and kept the replaced English as `en`
+   targets. `gao/situational_dialogue` was skipped (13 rows here, 15 in the
+   game file). English left in `source` now is in the game itself: `dummy`,
+   `Z3P_item_*` internal names, `HR1～` labels.
 3. **Roman numerals were mojibake in `source` — fixed 2026-08.** FTH read game
    text as `shift_jisx0213`; MHF is CP932. The two diverge in the
    NEC-selected IBM-extended area, so `0xFA4A`–`0xFA53` (Ⅰ–Ⅹ) decoded as rare

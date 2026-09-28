@@ -1,80 +1,82 @@
 index,source,target
-0,{/c}Loading World Select.,{/c}Chargement de la sélection du monde.
-1,{/c}Preparing Network.,{/c}Préparation du réseau.
-2,{/c}Preparing Quest.,{/c}Préparation de la quête.
-3,{/c}Returning to Public Bar... Please wait.,{/c}Retour au bar... Veuillez patienter.
-4,{/c}Returning to Arena... Please wait.,{/c}Retour à l'arène... Veuillez patienter.
-5,{/c}Returning to His Immenseness... Please wait.,{/c}Retour auprès de Son Immensité... Veuillez patienter.
-6,{/c}Returning to Town... Please wait.,{/c}Retour en ville... Veuillez patienter.
+0,{/c}ワールド選択を表示します。,{/c}Chargement de la sélection du monde.
+1,{/c}ネットワークの準備中です。,{/c}Préparation du réseau.
+2,{/c}クエストの準備中です。,{/c}Préparation de la quête.
+3,{/c}大衆酒場に戻ります...しばらくお待ちください。,{/c}Retour au bar... Veuillez patienter.
+4,{/c}アリーナに戻ります...しばらくお待ちください。,{/c}Retour à l'arène... Veuillez patienter.
+5,{/c}大老殿に戻ります...しばらくお待ちください。,{/c}Retour auprès de Son Immensité... Veuillez patienter.
+6,{/c}街に戻ります...しばらくお待ちください。,{/c}Retour en ville... Veuillez patienter.
 7,"
 
 
 
 
-{/c}A connection will be made using the above ID.
-Is this OK?
+{/c}上記のＩＤを使用して接続します。
+よろしいですか？
 ",
-8,"{/c}Connect after receiving new ID.
-A maximum of 3 IDs can be received.
-Is this OK?",
-9,{/c}Logging Out.,{/c}Déconnexion.
-10,{/c}Disconnecting due to idleness.,{/c}Déconnexion pour inactivité.
+8,"{/c}新しいＩＤを取得して接続します。
+ＩＤは最大３つまで取得できます。
+よろしいですか？",
+9,{/c}ログアウトしています。,{/c}Déconnexion.
+10,"{/c}一定時間入力が無かったため
+回線を切断しました。",{/c}Déconnexion pour inactivité.
 11,"{/c}一定時間入力が無かったため
 回線を切断しました。",
-12,"{/c}Preparing to log out.
-Please wait.",
-13,{/c}Disconnected due to instability.,{/c}Déconnecté en raison d'une connexion instable.
+12,"{/c}ログアウトの準備をしています。
+しばらくお待ちください。",
+13,"{/c}       回線が不安定なため       
+サーバーから切断されました。",{/c}Déconnecté en raison d'une connexion instable.
 14,"{/c}       回線が不安定なため       
 サーバーから切断されました。",
-15,{/c}Insufficient Hunter Rank.,{/c}Rang de chasseur insuffisant.
-16,{/c}Entering Mezeporta Square.,{/c}Entrée sur la place de Mezeporta.
-17,{/c}Moving to Mezeporta Square.,{/c}Déplacement vers la place de Mezeporta.
-18,"{/c}Failed to move to Mezeporta Square.
-Disconnected from network.",
-19,"{/c}Failed to swap rooms.
-Returning to original location.",
-20,"{/c}Cannot enter, area full.","{/c}Entrée impossible, zone pleine."
-21,"{/c}Failed to swap servers.
-Returning to original location.",
-22,{/c}Could not return to Mezeporta Square.,{/c}Impossible de retourner à la place de Mezeporta.
-23,{/c}Selected Mezeporta Square unavailable.,{/c}Place de Mezeporta sélectionnée indisponible.
-24,{/c}Cannot move from current Square.,{/c}Impossible de quitter la place actuelle.
-25,{/c}No where to move to.,{/c}Aucune destination disponible.
-26,{/c}Moving to Mezeporta Square.,{/c}Déplacement vers la place de Mezeporta.
-27,{/c}World info received.,{/c}Informations du monde reçues.
-28,{/c}Quest search failed.,{/c}Échec de la recherche de quête.
-29,{/c}Moving…,{/c}Déplacement…
+15,{/c}ハンターランクがエリアとマッチしていません。,{/c}Rang de chasseur insuffisant.
+16,{/c}メゼポルタ広場への入室手続き中です。,{/c}Entrée sur la place de Mezeporta.
+17,{/c}メゼポルタ広場へ移動中です。,{/c}Déplacement vers la place de Mezeporta.
+18,"{/c}メゼポルタ広場への移動に失敗しました。
+ネットワークを切断します。",
+19,"{/c}街への移動に失敗しました。
+元のメゼポルタ広場に戻ります。",
+20,{/c}満員のため入れません。,"{/c}Entrée impossible, zone pleine."
+21,"{/c}指定されたメゼポルタ広場への入室に失敗しました。
+元のメゼポルタ広場に戻ります。",
+22,{/c}元のメゼポルタ広場に戻れませんでした。,{/c}Impossible de retourner à la place de Mezeporta.
+23,{/c}選択メゼポルタ広場へは、現在入れません。,{/c}Place de Mezeporta sélectionnée indisponible.
+24,{/c}現在いるメゼポルタ広場には、移動できません。,{/c}Impossible de quitter la place actuelle.
+25,{/c}移動できるランドがありません。,{/c}Aucune destination disponible.
+26,{/c}メゼポルタ広場へ移動中です。,{/c}Déplacement vers la place de Mezeporta.
+27,{/c}ワールドの情報を取得しています。,{/c}Informations du monde reçues.
+28,{/c}クエスト検索に失敗しました。,{/c}Échec de la recherche de quête.
+29,{/c}移動中です…。,{/c}Déplacement…
 30,"
+                             
 
-
-{/c}The above player will be deleted from the list.
-Is this OK?",
+{/c}上記のプレイヤーをリストから削除します。
+よろしいですか？",
 31,"
- 
+                             
 
-{/c} was deleted. 
+{/c}            を削除しました。            
 ",
-32,{/c}Searching for players...,{/c}Recherche de joueurs...
-33,{/c}No Results Found.,{/c}Aucun résultat.
-34,{/c}Failed to search for specified criteria.,{/c}Échec de la recherche selon les critères indiqués.
-35,{/c}Please enter your 6 digit ID.,{/c}Saisissez votre identifiant à 6 chiffres.
-36,{/c}Please enter a name with 1 or more characters.,{/c}Saisissez un nom d'au moins un caractère.
+32,{/c}プレイヤーを検索しています…。,{/c}Recherche de joueurs...
+33,{/c}検索結果は０件でした。,{/c}Aucun résultat.
+34,{/c}条件検索に失敗しました。,{/c}Échec de la recherche selon les critères indiqués.
+35,{/c}６桁のＩＤを入力してください。,{/c}Saisissez votre identifiant à 6 chiffres.
+36,{/c}１文字以上の名前を入力してください。,{/c}Saisissez un nom d'au moins un caractère.
 37,"
 
 
-{/c}Add the above player to your Friend List?",
-38,{/c}You cannot join your own Friend List.,{/c}Vous ne pouvez pas vous ajouter à votre propre liste d'amis.
-39,{/c}You cannot send to yourself.,{/c}Vous ne pouvez pas vous envoyer à vous-même.
-40,{/c}Friend List registration canceled.,{/c}Enregistrement dans la liste d'amis annulé.
-41,{/c}Friend List registration complete.,{/c}Enregistrement dans la liste d'amis terminé.
-42,{/c}Friend List overwriting complete.,{/c}Écrasement de la liste d'amis terminé.
-43,"{/c}Is it OK to overwrite your Friend List in order to
-register this player?",
-44,"{/c}You will make a new Friend List registration.
-Is this OK?",
-45,"You do not have enough space on your Friend List to
-register any more players. You will have to erase
-existing data before registering any new players.",
+{/c}上記のプレイヤーを、フレンドリストに登録しますか？",
+38,{/c}自分自身を登録することはできません。,{/c}Vous ne pouvez pas vous ajouter à votre propre liste d'amis.
+39,{/c}自分自身に送信することはできません。,{/c}Vous ne pouvez pas vous envoyer à vous-même.
+40,{/c}フレンドリスト登録を中止しました。  ,{/c}Enregistrement dans la liste d'amis annulé.
+41,{/c}フレンドリストへの登録が完了しました。,{/c}Enregistrement dans la liste d'amis terminé.
+42,{/c}フレンドリストの上書きが完了しました。,{/c}Écrasement de la liste d'amis terminé.
+43,"{/c}フレンドリストへ上書き登録して
+よろしいですか？",
+44,"{/c}フレンドリストへ新規登録します。
+よろしいですか？",
+45,"{/c}フレンドリスト登録数に空きがありません。
+新規登録するには
+既存のデータを削除するなどの必要があります。",
 46,"
 
 
@@ -100,237 +102,241 @@ MHFフレンドに登録する
 よろしいですか？",
 59,"{/c}招待を削除します。
 よろしいですか？",
-60,{/c}You're unable to jump to this location.,{/c}Impossible de rejoindre cet emplacement.
+60,{/c}ジャンプすることができない場所です。,{/c}Impossible de rejoindre cet emplacement.
 61,"
 
 
-{/c}The player displayed above will be registered on your
-Blacklist and you will not receive Messages or Chat
-messages from them. Is this OK?",
-62,{/c}Blacklist registration canceled.,{/c}Enregistrement dans la liste noire annulé.
-63,{/c}Blacklist registration complete.,{/c}Enregistrement dans la liste noire terminé.
-64,{/c}Blacklist overwriting complete.,{/c}Écrasement de la liste noire terminé.
-65,"{/c}Is it OK to overwrite your Blacklist in order to
-register this player?",
-66,"{/c}You will make a new Blacklist registration.
-Is this OK?",
-67,"You do not have enough space on your Blacklist to
-register any more players. You will have to erase
-existing data before registering any new players.",
+{/c}上記のプレイヤーを迷惑リストに登録し、
+メール、チャットの受信を拒否します。よろしいですか？",
+62,{/c}迷惑リスト登録を中止しました。,{/c}Enregistrement dans la liste noire annulé.
+63,{/c}迷惑リストへの登録が完了しました。,{/c}Enregistrement dans la liste noire terminé.
+64,{/c}迷惑リストの上書きが完了しました。,{/c}Écrasement de la liste noire terminé.
+65,"{/c}迷惑リストへ上書き登録して
+よろしいですか？",
+66,"{/c}迷惑リストへ新規登録します。
+よろしいですか？",
+67,"{/c}迷惑リスト登録数に空きがありません。
+新規登録するには
+既存のデータを削除するなどの必要があります。",
 68,"
 
 
-The above player will be deleted from your Blacklist.
-Is this OK?",
-69,{/c}Deletion canceled.,{/c}Suppression annulée.
-70,{/c}Deleted.,{/c}Supprimé.
-71,"{/c}You've already selected eight players.
-You cannot select any more.",
-72,{/c}Message sent.,{/c}Message envoyé.
-73,"{/c}The game will close.
-Are you sure?",
-74,"{/c}You're heading for the village (single player mode).
-Is this OK?",
-75,"{/c}The game will close.
-Are you sure?",
-76,"{/c}Returning to land selection.
-Are you sure?",
-77,{/c}Specified player is offline.,{/c}Le joueur indiqué est hors ligne.
-78,"{/c}Sending short mail.
-Are you sure?",
-79,{/c}All searches failed.,{/c}Toutes les recherches ont échoué.
-80,{/c}ID is invalid.,{/c}Identifiant invalide.
-81,{/c}Sending mail…,{/c}Envoi du courrier…
-82,{/c}You cannot send mail to yourself.,{/c}Vous ne pouvez pas vous envoyer de courrier.
-83,{/c}Already entered.,{/c}Déjà entré.
-84,{/c}Do you want to jump?,{/c}Voulez-vous rejoindre ?
-85,{/c}Would you like to join this group?,{/c}Rejoindre ce groupe ?
-86,{/c}Selected group has been disbanded.,{/c}Le groupe sélectionné a été dissous.
-87,{/c}Selected group is full.,{/c}Le groupe sélectionné est plein.
-88,{/c}Initializing…,{/c}Initialisation…
-89,"{/c}<Send Message>
- 
+{/c}上記のプレイヤーを迷惑リストから削除します。
+よろしいですか？",
+69,{/c}削除の手続きを中止しました。,{/c}Suppression annulée.
+70,{/c}削除しました。,{/c}Supprimé.
+71,"{/c}すでに８人まで指定されています。
+これ以上は指定できません。",
+72,{/c}メールを送信しました。,{/c}Message envoyé.
+73,"{/c}ゲームを終了します
+よろしいですか？",
+74,"{/c}村(シングルプレイ)へ向かいます
+よろしいですか？",
+75,"{/c}ゲームを終了します
+よろしいですか？",
+76,"{/c}ランド選択に戻ります。
+よろしいですか？",
+77,"{/c}指定されたプレイヤーは
+オンラインにいません。",{/c}Le joueur indiqué est hors ligne.
+78,"{/c}ショートメールを送信します。
+よろしいですか？",
+79,{/c}全検索に失敗しました。,{/c}Toutes les recherches ont échoué.
+80,{/c}ＩＤが無効です。,{/c}Identifiant invalide.
+81,{/c}メールを送信しています…。,{/c}Envoi du courrier…
+82,{/c}自分へのメールは送信できません。,{/c}Vous ne pouvez pas vous envoyer de courrier.
+83,{/c}入力済みです。,{/c}Déjà entré.
+84,{/c}ジャンプしますか？,{/c}Voulez-vous rejoindre ?
+85,{/c}このグループへ入りますか？,{/c}Rejoindre ce groupe ?
+86,{/c}選択されたグループは解散になりました。,{/c}Le groupe sélectionné a été dissous.
+87,{/c}選択されたグループは満員になりました。,{/c}Le groupe sélectionné est plein.
+88,{/c}設定準備中…。,{/c}Initialisation…
+89,"{/c}＜メール送信＞
+                                                  
 
 
 
 
 ",
 90,"{/c}
- Select From Friend List
+    フレンドリストから選択    
 
-Enter ID
+ＩＤを入力
 
 
-{k01}: Back {k00}: Confirm
+ {k01} 戻る     {k00} 決定
 ",
 91,"{/c}
- Enter Name 
+          名前を入力          
 
-Select From Friend List
+フレンドリストから選択
 
 
-{k01}: Back {k00}: Confirm
+ {k01} 戻る    {k00} 決定
 ",
 92,"{/c}
-Enter ID
+ＩＤを入力
 
- Select From Friend List 
+    フレンドリストから選択    
 
 
-{k01}: Back {k00}: Confirm
+ {k01} 戻る     {k00} 決定
 ",
-93,{/c}You cannot search for yourself.,{/c}Vous ne pouvez pas vous rechercher vous-même.
-94,"{/c}You will be disconnected from the network and returned
-to the Game Menu. Is this OK?",
+93,{/c}自分自身を検索することはできません。,{/c}Vous ne pouvez pas vous rechercher vous-même.
+94,"{/c}      ネットワークを切断して      
+ゲームメニューに戻ります。
+よろしいですか？",
 95,"{/c}
-Search within this Area
+エリア内全検索
 
- Search within this Area (Filtered) 
+      エリア内条件検索      
 
-Search Every Land
+全ランド検索
 
 
-{k01}: Back {k00}: Confirm
+ {k01} 戻る    {k00} 決定
 ",
 96,"{/c}
-Search all Quests.
+クエスト全検索
 
- Search all Quests (Filtered) 
+      クエスト条件検索      
 
 
-{k01}: Back {k00}: Confirm
+ {k01} 戻る    {k00} 決定
 ",
-97,{/c}Searching for Groups...,{/c}Recherche de groupes...
-98,{/c}Unable to find a group corresponding to your criteria.,{/c}Aucun groupe ne correspond à vos critères.
-99,{/c}Retrieving information...,{/c}Récupération des informations...
-100,"{/c}Unable to join the Quest. The town you've chosen has
-been disbanded.",
-101,"{/c}Unable to view Quest details.
+97,{/c}グループを検索しています…。,{/c}Recherche de groupes...
+98,"{/c}該当するグループは
+見つかりませんでした。",{/c}Aucun groupe ne correspond à vos critères.
+99,{/c}詳細情報を取得しています…。,{/c}Récupération des informations...
+100,"{/c}クエストに参加できません。
+選択中の街は解散になりました。",
+101,"{/c}クエストの詳細は確認できません。
 
-The initiated Quest has either been canceled or the
-Hunters have already set out on the Quest.",
-102,{/c}Currently unable to jump to this town.,{/c}Impossible de rejoindre cette ville pour le moment.
-103,{/c}Currently unable to jump to this area.,{/c}Impossible de rejoindre cette zone pour le moment.
-104,{/c}You cannot jump to your current location.,{/c}Vous ne pouvez pas rejoindre votre emplacement actuel.
+受注されているクエストは解散、
+もしくは出発しています。",
+102,{/c}この街には現在ジャンプできません。,{/c}Impossible de rejoindre cette ville pour le moment.
+103,{/c}このエリアには現在ジャンプできません。,{/c}Impossible de rejoindre cette zone pour le moment.
+104,{/c}現在地にジャンプすることはできません。,{/c}Vous ne pouvez pas rejoindre votre emplacement actuel.
 105,"{/c}
-Chat Message Receipt Restrictions
+チャット受信制限
 
- Message Receipt Restrictions
+      メール受信制限      
 
 
-{k01}: Back {k00}: Confirm
+ {k01} 戻る    {k00} 決定
 ",
 106,"{/c}これまでのゲームデータを
 メモリーカード(PS2)に保存しますか？",
-107,{/c}Enter this room?,{/c}Entrer dans cette salle ?
-108,"{/c}Restrictions have been placed on who can
-enter this room. You are unable to enter.",
-109,{/c}The password is incorrect.,{/c}Mot de passe incorrect.
-110,"{/c}You've joined a Quest. Press {k00} at the Quest
-Departure Area to complete Quest departure
-preparations.",
-111,"Quest data does not match. Unable to join Quest.
+107,{/c}   この部屋に入りますか？   ,{/c}Entrer dans cette salle ?
+108,{/c}入室者が制限されているため入室できません。,
+109,{/c}   パスワードが違います。   ,{/c}Mot de passe incorrect.
+110,"{/c}クエストに参加しました。
+出発口前で{k00}を押すと、
+クエスト出発準備が完了します。",
+111,"{/c}クエストデータが一致していないため、
+参加することができません。
 
-1) Refresh event data by leaving and reentering town,
-and you will be able to join the Quest.
+①街へ入り直すことでイベント用データを
+　取得し、参加することが可能です。
 
-2) If the Quest initiator does not have the latest
-Quest data, however, you will be unable to join the
-Quest.",
-112,"{/c}Event Quest download failed.
-You may need to leave and reenter the town in order to
-refresh event data.",
-113,{/c}Quest Requirements not met,{/c}Conditions de quête non remplies
-114,{/c}Quest joining conditions not met.,{/c}Conditions pour rejoindre la quête non remplies.
-115,"{/c}Hunters who do not own monsters are unable to
-enter this Quest.",
-116,"{/c}Hunters who do not own monsters may not act as
-the leader.",
+②もしくは、受注者のクエストデータが
+　最新のイベント用データでないため、
+　クエストに参加することはできません。",
+112,"{/c}イベントクエストのダウンロードに失敗しました。
+街へ入り直すことでイベント用データを
+再度取得しなおす必要があるかもしれません。",
+113,{/c}クエスト受注条件を満たしていません。,{/c}Conditions de quête non remplies
+114,{/c}クエスト参加条件を満たしていません。,{/c}Conditions pour rejoindre la quête non remplies.
+115,"{/c}モンスターを飼っていない人は
+参加することができないクエストです。",
+116,"{/c}モンスターを飼っていない人は
+リーダーを務めることができません。",
 117,{/c}ＷＡＮＴＥＤ契約料が不足しています。,{/c}Frais de contrat WANTED insuffisants.
-118,{/c} Quest reception is crowded.,{/c}Le comptoir des quêtes est bondé.
-119,{/c}Another player has already joined.,{/c}Un autre joueur a déjà rejoint.
-120,{/c}Quest has been abandoned.,{/c}La quête a été abandonnée.
-121,{/c}Connection error.,{/c}Erreur de connexion.
-122,"{c05}Some members are not ready.
-Are you sure you want to depart?",
-123,"{/c}Cancel Quest departure.
-Are you sure?",
-124,{/c}Departing on Quest. Are you sure?,{/c}Départ en quête. Confirmer ?
-125,{/c}You cannot take any exams currently.,{/c}Vous ne pouvez passer aucun examen pour le moment.
-126,"{/c}No Elder Dragon Siege Battles are taking place at the
-moment. Siege Battles take place {c05}between Friday and
-Monday every week{/c}.
-Web Info {c05}(Your browser will be opened.){/c}
-Close",
+118,{/c}    クエスト受注の受付けが混雑しています。    ,{/c}Le comptoir des quêtes est bondé.
+119,{/c}すでに他のプレイヤーが参加しています。,{/c}Un autre joueur a déjà rejoint.
+120,{/c}クエストが解散になりました。,{/c}La quête a été abandonnée.
+121,{/c}通信不良が発生しました。,{/c}Erreur de connexion.
+122,"{c05}準備完了前のメンバーがいます。
+クエストに出発してよろしいですか？",
+123,"{/c}出発準備を解除します。
+よろしいですか？",
+124,{/c}クエストに出発します。よろしいですか？,{/c}Départ en quête. Confirmer ?
+125,{/c}現在、あなたの受ける事ができる試験はありません。,{/c}Vous ne pouvez passer aucun examen pour le moment.
+126,"{/c}現在、古龍の襲撃はありません。
+古龍襲撃は{c05}毎週金曜～月曜{/c}です。
+
+Webで詳細を見る{c05}(ブラウザを起動します)
+{/c}閉じる",
 127,"{/c}メモリーカード差込口~A00の
 メモリーカード(PS2)に
 ＮＥＴファイルをセーブしました。",
-128,{/c}Unable to add the sender of this message.,{/c}Impossible d'ajouter l'expéditeur de ce message.
-129,{/c}Unable to reply to this message.,{/c}Impossible de répondre à ce message.
-130,"{c05}Warning!
+128,{/c}このメールの差出人は登録できません。,{/c}Impossible d'ajouter l'expéditeur de ce message.
+129,{/c}このメールには返信できません。,{/c}Impossible de répondre à ce message.
+130,"{c05}ご注意！
 
-{/c}This service cannot be used on your current plan.
-Would you like to change to the {c02}Hunter Life Plan{c05}?
+{/c}現在のお客様のコースでは
+このサービスのご利用はできません。
+{c02}ハンターライフコース{/c}に変更しますか？
 
-Change Member Rank {c05}(your browser will be opened){/c}
-Close
+会員ランクを変更する{c05}（ブラウザ起動）{/c}
+閉じる
 
-{c05}If you change your plan, you'll need to quit the game
-and log in again.",
-131,"{c05}Warning!
+{c05}コースを変更された場合は、
+ゲームを終了して再ログインして下さい。",
+131,"{c05}ご注意！
 
-{/c}This service is only available to those who play in
-Certified MHF NetCafes.
+{/c}このサービスは、
+MHF公認ネットカフェでプレイ
+されているお客様専用です。
 
-About Certified MHF NetCafes
-Close
+MHF公認ネットカフェについて
+閉じる
 
-{c05}Please connect from your nearest Certified MHF
-NetCafe.",
-132,{/c}Operation cancelled.,{/c}Opération annulée.
-133,{/c}Processing.,{/c}Traitement en cours.
-134,{/c}Connection error.,{/c}Erreur de connexion.
-135,{/c}Searching.,{/c}Recherche en cours.
-136,{/c}Return to Mezeporta Square?,{/c}Retourner à la place de Mezeporta ?
-137,"{/c}You cannot select a name that contains more than eight
-characters.",
+{c05}お近くのMHF公認ネットカフェから
+接続してください。",
+132,{/c}解除しています。,{/c}Opération annulée.
+133,{/c}手続き中です。,{/c}Traitement en cours.
+134,{/c}正しく接続できませんでした。,{/c}Erreur de connexion.
+135,{/c}検索中です。,{/c}Recherche en cours.
+136,{/c}メゼポルタ広場に戻りますか？,{/c}Retourner à la place de Mezeporta ?
+137,"{/c}半角８文字をこえる
+名前は選択できません。",
 138,,
 139,"{/c}
-Go to the Smithy
+武具工房へ移動
 
- {c10}Go to the Elder Palace 
+      {c10}大老殿へ移動      
 
 
-{/c}{k01}: Back {k00}: Confirm
+ {/c}{k01} 戻る    {k00} 決定
 ",
 140,"{/c}
-Go to the Smithy
+武具工房へ移動
 
- Go to the Elder Palace 
+      大老殿へ移動      
 
 
-{/c}{k01}: Back {k00}: Confirm
+ {/c}{k01} 戻る    {k00} 決定
 ",
 141,"{/c}
-Go to the Tavern
+大衆酒場へ移動
 
- {c10}Go to the Elder Palace
+      {c10}大老殿へ移動      
 
 
-{/c}{k01}: Back {k00}: Confirm
+ {/c}{k01} 戻る    {k00} 決定
 ",
 142,"{/c}
-Go to the Tavern
+大衆酒場へ移動
 
- {c10}Go to the Elder Palace
+      大老殿へ移動      
 
 
-{/c}{k01}: Back {k00}: Confirm
+ {/c}{k01} 戻る    {k00} 決定
 ",
-143,"{/c}This Quest's acceptance period has ended.
-Go to the Clan Counter to cancel the Quest, then
-initiate another Quest.",
-144,{/c}You do not meet this Quest's special conditions.,{/c}Vous ne remplissez pas les conditions spéciales de cette quête.
+143,"{/c}このクエストの受付期間は終了しています。
+ギルド受付でクエストキャンセル手続きを行ない、
+新たなクエストを受注してください。",
+144,{/c}  クエストの特殊条件と合っていません。  ,{/c}Vous ne remplissez pas les conditions spéciales de cette quête.
 145,"{/c}ランドへ移動(別の広場)
 
 ワールドへ移動(別の区画)
@@ -344,375 +350,387 @@ initiate another Quest.",
  {/c}{k00} 決定    {k01} 戻る
 ",
 146,"{/c}
-Exit Game
+ゲームを終了
 
-Return to Login Screen
+ログイン画面に戻る
 
 
- {k00} Confirm {k01} Cancel
+ {k00} 決定    {k01} 戻る
 ",
-147,{/c} Would you like to join this group?,{/c}Rejoindre ce groupe ?
-148,"{/c}Join this group?
-{c02}(You may need to change world or land.)",
-149,"{/c}Your Hunter Rank does not meet the joining
-conditions for this group.",
-150,"{/c}Would you like to jump?
-{c02}(You may need to change land.)",
-151,{/c}Would you like to jump?,{/c}Voulez-vous rejoindre ?
-152,{/c}Enter this tavern?,{/c}Entrer dans cette taverne ?
-153,"{/c}Are you sure you want to return this monster to
-the wild?",
-154,"{/c}The leader is currently choosing what food to
-give to the monster. Please wait a moment.",
-155,{/c}Please wait a moment.,{/c}Veuillez patienter un instant.
+147,{/c} このグループに参加しますか？ ,{/c}Rejoindre ce groupe ?
+148,"{/c}このグループに参加しますか？
+{c02}(ワールド、またはランドを移動する必要があります)",
+149,"{/c}グループの参加条件に
+ハンターランクがマッチしていません。",
+150,"{/c}ジャンプしますか？
+{c02}(ランドを移動する必要があります)",
+151,{/c}ジャンプしますか？,{/c}Voulez-vous rejoindre ?
+152,{/c}    この酒場に入りますか？    ,{/c}Entrer dans cette taverne ?
+153,{/c}   本当に野にかえしますか？   ,
+154,"{/c}リーダーがモンスターに与えるエサを選択中です。
+そのまましばらくお待ちください。",
+155,{/c}しばらくそのままお待ちください。,{/c}Veuillez patienter un instant.
 156,"{/c}
-Public Bar in this Land
+この広場にある大衆酒場
 
-Search for a Public Bar
+大衆酒場を検索
 
 
- {/c}{k00} Confirm {k01} Back
+ {/c}{k00} 決定    {k01} 戻る
 ",
-157,{/c}Invalid password.,{/c}Mot de passe invalide.
-158,{/c}Great Arena events only take place in the evening.,{/c}Les événements de la Grande Arène n'ont lieu que le soir.
-159,"{/c}You do not meet the special conditions. It is
-forbidden both to take items used for capturing
-into the Great Arena and to make use of them.
-Please do not bring items used for capturing into
-the Great Arena.",
-160,"{/c}This player has blocked befriending.
-You will need to receive a Message from this
-player if you want to register them as a friend.",
-161,{/c}Please select a recruitment notice.,{/c}Sélectionnez une annonce de recrutement.
-162,"{/c}Would you like to reset the high score and
-clear time for this training exercise?",
-163,{/c}You are no longer able to join this Quest.,{/c}Vous ne pouvez plus rejoindre cette quête.
-164,{/c}You can Safeguard up to 20 Messages.,{/c}Vous pouvez protéger jusqu'à 20 messages.
-165,{/c}Apply the Safeguard?,{/c}Appliquer la protection ?
-166,{/c}Remove the Safeguard?,{/c}Retirer la protection ?
-167,{/c}This Message is Safeguarded.,{/c}Ce message est protégé.
-168,{/c}Are you sure you want to delete this Message?,{/c}Voulez-vous vraiment supprimer ce message ?
-169,{/c}Automatic selection failed.,{/c}Échec de la sélection automatique.
-170,"Please enter {c02}user ID{/c} and {c02}password{/c}.
-User ID:
-Password:
-Done",
-171,{/c}There are no Quests that can be initiated.,{/c}Aucune quête ne peut être lancée.
-172,{/c}You are not able to join.,{/c}Vous ne pouvez pas rejoindre.
-173,"{/c}You do not meet the initiation conditions for this
-Quest. Please carry out the Event Code authentication
-procedure for this campaign.",
-174,"{/c}Clan could not be accessed, or is currently
-unavailable due to not having joined one.",
-175,"{/c}You have entered an invalid name, or the name you
-entered contains invalid text.",
-176,"{/c}Clan creation successfully completed.
-Please check the Clan Menu.",
-177,"{/c}Your application to join a Clan was successfully
-completed. Please wait for a Message from the Clan
-leader confirming your acceptance.",
-178,{/c}Your application to join a Clan has been withdrawn.,{/c}Votre demande d'adhésion à un clan a été retirée.
-179,{/c}Your application to join a Clan has been processed.,{/c}Votre demande d'adhésion à un clan a été traitée.
-180,"{/c}A Clan with this name will be created.
-Is this OK?",
-181,"{/c}The Clan creation procedure was unsuccessful.
-Please try again.",
-182,"{/c}Disband Clan.
-Confirm?
-{c05}※All Clan Members will be removed.{/c}",
-183,"{/c}The Clan is about to be disbanded.
-Are you sure this is OK?
-{c05}*You will be unable to create or join any Clans for
-a little while.{/c}",
-184,"{/c}Clan successfully disbanded.
+157,{/c}   無効なパスワードです。   ,{/c}Mot de passe invalide.
+158,"{/c}     大闘技会は夜のみの開催     
+となっています。",{/c}Les événements de la Grande Arène n'ont lieu que le soir.
+159,"{/c}特殊条件を満たしていません。
+大闘技会では捕獲用アイテムの持ち込み
+及び、使用は禁止されています。
+    捕獲用アイテムを所持していない状態で    
+参加してください。",
+160,"{/c}フレンド登録を制限しているプレイヤーです。
+このプレイヤーから送られたメールからしか
+フレンド登録することはできません。",
+161,{/c}  募集文を選択してください。  ,{/c}Sélectionnez une annonce de recrutement.
+162,"{/c}    この演習のハイスコアとクリアタイムを    
+リセットしますか？",
+163,{/c}このクエストへの参加受付は終了しました。,{/c}Vous ne pouvez plus rejoindre cette quête.
+164,{/c}保護設定が可能なメールは20件以下です,{/c}Vous pouvez protéger jusqu'à 20 messages.
+165,{/c}保護設定にしますか？,{/c}Appliquer la protection ?
+166,{/c}保護設定を解除しますか？,{/c}Retirer la protection ?
+167,{/c}このメールは保護されています,{/c}Ce message est protégé.
+168,{/c}このメールを削除してよろしいですか？,{/c}Voulez-vous vraiment supprimer ce message ?
+169,{/c}自動選択に失敗しました。,{/c}Échec de la sélection automatique.
+170,"{c02}ユーザーＩＤ{/c}と{c02}パスワード{/c}を入力して下さい
+ユーザーＩＤ：　　　　　
+パスワード：　　　　　　
+入力完了
 
-{c05}You will be unable to create or join any Clans for
-a little while.{/c}",
-185,"{/c}The procedure was unsuccessful.
-The Clan was not disbanded.",
-186,"{/c}Already joined a Clan
-or have applied to one",
-187,"{/c}Unable to use. Either you are already a Clan member,
-have applied to join a Clan, or have created a Clan.",
-188,"{/c} Procedure failed.
-Please try again in a moment.",
-189,"{/c}You are applying to join this Clan.
-Are you sure this is OK?",
-190,{/c}Process interrupted.,{/c}Processus interrompu.
+
+",
+171,{/c}受注可能なクエストがありません,{/c}Aucune quête ne peut être lancée.
+172,{/c}参加権利がありません,{/c}Vous ne pouvez pas rejoindre.
+173,"{/c}クエストの受注条件を満たしていません。
+当該キャンペーンのシリアル認証を行って下さい。",
+174,"{/c}猟団データを取得できなかった、または
+猟団に加入していないため使用できません。",
+175,{/c}無効な名前または文字列が含まれています。,
+176,"{/c}猟団の作成は正常に終了しました。
+「猟団メニュー」をご確認ください。",
+177,"{/c}猟団への加入申請は正常に行われました。
+猟団からの入団許可メールの通知をお待ち下さい。",
+178,{/c}猟団への加入申請を取り消しました。,{/c}Votre demande d'adhésion à un clan a été retirée.
+179,{/c}猟団への加入申請処理を適用しました。,{/c}Votre demande d'adhésion à un clan a été traitée.
+180,"{/c}この名前の猟団を作成します。
+よろしいですか？",
+181,"{/c}猟団作成処理が正常に終了しませんでした。
+再度お試し下さい。",
+182,"{/c}猟団を解散します。
+よろしいですか？
+{c05}※猟団員も全員除名処分となります。{/c}",
+183,"{/c}猟団の解散を実行します。本当によろしいですか？
+{c05}※しばらくの間、猟団の作成または
+加入申請を行うことができなくなります。{/c}",
+184,"{/c}猟団の解散は正常に終了しました。
+
+{c05}しばらくの間、猟団の作成または
+加入申請を行うことはできません。{/c}",
+185,"{/c}処理が正常に終了しませんでした。
+猟団の解散に失敗しました。",
+186,"{/c}すでに猟団に加入している、もしくは
+加入申請中のため使用できません。",
+187,"{/c}猟団に加入申請中か、すでに猟団を作成
+または加入しているため使用できません。",
+188,"{/c}処理に失敗しました。
+しばらくしてから再度お試し下さい。",
+189,"{/c}猟団へ加入申請します。
+本当によろしいですか？",
+190,{/c}処理を中断しました。,{/c}Processus interrompu.
 191,"
 
 
-{/c}Failed to process the above player.
-They may have withdrawn their application to join.",
+{/c}上記のプレイヤーの処理に失敗しました。
+加入申請が取り消されている場合があります。",
 192,"
 
 
-{/c}Clan member(s) will be expelled. Is this OK?",
-193,"{/c}Expelling Clan member(s).
-{c05}This cannot be undone. Are you sure you want
-to continue?",
-194,{/c}Clan members successfully expelled.,{/c}Membres du clan expulsés avec succès.
-195,"{/c}Your application will be withdrawn.
-Are you sure this is OK?",
-196,"{/c}You will resign as Clan leader. Is this OK?
-{c05}*Upon resigning, you will become an ordinary
-Clan member.",
-197,"{/c}You are about to resign as Clan leader.
-Are you sure you want to proceed?
-{c05}* You will not be able to resign if there is no
-member who wants to replace you as leader.",
-198,"{/c}Unable to resign as Clan leader.
-{c05}* Either there were no members who wanted to replace
-you as leader, or the processing of your resignation
-failed.",
+{/c}退団（除名）処理を行います。よろしいですか？",
+193,"
+
+
+{/c}退団（除名）を実行します。
+{c05}取り消しはできません。本当によろしいですか？{/c}",
+194,{/c}退団（除名）処理は正常に終了しました。,{/c}Membres du clan expulsés avec succès.
+195,{/c}加入申請を取り消します。本当によろしいですか？,
+196,"{/c}猟団長を辞任します。
+よろしいですか？
+{c05}※辞任した場合通常の猟団員となります。",
+197,"{/c}猟団長の辞任を実行します。本当によろしいですか？
+{c05}※次の猟団長候補者がいない場合、辞任できません。
+{/c}",
+198,"{/c}猟団長を辞任できませんでした。
+{c05}※辞任処理に失敗したか、
+次の猟団長候補がいない場合があります。",
 199,"
 
 
-{/c}You have resigned as Clan leader.
-The above player is the new Clan leader.",
-200,"{/c}That Clan name is already in use.
-Please choose a different Clan name.",
-201,"{c05}Warning!{/c}
+{/c}猟団長を辞任しました。
+上記のプレイヤーが新しい猟団長となりました。",
+200,"{/c}その猟団名はすでに使われています。
+違う名前をご使用ください。",
+201,"{c05}ご注意！{/c}
 
-You cannot create a Clan unless your Hunter Rank
-is {c05}one or higher{/c}.",
-202,"{/c}Learn more at the Official Website.
-{c05}(Launch Web Browser/NOT FUNCTIONAL!){/c}",
-203,"{/c}You are temporarily unable to create Clans or apply to
-join Clans.
+ＨＲ（ハンターランク）が{c05}１以上{/c}
+なければ猟団の作成はできません。",
+202,"{/c}公式サイト上に設置されている、
+対象情報を表示します。
+{c05}(ブラウザを起動します){/c}",
+203,"{/c}しばらくの間、猟団の作成または
+加入申請を行うことはできません。
 
-Please select {c05}View Clan Rules{/c} for details.",
-204,"{/c}Unable to donate points, as you are not a Clan member.",{/c}Impossible de faire un don de points : vous n'êtes pas membre d'un clan.
-205,"{/c}You will donate the selected Clan Points.
+詳しくは{c05}「猟団のきまり」{/c}を
+ごらんください。{/c}",
+204,"{/c}猟団に加入していないため
+ポイントを寄付することはできません。",{/c}Impossible de faire un don de points : vous n'êtes pas membre d'un clan.
+205,"{/c}指定した猟団ポイントを寄付します。
 
-Is this OK?",
-206,"{/c}Clan Points that have been donated cannot be returned.
-Are you sure you want to donate?
-{c05}*If your donation takes your Clan's total Points over
-the upper limit, any excess Clan Points will be
-returned to you.",
-207,{/c}Clan Point donation complete.,{/c}Don de points de clan effectué.
-208,{/c}Clan Point donation failed.,{/c}Échec du don de points de clan.
-209,"{/c}Clan Point donation complete.
+よろしいですか？",
+206,"{/c}一度でも寄付した猟団ポイントは
+返却されることはありません。
+本当に寄付しますか？
+{c05}※上限に達していた場合は差額が返却されます。{/c}",
+207,{/c}猟団ポイントの寄付が完了しました。,{/c}Don de points de clan effectué.
+208,{/c}猟団ポイントの寄付に失敗しました。,{/c}Échec du don de points de clan.
+209,"{/c}猟団ポイントの寄付が完了しました。
 
-{c05}*Your donation took your Clan's total Points over the
-upper limit. The excess Clan Points have been returned.",
-210,{/c}Unable to find user.,{/c}Utilisateur introuvable.
-211,"{/c}Motto editing will end after confirmation.
-Confirm?",
-212,"{/c}Once confirmed, it cannot be changed for seven days.
-Is this OK?",
-213,"{/c}Jump to the location of your Clan Hall.
-{c02}(You may have to change Land)",
-214,{/c}Returning to Clan Room... Please wait a moment...,{/c}Retour à la salle du clan... Veuillez patienter...
-215,{/c}Everything has been sent to your Item Box.,{/c}Tout a été envoyé dans votre boîte d'objets.
-216,{/c}There are no items to be sent.,{/c}Aucun objet à envoyer.
-217,{/c}Items were not placed in your Item Box.,{/c}Les objets n'ont pas été placés dans votre boîte d'objets.
-218,"{/c}Everything will be sent to your Item Box.
-Is this OK?",
-219,"{/c}This feature cannot be used at the moment.
-Please wait for a forthcoming update.",
-220,"{/c}Currently unable to use. In use by another Clan
-member. Please wait for them to finish before using.",
-221,{/c}x x Not in Use x x,{/c}x x Non utilisé x x
-222,"{/c}Communication Failed.
-Please try later.",
-223,"{/c}Communicating.
-Please wait.",
-224,"{/c}Please wait until after maintenance
-to enter the Clan Hall.",
-225,"{/c}The Clan Hall has been in a state that does not
-satisfy its maintenance conditions for over 3 months.
-As a result, you are currently unable to enter.",
-226,"{c05}Warning!
-{/c}You are unable to use this service on your
-current plan.
+{c05}※上限値を超えたため、あまった
+猟団ポイントが返却されました。",
+210,{/c}ユーザーが見つかりませんでした。,{/c}Utilisateur introuvable.
+211,"{/c}決定後、モットー編集を終了します。
+よろしいですか？",
+212,"{/c}終了すると７日間は変更できません。
+よろしいですか？",
+213,"{/c}猟団部屋の設置されている
+場所へジャンプします。
+{c02}(ランドを移動する必要があります)",
+214,{/c}猟団部屋に戻ります...しばらくお待ちください。,{/c}Retour à la salle du clan... Veuillez patienter...
+215,{/c}全てアイテムボックスに送りました。,{/c}Tout a été envoyé dans votre boîte d'objets.
+216,{/c}送るアイテムがありません。,{/c}Aucun objet à envoyer.
+217,{/c}アイテムボックスに収まりません。,{/c}Les objets n'ont pas été placés dans votre boîte d'objets.
+218,"{/c}全てアイテムボックスに送ります。
+よろしいですか？",
+219,"{/c}この機能は現在使用できません。
+今後のアップデートをお待ちください。",
+220,"{/c}他の猟団員が操作中のため、
+現在は利用できません。
+終了を待ってからご利用ください。",
+221,{/c}ｘｘ未使用ｘｘ,{/c}x x Non utilisé x x
+222,"{/c}通信が失敗しました。
+しばらくしてから再度お試し下さい。",
+223,"{/c}通信中です。
+しばらくお待ち下さい。",
+224,"{/c}猟団部屋は、定期メンテナンス後に
+入室可能となります。
+しばらくお待ち下さい。",
+225,"{/c}猟団部屋の維持条件に満たない状態が
+３ヶ月経過し、改善されていないので、
+現在は猟団部屋に入れません。",
+226,"{c05}ご注意！
+{/c}現在のお客様のコースだけでは
+このサービスのご利用はできません。
 
-You can use this service by purchasing the
-{c02}Extra Plan{/c}.
+{c02}エクストラコース{/c}を別途ご購入いただく事で
+サービスを利用する事ができます。
 
-Purchase {c05} (Your browser will be opened.){/c}
-View Details Online {c05}(Your browser will be opened.){/c}
-Close
+購入する{c05}（ブラウザ起動）{/c}
+Webで詳細{c05}（ブラウザ起動）{/c}
+閉じる
 
-{c05}If you change to a new plan, you will need to
-quit the game and log in again.
+{c05}コースをご購入された場合は、
+広場入口のガイドから「利用権情報の更新」を選ぶか
+ゲームを終了して再ログインして下さい。
 
-{c05}Any items from when you have used the
-service in the past will have been saved.",
-227,"{c05}Warning!
-{/c}You are unable to use this service on your
-current plan.
+{c05}すでに預けられているアイテムは
+再度ご利用まで保管されています。",
+227,"{c05}ご注意！
+{/c}現在のお客様のコースだけでは
+このサービスのご利用はできません。
 
-You can use this service by purchasing the
-{c02}Extra Plan{/c}.
+{c02}エクストラコース{/c}を別途ご購入いただく事で
+サービスを利用する事ができます。
 
-Purchase {c05} (Your browser will be opened.){/c}
-View Details Online {c05}(Your browser will be opened.){/c}
-Close
+購入する{c05}（ブラウザ起動）{/c}
+Webで詳細{c05}（ブラウザ起動）{/c}
+閉じる
 
-{c05}If you change to a new plan, you will need to
-quit the game and log in again.
+{c05}コースをご購入された場合は、
+広場入口のガイドから「利用権情報の更新」を選ぶか
+ゲームを終了して再ログインして下さい。
 
-{c05}Items from when you have used the service
-in the past can only be retrieved from the
-Item Box in your Hunter House.",
-228,"{c05}Warning!
-{/c}You are unable to use this service on your
-current plan.
+{c05}すでに預けられているアイテムは、
+アイテムボックスや工房ボックスからしか出せません。",
+228,"{c05}ご注意！
+{/c}現在のお客様のコースだけでは
+このサービスのご利用はできません。
 
-You can use this service by purchasing the
-{c02}Extra Plan{/c}.
+{c02}エクストラコース{/c}を別途ご購入いただく事で
+サービスを利用する事ができます。
 
-Purchase {c05} (Your browser will be opened.){/c}
-View Details Online {c05}(Your browser will be opened.){/c}
-Close
+購入する{c05}（ブラウザ起動）{/c}
+Webで詳細{c05}（ブラウザ起動）{/c}
+閉じる
 
-{c05}If you change to a new plan, you will need to
-quit the game and log in again.
+{c05}コースをご購入された場合は、
+広場入口のガイドから「利用権情報の更新」を選ぶか
+ゲームを終了して再ログインして下さい。
 
-{c05}You will be able to use any items that you bought when
-using this service in the past.",
-229,{/c}Clan Hall cannot be used.,{/c}La salle du clan ne peut pas être utilisée.
-230,{/c}Only available to Clan Leader.,{/c}Réservé au chef de clan.
-231,{/c}In use by another player.,{/c}Utilisé par un autre joueur.
-232,{/c}Hunting Competition is not being held.,{/c}Aucune compétition de chasse n'est en cours.
-233,"{c05}Warning!
+{c05}すでに以前ご利用になり、その際にご購入
+いただいた品物は、そのままご使用いただけます。",
+229,{/c}猟団部屋を使用することはできません。,{/c}La salle du clan ne peut pas être utilisée.
+230,{/c}猟団長以外は実行出来ません。,{/c}Réservé au chef de clan.
+231,{/c}他のユーザーがアクセス中です。,{/c}Utilisé par un autre joueur.
+232,{/c}現在、公式狩猟大会は開催されていません。,{/c}Aucune compétition de chasse n'est en cours.
+233,"{c05}ご注意！
 
-{/c}This service cannot be used on your current plan.
-Would you like to change to the {c02}Hunter Life Plan{c05}?
+{/c}現在のお客様のコースでは
+このサービスのご利用はできません。
+{c02}ハンターライフコース{/c}に変更しますか？
 
-Change Member Rank {c05}(Your browser will be opened.){/c}
-Close
+会員ランクを変更する{c05}（ブラウザ起動）{/c}
+閉じる
 
-{c05}If you change to a new plan, you will need to
-quit the game and log in again.
+{c05}コースを変更された場合は、
+ゲームを終了して再ログインして下さい。
 
-If you have used the service before, any items that
-you had will be saved so that you can use them
-again.",
-234,"{c05}Attention!
+また以前ご利用になり、その間に預けてある
+アイテムがある場合、そのアイテムは
+再度ご利用まで保管されています。",
+234,"{c05}ご注意！
 
-{/c}In order to use this service, you will need to buy
-the{c02}Hunter Life Plan{/c} and the {c02}Extra Plan{/c}.
+{/c}このサービスをご利用になるには
+{c02}ハンターライフコース{/c}と{c02}エクストラコース{/c}の
+購入が必要になります。
 
-Change Member Rank {c05}(Your browser will be opened.){/c}
-Close
+会員ランクを変更する{c05}（ブラウザ起動）{/c}
+閉じる
 
-{c05}If you change to a new plan, you will need to
-quit the game and log in again.
+{c05}コースを変更された場合は、
+ゲームを終了して再ログインして下さい。
 
-If you have used the service before, any items that
-you had will be saved so that you can use them again.",
-235,"{c05}Warning!
-{/c}You are unable to use this service on your
-current plan.
+また以前ご利用になり、その間に預けてある
+アイテムがある場合、そのアイテムは
+再度ご利用まで保管されています。",
+235,"{c05}ご注意！
+{/c}現在のお客様のコースだけでは
+このサービスのご利用はできません。
 
-You can use this service by purchasing the
-{c02}Extra Plan{/c}.
+{c02}エクストラコース{/c}を別途ご購入いただく事で
+サービスを利用する事ができます。
 
-Purchase {c05} (Your browser will be opened.){/c}
-View Details Online {c05}(Your browser will be opened.){/c}
-Close
+購入する{c05}（ブラウザ起動）{/c}
+Webで詳細{c05}（ブラウザ起動）{/c}
+閉じる
 
-{c05}If you change to a new plan, you will need to
-quit the game and log in again.",
-236,{/c}Please accept your Extra Quest reward.,{/c}Veuillez accepter votre récompense de quête Extra.
-237,"{/c}Unable to use. Either your Pack data was unobtainable
-or you are not part of a Pack.",
-238,"{/c}You have entered an invalid name, or the name you
-entered contains invalid text.",
-239,"{/c}Pack creation successfully completed.
-Please check Pack Info.",
-240,"{/c}Your application to join a Pack was successfully
-completed. Please wait for an acceptance message from
-the Pack.",
-241,{/c}You have withdrawn your application to join a Pack.,{/c}Vous avez retiré votre demande d'adhésion à une alliance.
-242,{/c}Your application to join a Pack was processed.,{/c}Votre demande d'adhésion à une alliance a été traitée.
-243,"{/c}A Pack with this name will be created.
-Is this OK?",
-244,"{/c}The Pack creation procedure was unsuccessful.
-Please try again.",
-245,"{/c}Your Pack will be disbanded.
-Is this OK?
-{c05}*All Clans will be expelled from the Pack.",
-246,"{/c}Your Pack is about to be disbanded.
-Are you sure this is OK?
-{c05}*You will be unable to create or join any Packs for
-a little while.{/c}",
-247,"{/c}Pack successfully disbanded.
-{c05}*You will be unable to create or join any Packs for
-a little while.{/c}",
-248,"{/c}The procedure was unsuccessful.
-The Pack was not disbanded.",
-249,"{/c}Only the leaders of Clans with a Clan Rank of 1 or
-higher are able to create Packs.",
-250,"{/c}Unable to use. Either you are already part of a Pack,
-or you have applied to become part of a Pack.",
-251,"{/c} Procedure failed.
-Please try again in a moment.",
-252,"{/c}You will join this Alliance.
-Are you sure this is OK?",
-253,{/c}Process interrupted.,{/c}Processus interrompu.
+{c05}コースをご購入された場合は、
+広場入口のガイドから「利用権情報の更新」を選ぶか
+ゲームを終了して再ログインして下さい。
+",
+236,{/c}追加依頼の報酬を受け取ってください。,{/c}Veuillez accepter votre récompense de quête Extra.
+237,"{/c}同盟データを取得できなかった、または
+同盟に加入していないため使用できません。",
+238,{/c}無効な名前または文字列が含まれています。,
+239,"{/c}同盟の作成は正常に終了しました。
+「同盟情報」をご確認ください。",
+240,"{/c}同盟への加入申請は正常に行われました。
+同盟長からの加入許可メールの通知をお待ち下さい。",
+241,{/c}同盟への加入申請を取り消しました。,{/c}Vous avez retiré votre demande d'adhésion à une alliance.
+242,{/c}同盟への加入申請処理を適用しました。,{/c}Votre demande d'adhésion à une alliance a été traitée.
+243,"{/c}この名前の同盟を作成します。
+よろしいですか？",
+244,"{/c}同盟作成処理が正常に終了しませんでした。
+再度お試し下さい。",
+245,"{/c}同盟を解散します。
+よろしいですか？
+{c05}※盟友の猟団もすべて除名処分となります。{/c}",
+246,"{/c}同盟の解散を実行します。本当によろしいですか？
+{c05}※しばらくの間、同盟の作成または
+加入申請を行うことができなくなります。{/c}",
+247,"{/c}同盟の解散は正常に終了しました。
+
+{c05}しばらくの間、同盟の作成または
+加入申請を行うことはできません。{/c}",
+248,"{/c}処理が正常に終了しませんでした。
+同盟の解散に失敗しました。",
+249,"{/c}猟団ランク１以上の猟団長のみ
+同盟を作成することができます。",
+250,"{/c}同盟に加入申請中か、すでに同盟を作成
+または加入しているため使用できません。",
+251,"{/c}処理に失敗しました。
+しばらくしてから再度お試し下さい。",
+252,"{/c}この同盟へ加入申請します。
+本当によろしいですか？",
+253,{/c}処理を中断しました。,{/c}Processus interrompu.
 254,"
 
 
-{/c}Failed to process the above Clan.
-They may have withdrawn their application to join.",
-255,"{/c}Clans will withdraw or be expelled from the Pack.
-Is this OK?",
-256,"{/c}Clans are about to withdraw or be expelled from the
-Pack. {c05}This cannot be undone. Are you sure you
-want to proceed?{/c}",
-257,"{/c}Clans have successfully withdrawn or been expelled
-from the Pack.",
-258,"{/c}Your application will be withdrawn.
-Are you sure this is OK?",
-259,"{/c}You will resign as Pack leader. Is this OK?
-{c05}*Upon resigning, you will become an ordinary Pack
-member.",
-260,"{/c}You are about to resign as Pack leader.
-Are you sure you want to proceed?
-{c05}* You will not be able to resign if there is no
-member who wants to replace you as leader.",
-261,"{/c}Unable to resign as Pack leader.
-{c05}* Either there were no members who wanted to replace
-you as leader, or the processing of your resignation
-failed.",
-262,"{/c}You have resigned as Pack leader.
-The above player is the new Pack leader.",
-263,"{/c}That Pack name is already in use. Please choose a
-different Pack name.",
-264,"{c05}Warning!{/c}
+{/c}上記の猟団の処理に失敗しました。
+加入申請が取り消されている場合があります。",
+255,"
 
-You cannot create a Pack unless your Hunter Rank
-is {c05}five or higher{/c}.",
-265,"{/c}Learn more at the Official Website.
-{c05}(Launch Web Browser/NOT FUNCTIONAL!){/c}",
-266,"{/c}You are temporarily unable to create a Pack or apply
-to join a Pack.",
-267,"{/c}You will leave the Pack.
-Is this OK?",
-268,"{/c}You are about to leave the Pack.
-{c05}This cannot be undone. Are you sure you wish to
-proceed?{/c}",
-269,"{/c}You will join the Rookie Clan.
-Is this OK?",
-270,"{c05}Warning!
 
-{/c}You are unable to join the Rookie Clan.
+{/c}同盟からの脱退（または除名）処理を行います。
+よろしいですか？",
+256,"
 
-Potential reasons for this include:
-- You are still serving your penalty period for leaving a
-Clan.
-- You are already a member of another Clan.",
-271,{/c}Please enter at least one character.,{/c}Saisissez au moins un caractère.
-272,{/c}The text you entered contains invalid characters.,{/c}Le texte saisi contient des caractères invalides.
-273,{/c}You cannot enter only spaces.,{/c}Vous ne pouvez pas saisir uniquement des espaces.
-274,"{/c}Saving and quitting.
-Is this OK?",
-275,{/c}Your Clan Symbol has been saved.,{/c}Votre emblème de clan a été enregistré.
-276,{/c}Failed to save your Clan Symbol.,{/c}Échec de l'enregistrement de votre emblème de clan.
+
+{/c}同盟からの脱退（または除名）を実行します。
+{c05}取り消しはできません。本当によろしいですか？{/c}",
+257,{/c}同盟からの脱退（または除名）処理は正常に終了しました。,
+258,{/c}加入申請を取り消します。本当によろしいですか？,
+259,"{/c}同盟長を辞任します。
+よろしいですか？
+{c05}※辞任した場合通常の同盟員となります。",
+260,"{/c}同盟長の辞任を実行します。本当によろしいですか？
+{c05}※次の同盟長候補者がいない場合、辞任できません。
+{/c}",
+261,"{/c}同盟長を辞任できませんでした。
+{c05}※辞任処理に失敗したか、
+次の同盟長候補がいない場合があります。",
+262,"
+
+
+{/c}同盟長を辞任しました。
+上記のプレイヤーが新しい同盟長となりました。",
+263,"{/c}その同盟名はすでに使われています。
+違う名前をご使用ください。",
+264,"{c05}ご注意！{/c}
+
+ＨＲ（ハンターランク）が{c05}５以上{/c}
+なければ同盟の作成はできません。",
+265,"{/c}公式サイト上に設置されている、
+対象情報を表示します。
+{c05}(ブラウザを起動します){/c}",
+266,"{/c}しばらくの間、同盟の作成または
+加入申請を行うことはできません。{/c}",
+267,"{/c}同盟から脱退します。
+よろしいですか？",
+268,"{/c}同盟からの脱退を実行します。
+{c05}取り消しはできません。本当によろしいですか？{/c}",
+269,"{/c}新人猟団へ加入します。
+
+よろしいですか？",
+270,"{c05}ご注意
+
+{/c}退団時のペナルティ期間。
+既に何かしらの猟団に加入している。
+
+等の理由で、新人猟団への加入が出来ません。",
+271,{/c}１文字以上入力してください。,{/c}Saisissez au moins un caractère.
+272,{/c}無効な文字列が含まれています。,{/c}Le texte saisi contient des caractères invalides.
+273,{/c}空白のみは無効です。,{/c}Vous ne pouvez pas saisir uniquement des espaces.
+274,"{/c}
+保存して終了します。
+よろしいですか？",
+275,{/c}猟団マークの保存が完了しました。,{/c}Votre emblème de clan a été enregistré.
+276,{/c}猟団マークの保存に失敗しました。,{/c}Échec de l'enregistrement de votre emblème de clan.
 277,"{/c}ランドへ移動(別の広場)
 
 ワールドへ移動(別の区画)
@@ -724,189 +742,199 @@ Is this OK?",
  {/c}{k00} 決定    {k01} 戻る
 ",
 278,"{/c}
-Exit without saving.
-Are you sure?",
-279,{/c}You are unable to edit your Clan Symbol here.,{/c}Vous ne pouvez pas modifier votre emblème de clan ici.
-280,"Congratulations for your breakthrough in the {c05}<Hunting
-Tourney>{/c}!
+保存しないで終了します。
+よろしいですか？",
+279,{/c}ここでは猟団マーク編集はできません。,{/c}Vous ne pouvez pas modifier votre emblème de clan ici.
+280,"{c05}<<公式狩猟試験>>{/c}突破、おめでとうございます！
 
-Please accept this <Diploma> from the <Rookie Guide>!",
-281,"{c05}Some members have not yet completed their
-preparations. Are you sure you want to set out on the
-Quest?
-(You will wait for the opposition party to finish
-preparing before setting out.)",
-282,"{/c}You will depart on your Quest. Is this OK?
-(You will wait for the opposition party to finish
-preparing before setting out on the Quest.)",
+<<新人用ガイド>>から<<卒業証書>>を
+受け取ってください。",
+281,"{c05}準備完了前のメンバーがいます。
+クエストに出発してよろしいですか？
+(対戦相手の出発準備を待って出発します)",
+282,"{/c}クエストに出発します。よろしいですか？
+(対戦相手の出発準備を待って出発します)",
 283,"{c05}準備完了前のメンバーがいます。
 クエストに出発してよろしいですか？",
-284,{/c}No opponent.,{/c}Aucun adversaire.
-285,{/c}Opponent not yet ready to depart.,{/c}L'adversaire n'est pas encore prêt à partir.
-286,"{c05}If you are defeated or choose to retire on a Versus
-Quest, your entire contract fee will be confiscated.
+284,{/c}対戦相手が居ません。,{/c}Aucun adversaire.
+285,{/c}対戦相手の出発準備が整っていません。,{/c}L'adversaire n'est pas encore prêt à partir.
+286,"{c05}ＶＳ.クエストで敗北した場合、リタイアした場合、
+契約の金品は全て没収され戻りません。
 
-Is this OK?",
-287,"{/c}You will vote for the selected Trial.
-Is this OK?",
-288,{/c}Application for this Quest is closed.,{/c}Les inscriptions à cette quête sont closes.
-289,{/c}Contract conditions not met.,{/c}Conditions du contrat non remplies.
-290,"{c05}Warning!
-{/c}You are unable to use this service on your
-current plan.
+よろしいですか？",
+287,"{/c}選択した試練に投票します。
+よろしいですか？",
+288,{/c}このクエストへの対戦受付は終了しました。,{/c}Les inscriptions à cette quête sont closes.
+289,{/c}契約条件を満たしていません。,{/c}Conditions du contrat non remplies.
+290,"{c05}ご注意！
+{/c}現在のお客様のコースでは
+このサービスのご利用はできません。
 
-You can use this service by purchasing the
-{c02}Hunter Life Plan{/c}.
+{c02}ハンターライフ継続コース{/c}を別途ご購入いただく事で
+サービスを利用する事ができます。
 
-Purchase {c05} (Your browser will be opened.){/c}
-View Details Online {c05}(Your browser will be opened.){/c}
-Close
+購入する{c05}（ブラウザ起動）{/c}
+Webで詳細{c05}（ブラウザ起動）{/c}
+閉じる
 
 
-{c05}If you change to a new plan, you will need to
-quit the game and log in again.
+{c05}コースをご購入された場合は、
+ゲームを終了して再ログインして下さい。
 ",
-291,"{/c}You're about to quit. The Message you are writing
-will be lost. Is this OK?",
-292,"{c05}Warning!
-{/c}You are unable to use this service on your
-current plan.
+291,"{/c}
+終了します。
+作成中のメールは破棄されます。
+よろしいですか？",
+292,"{c05}ご注意！
+{/c}現在のお客様のコースだけでは
+このサービスのご利用はできません。
 
-You can use this service by purchasing the
-{c02}Premium Plan{/c}.
+{c02}プレミアムコース{/c}を別途ご購入いただく事で
+サービスを利用する事ができます。
 
-Purchase {c05} (Your browser will be opened.){/c}
-View Details Online {c05}(Your browser will be opened.){/c}
-Close
+購入する{c05}（ブラウザ起動）{/c}
+Webで詳細{c05}（ブラウザ起動）{/c}
+閉じる
 
-{c05}If you change to a new plan, you will need to
-quit the game and log in again.",
-293,"{c05}Warning!
-{/c}We're sorry, but you cannot currently use this
-service because you've {c02}reached the usage limit{/c}.
+{c05}コースをご購入された場合は、
+広場入口のガイドから「利用権情報の更新」を選ぶか
+ゲームを終了して再ログインして下さい。
+",
+293,"{c05}ご注意！
+{/c}大変申し訳ありません。
+現在から{c02}過去特定時間以内{/c}に{c02}規定回数の利用{/c}が
+あったため、利用ができません。
 
-We apologize, and ask for your understanding.",
-294,"{c05}Warning!
-{/c}If you reach your {c02}storage limit{/c}, you will
-become unable to use it.
+申し訳ありませんが、ご了承ください。",
+294,"{c05}ご注意！
+{/c}倉庫は、現在から{c02}過去特定時間以内{/c}に
+{c02}規定回数の利用{/c}があった場合、
+利用できなくなります。
 
-You have {c02}not currently reached that limit{/c}, so you
-can continue to store items at the moment.
+現在の利用は{c02}規定回数に達していません{/c}ので
+このまま追加倉庫を利用することができます。
 
-Selecting ""Yes"" will count as one use of your storage.
-Would you like to proceed?",
-295,"{c05}Warning!
-{/c} {c02}If you select ""Yes,""{/c} then the next time you use
-your storage it will {c02}count as another use{/c}.
-(It will count regardless of whether you move items
-or not.)
+はい　を選択すると利用回数が１回
+カウントされます。利用してよろしいですか？
+",
+295,"{c05}ご注意！
+{/c}{c02}はい{/c}を選択すると、次回の倉庫利用の際に
+再び利用回数が{c02}１回カウントされます{/c}。
+(アイテムの移動に関係なくカウント)
 
-If you select {c02}""No,""{/c} it will not count as a use.
-You will still be able to use your storage, change
-names etc.",
-296,{/c}Are you happy with this name?,{/c}Ce nom vous convient-il ?
-297,{/c}That name contains forbidden text!,{/c}Ce nom contient du texte interdit !
-298,"{/c}Cannot be initiated if you joined a Clan
-during the Prize Fest.",
-299,{/c}Returning to Caravan... Please wait a moment...,{/c}Retour à la caravane... Veuillez patienter...
-300,"{/c}You will donate the Clan Points indicated.
+{c02}いいえ{/c}なら回数は{c02}カウントされません{/c}。
+続けて倉庫の利用や名前変更ができます。
+",
+296,"{/c}この名前でいいですか？
+",{/c}Ce nom vous convient-il ?
+297,{/c}禁則事項が含まれてます！,{/c}Ce nom contient du texte interdit !
+298,{/c}褒賞祭中に猟団加入した場合、受注できません。,
+299,{/c}キャラバンに戻ります...しばらくお待ちください。,{/c}Retour à la caravane... Veuillez patienter...
+300,"{/c}指定した猟団ポイントを寄付します。
 
-{c05}※The Clan leader decides how Clan Points will be used.
-Capcom will not get involved in any differences of
-opinion or disagreements that arise between Clan
-leaders and Clan members regarding the usage of
-Clan Points. Clan members must accept this when donating
-Clan Points, and must agree beforehand that it is the
-Clan leader who is responsible for choosing how they
-are used.
+{c05}※猟団ポイントの使用方法は猟団長によって
+決定されます。また、猟団長と猟団員の間で、
+猟団ポイントの使用方法に関しての意見の
+相違やトラブルが生じても、カプコンでは
+一切関与いたしません。猟団ポイントを
+寄付した際は、以上の内容を了承したとみなし、
+猟団員は猟団長に猟団ポイントの運用方法を
+一任することを事前に承認したものとします。
+{/c}
+よろしいですか？",
+301,"{/c}(仮)この名前で登録します
+よろしいですか？",
+302,{/c}(仮)登録中です。,{/c}(TEMP) Enregistrement en cours.
+303,{/c}(仮)登録しました。,{/c}(TEMP) Enregistré.
+304,{/c}(仮)その名前は既に使われています。,{/c}(TEMP) Ce nom est déjà utilisé.
+305,{/c}(仮)接続に失敗しました。,{/c}(TEMP) Échec de la connexion.
+306,"{c05}この操作を行なうと指定のアイテムは失われます。
+{/c}「はい」を選択すると、即座に武具データは　　　
+消去されます。操作を取り消すことはできません。
+また、消去された武具データは復旧することは　　
+できません。　　　　　　　　　　　　　　　　　
+よろしいですか？",
+307,"{c05}この操作を行なうと指定のアイテムは失われます。
+{/c}「はい」を選択すると、即座にアイテムデータは　
+消去されます。操作を取り消すことはできません。
+また、消去されたアイテムデータは復旧することは
+できません。　　　　　　　　　　　　　　　　　
+よろしいですか？",
+308,"{/c}クエスト作成に失敗しました。
+チュートリアルを終了します。
 
-Is this OK?",
-301,"{/c}(TEMP) You will register with this name.
-Is this OK?",
-302,{/c}(TEMP) Now registering.,{/c}(TEMP) Enregistrement en cours.
-303,{/c}(TEMP) Registered.,{/c}(TEMP) Enregistré.
-304,{/c}(TEMP) That name is already being used.,{/c}(TEMP) Ce nom est déjà utilisé.
-305,{/c}(TEMP) Failed to connect.,{/c}(TEMP) Échec de la connexion.
-306,"{c05}You will lose the indicated items when performing
-this operation.
-{/c}Selecting ""Yes"" will immediately erase gear data.
-This operation cannot be undone, and erased gear
-data cannot be restored.
+{c05}
+※教官見習ネコに話しかけ、「チュートリアル」
+　を選択すると、同じ内容を行うことができます。
+※一連の基本操作・流れを知ることができるので、
+再度実行していただくことをお勧めします。",
+309,"{/c}チュートリアルを中断します
+よろしいですか？",{/c}Arrêter le tutoriel ?
+310,"{/c}進行中の案内を中断します
+よろしいですか？",{/c}Confirmer ?
+311,"{/c}中断後、教官見習ネコに話しかければ
+同じ内容を再び受けることができます",
+312,"{c05}ご注意！
 
-Is this OK?",
-307,"{c05}You will lose the indicated items when performing
-this operation.
-{/c}Selecting ""Yes"" will immediately erase item data.
-This operation cannot be undone, and erased item
-data cannot be restored.
+{/c}現在のお客様のコースでは
+ＨＲ５以上のサービスのご利用はできません。
+{c02}ハンターライフコース{/c}に変更しますか？
 
-Is this OK?",
-308,"{/c}Quest creation failed. Exiting the Tutorial.
-{c05}* You can see this content by talking to the
-Apprentice Felyne and selecting ""Tutorial.""
-* The tutorial teaches you about basic controls and
-game flow, so viewing it again is highly recommended.",
-309,{/c}Stop the Tutorial?,{/c}Arrêter le tutoriel ?
-310,{/c}Are you sure?,{/c}Confirmer ?
-311,"{/c}Talking to the Apprentice Felyne
-again will allow you to restart",
-312,"{c05}Warning!
-{/c}Services for Hunter Ranks 5 or higher cannot be
-used on your current plan.
-Would you like to change to the {c02}Hunter Life Plan{/c}?
+会員ランクを変更する{c05}（ブラウザ起動）{/c}
+閉じる
 
-Change Member Rank {c05}(your browser will be opened.){/c}
-Close
+{c05}コースを変更された場合は、
+ゲームを終了して再ログインして下さい。",
+313,"{c05}ご注意！
+{/c}現在ポーチに入っているアイテムの内容を
+アイテムセットに{c02}登録{/c}します。
 
-{c05}If you change to a new plan, you will need to
-quit the game and log in again.",
-313,"{c05}Warning!
-{/c}The items currently in your Item Bag will be
-{c02}registered as an Item Set{/c}.
+上書きしてもよろしいですか？",
+314,"{c05}ご注意！
+{/c}アイテムセットの内容を
+アイテムポーチに{c04}呼出{/c}します。
 
-OK to overwrite?",
-314,"{c05}Warning!
-{/c}Your Item Set will be{c04}placed in your Item Bag{/c}.
+上書きしてもよろしいですか？",
+315,"{c05}イメチェンP（ポイント）が足りません！
+{/c}
+イメチェンサービスをご購入いただく事で
+イメチェンPを入手することができます。
 
-OK to replace the current contents of your Item Bag?",
-315,"{c05}You don't have enough Makeover Points!
-{/c}You can get Makeover Points by buying the Makeover
-Service.
+イメチェンサービスを購入する{c05}（ブラウザ起動）{/c}
+Webで詳細{c05}（ブラウザ起動）{/c}
+閉じる",
+316,"{c05}ご注意！
+{/c}部屋を出ますと
+現在のイメチェンの内容を保存します。
+{c04}イメチェンPが消費されます{/c}
 
-Buy the Makeover Service{c05}(Your browser will be opened.){/c}
-View Details Online {c05}(Your browser will be opened.){/c}
-Close",
-316,"{c05}Warning!
-{/c}If you leave the room, your current makeover will be
-saved.
-{c04}Your Makeover Points will be used up.{/c}.
-{c02}You will not be able to undo a Makeover
-once it has been saved.
+{c02}保存するとやり直しが出来ません。{/c}
 
-Is this OK?",
-317,"{c05}Final Check!
-{c02}Your Makeover will be fixed and saved.
+よろしいですか？",
+317,"{c05}最終確認！
+{c02}イメチェンを確定して、保存します。
 
-{/c}Are you sure you want to proceed?",
+{/c}本当によろしいですか？
+",
 318,{/c}　,
-319,"{c05}Pioneer info for the selected options will be reset.
-{c02}* Once reset, the previous info cannot be restored.
-{c02}* When you reset Pioneer info, it is assessed and
-you will receive CP based on the results.
-
-Is this OK?",
-320,{/c}The selected options have been reset.,{/c}Les options sélectionnées ont été réinitialisées.
-321,"{/c}Unable to acquire Versus Tournament Information.
-Please check the Versus Tournament Board.",
-322,{/c}Tough weapons cannot be used on this Quest.,{/c}Les armes coriaces ne peuvent pas être utilisées dans cette quête.
-323,"{/c}The text you entered contains words that cannot be
-used in MHF-Z, so you will be unable to use it in-game.",
-324,"{/c}The text you entered contains words that cannot be
-used on Xbox Live, so you will be unable to use it
-in-game.",
+319,"{c05}【選択項目】の開拓情報を初期化します。
+{c02}※一度初期化すると元に戻すことができません。
+{c02}※初期化の際に査定を行い、開拓情報をCPに替えます。
+{/c}よろしいですか？
+",
+320,{/c}【選択項目】を初期化しました。,{/c}Les options sélectionnées ont été réinitialisées.
+321,"{/c}ＶＳ.トーナメント対戦情報を取得できませんでした。
+ＶＳ.トーナメントボードを確認してください。",
+322,"{/c}このクエストでは剛種武器
+剛猫武器を使用できません。",{/c}Les armes coriaces ne peuvent pas être utilisées dans cette quête.
+323,"{/c}MHF-Ｚにおいて使用できない単語が含まれるため、
+ゲーム内で使用することができません。",
+324,"{/c}Xbox LIVEにおいて使用できない単語が含まれる
+ため、ゲーム内で使用することができません。",
 325,"{/c}
-Learn more at the Official Website.
-{c05}(Launch Web Browser/NOT FUNCTIONAL!){/c}",
+公式サイト上に設置されている、
+対象情報を表示します。
+{c05}(ブラウザを起動します){/c}",
 326,"{c05}ご注意！
 {/c}現在のお客様のコースだけでは
 このサービスのご利用はできません。
@@ -923,42 +951,49 @@ Webで詳細{c05}（ブラウザ起動）{/c}
 広場入口のガイドから「利用権情報の更新」を選ぶか
 ゲームを終了して再ログインして下さい。
 ",
-327,"{c05}Switching Pioneer info for the selected options.
-{c02}* Once switched, previous Pioneer info cannot
-be restored.
+327,"{c05}【選択項目】の開拓情報を移行します。
+{c02}※一度移行すると元に戻すことができません。
 
-{/c}Is this OK?",
-328,{/c}Switching of the selected options has been completed.,{/c}Le changement des options sélectionnées est terminé.
-329,"{/c}The assessment results were:
-
-{/c}.
-{/c}Is this OK?",
-330,"{/c}Unable to initiate this Quest. It can only be
-initiated from the Internet Caf.s indicated.",
-331,"{c05}Warning!
-{/c}You are unable to use this service on your
-current plan.
-
-You can use this service by purchasing the
-{c02}Extra Plan{/c}.
-
-Purchase {c05} (Your browser will be opened.){/c}
-View Details Online {c05}(Your browser will be opened.){/c}
-Close
-
-{c05}If you change to a new plan, you will need to
-quit the game and log in again.
+{/c}よろしいですか？
 ",
-332,"{/c} Due to the Competitive nature of these quests, we want to make
-sure that everyone has a friendly rival experience.
-Make sure to respect your fellow competitors and
-refrain from any sabotaging or harmful bullying.
+328,{/c}【選択項目】の移行が完了しました。,{/c}Le changement des options sélectionnées est terminé.
+329,"{/c}査定の結果が
 
-If you can accept these basic ground rules, then 
-we wish you a good competition and may the
-better Hunter win!
+{/c}になりました。
+{/c}よろしいですか？
+",
+330,"{/c}クエストが受注できませんでした。
+指定ネットカフェからのみ受注できます。",
+331,"{c05}ご注意！
+{/c}現在のお客様のコースだけでは
+このサービスのご利用はできません。
 
-{c05}Let's get along and have a good Hunt! {/c}",
+{c02}エクストラコース{/c}を別途ご購入いただく事で
+サービスを利用する事ができます。
+
+購入する{c05}（ブラウザ起動）{/c}
+Webで詳細{c05}（ブラウザ起動）{/c}
+閉じる
+
+{c05}コースをご購入された場合は、
+広場入口のガイドから「利用権情報の更新」を選ぶか
+ゲームを終了して再ログインして下さい。
+",
+332,"{/c}「狩猟技クエスト」では、競技の性質上、特定のアイテ
+ムを使うことにより、意図的に他のハンターのプレイを
+妨害することができます。MHF-Ｚ 利用規約の禁止事項に
+該当しない範囲の妨害行為および、お客様の間で取り決
+められた独自のルールに対する違反などにつきましては
+MHF-Ｚ 運営チームによる利用規約違反行為の罰則適用対
+象となりません。ただし、MHF-Ｚ 利用規約の禁止事項に
+該当する迷惑行為につきましては、違反行為の罰則適用
+対象となります。こうした被害に遭った場合には、公式
+メンバーサイトの「お問い合わせ」ページ内、「迷惑行
+為の報告」よりご報告ください。
+
+{c05}マナーを守って、みんなで仲良く
+「狩猟技クエスト」をプレイしましょう！{/c}
+",
 333,"{/c}マイトレポイント　　{c05}  30ポイント{/c}を　　　　　
 {/c}ギルド貢献ポイント　{c05}3000ポイント{/c}に交換します
 
@@ -1089,9 +1124,9 @@ Webで詳細{c05}（ブラウザ起動）{/c}
 一度決定するとキャンセルできません。
 よろしいですか？
 ",
-361,"{/c}{c02}You might need to move
-between Worlds & Lands{/c}
-Are you sure?",
+361,"{/c}{c02}ワールド、またはランドを
+移動する可能性があります{/c}
+よろしいですか？",
 362,"{/c}＜入団希望の登録にあたって＞
 猟団への入団希望の登録を行います。
 条件を設定して登録をすると、
@@ -1168,12 +1203,12 @@ MHF利用規約を遵守してください。",
 ",
 381,"{/c}ジャンプ先が【狩猟技昇段試合会場】のため
 ジャンプできません。",
-382,{/c}Update your subscription?,{/c}Mettre à jour votre abonnement ?
-383,{/c}Subscription updated.,{/c}Abonnement mis à jour.
-384,"{/c}Subscription update failed.
-Please, try again after a while.",
-385,"{/c}Subscription could not be updated.
-Please, re-log in to update it.",
+382,{/c}利用権情報を更新しますか？,{/c}Mettre à jour votre abonnement ?
+383,{/c}利用権情報を更新しました。,{/c}Abonnement mis à jour.
+384,"{/c}利用権情報の更新に失敗しました。
+時間を置いてもう一度お試しください。",
+385,"{/c}利用権情報の更新が行えませんでした。
+更新を行うためには再度ログインを行ってください。",
 386,{/c}【狩猟技昇段試合会場】では使用できません。,{/c}Utilisation impossible dans la salle des matchs de promotion.
 387,{/c}契約金が不足しています。,{/c}Frais de contrat insuffisants.
 388,"{c05}この操作を行なうと指定のシジルは失われます。
@@ -1239,9 +1274,9 @@ Please, re-log in to update it.",
 また、消去されたシジルデータは復旧することは
 できません。　　　　　　　　　　　　　　　　　
 よろしいですか？",
-395,"{/c}Course effects to increase attack
-and ""Halk Pot"" effects does not
-apply to this Quest.",
+395,"{/c}このクエストはコース効果による
+攻撃力の向上、及び元気のみなもとの
+効果が適用されません。",
 396,"{/c}このクエストはプーギーやホルクなどの
 同行が無効になります。",
 397,"{/c}このクエストはコース効果による
@@ -1273,13 +1308,13 @@ apply to this Quest.",
 
 {c05}コースを変更された場合は、
 ゲームを終了して再ログインして下さい。",
-400,"You won't be able to operate the game
-during the upload process.
-Continue?",
-401,"{/c}≪%s≫
-Claiming【%s】.
-Are you sure?
-Receiving Amount：%d Total",
+400,"{/c}アップロードを行っている最中は、
+ゲームの操作が行えなくなります。
+よろしいですか？",
+401,"{/c}【%s】の
+≪%s≫を受取ります。
+よろしいですか？
+受取り個数：%d個",
 402,"{/c}受取可能な全ての
 ≪%s≫を受取ります。
 よろしいですか？
@@ -1304,43 +1339,43 @@ Receiving Amount：%d Total",
 
 
 {k01}閉じる",
-409,{c05}There are no items to be claimed.,
+409,{c05}受取可能なアイテムはありません。,
 410,"{/c}条件達成により特典を
 受け取ることができます。
 
 受け取りますか？",
-411,{c05}Receipt deadline has passed.,
-412,{c05}Cannot be claimed again.,
-413,"{c05}Warning！
-Benefits will be sent to the
-{c02}Temp Storage{/c} as there's no space to recieve them.
+411,{c05}受取期限が過ぎています。,
+412,{c05}これ以上受け取れません。,
+413,"{c05}注意！
+特典を受取るための空きがないので
+特典は{c02}一時的に保管{/c}されます。
 
-{c05}Items
-{c02}Free some space in the Item Box
-to be able to receive it again.
-{c05}Points
-{c02}Make sure you are able to receive
-any more points and try again.
+{c05}特典アイテムの場合
+{c02}アイテムボックスに空きを作ってから
+再度、受取りをおこなってください。
+{c05}特典ポイントの場合
+{c02}特典ポイント数を受取れる状態にして
+再度、受取りをおこなってください。
 
-Item and Points can be {c02}receipt within the deadline{/c}.
+アイテム・ポイント保管期間は{c02}受領期間内{/c}です。
 ",
-414,{c05}Successful received the benefits.,
-415,"{c05}Item Claim Confirmation
-<Items, Weapons and Armors>
-will be sent to the {c02}Item Box{/c}.
+414,{c05}特典を正常に受け取りました。,
+415,"{c05}アイテム受取確認
+＜アイテムや武器・防具＞は
+{c02}アイテムボックス{/c}に送られます。
 
-<Points> and <Box Expansions>
-will be given to the hunter.
+＜ポイント＞や＜ボックス拡張サービス＞は
+キャラクターに付与されます。
 
-{c05} <Premium Gacha Coins> {/c}
-{c05} <Trial Gacha Coins> {/c}
-{c05} <Frontier Points> {/c}
-will be granted to your account.
+{c05}＜きんぴか小判Ｇ＞{/c}
+{c05}＜おためし小判Ｇ＞{/c}
+{c05}＜フロンティアポイント＞{/c}
+はアカウントに付与されます。
 
-For {c02}Items and Armor,
-when the Item Box is full,
-the reward will not be received. {/c}
-Do you want to claim the reward?",
+{c02}アイテムや武具の場合
+アイテムボックスがいっぱいだと
+アイテムが送信されませんのでご注意下さい。{/c}
+受け取りますか？",
 416,{/c}カプトモ登録を完了しました。,{/c}Ami enregistré.
 417,{/c}本当に無視していいですか？,{/c}Voulez-vous vraiment ignorer ce joueur ?
 418,{/c}無視しました。,{/c}Joueur ignoré.
@@ -1377,8 +1412,8 @@ Do you want to claim the reward?",
 427,{/c}対象の情報が取得できないため実行できません。,{/c}Informations du joueur indisponibles : action impossible.
 428,{/c}文字数が上限を超えました。,{/c}Nombre de caractères maximal dépassé.
 429,{/c}無効なカプトモ申請です。,{/c}Demande d'ami invalide.
-430,{c05}No claimable items.,
-431,{c05}No claimable subscriptions.,
+430,{c05}交換可能なアイテムはありません。,
+431,{c05}交換可能な利用権はありません。,
 432,{/c},
 433,{/c},
 434,{/c},
@@ -1389,7 +1424,7 @@ Do you want to claim the reward?",
 439,{c05}GRが一致しません。,
 440,{c05}受取条件が一致しません。,
 441,{c05}受取条件を満たしていません。,
-442,{/c}Set this goal?,{/c}Définir cet objectif ?
+442,{/c}この目標を設定します。,{/c}Définir cet objectif ?
 443,"{/c}既に猟団目標が設定されています。
 新たに設定するためには目標を達成するか、
 設定中の目標を取り消してください。",
@@ -1447,8 +1482,8 @@ Do you want to claim the reward?",
 よろしいですか？",
 458,"{c02}戻り時間をスキップするためには
 アイテム≪%s≫が%d個必要です。",
-459,{/c}Hire this Felyne?,{/c}Engager ce Félyne ?
-460,{/c}Confirm Name?,{/c}Confirmer le nom ?
+459,{/c}この子で良いですか？,{/c}Engager ce Félyne ?
+460,{/c}この名前で良いですか？,{/c}Confirmer le nom ?
 461,{c02}サーバーとの通信に失敗しました,
 462,"{c05}！！疲労度の高いパートニャーがいます！！
 
@@ -1509,32 +1544,33 @@ Do you want to claim the reward?",
 471,{/c}カプトークの最大参加人数を超えています,{/c}Nombre maximal de participants au CapTalk dépassé.
 472,"{/c}復帰区利用期限がきれました。
 復帰区以外のメゼポルタ広場をご利用ください。",
-473,"{c05}Move to Return World?
+473,"{c05}復帰区に移動しますか？
 
-{/c}There are exclusive content access
-available in the Return World for:
-{c04}・Returning Hunters
-{c04}・New Hunters",
+{/c}復帰区では、
+{c04}・復帰されたハンターの方々
+{c04}・新米ハンターの方々
+{/c}向けのコンテンツをご用意しています。
+",
 474,{/c}復帰区を利用する権限がありません,{/c}Vous n'avez pas l'autorisation d'utiliser la zone de retour.
 475,{/c}復帰区でクエストを受注する権限がありません,{/c}Vous n'avez pas l'autorisation d'accepter des quêtes dans la zone de retour.
 476,"{/c}このワールドではＧ級昇格試験を受注できません。
 Ｇ級クエストが受注できるワールドに移動して、
 再度Ｇ級受付嬢に話しかけてください。",
-477,"{c05}Item Claim Confirmation{/c}
-{/c}＜Item＞{/c}
-will be sent to the{c02}Item Box{/c}.
+477,"{c05}アイテム受取確認{/c}
+{/c}＜アイテム＞は{/c}
+{c02}アイテムボックス{/c}に送られます。
 
-＜Point＞ will be given to your character.
+＜ポイント＞はキャラクターに付与されます。
 
-{c05}＜Premium Gacha Coin＞{/c}
-{c05}＜Trial Gacha Coin＞{/c}
-{c05}＜Frontier Point＞{/c}
-will be granted to your account.
+{c05}＜きんぴか小判Ｇ＞{/c}
+{c05}＜おためし小判Ｇ＞{/c}
+{c05}＜フロンティアポイント＞{/c}
+はアカウントに付与されます。
 
-{c02}Please note that
-Items won't be received if
-the Item Box is full.
-{/c}Would you like to claim it?",
+{c02}アイテムの場合
+アイテムボックスがいっぱいだと
+アイテムが送信されませんのでご注意下さい。{/c}
+受け取りますか？",
 478,"{/c}きんぴか小判Ｇが不足していますので、
 このサービスのご利用はできません。
 
@@ -1561,7 +1597,7 @@ Webで詳細{c05}（ブラウザ起動）{/c}
 
 {c05}先行狩猟チケット{/c}を消費するクエストや、
 {c05}狩人応援コース{/c}利用時は、１０枠確定で報酬が受け取れます。",
-481,{c05}No available subscriptions to be claimed.,
+481,{c05}受取可能な利用権はありません。,
 482,"{c05}レジェンドラスタ２人と契約が可能です。{/c}
 
 アシストコース、または狩人応援コースの
@@ -1805,7 +1841,7 @@ Webで詳細{c05}（ブラウザ起動）{/c}
 ※復帰猟団部屋では、{c05}利用制限{/c}されている機能があります。　　　
 ※一部のクエストでは、ログ表示、@here表示は出ません。　　　 
 ",
-535,"Would you like to join the {c05}Return Clan{/c}?
+535,"{c05}復帰猟団{/c}に入団しますか？
 ",
 536,"{c05}注意！
 {/c}
@@ -1887,7 +1923,7 @@ Webで詳細{c05}（ブラウザ起動）{/c}
 {c05}航路クエスト受付　取扱いクエストの受注ができません。
 {/c}受付のクエストの受注、猟団狩人珠の利用ができません。
 
-{c05}公式狩猟大会{/c}は{c05}巨大魚杯{/c}のみ参加できます。
+{c05}公式狩猟大会~C0は{c05}巨大魚杯{/c}のみ参加できます。
 ",
 545,"{c05}【%s】{/c}に祈りを込めます。
 変更は一日に一回までです。
@@ -1924,7 +1960,7 @@ Webで詳細{c05}（ブラウザ起動）{/c}
 
 {c05}ハンターランクの変更は、
 {c05}確定するとその後変更することはできません。",
-556,Moving to {c05}Special Clan Hall{/c}.,
+556,{c05}特別猟団部屋{/c}へ移動中です。,
 557,"{c05}レジェンドラスタ３人と契約が可能です。{/c}
 
 Ｎブーストコースと、アシストコース
@@ -1969,10 +2005,10 @@ Webで詳細{c05}（ブラウザ起動）{/c}
 
 同行期間
 %04d/%d/%d　%02d:%02dまで",
-567,"{/c}Retrieving Map information.
-Please wait.",
-568,{/c}Failed to retrieve Map information.,{/c}Échec de la récupération des informations de carte.
-569,{/c}Failed to retrieve log.,{/c}Échec de la récupération du journal.
+567,"{/c}マップ情報を取得しています。
+しばらくお待ちください。",
+568,{/c}マップ情報の取得に失敗しました。,{/c}Échec de la récupération des informations de carte.
+569,{/c}ログの取得に失敗しました。,{/c}Échec de la récupération du journal.
 570,"{/c}ＨＲ帯の迎撃戦クエストには
 狩衛士を同行させることはできません。
 受注しますか？",
@@ -1999,27 +2035,29 @@ Please wait.",
 578,戦績情報の取得に失敗しました,
 579,装備情報の取得に失敗しました,
 580,{/c}会話イベントをスキップしますか？,{/c}Passer la scène de dialogue ?
-581,"{/c}{c05}Warning{/c}
-Rastas cannot join the quest.
-Partnyas cannot join the quest.
-Halk cannot join the quest.
-""Soul Revival"" (or equivalent) effects will be disabled.
-""Halk Pot"" effects will be disabled.",
+581,"{c05}ご注意！
+{/c}部屋を出ますと
+現在の新しい性別を保存します。
+{c04}イメチェンPが消費されます{/c}
+
+{c02}保存するとやり直しが出来ません。{/c}
+
+※{c05}髪型{/c}は性別変更後に美容室に入り直し、
+「髪型を変更する」で変えて下さい。
+
+よろしいですか？",
 582,"{c05}最終確認！
 {c02}イメチェンを確定して、保存します。
 
 {/c}本当によろしいですか？
 ",
-583,"{c05}Warning! {/c}
-You can claim this reward for your account.
-
-If you have more characters,
-only 1 can receive this reward.
-
-No other characters will be able to claim
-this reward until it is renewed.
-
-This reward can be claimed every day at 0:00 and 12:00.",
+583,"{/c}{c05}注意{/c}
+ラスタはクエストに参加することができません。
+パートニャーはクエストに参加することができません。
+ホルクはクエストに参加することができません。
+魂の再燃（同等含む）効果は発動しません。
+元気のみなもとと同等の効果は発動しません。
+",
 584,"{c05}≪先に進みます≫{/c}
 
 「はい」を選択後、約１０秒後に移動します。
@@ -2044,11 +2082,11 @@ This reward can be claimed every day at 0:00 and 12:00.",
 
 受け取りの権利は毎日０時と１２時に更新されます。",
 586,{/c}アイテムが登録されていません。,{/c}Aucun objet enregistré.
-587,"{c05}%dP{c08}(Current Koryo Points:%dP)
+587,"{c05}%dP{c08}(所持功猟ポイント:%dP)
 
 
-{/c}is required.
-{/c}Do you want to draw once?
+{/c}を消費して、くじを１回引きます。
+{/c}よろしいですか？
 ",
 588,"{c05}""%s""{/c}
 をすべて""%s""と交換します。
@@ -2132,8 +2170,8 @@ This reward can be claimed every day at 0:00 and 12:00.",
 しばらくしてからもう一度試して下さい。",
 601,"{/c}制限時間が0になっても人数がそろわなかったので、
 メゼポルタフェスタ広場へ戻ります。",
-602,{/c}Moving to Mezeporta Festival.,{/c}Déplacement vers la Fête de Mezeporta.
-603,{/c}Entering Mezeporta Festival.,{/c}Entrée à la Fête de Mezeporta.
+602,{/c}メゼポルタフェスタ広場へ移動中です。,{/c}Déplacement vers la Fête de Mezeporta.
+603,{/c}メゼポルタフェスタ広場への入室手続き中です。,{/c}Entrée à la Fête de Mezeporta.
 604,{/c}現在いるメゼポルタフェスタ広場には、移動できません。,{/c}Impossible de se déplacer vers la place de la Fête de Mezeporta actuelle.
 605,{/c}満室になってしまったため、再検索いたします。,{/c}La salle est pleine : nouvelle recherche en cours.
 606,{/c}通信待機中です・・・,{/c}En attente de communication・・・

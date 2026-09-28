@@ -1,41 +1,45 @@
 index,source,target
-0,"Jump to another Land
-in the same World.",
-1,Jump to another Mezeporta World.,
-2,Jump to Quest Board.,
-3,Jump to Bounty Board.,
-4,Jump to your Clan Hall.,
-5,Jump to House.,
-6,"Jump to Workshop.
-（Cannot be used during Mission）",
-7,"Jump to Harisen Felyne (Workshop).
-（Cannot be used during Mission）",
-8,Jump to Mezeporta Square.,
-9,"Jump to Pallone Caravan.
-（Unavailable in Novice World）
-（Unlocked at HR2）",
-10,"Jump to Gallery.
-（Unavailable in Novice World）",
-11,Jump to Garden.,
-12,"Jump to Tore.
-（Unlocked at HR4）",
-13,"Jump to Support.
-（Unavailable on another's
-　Facilities）",
-14,"Jump to Missions.
-（Unlocked at HR5）",
-15,"Jump to Public Bar.
-（Public Bar―My Facilities Only）",
-16,"Jump to Exchange Bar.
-（Exchange Bar―My Facilities Only）",
-17,"Jump to Public Bar Entrance.
-（Tavern World Only）",
-18,"Jump to Exchange Bar Entrance.
-（Cities World Only）",
-19,Jump to Quest Board.,
-20,Jump to Boss Kiel.,
-21,"Jump to another Mezeporta Fest
-in the same World.",
-22,"Jump to another Land
-in the same World.",
-23,Jump to another Mezeporta World.,
+0,"同じ区の他のメゼポルタ広場に
+移動します。",
+1,別の区のメゼポルタ広場に移動します。,
+2,クエストボードの手前に移動します。,
+3,求人板の手前に移動します。,
+4,"自分の所属している猟団の
+猟団部屋へ移動します。",
+5,マイハウスへ移動します。,
+6,"武具工房へ移動します。
+（ミッション中は使用できません）",
+7,"くじを引きに武具工房へ移動します。
+（ミッション中は使用できません）",
+8,メゼポルタ広場に移動します。,
+9,"パローネ＝キャラバンに移動します。
+（求人区では使用不可）
+（HR2以上から使用可能）",
+10,"マイギャラリーに移動します。
+（入門区では使用不可）",
+11,マイガーデンに移動します。,
+12,"マイトレに移動します。
+（HR4から使用可能）",
+13,"マイサポートに移動します。
+（他人のマイシリーズ入室中は
+　使用不可）",
+14,"マイミッションに移動します。
+（HR5から使用可能）",
+15,"大衆酒場に移動します。
+（大衆酒場からマイシリーズに入った
+　場合のみ使用可能）",
+16,"交流酒場に移動します。
+（交流酒場からマイシリーズに入った
+　場合のみ使用可能）",
+17,"大衆酒場の入口に移動します。
+（求人区のみ使用可能）",
+18,"交流酒場の入口に移動します。
+（交流区のみ使用可能）",
+19,クエストボードの手前に移動します。,
+20,カシラのキエルの手前に移動します。,
+21,"猟団部屋に移動します。
+（猟団部屋からマイシリーズに入った
+　場合のみ使用可能）",
+22,"同じ区の他のメゼポルタフェスタ広場に
+移動します。",
+23,別の区のメゼポルタ広場に移動します。,

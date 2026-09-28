@@ -1,26 +1,26 @@
 index,source,target
-0,Quest Name:{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}Time Left:{j}{j},
-1,Quest Name:{j}{j}{j}{j}Main Objective:{j}{j}Quest Lv:{j}{j}Subquest-A:{j}{j}{j}Subquest-B:{j}{j}{j}Conditions:{j}{j}{j}{j},
-2,Quest Name:{j}{j}{j}{j}Time:{j}Contract:{j}Main Reward:{j}Sub-A Reward:{j}Sub-B Reward:{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j},
-3,Quest Name:{j}{j}{j}{j}Client:{j}Area:{j}{j}Details:{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j},
-4,Quest Name:{j}{j}{j}{j}Time　　：{j}Speed：{j}Main P:{j}Sub-A P:{j}Sub-B P:{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j},
-5,Quest Name:{j}{j}{j}Client:{j}Area:{j}ハイスコア　：{j}Time：{j}Members ：{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j},
-6,Quest Name:{j}{j}{j}Quest Member：{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j},
-7,Quest Name:{j}{j}{j}{j}Time:{j}Contract:{j}{j}{j}{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j},
-8,Quest Name:{j}{j}{j}{j}Required Objective：{j}{j}{j}{j}{j}Quest Lv:{j}{j}Conditions:{j}{j}{j}{j}{j}{j}{j},
-9,Quest Name:{j}{j}{j}{j}Time:{j}Contract:{j}Reward　：{j}{j}{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j},
-10,Quest Name:{j}{j}{j}{j}Time:{j}契約チケット：{j}Main Reward:{j}Sub-A Reward:{j}Sub-B Reward:{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j},
-11,Quest Name:{j}{j}{j}{j}Time:{j}契約チケット：{j}Reward　：{j}{j}{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j},
-12,Quest Name:{j}{j}{j}{j}Time:{j}Success:{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j},
-13,Pioneer ：{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}Time Left:{j}{j},
-14,Pioneer ：{j}{j}Main Objective:{j}{j}{j}{j}{j}{j}{j}Area:{j}{j}Season and Time:{j}{j}{j}Conditions:{j}{j}{j}{j},
-15,Pioneer ：{j}{j}{j}{j}Time:{j}Contract:{j}Main Reward:{j}{j}{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j},
-16,Pioneer ：{j}{j}マストオーダー：{j}{j}{j}{j}{j}{j}{j}Area:{j}{j}季節と時間:{j}{j}{j}Conditions:{j}{j}{j}{j},
-17,Pioneer ：{j}{j}{j}{j}Time:{j}Contract:{j}Reward　：{j}{j}{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j},
-18,Quest Name:{j}{j}{j}Goal：{j}{j}{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j}Time Left:{j}{j}{j},
-19,Contract:{j}{j}{j}Time:{j}{j}{j}Conditions:{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j},
-20,Contract:{j}{j}{j}Time:{j}{j}{j}Conditions:{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j},
-21,Quest Name:{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j},
-22,Quest Name:{j}{j}{j}{j}Time:{j}Contract:{j}Main Reward:{j}Sub-A Reward:{j}Sub-B Reward:{j}Success P　：{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j},
-23,Quest Name:{j}{j}Contract　　：{j}{j}Conditions　：{j}{j}{j}{j}Return Method ：{j}{j}{j}{j}失敗条件　　：{j}{j}{j}{j}{j}{j},
-24,Quest Name:{j}{j}Contract　　：{j}{j}Conditions　：{j}{j}{j}{j}Return Method ：{j}{j}{j}{j}Fail Cond.　：{j}{j}{j}{j}Time Left　　：{j}{j},
+0,クエスト名称：{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}残り時間：{j}{j},Quest Name:{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}Time Left:{j}{j}
+1,クエスト名称：{j}{j}{j}{j}メインターゲット：{j}{j}難易度：{j}{j}サブターゲットＡ：{j}{j}{j}サブターゲットＢ：{j}{j}{j}特殊条件：{j}{j}{j}{j},Quest Name:{j}{j}{j}{j}Main Objective:{j}{j}Quest Lv:{j}{j}Subquest-A:{j}{j}{j}Subquest-B:{j}{j}{j}Conditions:{j}{j}{j}{j}
+2,クエスト名称：{j}{j}{j}{j}制限時間：{j}契約金　：{j}メイン報酬金：{j}サブＡ報酬金：{j}サブＢ報酬金：{j}{j}成功条件：{j}{j}{j}{j}失敗条件：{j}{j}{j}{j},Quest Name:{j}{j}{j}{j}Time:{j}Contract:{j}Main Reward:{j}Sub-A Reward:{j}Sub-B Reward:{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j}
+3,クエスト名称：{j}{j}{j}{j}依頼主：{j}目的地：{j}{j}依頼詳細：{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j},Quest Name:{j}{j}{j}{j}Client:{j}Area:{j}{j}Details:{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}
+4,クエスト名称：{j}{j}{j}{j}制限時間　　　：{j}タイムアタック：{j}メイン配点：{j}サブＡ配点：{j}サブＢ配点：{j}{j}成功条件：{j}{j}{j}{j}失敗条件：{j}{j}{j}{j},Quest Name:{j}{j}{j}{j}Time　　：{j}Speed：{j}Main P:{j}Sub-A P:{j}Sub-B P:{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j}
+5,クエスト名称：{j}{j}{j}依頼主：{j}目的地：{j}ハイスコア　：{j}クリアタイム：{j}依頼詳細：{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j},
+6,クエスト名称：{j}{j}{j}クエストメンバー：{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j},Quest Name:{j}{j}{j}Quest Member：{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}
+7,クエスト名称：{j}{j}{j}{j}制限時間：{j}契約金　：{j}{j}{j}{j}{j}成功条件：{j}{j}{j}{j}失敗条件：{j}{j}{j}{j},Quest Name:{j}{j}{j}{j}Time:{j}Contract:{j}{j}{j}{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j}
+8,クエスト名称：{j}{j}{j}{j}マストオーダー：{j}{j}{j}{j}{j}難易度：{j}{j}特殊条件：{j}{j}{j}{j}{j}{j}{j},Quest Name:{j}{j}{j}{j}Required Objective：{j}{j}{j}{j}{j}Quest Lv:{j}{j}Conditions:{j}{j}{j}{j}{j}{j}{j}
+9,クエスト名称：{j}{j}{j}{j}制限時間：{j}契約金　：{j}報酬金　：{j}{j}{j}{j}成功条件：{j}{j}{j}{j}失敗条件：{j}{j}{j}{j},Quest Name:{j}{j}{j}{j}Time:{j}Contract:{j}Reward　：{j}{j}{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j}
+10,クエスト名称：{j}{j}{j}{j}制限時間：{j}契約チケット：{j}メイン報酬金：{j}サブＡ報酬金：{j}サブＢ報酬金：{j}{j}成功条件：{j}{j}{j}{j}失敗条件：{j}{j}{j}{j},
+11,クエスト名称：{j}{j}{j}{j}制限時間：{j}契約チケット：{j}報酬金　：{j}{j}{j}{j}成功条件：{j}{j}{j}{j}失敗条件：{j}{j}{j}{j},
+12,クエスト名称：{j}{j}{j}{j}制限時間：{j}成功条件：{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j},Quest Name:{j}{j}{j}{j}Time:{j}Success:{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}
+13,開拓者：{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}残り時間：{j}{j},Pioneer ：{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}Time Left:{j}{j}
+14,開拓者：{j}{j}メインターゲット：{j}{j}{j}{j}{j}{j}{j}目的地：{j}{j}季節と時間:{j}{j}{j}特殊条件：{j}{j}{j}{j},Pioneer ：{j}{j}Main Objective:{j}{j}{j}{j}{j}{j}{j}Area:{j}{j}Season and Time:{j}{j}{j}Conditions:{j}{j}{j}{j}
+15,開拓者：{j}{j}{j}{j}制限時間：{j}契約金　：{j}メイン報酬金：{j}{j}{j}{j}成功条件：{j}{j}{j}{j}失敗条件：{j}{j}{j}{j},Pioneer ：{j}{j}{j}{j}Time:{j}Contract:{j}Main Reward:{j}{j}{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j}
+16,開拓者：{j}{j}マストオーダー：{j}{j}{j}{j}{j}{j}{j}目的地：{j}{j}季節と時間:{j}{j}{j}特殊条件：{j}{j}{j}{j},
+17,開拓者：{j}{j}{j}{j}制限時間：{j}契約金　：{j}報酬金　：{j}{j}{j}{j}成功条件：{j}{j}{j}{j}失敗条件：{j}{j}{j}{j},Pioneer ：{j}{j}{j}{j}Time:{j}Contract:{j}Reward　：{j}{j}{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j}
+18,クエスト名称：{j}{j}{j}進行目標：{j}{j}{j}{j}成功条件：{j}{j}{j}{j}失敗条件：{j}{j}{j}{j}残り時間：{j}{j}{j},Quest Name:{j}{j}{j}Goal：{j}{j}{j}{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j}Time Left:{j}{j}{j}
+19,契約金　：{j}{j}{j}制限時間：{j}{j}{j}特殊条件：{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j},Contract:{j}{j}{j}Time:{j}{j}{j}Conditions:{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}
+20,契約金　：{j}{j}{j}制限時間：{j}{j}{j}特殊条件：{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j},Contract:{j}{j}{j}Time:{j}{j}{j}Conditions:{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}
+21,クエスト名称：{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j},Quest Name:{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}{j}
+22,クエスト名称：{j}{j}{j}{j}制限時間：{j}契約金　：{j}メイン報酬金：{j}サブＡ報酬金：{j}サブＢ報酬金：{j}成功迎撃Ｐ　：{j}成功条件：{j}{j}{j}{j}失敗条件：{j}{j}{j}{j},Quest Name:{j}{j}{j}{j}Time:{j}Contract:{j}Main Reward:{j}Sub-A Reward:{j}Sub-B Reward:{j}Success P　：{j}Success:{j}{j}{j}{j}Failure:{j}{j}{j}{j}
+23,クエスト名称：{j}{j}契約金　　　：{j}{j}参加条件　　：{j}{j}{j}{j}メゼポルタへの戻り方：{j}{j}{j}{j}失敗条件　　：{j}{j}{j}{j}{j}{j},
+24,クエスト名称：{j}{j}契約金　　　：{j}{j}参加条件　　：{j}{j}{j}{j}メゼポルタへの戻り方：{j}{j}{j}{j}失敗条件　　：{j}{j}{j}{j}残り時間　　：{j}{j},Quest Name:{j}{j}Contract　　：{j}{j}Conditions　：{j}{j}{j}{j}Return Method ：{j}{j}{j}{j}Fail Cond.　：{j}{j}{j}{j}Time Left　　：{j}{j}
