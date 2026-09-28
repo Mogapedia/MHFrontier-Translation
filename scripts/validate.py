@@ -7,6 +7,8 @@ Checks:
   - index is a non-negative integer
   - source is non-empty
   - No duplicate indexes within a file
+  - A translated row keeps every substitution code of its source
+    (`~A00`, `~B03`: the game swaps in a key name or slot number there)
 
 Usage:
     python scripts/validate.py translations/fr/dat/armors/head.csv
@@ -17,10 +19,16 @@ Usage:
 import argparse
 import csv
 import os
+import re
 import subprocess
 import sys
+from collections import Counter
 
 REQUIRED_HEADER = ["index", "source", "target"]
+
+# `~` + letter + two digits, the game's inline code shape. `~CNN` (colour)
+# becomes `{cNN}` on extraction; the others are substitutions (#4).
+SUBSTITUTION_RE = re.compile(r"~(?!C)[A-Z]\d\d")
 
 
 def validate_file(path: str) -> list[str]:
@@ -58,6 +66,16 @@ def validate_file(path: str) -> list[str]:
                 if idx in seen_indexes:
                     errors.append(f"{path}:{lineno}: duplicate index {idx!r}")
                 seen_indexes.add(idx)
+
+                if target:
+                    missing = Counter(SUBSTITUTION_RE.findall(source))
+                    missing.subtract(SUBSTITUTION_RE.findall(target))
+                    for code, count in missing.items():
+                        if count > 0:
+                            errors.append(
+                                f"{path}:{lineno}: target lost substitution code {code!r} "
+                                f"(the game replaces it with a key name or number)"
+                            )
 
     except UnicodeDecodeError as e:
         errors.append(f"{path}: encoding error (must be UTF-8): {e}")

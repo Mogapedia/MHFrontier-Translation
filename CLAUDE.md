@@ -21,7 +21,8 @@ Rules when writing to these files:
 - **Never edit the `source` column.** It is the Japanese original and the key
   everything else is checked against.
 - **Preserve control codes verbatim**: `{j}` join markers, `{cNN}`/`{/c}`
-  colour spans. Do *not* enforce marker-for-marker parity with the source —
+  colour spans, and `~ANN`/`~BNN` substitutions (the game swaps in a key name
+  or slot number; `validate.py` rejects a target that loses one). Do *not* enforce marker-for-marker parity with the source —
   Japanese terminates colour spans implicitly, so French often needs an
   explicit `{/c}` the source does not have.
 - **Line endings are LF everywhere**, enforced by `.gitattributes`. Python's
