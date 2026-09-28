@@ -752,3 +752,194 @@ dat/armors/body,342,ダミー,Dummy
 dat/armors/body,1227,ダミー,Dummy
 dat/armors/waist,337,ダミー,Dummy
 dat/armors/legs,340,ダミー,Dummy
+dat/equipment/description,280,※仮メッセージ,Made from the Hypnocatrice.{j}Its soft feathers can even{j}guard against Wyvern claws.
+dat/equipment/description,281,※仮メッセージ,Giaprey-sourced armor.{j}Standard issue for Snipers{j}from the North.
+dat/equipment/description,284,※仮メッセージ,Rajang armor made using{j}cutting-edge techniques.{j}Your arms will glow gold.
+dat/equipment/description,288,※仮メッセージ,Arm braces made of Remobra{j}parts. Their black hue makes{j}you feel like a desperado.
+dat/equipment/description,289,※仮メッセージ,Shogun Ceanataur-sourced{j}armor. Gaps in the hard{j}shell are plugged with ore.
+dat/equipment/description,1496,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,The craftsman trusted his{j}instinct and innovated to{j}come up with this item.
+dat/equipment/description,1499,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,The craftsman trusted his{j}instinct and innovated to{j}come up with this item.
+dat/equipment/description,1502,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,Monster materials made into{j}headgear that aims for a{j}snug fit and a natural feel.
+dat/equipment/description,1505,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Monster materials made into{j}headgear that aims for a{j}snug fit and a natural feel.
+dat/equipment/description,1508,装備者の身守り優先で設計{j}された遠方大陸製の頭防具。,All-round functional helm{j}made by harnessing the best{j}features of the Espinas.
+dat/equipment/description,1511,竜の狩猟目的を想定して設計{j}された遠方大陸製の頭防具。,Utilizes the merits of the{j}Espinas to help Hunters{j}adapt to their surroundings.
+dat/equipment/description,1522,軽さを追求した頭防具。{j}手入れに手間は掛かるが{j}並の防具を凌駕する性能。,Designed for dragon hunters{j}from a far-off land.
+dat/equipment/description,1524,軽さを追求した頭防具。{j}手入れに手間は掛かるが{j}並の防具を凌駕する性能。,Designed in a far-off land.{j}Protection is paramount.
+dat/equipment/description,1526,軽さを追求した頭防具。{j}手入れに手間は掛かるが{j}並の防具を凌駕する性能。,Designed for dragon hunters{j}from a far-off land.
+dat/equipment/description,1528,軽さを追求した頭防具。{j}手入れに手間は掛かるが{j}並の防具を凌駕する性能。,Designed in a far-off land.{j}Protection is paramount.
+dat/equipment/description,1530,軽さを追求した頭防具。{j}手入れに手間は掛かるが{j}並の防具を凌駕する性能。,Designed for dragon hunters{j}from a far-off land.
+dat/equipment/description,1577,エスピナス亜種の頭を模した{j}マスク。氷属性攻撃に強い。,Lightweight lava and sharp{j}scales from the Lavasoth{j}combine to create this.
+dat/equipment/description,1596,太刀技を極めた者だけが{j}身に付けることを許された{j}至極の頭防具。,Espinas-modeled mask.{j}Strong against fire.
+dat/equipment/description,1635,孤高の狩人が愛用する{j}頭防具。,Only Heavy Bowgun masters{j}may even dream of donning{j}this magnificent helm.
+dat/equipment/description,1638,孤高の狩人が愛用する{j}頭防具。,Only true masters of the Bow{j}may even dream of donning{j}this magnificent helm.
+dat/equipment/description,1645,堅牢な砦のような{j}絶大なる強度を誇る頭防具。,The Combo Shop Master and{j}Weapon Smith created this{j}after much trial and error.
+dat/equipment/description,1659,強靭な布生地を丁寧に編み{j}上げた狩猟服。多くの{j}ハンターに愛用されている。,Ideal kit for Hunters who{j}prefer to work alone.
+dat/equipment/description,1665,次世代狩猟用装備として開発{j}が行われ、一部のハンターに{j}先行支給された頭防具。,Helm with the defensive{j}power of a stout fortress.
+dat/equipment/description,1679,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Lovingly woven hunting{j}garb worn with pride by{j}countless Hunters.
+dat/equipment/description,1682,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Lovingly woven hunting{j}garb worn with pride by{j}countless Hunters.
+dat/equipment/description,1685,衝撃に強い頑丈な複合素材{j}で作られた頭防具。,Next-gen hunting gear{j}being test-run by a few{j}lucky Hunters.
+dat/equipment/description,1688,信頼性の高い断熱素材で{j}作られた頭防具。,Next-gen hunting gear{j}being test-run by a few{j}lucky Hunters.
+dat/equipment/description,1691,信頼性の高い断熱素材で{j}作られた頭防具。,Next-gen hunting gear{j}being test-run by a few{j}lucky Hunters.
+dat/equipment/description,1694,信頼性の高い断熱素材で{j}作られた頭防具。,Next-gen hunting gear{j}being test-run by a few{j}lucky Hunters.
+dat/equipment/description,1697,装着者の動きやすさを主眼に{j}置いて開発された頭防具。,Next-gen hunting gear{j}being test-run by a few{j}lucky Hunters.
+dat/equipment/description,1700,装着者の動きやすさを主眼に{j}置いて開発された頭防具。,Next-gen hunting gear{j}being test-run by a few{j}lucky Hunters.
+dat/equipment/description,1703,装着者の動きやすさを主眼に{j}置いて開発された頭防具。,Next-gen hunting gear{j}being test-run by a few{j}lucky Hunters.
+dat/equipment/description,1706,装着者の動きやすさを主眼に{j}置いて開発された頭防具。,Next-gen hunting gear{j}being test-run by a few{j}lucky Hunters.
+dat/equipment/description,1711,ギルドへの貢献度に応じて{j}贈られる頭防具。高度な{j}狩猟技術を持つ狩人の証。,Rugged compounds mean it{j}can take a real beating.
+dat/equipment/description,1713,ギルドへの貢献度に応じて{j}贈られる頭防具。高度な{j}狩猟技術を持つ狩人の証。,Rugged compounds mean it{j}can take a real beating.
+dat/equipment/description,1715,ガノトトスの素材を使った{j}一体感抜群の頭防具。{j}{c07}ＳＰ防具：黒{/c},Headgear made of reliable{j}heat-resistant material.
+dat/equipment/description,1717,ガノトトスの素材を使った{j}一体感抜群の頭防具。{j}{c07}ＳＰ防具：紫{/c},Headgear made of reliable{j}heat-resistant material.
+dat/equipment/description,1719,ガノトトスの素材を使った{j}一体感抜群の頭防具。{j}{c07}ＳＰ防具：黄{/c},Headgear made of reliable{j}heat-resistant material.
+dat/equipment/description,1721,ゲリョス素材の頭防具。{j}使うほど味わいが出る。{j}{c07}ＳＰ防具：赤{/c},Developed to give maximum{j}freedom of movement.
+dat/equipment/description,1723,ゲリョス素材の頭防具。{j}使うほど味わいが出る。{j}{c07}ＳＰ防具：緑{/c},Developed to give maximum{j}freedom of movement.
+dat/equipment/description,1725,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,1727,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,1729,狩人祭の褒賞装備の性能が劣化{j}した残骸。もはや価値は無い。{j}再度祭りにて勝ち取るべし！,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,1825,安定したハンターライフを{j}重視して作成された頭防具。,"The shell of the Hunter Fest{j}prize. Worthless, so you'll{j}have to try to win it again."
+dat/equipment/description,1845,最先端の技術が生み出した、{j}高性能な頭防具。メゼポルタ{j}を駆ける一陣の風となれ！,"Made for the Hunter seeking{j}a sensible, stable life."
+dat/equipment/description,2000,水の力を秘めた攻撃に対する{j}耐性を備えた特殊なピアス。,Bugged-out insectoid helm.{j}Its power can butt smaller{j}Wyverns out of the way.
+dat/equipment/description,2003,氷の力を秘めた攻撃に対する{j}耐性を備えた特殊なピアス。,"Made from Congalala parts,{j}its mane symbolizes the{j}call of the wild."
+dat/equipment/description,2006,龍の力を秘めた攻撃に対する{j}耐性を備えた特殊なピアス。,"Hermitaur-sourced headgear.{j}The mask narrows your view,{j}but increases your focus."
+dat/equipment/description,2545,アクラ・ヴァシムの素材を{j}髪飾り状にまとめた頭防具。,"Made of hard, heavy Diablos{j}parts, it's been refined to{j}make it lighter."
+dat/equipment/description,2554,多殻蟹素材をふんだんに{j}使用して作られた頭防具。{j}着用者に幸運を招くという。,Headgear favored by the{j}most fearless Snipers.
+dat/equipment/description,2681,高名なデザイナーが考案した{j}汎用性の高い頭防具。比較的{j}武器種を選ばずに使用できる。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,2683,高名なデザイナーが考案した{j}汎用性の高い頭防具。比較的{j}武器種を選ばずに使用できる。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,14860,※仮メッセージ,The Wind in the Daora's{j}wings makes the wearer's{j}movements lighter.
+dat/equipment/description,14861,※仮メッセージ,Congalala-sourced leg gear{j}that's perfect for a walk{j}on the wild side.
+dat/equipment/description,14864,※仮メッセージ,Blangonga fur and leather{j}combine to give strength{j}to equal that of scales.
+dat/equipment/description,14905,炎妃龍の素材を用いた胴装備。{j}誇り高き青炎を破りし者の証。,"Armor made of insect parts.{j}So sturdy, it's hard to{j}believe it's made of bugs."
+dat/equipment/description,14990,荘厳な造りの胴用装備。{j}大いなる力を近くに感じる。,"Made from Espinas parts,{j}and the forest king's rage.{j}{c07}SP Armor: Yellow{/c}"
+dat/equipment/description,15674,勇猛果敢な剣士が好んで{j}装備する胴防具。,This precious-ore-based{j}chest plate is resistant{j}to thunder.
+dat/equipment/description,15677,勇猛果敢な射撃手が好んで{j}装備する胴防具。,Made from Blangonga parts.{j}Exudes a mysterious flavor{j}of the East.
+dat/equipment/description,15696,高密度な金属で作った胴防具。{j}ハンターの動きを阻害せずに{j}高い防御力を発揮する。,Armor favored by the{j}most dauntless Brawlers.
+dat/equipment/description,15982,堅牢な砦のような{j}絶大なる強度を誇る胴防具。,Only Long Sword masters{j}may even dream of donning{j}this magnificent armor.
+dat/equipment/description,15985,堅牢な砦のような{j}絶大なる強度を誇る胴防具。,Only Long Sword masters{j}may even dream of donning{j}this magnificent armor.
+dat/equipment/description,16020,衝撃に強い頑丈な複合素材{j}で作られた胴防具。,Monster materials made into{j}a chest guard with a snug{j}fit and a natural feel.
+dat/equipment/description,16023,衝撃に強い頑丈な複合素材{j}で作られた胴防具。,Monster materials made into{j}a chest guard with a snug{j}fit and a natural feel.
+dat/equipment/description,16030,信頼性の高い断熱素材で{j}作られた胴防具。,Lovingly woven hunting{j}garb worn with pride by{j}countless Hunters.
+dat/equipment/description,16033,信頼性の高い断熱素材で{j}作られた胴防具。,Lovingly woven hunting{j}garb worn with pride by{j}countless Hunters.
+dat/equipment/description,16036,装着者の動きやすさを主眼に{j}置いて開発された胴防具。,Lovingly woven hunting{j}garb worn with pride by{j}countless Hunters.
+dat/equipment/description,16039,装着者の動きやすさを主眼に{j}置いて開発された胴防具。,Lovingly woven hunting{j}garb worn with pride by{j}countless Hunters.
+dat/equipment/description,16042,装着者の動きやすさを主眼に{j}置いて開発された胴防具。,Lovingly woven hunting{j}garb worn with pride by{j}countless Hunters.
+dat/equipment/description,16045,装着者の動きやすさを主眼に{j}置いて開発された胴防具。,Lovingly woven hunting{j}garb worn with pride by{j}countless Hunters.
+dat/equipment/description,16048,装着者の動きやすさを主眼に{j}置いて開発された胴防具。,Lovingly woven hunting{j}garb worn with pride by{j}countless Hunters.
+dat/equipment/description,16070,チェーンで編まれた胴用装備。{j}革に比べ頑丈。多くの{j}ハンターを守ってきた防具。,Rugged compounds mean it{j}can take a real beating.
+dat/equipment/description,16072,巨大な角を使用した角竜素材{j}の胴用装備。飛竜ですら逃げ{j}出す程の威厳を持つ。,Rugged compounds mean it{j}can take a real beating.
+dat/equipment/description,16074,ババコンガの素材で作られた{j}胴用装備。大きく開いた胸元{j}がワイルドさを演出。,Rugged compounds mean it{j}can take a real beating.
+dat/equipment/description,16076,ヒプノックの素材を使用した{j}胴用装備。ふさふさの羽毛は{j}飛竜の鋭い爪をも防ぐ。,"Armor made of reliable,{j}heat-resistant materials."
+dat/equipment/description,16078,ガノトトスの鱗が細かく縫い{j}込まれた胴装備。体に密着し、{j}どんな衝撃も容易に吸収する。,"Armor made of reliable,{j}heat-resistant materials."
+dat/equipment/description,16080,寒い季節になると着たくなる{j}胴装備。何かいいことが{j}起こる予感がする。,"Armor made of reliable,{j}heat-resistant materials."
+dat/equipment/description,16082,寒い季節になると着たくなる{j}胴装備。何かいいことが{j}起こる予感がする。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,16088,質実なハンターライフを{j}応援するために武具工房で{j}開発された胴防具。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,16090,質実なハンターライフを{j}応援するために武具工房で{j}開発された胴防具。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,16092,最先端の技術が生み出した、{j}高性能な胴防具。メゼポルタ{j}を駆ける一陣の風となれ！,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,16125,とても高級な素材を使用して{j}制作された胴防具。使用者の{j}動きを力強く支えてくれる。,"Made for the Hunter seeking{j}a sensible, stable life."
+dat/equipment/description,16840,狩人祭で得るアイテムで生産{j}する。その姿は入魂した魂の{j}数の証。{c11}≪ＨＣ防具≫{/c},Developed to give maximum{j}freedom of movement.
+dat/equipment/description,16842,落し物メラルーがとても信頼{j}するハンターへ贈る胴防具。{j}とても美しい至高の逸品。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,16844,落し物メラルーがとても信頼{j}するハンターへ贈る胴防具。{j}とても美しい至高の逸品。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,28362,炎妃龍の素材を用いた腕装備。{j}誇り高き青炎を破りし者の証。,"It's unwieldy and clunky,{j}but this Hunter's armor is{j}as robust as they come."
+dat/equipment/description,28404,伝説の職人が作成した腕装備。{j}職人とハンターの『絆』が{j}生み出した、最上の防具。,Gauntlets made of Lunastra.{j}Proof of the victor's glory.
+dat/equipment/description,28446,凛々しくも清廉な腕用装備。{j}大型の袖がチャームポイント。,"Forged by a legendary smith,{j}these superlative items bond{j}Hunter and craftsman."
+dat/equipment/description,29128,勇猛果敢な剣士が好んで{j}装備する腕防具。,"Stunning sparkling kit,{j}honed to perfection to{j}enhance Hunter potential."
+dat/equipment/description,29131,勇猛果敢な射撃手が好んで{j}装備する腕防具。,Accursed gauntlets that{j}emanate ominous vibes.{j}{c07}SP Armor: White{/c}
+dat/equipment/description,29170,豪奢な装飾が施された腕防具。{j}対峙した獲物を威圧する{j}圧倒的な存在感を持つ。,Gauntlets favored by the{j}most dauntless Brawlers.
+dat/equipment/description,29435,堅牢な砦のような{j}絶大なる強度を誇る腕防具。,Stylish gauntlets. Just{j}putting them on is enough to{j}cheer anyone up.
+dat/equipment/description,29438,堅牢な砦のような{j}絶大なる強度を誇る腕防具。,Spirited victors in Hunter{j}Fest Winner Quests gain{j}the materials for this.
+dat/equipment/description,29473,衝撃に強い頑丈な複合素材{j}で作られた腕防具。,Only Light Bowgun masters{j}may even dream of donning{j}these fine gauntlets.
+dat/equipment/description,29476,衝撃に強い頑丈な複合素材{j}で作られた腕防具。,Only Heavy Bowgun masters{j}may even dream of donning{j}these fine gauntlets.
+dat/equipment/description,29479,信頼性の高い断熱素材で{j}作られた腕防具。,Only Heavy Bowgun masters{j}may even dream of donning{j}these fine gauntlets.
+dat/equipment/description,29482,信頼性の高い断熱素材で{j}作られた腕防具。,Only true masters of the Bow{j}may even dream of donning{j}these fine gauntlets.
+dat/equipment/description,29485,信頼性の高い断熱素材で{j}作られた腕防具。,Made from Berukyurosu parts.{j}Electricity still plays{j}across their surface.
+dat/equipment/description,29488,装着者の動きやすさを主眼に{j}置いて開発された腕防具。,A skillful blend of various{j}parts. Could these gauntlets{j}be the next big thing?
+dat/equipment/description,29491,装着者の動きやすさを主眼に{j}置いて開発された腕防具。,"After much trial and error,{j}the Combo Shop Master and{j}Weapon Smith created these."
+dat/equipment/description,29494,装着者の動きやすさを主眼に{j}置いて開発された腕防具。,"After much trial and error,{j}the Combo Shop Master and{j}Weapon Smith created these."
+dat/equipment/description,29497,装着者の動きやすさを主眼に{j}置いて開発された腕防具。,Rarefied kit made by long-{j}term observers of monsters{j}in their natural habitat.
+dat/equipment/description,29500,装着者の動きやすさを主眼に{j}置いて開発された腕防具。,Rarefied kit made by long-{j}term observers of monsters{j}in their natural habitat.
+dat/equipment/description,29507,ガノトトスの素材を使った{j}一体感抜群の腕防具。{j}{c07}ＳＰ防具：黒{/c},Gauntlets with the defensive{j}power of a stout fortress.
+dat/equipment/description,29509,ガノトトスの素材を使った{j}一体感抜群の腕防具。{j}{c07}ＳＰ防具：紫{/c},Gauntlets with the defensive{j}power of a stout fortress.
+dat/equipment/description,29532,安定したハンターライフを{j}重視して作成された腕防具。,Next-gen hunting gear{j}being test-run by a few{j}lucky Hunters.
+dat/equipment/description,29535,安定したハンターライフを{j}重視して作成された腕防具。,Next-gen hunting gear{j}being test-run by a few{j}lucky Hunters.
+dat/equipment/description,29545,最先端の技術が生み出した、{j}高性能な腕防具。メゼポルタ{j}を駆ける一陣の風となれ！,Rugged compounds mean these{j}can take a real beating.
+dat/equipment/description,29547,最先端の技術が生み出した、{j}高性能な腕防具。メゼポルタ{j}を駆ける一陣の風となれ！,Rugged compounds mean these{j}can take a real beating.
+dat/equipment/description,29549,最先端の技術が生み出した、{j}高性能な腕防具。メゼポルタ{j}を駆ける一陣の風となれ！,Rugged compounds mean these{j}can take a real beating.
+dat/equipment/description,29551,最先端の技術が生み出した、{j}高性能な腕防具。メゼポルタ{j}を駆ける一陣の風となれ！,Gauntlets made of reliable{j}heat-resistant material.
+dat/equipment/description,29553,最先端の技術が生み出した、{j}高性能な腕防具。メゼポルタ{j}を駆ける一陣の風となれ！,Gauntlets made of reliable{j}heat-resistant material.
+dat/equipment/description,29555,最先端の技術が生み出した、{j}高性能な腕防具。メゼポルタ{j}を駆ける一陣の風となれ！,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,29557,高名なハンターの装備を{j}再現した高品質の腕防具。{j}最高の安心感を得られる。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,29559,高名なハンターの装備を{j}再現した高品質の腕防具。{j}最高の安心感を得られる。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,29561,メゼポルタに伝わる祭事用{j}衣装をモチーフにした防具。{j}装飾品の宝石は幸福の象徴。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,29563,メゼポルタに伝わる祭事用{j}衣装をモチーフにした防具。{j}装飾品の宝石は幸福の象徴。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,29565,ある防具職人が、夢の中の{j}ひらめきに基づいて設計した{j}画期的な腕防具。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,29594,渡来してきた旅人が着用して{j}いた服装を参考に、工房が{j}ハンター用に仕立てた腕防具。,"Made for the Hunter seeking{j}a sensible, stable life."
+dat/equipment/description,30309,狩人になるための特別訓練を{j}受けた者の腕防具。パーティ{j}の連携を重要視している。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,30311,狩人になるための特別訓練を{j}受けた者の腕防具。パーティ{j}の連携を重要視している。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,30313,狩人になるための特別訓練を{j}受けた者の腕防具。パーティ{j}の連携を重要視している。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,41876,どこか異様さの漂う腰用装備。{j}柔軟な素材で動きやすい。{j}{c07}ＳＰ防具：黒{/c},Armor made from Lunastra.{j}Proof of the victor's glory.
+dat/equipment/description,42675,勇猛果敢な剣士が好んで{j}装備する腰防具。,High-density metal offers{j}superb defense without{j}hindering Hunter mobility.
+dat/equipment/description,42736,非常に頑丈な繊維で織られた{j}腰防具。軽く丈夫な為、狩人{j}から旅人まで愛好者は多い。,Armor favored by the{j}most dauntless Brawlers.
+dat/equipment/description,42983,堅牢な砦のような{j}絶大なる強度を誇る腰防具。,Armor sourced from the Yian{j}Kut-Ku. Its spiny exterior{j}is supremely tough.
+dat/equipment/description,42986,堅牢な砦のような{j}絶大なる強度を誇る腰防具。,"Leather waist armor that{j}gets all the basics right,{j}and is made for general use."
+dat/equipment/description,43021,衝撃に強い頑丈な複合素材{j}で作られた腰防具。,Only Dual Blade masters{j}may even dream of donning{j}this magnificent armor.
+dat/equipment/description,43024,衝撃に強い頑丈な複合素材{j}で作られた腰防具。,Only Great Sword masters{j}may even dream of donning{j}this magnificent armor.
+dat/equipment/description,43027,信頼性の高い断熱素材で{j}作られた腰防具。,Only Long Sword masters{j}may even dream of donning{j}this magnificent armor.
+dat/equipment/description,43030,信頼性の高い断熱素材で{j}作られた腰防具。,Only Long Sword masters{j}may even dream of donning{j}this magnificent armor.
+dat/equipment/description,43033,信頼性の高い断熱素材で{j}作られた腰防具。,Only masters of the Lance{j}may even dream of donning{j}this magnificent armor.
+dat/equipment/description,43036,装着者の動きやすさを主眼に{j}置いて開発された腰防具。,Only masters of the Gunlance{j}may even dream of donning{j}this magnificent armor.
+dat/equipment/description,43039,装着者の動きやすさを主眼に{j}置いて開発された腰防具。,Only masters of the Gunlance{j}may even dream of donning{j}this magnificent armor.
+dat/equipment/description,43042,装着者の動きやすさを主眼に{j}置いて開発された腰防具。,Only masters of the Hammer{j}may even dream of donning{j}this magnificent armor.
+dat/equipment/description,43045,装着者の動きやすさを主眼に{j}置いて開発された腰防具。,Only Hunting Horn maestros{j}may even dream of donning{j}this magnificent armor.
+dat/equipment/description,43048,装着者の動きやすさを主眼に{j}置いて開発された腰防具。,Only Hunting Horn maestros{j}may even dream of donning{j}this magnificent armor.
+dat/equipment/description,43075,狩人祭の褒賞装備の性能が劣化{j}した残骸。さらに価値は下落。{j}次回は勝ち装備を狙うべし！,Armor with the defensive{j}power of a stout fortress.
+dat/equipment/description,43077,狩人祭の褒賞装備の性能が劣化{j}した残骸。さらに価値は下落。{j}次回は勝ち装備を狙うべし！,Armor with the defensive{j}power of a stout fortress.
+dat/equipment/description,43111,狩人祭の褒賞装備の性能が劣化{j}した残骸。さらに価値は下落。{j}次回は勝ち装備を狙うべし！,Rugged compounds mean this{j}can take a real beating.
+dat/equipment/description,43113,狩人祭の褒賞装備の性能が劣化{j}した残骸。さらに価値は下落。{j}次回は勝ち装備を狙うべし！,Rugged compounds mean this{j}can take a real beating.
+dat/equipment/description,43115,狩人祭の褒賞装備の性能が劣化{j}した残骸。さらに価値は下落。{j}次回は勝ち装備を狙うべし！,Armor made of reliable{j}heat-resistant materials.
+dat/equipment/description,43117,狩人祭の褒賞装備の性能が劣化{j}した残骸。さらに価値は下落。{j}次回は勝ち装備を狙うべし！,Armor made of reliable{j}heat-resistant materials.
+dat/equipment/description,43119,狩人祭の褒賞装備の性能が劣化{j}した残骸。さらに価値は下落。{j}次回は勝ち装備を狙うべし！,Armor made of reliable{j}heat-resistant materials.
+dat/equipment/description,43121,狩人祭の褒賞装備の性能が劣化{j}した残骸。さらに価値は下落。{j}次回は勝ち装備を狙うべし！,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,43123,狩人祭の褒賞装備の性能が劣化{j}した残骸。さらに価値は下落。{j}次回は勝ち装備を狙うべし！,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,43125,狩人祭の褒賞装備の性能が劣化{j}した残骸。さらに価値は下落。{j}次回は勝ち装備を狙うべし！,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,43127,狩人祭の褒賞装備の性能が劣化{j}した残骸。さらに価値は下落。{j}次回は勝ち装備を狙うべし！,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,43129,狩人祭の褒賞装備の性能が劣化{j}した残骸。さらに価値は下落。{j}次回は勝ち装備を狙うべし！,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,43161,安定したハンターライフを{j}重視して作成された腰防具。,"The shell of the Hunter Fest{j}loser's booby prize. Next{j}time, be sure to win!"
+dat/equipment/description,43241,華麗な脚技が得意な格闘家が{j}長く愛用したという。{j}悪の組織を叩き潰せ！,"Made for the Hunter seeking{j}a sensible, stable life."
+dat/equipment/description,43856,装着者の動きやすさを主眼に{j}置いて開発された腰防具。,Made from Blangonga parts.{j}Made using techniques from{j}the sacred land of the East.
+dat/equipment/description,43859,装着者の動きやすさを主眼に{j}置いて開発された腰防具。,Waist armor adorned with{j}monster bones. The reversed{j}bones give it a wild look.
+dat/equipment/description,43940,ルコディオラ風の腰防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪ＨＣ防具≫{/c},Developed to give maximum{j}freedom of movement.
+dat/equipment/description,43942,ルコディオラ風の腰防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪ＨＣ防具≫{/c},Developed to give maximum{j}freedom of movement.
+dat/equipment/description,43944,ルコディオラ風の腰防具。{j}古龍素材が、鉱物に眠る力を{j}引き出した。{c11}≪ＨＣ防具≫{/c},Developed to give maximum{j}freedom of movement.
+dat/equipment/description,55567,伝説の職人が作成した脚装備。{j}職人とハンターの『絆』が{j}生み出した、最上の防具。,*Provisional Message
+dat/equipment/description,55607,別系統モンスター素材を混合{j}した脚用装備。{j}足ヒレがオシャレ。,Armor made from Lunastra.{j}Proof of the victor's glory.
+dat/equipment/description,56291,勇猛果敢な剣士が好んで{j}装備する脚防具。,Worn by Guild researchers{j}when monitoring monsters.{j}Surprisingly robust.
+dat/equipment/description,56372,ギルドへの貢献度に応じて{j}贈られる脚防具。高度な{j}狩猟技術を持つ狩人の証。,Armor favored by the{j}most dauntless Brawlers.
+dat/equipment/description,56596,堅牢な砦のような{j}絶大なる強度を誇る脚防具。,"It's tough to get hold of{j}this feather-light armor,{j}but it's a true classic."
+dat/equipment/description,56599,堅牢な砦のような{j}絶大なる強度を誇る脚防具。,"It's tough to get hold of{j}this feather-light armor,{j}but it's a true classic."
+dat/equipment/description,56634,衝撃に強い頑丈な複合素材{j}で作られた脚防具。,Made using the thick shell{j}of the Sapphiraga. The color{j}depends on the items used.
+dat/equipment/description,56637,衝撃に強い頑丈な複合素材{j}で作られた脚防具。,Made using the thick shell{j}of the Sapphiraga. The color{j}depends on the items used.
+dat/equipment/description,56640,信頼性の高い断熱素材で{j}作られた脚防具。,Stylish armor. Just{j}putting it on is enough to{j}cheer anyone up.
+dat/equipment/description,56643,信頼性の高い断熱素材で{j}作られた脚防具。,Spirited victors in Hunter{j}Fest Winner Quests gain{j}the materials for this.
+dat/equipment/description,56646,信頼性の高い断熱素材で{j}作られた脚防具。,"Fine armor from the East.{j}Powerful, and reinforced{j}to enhance attacks."
+dat/equipment/description,56649,装着者の動きやすさを主眼に{j}置いて開発された脚防具。,Fine armor from the East.{j}Designed to enhance skill{j}with ranged weapons.
+dat/equipment/description,56652,装着者の動きやすさを主眼に{j}置いて開発された脚防具。,"Gurenzeburu armor that steels{j}its wearer for battle, and{j}strikes fear into foes."
+dat/equipment/description,56655,装着者の動きやすさを主眼に{j}置いて開発された脚防具。,"Gurenzeburu armor that steels{j}its wearer for battle, and{j}strikes fear into foes."
+dat/equipment/description,56658,装着者の動きやすさを主眼に{j}置いて開発された脚防具。,Only masters of the Sword{j}may even dream of donning{j}this magnificent legwear.
+dat/equipment/description,56661,装着者の動きやすさを主眼に{j}置いて開発された脚防具。,Only Dual Blade masters{j}may even dream of donning{j}this magnificent legwear.
+dat/equipment/description,56699,安定したハンターライフを{j}重視して作成された脚防具。,The Combo Shop Master and{j}Weapon Smith created these{j}after much trial and error.
+dat/equipment/description,56712,最先端の技術が生み出した、{j}高性能な脚防具。メゼポルタ{j}を駆ける一陣の風となれ！,Legwear with the defensive{j}power of a stout fortress.
+dat/equipment/description,56746,とても高級な素材を使用して{j}制作された脚防具。使用者の{j}動きを力強く支えてくれる。,Rugged compounds mean these{j}can take a real beating.
+dat/equipment/description,56748,とても高級な素材を使用して{j}制作された脚防具。使用者の{j}動きを力強く支えてくれる。,Rugged compounds mean these{j}can take a real beating.
+dat/equipment/description,56750,渡来してきた旅人が着用して{j}いた服装を参考に、工房が{j}ハンター用に仕立てた脚防具。,Rugged compounds mean these{j}can take a real beating.
+dat/equipment/description,56752,渡来してきた旅人が着用して{j}いた服装を参考に、工房が{j}ハンター用に仕立てた脚防具。,Armor made of reliable{j}heat-resistant material.
+dat/equipment/description,56754,渡来してきた旅人が着用して{j}いた服装を参考に、工房が{j}ハンター用に仕立てた脚防具。,Armor made of reliable{j}heat-resistant material.
+dat/equipment/description,56756,渡来してきた旅人が着用して{j}いた服装を参考に、工房が{j}ハンター用に仕立てた脚防具。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,56758,渡来してきた旅人が着用して{j}いた服装を参考に、工房が{j}ハンター用に仕立てた脚防具。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,56760,渡来してきた旅人が着用して{j}いた服装を参考に、工房が{j}ハンター用に仕立てた脚防具。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,56762,渡来してきた旅人が着用して{j}いた服装を参考に、工房が{j}ハンター用に仕立てた脚防具。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,56764,渡来してきた旅人が着用して{j}いた服装を参考に、工房が{j}ハンター用に仕立てた脚防具。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,56766,「不断の探究者」と称される{j}格闘家が着用したという。{j}俺より強いやつに会いに行く。,Developed to give maximum{j}freedom of movement.
+dat/equipment/description,56799,高級な鉄材とモンスターの{j}素材を使って作られた狩猟{j}用の脚防具。わりと頑丈。,"Made for the Hunter seeking{j}a sensible, stable life."
+dat/equipment/description,57514,装備すると、アイルーの如き{j}飽くなき探究心が宿る脚防具。{j}機能を追及し軽量で動き易い。,Developed to give maximum{j}freedom of movement.
+dat/weapons/melee/description,58,融点が異常に高い鉱物を使用。{j}熱した状態で振り回し、対象{j}を溶かすという恐ろしい鎚。,"powerful and deadly attack.{j}Fused together with an{j}expensive ore, it burns when{j}swung, melting its victims.{j}A huge Hammer made with{j}purer iron for a more{j}powerful and deadly attack."
+dat/weapons/melee/description,1110,0,Dummy
+dat/weapons/melee/description,1333,ダミー,Dummy
+dat/weapons/melee/description,1334,ダミー,Dummy
