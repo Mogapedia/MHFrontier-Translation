@@ -1,6 +1,8 @@
 index,source,target
-0,"If you need something,
-I will exchange them for gems nya!",
+0,"ハンターさん、お疲れ様ですニャ。
+探索は順調かニャ？
+何か必要なものがあれば、
+ボクがジェムと交換するニャ！",
 1,気をつけて行くのニャ！,
 2,"あっハンターさん！
 この先はちょっとマズい感じがするのニャ。
@@ -11,42 +13,41 @@ I will exchange them for gems nya!",
 5,"あっそうだニャ！
 この先の扉は{c02}一度進んだら戻れない{/c}みたいニャ。
 クレグレも気をつけて行くのニャ！",
-6,Nya? Not enough preparation?,
-7,"Please be careful on your way, nya!",
+6,ニャ？準備が足りなかったのかニャ？,
+7,クレグレも気をつけて行くのニャ！,
 8,"ハンターさん、はじめましてですニャ。
 天廊調査の頼れる味方、{c05}≪天廊ネコ≫{/c}とはボクのことだニャ！",
 9,本来ならば、天廊調査をする人にジェムと交換で必要な物をお渡しするのがボクのおしごとニャんですけど、,
-10,"This time it is still in the sky corridor survey
-As an unfamiliar hunter's senpai
-I'll teach you how to take a step!
-Nice to meet you!",
-11,"First of all, the place where we are now, this is inside the heavenly corridor. 
-Apparently, there are traps here and there, so it's a really cool place.",
-12,"For example, I want you to see the stairs that have just come up.
-When you go up the stairs, the door closes, so once you go upstairs, you can't go back down.",
+10,"今回はまだ天廊調査に
+慣れないハンターさんのセンパイとして、
+手取り足取り教えてあげるニャ！
+どうぞよろしくだニャ！",
+11,まず、今ボクたちがいる場所、ここが天廊の中だニャ。どうやら、あちこちに罠が仕掛けられているみたいで、すご～くキケンなところだニャ。,
+12,"例えば、今上ってきた階段を見てほしいニャ。
+階段を上ると扉が閉まってしまうので、一度上の階に行くと下には戻れなくなってしまうみたいなのニャ。",
 13,"だけど、安心するニャ。
 このあたりは特別で、調査の結果、安全が確保されているとギルドの人が言っていたニャ。",
-14,"So, learn the Kihon of the sky corridor survey here,
-I want you to use it for future research.",
-15,"Well then, let's start right away!
-I will teach you the important things each time, so
-Anyway, let's go dong dong!",
-16,"Hunter, thank you for your hard work.
-Would you like to hear about the sky corridor again?",
-17,It seems that Felyne hasn't returned yet. I'm worried ...,
-18,"Nya! Hunter,
-It looks like you're having trouble investigating, right?
-To help the hunter who is in trouble
-My work.
-I want my gem to be useful for investigation.",
-19,"I'm in trouble.
-It looks like there is a lost Felyne.
-Hunter, please.
-I want you to use this gem to find the lost Felyne.",
-20,"Nya! Hunter,
-It looks like you're having trouble investigating, right?
-The future is extremely dangerous!
-Take this gem and get ready!",
+14,"だから、ここで天廊調査のキホンを学んで、
+今後の調査にいかしていってほしいんだニャ。",
+15,"それでは、早速出発するニャ！
+大事なことはそのつどボクが教えるので、
+とにかくドンドン行ってみようだニャ！",
+16,"ハンターさん、お疲れ様ですニャ。
+天廊について、もう一度聞くかニャ？",
+17,さっきここを通ったアイルーが、まだ戻ってきていないようですニャ。心配ですニャあ・・・。,
+18,"ニャ！ハンターさん、
+調査に手こずってるみたいだニャ？
+困っているハンターさんを助けるのも
+ボクのおしごと。
+ボクのジェムを調査に役立てて欲しいニャ。",
+19,"困ったニャ～。
+迷子になったアイルーがいるみたいニャ。
+ハンターさん、お願いしますニャ。
+このジェムを使って迷子のアイルーを探して欲しいニャ。",
+20,"ニャ！ハンターさん、
+調査に手こずってるみたいだニャ？
+この先は、ものすご～く危険だニャ！
+このジェムでちゃんと準備をするニャ！",
 21,"あっハンターさん！
 この先はちょっとマズい感じがするのニャ。
 イヤーなピリピリした空気がココまで流れてきてるニャ。",

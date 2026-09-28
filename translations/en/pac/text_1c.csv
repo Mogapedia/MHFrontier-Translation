@@ -1,13 +1,13 @@
 index,source,target
-0,Discard{j}Give{j}Swap{j}Send{j}Bind F Key,
-1,Discard{j}{c10}Give{j}{/c}Swap{j}Send{j}Bind F Key,
-2,{c10}Discard{j}Give{j}Swap{j}Send{j}Bind F Key,
-3,Discard{j}Give{j}Swap{j}Send{j}{c10}F Key Bind,
-4,Discard{j}{c10}Give{j}{/c}Swap{j}Send{j}{c10}F Key Bind,
-5,{c10}Discard{j}Give{j}Swap{j}Send{j}{c10}F Key Bind,
-6,Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}Bind F Key,
-7,Discard{j}{c10}Give{j}{/c}Swap{j}{c10}Send{/c}{j}Bind F Key,
-8,{c10}Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}Bind F Key,
-9,Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}{c10}F Key Bind,
-10,Discard{j}{c10}Give{j}{/c}Swap{j}{c10}Send{/c}{j}{c10}F Key Bind,
-11,{c10}Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}{c10}F Key Bind,
+0,捨てる{j}渡す{j}入れ替え{j}送る{j}Ｆキー登録,Discard{j}Give{j}Swap{j}Send{j}Bind F Key
+1,捨てる{j}{c10}渡す{j}{/c}入れ替え{j}送る{j}Ｆキー登録,Discard{j}{c10}Give{j}{/c}Swap{j}Send{j}Bind F Key
+2,{c10}捨てる{j}渡す{j}入れ替え{j}送る{j}Ｆキー登録,{c10}Discard{j}Give{j}Swap{j}Send{j}Bind F Key
+3,捨てる{j}渡す{j}入れ替え{j}送る{j}{c10}Ｆキー登録,Discard{j}Give{j}Swap{j}Send{j}{c10}F Key Bind
+4,捨てる{j}{c10}渡す{j}{/c}入れ替え{j}送る{j}{c10}Ｆキー登録,Discard{j}{c10}Give{j}{/c}Swap{j}Send{j}{c10}F Key Bind
+5,{c10}捨てる{j}渡す{j}入れ替え{j}送る{j}{c10}Ｆキー登録,{c10}Discard{j}Give{j}Swap{j}Send{j}{c10}F Key Bind
+6,捨てる{j}渡す{j}入れ替え{j}{c10}送る{/c}{j}Ｆキー登録,Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}Bind F Key
+7,捨てる{j}{c10}渡す{j}{/c}入れ替え{j}{c10}送る{/c}{j}Ｆキー登録,Discard{j}{c10}Give{j}{/c}Swap{j}{c10}Send{/c}{j}Bind F Key
+8,{c10}捨てる{j}渡す{j}入れ替え{j}{c10}送る{/c}{j}Ｆキー登録,{c10}Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}Bind F Key
+9,捨てる{j}渡す{j}入れ替え{j}{c10}送る{/c}{j}{c10}Ｆキー登録,Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}{c10}F Key Bind
+10,捨てる{j}{c10}渡す{j}{/c}入れ替え{j}{c10}送る{/c}{j}{c10}Ｆキー登録,Discard{j}{c10}Give{j}{/c}Swap{j}{c10}Send{/c}{j}{c10}F Key Bind
+11,{c10}捨てる{j}渡す{j}入れ替え{j}{c10}送る{/c}{j}{c10}Ｆキー登録,{c10}Discard{j}Give{j}Swap{j}{c10}Send{/c}{j}{c10}F Key Bind

@@ -1,10 +1,10 @@
 index,source,target
-0,Status Immunity,
-1,Status Immunity Myriad,
-2,No Stamin Depletion [Small],
-3,No Stamin Depletion [Large],
-4,Elemental Attack Up,
-5,Affinity Up [Small],
-6,Affinity Up [Large],
-7,Divine Protection,
-8,Goddess' Embrace,
+0,状態異常を無効化,Status Immunity
+1,状態異常をすべて無効化,Status Immunity Myriad
+2,スタミナ減少無効【小】,No Stamin Depletion [Small]
+3,スタミナ減少無効【大】,No Stamin Depletion [Large]
+4,属性攻撃力強化,Elemental Attack Up
+5,会心率上昇【小】,Affinity Up [Small]
+6,会心率上昇【大】,Affinity Up [Large]
+7,女神の赦し,Divine Protection
+8,女神の抱擁,Goddess' Embrace

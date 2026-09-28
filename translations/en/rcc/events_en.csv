@@ -1,8 +1,8 @@
 index,source,target
 0,-----,
-1,Event Info {k342},
-2,Event Info {i157},
-3,{k93}{k94} Select {k01}Cancel,
-4,{k03} Move to Reception,
+1,イベント詳細モード　{k342},Event Info {k342}
+2,イベント詳細モード　{i157},Event Info {i157}
+3,{k93}{k94} 選択 {k01}キャンセル,{k93}{k94} Select {k01}Cancel
+4,{k03}受付へ移動,{k03} Move to Reception
 5,{k07}→,
 6,←{k04},

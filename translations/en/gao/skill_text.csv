@@ -1,6 +1,6 @@
 index,source,target
-0,None,
-1,Disables wind pressure.,
+0,なし,None
+1,各風圧を無効にする。,Disables wind pressure.
 2,"モンスターの一部咆哮を
 無効にする。無効不可の
 場合怯み時間を短縮する。",
@@ -115,185 +115,185 @@ index,source,target
 55,"パートニャーが吹く
 「○○の調べ」系の笛の
 効果時間が延長される。",
-56,None,
-57,Wind Pressure,
-58,Hearing Res,
-59,Attack,
-60,Defense,
-61,Affinity,
-62,Fire Res,
-63,Water Res,
-64,Ice Res,
-65,Thunder Res,
-66,Dragon Res,
-67,Quake Res,
-68,Poison,
-69,Sleep,
-70,Para,
-71,Stun,
-72,Demon Horn,
-73,Recovery horn,
-74,Armour Horn,
-75,Shock Trap,
-76,Pierce Boomerang,
-77,Huge Boomerang,
-78,Para Attack,
-79,Poison Attack,
-80,Sleep Attack,
-81,Bomb Boost,
-82,Rocksteady,
-83,All Res,
-84,Fencing,
-85,Mind's Eye,
-86,Reflect,
-87,Fire Attack,
-88,Water Attack,
-89,Ice Attack,
-90,Thunder Attack,
-91,Dragon Attack,
-92,Courage,
-93,Health,
-94,Deflection,
-95,Revival Time,
-96,Inspiration,
-97,Luck,
-98,Bond,
-99,Encourage,
-100,Movement Speed,
-101,Status Attack,
-102,Contributor,
-103,Gatherer,
-104,Explorer,
-105,Assistance,
-106,Health Horn,
-107,Stamina Horn,
-108,Elemental Horn,
-109,Affinity Horn,
-110,Protection Horn,
-111,Flute Expert,
-112,No Skill,
-113,Wind Pressure,
-114,Wind Pressure,
-115,Dragon Wind Breaker,
-116,Violent Wind Breaker,
-117,Soundproof [Small],
-118,Soundproof [Medium],
-119,Soundproof [Large],
-120,Attack [Small],
-121,Attack [Medium],
-122,Attack [Large],
-123,Attack [Very Large],
-124,Attack [Extreme],
-125,Defence [Small],
-126,Defence [Medium],
-127,Defence [Large],
-128,Defence [Very Large],
-129,Defence [Extreme],
-130,Affinity [Small],
-131,Affinity [Medium],
-132,Affinity [Large],
-133,Affinity [Very Large],
-134,Affinity [Extreme],
-135,Fire Res [Small],
-136,Fire Res [Medium],
-137,Fire Res [Large],
-138,Water Res [Small],
-139,Water Res [Medium],
-140,Water Res [Large],
-141,Ice Res [Small],
-142,Ice Res [Medium],
-143,Ice Res [Large],
-144,Thunder Res [Small],
-145,Thunder Res [Medium],
-146,Thunder Res [Large],
-147,Dragon Res [Small],
-148,Dragon Res [Medium],
-149,Dragon Res [Large],
-150,Quake Res [Small],
-151,Quake Res [Large],
-152,Poison Res [Small],
-153,Poison Res [Large],
-154,Sleep Res [Small],
-155,Sleep Res [Large],
-156,Para Res [Small],
-157,Para Res [Large],
-158,Stun Res [Small],
-159,Stun Res [Large],
-160,Demon Horn +1,
-161,Demon Horn +2,
-162,Recovery Horn +1,
-163,Recovery Horn +2,
-164,Armour Horn +1,
-165,Armour Horn +2,
-166,Trapper +1,
-167,Trapper +2,
-168,Pierce Boomerang,
-169,Huge Boomerang,
-170,Para Attack [Small],
-171,Para Attack [Medium],
-172,Para Attack [Large],
-173,Poison Attack [Small],
-174,Poison Attack [Medium],
-175,Poison Attack [Large],
-176,Sleep Attack [Small],
-177,Sleep Attack [Medium],
-178,Sleep Attack [Large],
-179,Blast Boost [Small],
-180,Blast Boost [Medium],
-181,Blast Boost [Large],
-182,Steady Nerves,
-183,All Res [Small],
-184,All Res [Medium],
-185,All Res [Large],
-186,Fencing+1,
-187,Fencing+2,
-188,Mind's Eye,
-189,Reflect +1,
-190,Reflect +2,
-191,Fire Attack Up [Small],
-192,Fire Attack Up [Large],
-193,Water Attack Up [Small],
-194,Water Attack Up [Large],
-195,Ice Attack Up [Small],
-196,Ice Attack Up [Large],
-197,Thunder Attack Up [Small],
-198,Thunder Attack Up [Large],
-199,Dragon Attack Up [Small],
-200,Dragon Attack Up [Large],
-201,Courage Up [Small],
-202,Courage Up [Large],
-203,Health Up [Small],
-204,Health Up [Medium],
-205,Health Up [Large],
-206,Health Up [Very Large],
-207,Health Up [Extreme],
-208,Deflection Up [Small],
-209,Deflection Up [Large],
-210,Revival [Small],
-211,Revival [Large],
-212,Negative Reinforcement [Small],
-213,Negative Reinforcement [Large],
-214,Luck Up [Small],
-215,Luck Up [Large],
-216,Bond,
-217,Encourage +1,
-218,Encourage +2,
-219,Movement Speed Up [Small],
-220,Movement Speed Up [Large],
-221,Status Attack Up,
-222,Contributions [Small],
-223,Contributions [Large],
-224,Gathering Boost,
-225,Gathering Master,
-226,Explorer,
-227,Assistance,
-228,Health Horn,
-229,Health Horn,
-230,Stamina Horn [Small],
-231,Stamina Horn [Large],
-232,Elemental Horn,
-233,Affinity Horn [Small],
-234,Affinity Horn [Large],
-235,Protection Horn [Small],
-236,Protection Horn [Large],
-237,Flute Expert,
+56,なし,None
+57,風圧,Wind Pressure
+58,防音,Hearing Res
+59,攻撃,Attack
+60,防御,Defense
+61,会心,Affinity
+62,火耐性,Fire Res
+63,水耐性,Water Res
+64,氷耐性,Ice Res
+65,雷耐性,Thunder Res
+66,龍耐性,Dragon Res
+67,耐震,Quake Res
+68,毒,Poison
+69,睡眠,Sleep
+70,麻痺,Para
+71,気絶,Stun
+72,鬼人笛術,Demon Horn
+73,回復笛術,Recovery horn
+74,硬化笛術,Armour Horn
+75,痺罠術,Shock Trap
+76,貫通投擲,Pierce Boomerang
+77,特大投擲,Huge Boomerang
+78,麻痺攻撃,Para Attack
+79,毒攻撃,Poison Attack
+80,睡眠攻撃,Sleep Attack
+81,爆弾強化,Bomb Boost
+82,胆力,Rocksteady
+83,全耐性,All Res
+84,剣術,Fencing
+85,心眼術,Mind's Eye
+86,反射術,Reflect
+87,火属性強化,Fire Attack
+88,水属性強化,Water Attack
+89,氷属性強化,Ice Attack
+90,雷属性強化,Thunder Attack
+91,龍属性強化,Dragon Attack
+92,度胸,Courage
+93,体力,Health
+94,反射神経,Deflection
+95,復帰力,Revival Time
+96,発奮術,Inspiration
+97,運,Luck
+98,絆術,Bond
+99,激励術,Encourage
+100,移動速度,Movement Speed
+101,特殊攻撃,Status Attack
+102,採取貢献術,Contributor
+103,採取術,Gatherer
+104,探検術,Explorer
+105,支援術,Assistance
+106,衛生の調べ,Health Horn
+107,元気の調べ,Stamina Horn
+108,属性の調べ,Elemental Horn
+109,会心の調べ,Affinity Horn
+110,女神の調べ,Protection Horn
+111,笛吹き名人,Flute Expert
+112,スキル無し,No Skill
+113,風圧【小】無効術,Wind Pressure
+114,風圧【大】無効術,Wind Pressure
+115,龍風圧無効術,Dragon Wind Breaker
+116,暴風圧無効術,Violent Wind Breaker
+117,防音術【小】,Soundproof [Small]
+118,防音術【中】,Soundproof [Medium]
+119,防音術【大】,Soundproof [Large]
+120,攻撃術【小】,Attack [Small]
+121,攻撃術【中】,Attack [Medium]
+122,攻撃術【大】,Attack [Large]
+123,攻撃術【特大】,Attack [Very Large]
+124,攻撃術【絶大】,Attack [Extreme]
+125,防御術【小】,Defence [Small]
+126,防御術【中】,Defence [Medium]
+127,防御術【大】,Defence [Large]
+128,防御術【特大】,Defence [Very Large]
+129,防御術【絶大】,Defence [Extreme]
+130,会心術【小】,Affinity [Small]
+131,会心術【中】,Affinity [Medium]
+132,会心術【大】,Affinity [Large]
+133,会心術【特大】,Affinity [Very Large]
+134,会心術【絶大】,Affinity [Extreme]
+135,火耐性【小】,Fire Res [Small]
+136,火耐性【中】,Fire Res [Medium]
+137,火耐性【大】,Fire Res [Large]
+138,水耐性【小】,Water Res [Small]
+139,水耐性【中】,Water Res [Medium]
+140,水耐性【大】,Water Res [Large]
+141,氷耐性【小】,Ice Res [Small]
+142,氷耐性【中】,Ice Res [Medium]
+143,氷耐性【大】,Ice Res [Large]
+144,雷耐性【小】,Thunder Res [Small]
+145,雷耐性【中】,Thunder Res [Medium]
+146,雷耐性【大】,Thunder Res [Large]
+147,龍耐性【小】,Dragon Res [Small]
+148,龍耐性【中】,Dragon Res [Medium]
+149,龍耐性【大】,Dragon Res [Large]
+150,耐震術【小】,Quake Res [Small]
+151,耐震術【大】,Quake Res [Large]
+152,毒耐性【小】,Poison Res [Small]
+153,毒耐性【大】,Poison Res [Large]
+154,睡眠耐性【小】,Sleep Res [Small]
+155,睡眠耐性【大】,Sleep Res [Large]
+156,麻痺耐性【小】,Para Res [Small]
+157,麻痺耐性【大】,Para Res [Large]
+158,気絶耐性【小】,Stun Res [Small]
+159,気絶耐性【大】,Stun Res [Large]
+160,鬼人笛の術+1,Demon Horn +1
+161,鬼人笛の術+2,Demon Horn +2
+162,回復笛の術+1,Recovery Horn +1
+163,回復笛の術+2,Recovery Horn +2
+164,硬化笛の術+1,Armour Horn +1
+165,硬化笛の術+2,Armour Horn +2
+166,シビレ罠の術+1,Trapper +1
+167,シビレ罠の術+2,Trapper +2
+168,貫通ブーメランの術,Pierce Boomerang
+169,特大ブーメランの術,Huge Boomerang
+170,麻痺攻撃の術【小】,Para Attack [Small]
+171,麻痺攻撃の術【中】,Para Attack [Medium]
+172,麻痺攻撃の術【大】,Para Attack [Large]
+173,毒攻撃の術【小】,Poison Attack [Small]
+174,毒攻撃の術【中】,Poison Attack [Medium]
+175,毒攻撃の術【大】,Poison Attack [Large]
+176,睡眠攻撃の術【小】,Sleep Attack [Small]
+177,睡眠攻撃の術【中】,Sleep Attack [Medium]
+178,睡眠攻撃の術【大】,Sleep Attack [Large]
+179,爆弾強化の術【小】,Blast Boost [Small]
+180,爆弾強化の術【中】,Blast Boost [Medium]
+181,爆弾強化の術【大】,Blast Boost [Large]
+182,胆力術,Steady Nerves
+183,全耐性【小】,All Res [Small]
+184,全耐性【中】,All Res [Medium]
+185,全耐性【大】,All Res [Large]
+186,剣術+1,Fencing+1
+187,剣術+2,Fencing+2
+188,心眼術,Mind's Eye
+189,反射術+1,Reflect +1
+190,反射術+2,Reflect +2
+191,火属性強化術【小】,Fire Attack Up [Small]
+192,火属性強化術【大】,Fire Attack Up [Large]
+193,水属性強化術【小】,Water Attack Up [Small]
+194,水属性強化術【大】,Water Attack Up [Large]
+195,氷属性強化術【小】,Ice Attack Up [Small]
+196,氷属性強化術【大】,Ice Attack Up [Large]
+197,雷属性強化術【小】,Thunder Attack Up [Small]
+198,雷属性強化術【大】,Thunder Attack Up [Large]
+199,龍属性強化術【小】,Dragon Attack Up [Small]
+200,龍属性強化術【大】,Dragon Attack Up [Large]
+201,度胸UP【小】,Courage Up [Small]
+202,度胸UP【大】,Courage Up [Large]
+203,体力増加【小】,Health Up [Small]
+204,体力増加【中】,Health Up [Medium]
+205,体力増加【大】,Health Up [Large]
+206,体力増加【特大】,Health Up [Very Large]
+207,体力増加【絶大】,Health Up [Extreme]
+208,反射神経UP【小】,Deflection Up [Small]
+209,反射神経UP【大】,Deflection Up [Large]
+210,復帰術【小】,Revival [Small]
+211,復帰術【大】,Revival [Large]
+212,叩かれて伸びる【小】,Negative Reinforcement [Small]
+213,叩かれて伸びる【大】,Negative Reinforcement [Large]
+214,運UP【小】,Luck Up [Small]
+215,運UP【大】,Luck Up [Large]
+216,絆術,Bond
+217,激励術+1,Encourage +1
+218,激励術+2,Encourage +2
+219,移動速度UP【小】,Movement Speed Up [Small]
+220,移動速度UP【大】,Movement Speed Up [Large]
+221,状態異常攻撃強化,Status Attack Up
+222,採取貢献術【小】,Contributions [Small]
+223,採取貢献術【大】,Contributions [Large]
+224,採取上手,Gathering Boost
+225,採取名人,Gathering Master
+226,探検術,Explorer
+227,支援術,Assistance
+228,衛生の調べ,Health Horn
+229,衛生の調べ【多種】,Health Horn
+230,元気の調べ【小】,Stamina Horn [Small]
+231,元気の調べ【大】,Stamina Horn [Large]
+232,属性の調べ,Elemental Horn
+233,会心の調べ【小】,Affinity Horn [Small]
+234,会心の調べ【大】,Affinity Horn [Large]
+235,女神の調べ【小】,Protection Horn [Small]
+236,女神の調べ【大】,Protection Horn [Large]
+237,笛吹き名人,Flute Expert

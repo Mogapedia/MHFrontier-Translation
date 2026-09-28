@@ -1,4 +1,4 @@
 index,source,target
-0,Discard{j}Swap{j}Send,
-1,{c10}Discard{j}Swap{j}Send,
-2,Discard{j}Swap{j}{c10}Send,
+0,捨てる{j}入れ替え{j}送る,
+1,{c10}捨てる{j}入れ替え{j}送る,
+2,捨てる{j}入れ替え{j}{c10}送る,

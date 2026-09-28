@@ -1,8 +1,8 @@
 index,source,target
 0,-----,
-1,Jump Menu,
-2,{k345} Target,
-3,"A movement function was
-added to the Jump Menu.
-Use it well!",
-4,{i131} Jump Menu,
+1,移動メニュー,
+2,{k345} 移動先,
+3,"簡易ジャンプ機能の移動メニューが
+新規追加されました。
+是非ご利用ください！",
+4,{i131} 移動メニュー,

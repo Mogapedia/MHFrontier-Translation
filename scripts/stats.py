@@ -20,9 +20,8 @@ from pathlib import Path
 #     tables that share data with other slots),
 #   - `dummy` placeholders in fixed-size pointer tables,
 #   - numeric/empty placeholders like "0" for unused slots,
-#   - English-as-source pollution rows from the partially-patched JP binary
-#     (and any bulk-imported targets in another language attached to them).
-# See translations/MHFrontier-Translation/CLAUDE.md "Known data quality issues".
+#   - English internal names left in the game file (`Z3P_item_089`).
+# See CLAUDE.md "What not to trust".
 _CJK_RE = re.compile(r"[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]")
 
 

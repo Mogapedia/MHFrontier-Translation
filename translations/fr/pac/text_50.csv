@@ -1,12 +1,12 @@
 index,source,target
-0,None{j}　,Aucun{j}　
+0,なし{j}　,Aucun{j}　
 1,"歩行{j}押下中は前方に
 歩行",Marche{j}Avance tant que maintenu
 2,"ダッシュ{j}押下中は前方に
 ダッシュ",Course{j}Sprinte tant que maintenu
 3,"回避{j}方向カーソルの向
 いている方へ回避",Esquive{j}Esquive vers la direction du curseur
-4,"Reset Camera{j}カメラを前方へ
+4,"カメラリセット{j}カメラを前方へ
 リセット",Recentrer caméra{j}Recentre la caméra vers l’avant
 5,"カメラ・反時計{j}回転中はカメラの
 角度が反時計回り",Caméra antihoraire{j}La caméra pivote en sens antihoraire
@@ -39,8 +39,8 @@ index,source,target
 スティックと同じ",Attaque omnidirectionnelle{j}Comme le stick droit
 21,"カメラ左右設定{j}カメラを時計回り・
 反時計回りに回転",Réglage caméra G/D{j}Fait pivoter la caméra dans les deux sens
-22,Use Item{j}アイテムを使用する,Utiliser objet{j}Utilise un objet
-23,Attack{j}攻撃に使用,Attaque{j}Sert à attaquer
+22,アイテム使用{j}アイテムを使用する,Utiliser objet{j}Utilise un objet
+23,攻撃{j}攻撃に使用,Attaque{j}Sert à attaquer
 24,カメラ{j}カメラ移動,Caméra{j}Déplace la caméra
 25,コンボパレット再生{j}セット番号を順次再生,Lecture palette de combos{j}Joue les combos par numéro
 26,アイテムの選択・右{j}回転で選択（右送り),Sélection objet (droite){j}Sélection par rotation (droite)
@@ -61,14 +61,14 @@ index,source,target
 37,弾丸ビン剣晶選択{j}テーブルを上下へ回転,Sélection munitions/fioles/cristaux{j}Fait tourner la table haut/bas
 38,"カメラ左右移動{j}スコープモードや照準
 移動時は上下移動可",Déplacement caméra G/D{j}En visée/scope : déplacement vertical possible
-39,Guard{j}防御態勢を取る,Garde{j}Se met en garde
-40,Reload{j}弾丸の装填,Recharger{j}Recharge les munitions
+39,ガード{j}防御態勢を取る,Garde{j}Se met en garde
+40,リロード{j}弾丸の装填,Recharger{j}Recharge les munitions
 41,溜め{j}強い打撃技を放つ,Charge{j}Déclenche une attaque puissante
-42,Guard{j}防御態勢を取る,Garde{j}Se met en garde
-43,Guard{j}防御態勢を取る,Garde{j}Se met en garde
-44,Reload{j}弾丸の装填,Recharger{j}Recharge les munitions
-45,Demon Mode{j}一時攻撃力を増す,Mode démon{j}Augmente l’attaque un temps
-46,Spirit Blade{j}ゲージ消費斬撃,Lame spirituelle{j}Attaque consommant la jauge
+42,ガード{j}防御態勢を取る,Garde{j}Se met en garde
+43,ガード{j}防御態勢を取る,Garde{j}Se met en garde
+44,リロード{j}弾丸の装填,Recharger{j}Recharge les munitions
+45,鬼人化{j}一時攻撃力を増す,Mode démon{j}Augmente l’attaque un temps
+46,気刃斬り{j}ゲージ消費斬撃,Lame spirituelle{j}Attaque consommant la jauge
 47,演奏開始{j}狩猟補助の旋律を演奏,Jouer{j}Joue une mélodie de soutien
-48,Guard{j}防御態勢を取る,Garde{j}Se met en garde
-49,Take Aim{j}矢の軌道目安を表示,Visée{j}Affiche la trajectoire de la flèche
+48,ガード{j}防御態勢を取る,Garde{j}Se met en garde
+49,狙いを定める{j}矢の軌道目安を表示,Visée{j}Affiche la trajectoire de la flèche

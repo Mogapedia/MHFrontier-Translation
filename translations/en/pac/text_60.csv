@@ -1,7 +1,7 @@
 index,source,target
-0,Frontier Type,
-1,Classic Type,
-2,Numpad Type,
-3,No Numpad Type,
-4,Padless Type,
-5,Chat-Only Type,
+0,フロンティアタイプ,Frontier Type
+1,クラシックタイプ,Classic Type
+2,テンキー有りタイプ,Numpad Type
+3,テンキー無しタイプ,No Numpad Type
+4,パッド無しタイプ,Padless Type
+5,チャット専用タイプ,Chat-Only Type
