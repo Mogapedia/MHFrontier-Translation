@@ -27,7 +27,12 @@ What is *kept* is decided per row, never by position:
     proves it belongs to this row and not to a neighbour;
   - anything else that contains CJK is displaced text: blank it;
   - a row whose source is a placeholder ('0', 'ダミー', empty) has nothing to
-    translate, so any target it carries came from somewhere else: blank it.
+    translate, so any target it carries came from somewhere else: blank it;
+  - a target that is itself a placeholder ('0') is not a translation: blank it;
+  - in prose sections, a target with a different number of `{j}` segments
+    from its source belongs to another row (each `{j}` is a pointer slot of
+    this row). FrontierTextHandler also refuses it, and one such row makes it
+    reject the whole section: blank it.
 
 Alignment of the surviving English was checked before writing this: on
 `dat/equipment/description`, JP slot words (頭用/胴用/腕用/腰用/脚用) agree with
@@ -122,8 +127,12 @@ def classify(source, target, section=None):
 
     if src in PLACEHOLDER:
         return False, "source is a placeholder"
+    if tgt in PLACEHOLDER:
+        return False, "target is a placeholder"
     if tgt == src:
         return False, "target copies source"
+    if target.count("{j}") != source.count("{j}"):
+        return False, "segment count differs from source"
     if not has_cjk(tgt):
         return True, "english"
 
@@ -185,7 +194,11 @@ def salvage(section, rows):
     existing = []
     if os.path.exists(path):
         with open(path, encoding="utf-8") as f:
-            existing = [r for r in csv.DictReader(f) if r["section"] != section]
+            existing = list(csv.DictReader(f))
+    # Keep what earlier runs queued: those rows are blank now, so this run
+    # cannot find them again.
+    queued = {(r["section"], r["index"]) for r in existing}
+    out = [r for r in out if (r["section"], r["index"]) not in queued]
     with open(path, "w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, lineterminator="\n",
                            fieldnames=["section", "index", "source", "orphan_target"])
