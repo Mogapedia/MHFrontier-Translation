@@ -110,6 +110,10 @@ l'application à partir du nombre et de l'ordre des marqueurs — le
 - Le texte FR s'insère **entre** les marqueurs, en respectant la
   segmentation visuelle (chaque `{j}` = un saut de ligne à l'écran).
 - Ne pas ajouter de marqueurs absents de la source.
+- Les codes `~A00`, `~B03`… (tilde, lettre, deux chiffres) sont des
+  **substitutions** : le jeu les remplace par un nom de touche ou un
+  numéro d'emplacement (« ~B00 ou ~B03 : ranger le fusarbalète »). Les
+  recopier tels quels ; `validate.py` refuse une traduction qui en perd un.
 - Les lignes contenant **uniquement** des codes de contrôle
   (~6 643 lignes recensées) doivent rester avec `target` vide.
 
