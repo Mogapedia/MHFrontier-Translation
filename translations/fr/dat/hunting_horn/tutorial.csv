@@ -9,7 +9,17 @@ index,source,target
 　　弾き継がれんことを願う。
 
 
-◇◇◇　◇◇◇　◇◇◇　◇◇◇",
+◇◇◇　◇◇◇　◇◇◇　◇◇◇","{/c}◇◇◇◇ Préface ◇◇◇◇
+
+  Les mélodies légendaires
+  d'antan sont ici consignées.
+
+  Par-delà le temps infini,
+        à jamais,
+  puissent-elles être jouées.
+
+
+◇◇◇　◇◇◇　◇◇◇　◇◇◇"
 1,"{/c}◇◇◇◇　　旋律表　　◇◇◇◇
 
 ≪自分強化≫
@@ -20,7 +30,17 @@ index,source,target
 　　　　{c07}♪{/c}→{c07}♪{/c}　後　{c07}♪{/c}→{c07}♪{/c}
 
 
-◇◇◇　◇◇◇　◇◇◇　◇◇◇",
+◇◇◇　◇◇◇　◇◇◇　◇◇◇","{/c}◇◇◇◇ Mélodies ◇◇◇◇
+
+≪Auto-amélioration≫
+ Vitesse de déplacement accrue
+　　　　　　　{c07}♪{/c}→{c07}♪{/c}
+　　　　　
+ Attaques moins déviées
+　　　　{c07}♪{/c}→{c07}♪{/c} puis {c07}♪{/c}→{c07}♪{/c}
+
+
+◇◇◇　◇◇◇　◇◇◇　◇◇◇"
 2,"{/c}◇◇　旋律表（グループ）　◇◇
 ※これ以降の旋律は、まわりの
 ハンターにも効果があります。
@@ -31,7 +51,17 @@ index,source,target
 　風圧無効　　　{c05}♪{/c}→{c03}♪{/c}→{c07}♪{/c}
 　風圧完全無効　{c07}♪{/c}→{c20}♪{/c}→{c20}♪{/c}→{c05}♪{/c}
 
-◇◇◇　◇◇◇　◇◇◇　◇◇◇",
+◇◇◇　◇◇◇　◇◇◇　◇◇◇","{/c}◇◇ Mélodies (groupe) ◇◇
+※Ces mélodies aident aussi
+les chasseurs proches.
+
+ Attaque + (G) {c07}♪{/c}→{c02}♪{/c}
+ Vie + (G)     {c02}♪{/c}→{c02}♪{/c}→{c07}♪{/c}→{c20}♪{/c}　　　　　
+
+ Vent annulé   {c05}♪{/c}→{c03}♪{/c}→{c07}♪{/c}
+ Vent annulé + {c07}♪{/c}→{c20}♪{/c}→{c20}♪{/c}→{c05}♪{/c}
+
+◇◇◇　◇◇◇　◇◇◇　◇◇◇"
 3,"{/c}◇◇　旋律表（グループ）　◇◇
 　強走効果（大）　{c07}♪{/c}→{c20}♪{/c}→{c07}♪{/c}　　　　　
 　体力回復（小）　{c07}♪{/c}→{c05}♪{/c}→{c05}♪{/c}
@@ -42,4 +72,14 @@ index,source,target
 　雷耐性UP（大）　{c07}♪{/c}→{c05}♪{/c}→{c20}♪{/c}　　　　　　
 　氷耐性UP（大）　{c03}♪{/c}→{c07}♪{/c}→{c03}♪{/c}
 　龍耐性UP（大）　{c07}♪{/c}→{c05}♪{/c}→{c07}♪{/c}
-◇◇◇　◇◇◇　◇◇◇　◇◇◇",
+◇◇◇　◇◇◇　◇◇◇　◇◇◇","{/c}◇◇ Mélodies (groupe) ◇◇
+ Vitalité (G)   {c07}♪{/c}→{c20}♪{/c}→{c07}♪{/c}　　　　　
+ Soin (P)       {c07}♪{/c}→{c05}♪{/c}→{c05}♪{/c}
+ Soin (G)       {c05}♪{/c}→{c07}♪{/c}→{c20}♪{/c}→{c20}♪{/c}
+
+ Rés. feu (G)   {c07}♪{/c}→{c03}♪{/c}→{c20}♪{/c}　　　　　
+ Rés. eau (G)   {c03}♪{/c}→{c07}♪{/c}→{c20}♪{/c}
+ Rés. foud. (G) {c07}♪{/c}→{c05}♪{/c}→{c20}♪{/c}　　　　　　
+ Rés. glace (G) {c03}♪{/c}→{c07}♪{/c}→{c03}♪{/c}
+ Rés. drag. (G) {c07}♪{/c}→{c05}♪{/c}→{c07}♪{/c}
+◇◇◇　◇◇◇　◇◇◇　◇◇◇"
