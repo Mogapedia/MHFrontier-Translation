@@ -58,3 +58,15 @@ D-mhf-mechanic,遷悠,Exotic,1213,,遷悠玉=Exotic Gem ; armures a slot de comp
 D-mhf-mechanic,狩人祭,Hunter Fest,1206,,confirme par server/Erupe/docs/hunting-tournament.md
 D-mhf-mechanic,逸品,fine piece,1973,,"emphatique de description, pas un mecanisme"
 D-mhf-mechanic,秘伝,Secret / Hiden,487,,秘伝書 = Secret Notes Book ; 秘伝の証【序/破/急】
+E-melodie,攻撃力UP【小/大】,Attack Up (S/L),2,Attaque + (P/G),« (P)/(G) » repris de MHGen (Capcom FR) ; forme Wilds non confirmée
+E-melodie,防御力UP【小/大】,Defense Up (S/L),2,Défense + (P/G),idem
+E-melodie,体力ＵＰ【小/中/大】,Health Up (S/M/L),3,Vie + (P/M/G),idem (MHGen « Bonus vie »)
+E-melodie,風圧軽減/無効/完全無効,Wind Pressure reduced/negated/fully negated,3,Vent réduit / Vent annulé / Vent annulé +,MHGen « Réduction/Annulation vent » abrégé pour la largeur ; talent Wilds « Pare-vent »
+E-melodie,怯み無効,Flinch Free,1,Nerfs d'acier,nom du talent Wilds de même effet ; à confirmer
+E-melodie,強走効果【小/大】,Stamina (Dash Juice) effect,2,Vitalité (P/G),aligné sur « Potion vitalité » (強走薬) ; MHGen « Stamina illimitée » trop long
+E-melodie,体力回復【小/中/大】,Recovery (S/M/L),3,Soin (P/M/G),MHGen « Récupération vie »
+E-melodie,女神の赦し,Goddess's Grace,1,Prot. divine,MHGen « Protection divine » abrégé ; à confirmer
+E-melodie,聴覚保護【小/大】,Earplugs (S/L),2,Bouchons (P/G),talent Wilds « Bouchon d'oreilles » ; abrégé pour la largeur
+E-melodie,気絶無効,Stun Negated,1,Anti-étourd.,talent Wilds « Crâne d'acier » (durée) ≠ immunité ; à confirmer
+E-melodie,耐震,Tremor Resistance,1,Sismologie,talent Wilds
+E-melodie,千里眼,Clairvoyance / Psychic,1,Clairvoyance,cf. 千里眼の薬 = Sérum psychique ; à confirmer
