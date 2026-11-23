@@ -208,6 +208,23 @@ noms.
 
 ---
 
+## 8. Corne de chasse — mélodies
+
+Termes officiels Capcom FR (Monster Hunter Wilds) retrouvés sur Kiranico FR
+et la presse FR. Les noms d'effets de mélodie propres à MHF sont dans
+`glossary-todo.fr.csv` tant qu'aucune source officielle FR n'est confirmée.
+
+| JP | EN | **FR** | Notes |
+|---|---|---|---|
+| 旋律 | Melody | **Mélodie** | |
+| 自分強化 | Self-Improvement | **Auto-amélioration** | commune à toutes les cornes ; marqueur ≪…≫ conservé |
+| 演奏 | Performance | **Performance** | |
+| 余韻 | Encore | **Rappel** | |
+| エコーバブル | Echo Bubble | **Bulle d'écho** | |
+| 笛吹き名人 | Horn Maestro | **Maestro** | talent |
+
+---
+
 ## Comment étendre ce glossaire
 
 1. Lors d'une session de traduction, si un terme JP non listé apparaît
