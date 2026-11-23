@@ -174,7 +174,7 @@ index,source,target
 172,砥石,Aiguisoir
 173,双眼鏡,Jumelles
 174,もえないゴミ,Déchet
-175,角笛,
+175,角笛,Cor
 176,回復笛,Flûte de vie
 177,解毒笛,Flûte antidote
 178,鬼人笛,Flûte du démon
@@ -188,7 +188,7 @@ index,source,target
 186,ツタの葉,Lierre
 187,ネムリ草,Herbe du sommeil
 188,ネンチャク草,Plante à sève
-189,マタタビ,
+189,マタタビ,Felvine
 190,サボテンの花,Fleur de cactus
 191,百花サボテン,Cactus à 100 fleurs
 192,トウガラシ,Piment fort
@@ -229,7 +229,7 @@ index,source,target
 227,抗菌石,Pierre antiseptique
 228,氷結晶,Cristal de glace
 229,（ダミー）,
-230,ドスビスカス,
+230,ドスビスカス,Hibiscus
 231,エールナッツ,Noix fermentée
 232,アンバル鉱石,Minerai ambre
 233,秘密のポーチ,Poche secrète
@@ -288,7 +288,7 @@ index,source,target
 286,米虫,Charançon riz
 287,スパイスワーム,Ver épice
 288,蜜トンボ,Libellule miel
-289,ドスヘラクレス,
+289,ドスヘラクレス,Hercule géant
 290,レッドオイル,Huile rouge
 291,パワーラード,Lard pouvoir
 292,長寿ジャム,Jambon ancien
@@ -658,7 +658,7 @@ index,source,target
 656,金のたまご,Œuf d'or
 657,地図,Carte
 658,応急薬,Premiers soins
-659,携帯食料,
+659,携帯食料,Ration
 660,携帯肉焼きセット,Broche BBQ X
 661,携帯砥石,Mini-aiguisoir
 662,携帯シビレ罠,Piège électrochoc X
@@ -697,11 +697,11 @@ index,source,target
 695,撃龍槍の鍵,Clef Dragonator
 696,闘技会チケット,Ticket Concours
 697,（ダミー）,
-698,睡眠けむり玉,
-699,鎮静玉,
-700,回復玉,
-701,魂を宿す唄,
-702,精霊へ歌う唄,
+698,睡眠けむり玉,Fumigène sommeil
+699,鎮静玉,Bombe calmante
+700,回復玉,Bombe de soin
+701,魂を宿す唄,Musique de l'âme
+702,精霊へ歌う唄,Musique des esprits
 703,生命に捧ぐ唄,Musique de vie
 704,始まりの唄,Musique origines
 705,狩猟笛の楽譜,Infos Corne de Chasse
@@ -722,7 +722,7 @@ index,source,target
 720,秘境へのコンパス,Boussole mystère
 721,秘境への地図,Carte mystère
 722,秘境への５つ道具,Outils mystère
-723,秘境セット,
+723,秘境セット,Kit mystère
 724,終焉の書,Livre perdu
 725,伝説の書,Livre légende
 726,古龍の書,Livre Dra Ancien
@@ -754,10 +754,10 @@ index,source,target
 752,片手剣チケット,Tck SnS
 753,ガンナーチケット,Tck Artilleur
 754,肉球のスタンプ,Pattes-de-chat
-755,ＦチケットＣＴ１,
-756,ＦチケットＣＴ２,
-757,ＦチケットＣＴ３,
-758,ＦチケットＣＴ４,
+755,ＦチケットＣＴ１,Tck F CT 1
+756,ＦチケットＣＴ２,Tck F CT 2
+757,ＦチケットＣＴ３,Tck F CT 3
+758,ＦチケットＣＴ４,Tck F CT 4
 759,マカ漬けの壷,Pot Mocha
 760,マカ漬けの壷・緑,Mocha vert
 761,マカ漬けの壷・緑,Mocha vert
@@ -940,11 +940,11 @@ index,source,target
 938,Ｃ２Ｄのカケラ,Fragment C2D
 939,万年霜,Vieille creme
 940,鋼龍石,Eca. Drgn fossile
-941,アミノタイト,
+941,アミノタイト,Aminotite
 942,ヌメリンギ,Champi collant
 943,トリモチケムシ,Chenille gluante
 944,ソゲキス,Poisson archer
-945,クレンザイト,
+945,クレンザイト,Clenzite
 946,家具チケット,Tck Fourniture
 947,家具チケットＧ,Tck Fourniture+
 948,雷光エキス,Extrait lumineux
@@ -1019,23 +1019,23 @@ index,source,target
 1017,溶岩竜の堅殻,Cuir. Lavasioth
 1018,溶岩竜の鋭牙,Croc Lavasioth+
 1019,溶岩竜の上ビレ,Nage. Lavasioth+
-1020,友情の絆,
+1020,友情の絆,Lien d'amitié
 1021,Ｎメダル・銅,Medaille N・Cuivre
 1022,Ｎメダル・銀,Medaille N・Argent
 1023,Ｎメダル・金,Medaille N・Or
 1024,ネオジムメモ,Notes Néodyme
 1025,メルクリメモ,Notes Mercure
 1026,猟団チケット,Tck Guilde
-1027,黒貨,
-1028,白の丈夫な布地,
-1029,なりきりパーツ,
-1030,縞模様の布地,
-1031,緑の布地,
-1032,モフモフ薬,
-1033,黒の布地,
-1034,青の布地,
-1035,桃の布地,
-1036,追加依頼達成証,
+1027,黒貨,Pièce noire
+1028,白の丈夫な布地,Tissu blanc solide
+1029,なりきりパーツ,Pièce de déguisement
+1030,縞模様の布地,Tissu rayé
+1031,緑の布地,Tissu vert
+1032,モフモフ薬,Potion duveteuse
+1033,黒の布地,Tissu noir
+1034,青の布地,Tissu bleu
+1035,桃の布地,Tissu rose
+1036,追加依頼達成証,Preuve quête bonus
 1037,紅溶岩竜の甲殻,Cara. Lava R.
 1038,紅溶岩竜の牙,Croc Lava R.
 1039,紅溶岩竜のヒレ,Nage. Lava R.
@@ -1073,17 +1073,17 @@ index,source,target
 1071,眠鳥の上白毛,Pelage Hypnoc B.
 1072,銀色尾羽根,Plume d'argent
 1073,眠鳥の白牙ハシ,Croc Hypnoc B.
-1074,虫除け器の生産券,
-1075,ポルタ輝石【赤】,
-1076,ポルタ輝石【青】,
-1077,ポルタ輝石【黒】,
-1078,ポルタ輝石【白】,
-1079,ポルタ輝石【透】,
-1080,ポルタ輝石【紫】,
-1081,ポルタ輝石【虹】,
+1074,虫除け器の生産券,Tck Répulsif
+1075,ポルタ輝石【赤】,Augite Porta [rouge]
+1076,ポルタ輝石【青】,Augite Porta [bleu]
+1077,ポルタ輝石【黒】,Augite Porta [noir]
+1078,ポルタ輝石【白】,Augite Porta [blanc]
+1079,ポルタ輝石【透】,Augite Porta [transp.]
+1080,ポルタ輝石【紫】,Augite Porta [violet]
+1081,ポルタ輝石【虹】,Augite Porta [irisé]
 1082,感謝の証,Ticket Remerciement
 1083,戯曲の生産券,Tck Drama
-1084,Ｓエッジの生産券,
+1084,Ｓエッジの生産券,Tck S Edge
 1085,古の建材,Vieux Mat. Construction
 1086,記念の証,Preuve mémoire
 1087,結晶のカケラ,Morc. de cristal
@@ -1100,74 +1100,74 @@ index,source,target
 1098,Ｎメダル・黒,Medaille N・Noir
 1099,Ｎメダル・白,Medaille N・Blanc
 1100,Ｎメダル・灰,Medaille N・Gris
-1101,匠の根性,
-1102,匠の心,
-1103,匠の意地,
-1104,匠珠ＳＰ,
-1105,抑反珠ＳＰ,
-1106,腕力珠ＳＰ,
-1107,斬鉄珠ＳＰ,
-1108,文鎮珠ＳＰ,
-1109,研磨珠ＳＰ,
-1110,弾製珠ＳＰ,
-1111,弾穴珠ＳＰ,
-1112,装填珠ＳＰ,
-1113,透眼珠ＳＰ,
-1114,耐絶珠ＳＰ,
-1115,忍足珠ＳＰ,
-1116,抗毒珠ＳＰ,
-1117,秘術珠ＳＰ,
-1118,仙人珠Ｇ,
-1119,防御珠Ｇ,
-1120,斬空珠Ｇ,
-1121,反動珠Ｇ,
-1122,断毒珠Ｇ,
-1123,覚醒珠Ｇ,
-1124,音無珠Ｇ,
-1125,笛吹珠Ｇ,
+1101,匠の根性,Cran d'artisan
+1102,匠の心,Cœur d'artisan
+1103,匠の意地,Obstination d'artisan
+1104,匠珠ＳＰ,J. artisan SP
+1105,抑反珠ＳＰ,J. tirailleur SP
+1106,腕力珠ＳＰ,J. attaque SP
+1107,斬鉄珠ＳＰ,J. dextérité SP
+1108,文鎮珠ＳＰ,J. anti-vent SP
+1109,研磨珠ＳＰ,J. aiguiseur SP
+1110,弾製珠ＳＰ,J. artificier SP
+1111,弾穴珠ＳＰ,J. armurier SP
+1112,装填珠ＳＰ,J. fusilier SP
+1113,透眼珠ＳＰ,J. lucidité SP
+1114,耐絶珠ＳＰ,J. volonté SP
+1115,忍足珠ＳＰ,J. furtivité SP
+1116,抗毒珠ＳＰ,J. poison SP
+1117,秘術珠ＳＰ,J. alchimie SP
+1118,仙人珠Ｇ,J. expert G
+1119,防御珠Ｇ,J. défense G
+1120,斬空珠Ｇ,J. dextérité G
+1121,反動珠Ｇ,J. tirailleur G
+1122,断毒珠Ｇ,J. poison G
+1123,覚醒珠Ｇ,J. volonté G
+1124,音無珠Ｇ,J. ouïe G
+1125,笛吹珠Ｇ,J. maestro G
 1126,逃足珠Ｇ,
 1127,体術珠Ｇ,
 1128,強肩珠Ｇ,
 1129,頭電珠Ｇ,
 1130,受身珠Ｇ,
-1131,万里珠Ｇ,
+1131,万里珠Ｇ,J. lucidité G
 1132,交渉珠Ｇ,
 1133,捕獲珠Ｇ,
-1134,危機珠ＳＰ,
-1135,強弾珠ＳＰ,
-1136,貫通珠ＳＰ,
-1137,散弾珠ＳＰ,
-1138,持続珠ＳＰ,
-1139,満腹珠ＳＰ,
-1140,気短珠ＳＰ,
-1141,天盾珠ＳＰ,
-1142,強精珠ＳＰ,
-1143,強腰珠ＳＰ,
-1144,針穴珠ＳＰ,
-1145,耐麻痺珠ＳＰ,
-1146,旅人珠ＳＰ,
-1147,守護珠ＳＰ,
-1148,雪玉珠ＳＰ,
-1149,力投珠ＳＰ,
-1150,天盾珠Ｇ,
-1151,美声珠Ｇ,
-1152,博士珠Ｇ,
+1134,危機珠ＳＰ,J. adrénaline SP
+1135,強弾珠ＳＰ,J. normal SP
+1136,貫通珠ＳＰ,J. perçant SP
+1137,散弾珠ＳＰ,J. plomb SP
+1138,持続珠ＳＰ,J. objets SP
+1139,満腹珠ＳＰ,J. appétit SP
+1140,気短珠ＳＰ,J. repas SP
+1141,天盾珠ＳＰ,J. auto-garde SP
+1142,強精珠ＳＰ,J. vigueur SP
+1143,強腰珠ＳＰ,J. séisme SP
+1144,針穴珠ＳＰ,J. déviation SP
+1145,耐麻痺珠ＳＰ,J. paralysie SP
+1146,旅人珠ＳＰ,J. terrain SP
+1147,守護珠ＳＰ,J. défense SP
+1148,雪玉珠ＳＰ,J. anti-neige SP
+1149,力投珠ＳＰ,J. lancer SP
+1150,天盾珠Ｇ,J. auto-garde G
+1151,美声珠Ｇ,J. voix G
+1152,博士珠Ｇ,J. inventeur G
 1153,絆珠Ｇ,
-1154,耐性珠ＳＰ,
-1155,耐龍珠ＳＰ,
-1156,元気珠ＳＰ,
-1157,治癒珠ＳＰ,
-1158,快足珠ＳＰ,
-1159,釣力珠ＳＰ,
-1160,耐暑珠ＳＰ,
-1161,耐寒珠ＳＰ,
-1162,博士珠ＳＰ,
-1163,美食珠ＳＰ,
-1164,教官珠Ⅰ,
-1165,教官珠Ⅱ,
-1166,教官珠Ⅲ,
-1167,教官珠Ⅳ,
-1168,教官珠Ⅴ,
+1154,耐性珠ＳＰ,J. omni-res. SP
+1155,耐龍珠ＳＰ,J. rés. dragon SP
+1156,元気珠ＳＰ,J. vie SP
+1157,治癒珠ＳＰ,J. restaurer SP
+1158,快足珠ＳＰ,J. transport SP
+1159,釣力珠ＳＰ,J. pêche SP
+1160,耐暑珠ＳＰ,J. chaleur SP
+1161,耐寒珠ＳＰ,J. froid SP
+1162,博士珠ＳＰ,J. inventeur SP
+1163,美食珠ＳＰ,J. cuisine SP
+1164,教官珠Ⅰ,J. instructeur I
+1165,教官珠Ⅱ,J. instructeur II
+1166,教官珠Ⅲ,J. instructeur III
+1167,教官珠Ⅳ,J. instructeur IV
+1168,教官珠Ⅴ,J. instructeur V
 1169,カム・オルガロンの書,Infos Kamu Orugaron
 1170,ノノ・オルガロンの書,Infos Nono Orugaron
 1171,デュラガウアの書,Infos Dyuragaua
@@ -1211,8 +1211,8 @@ index,source,target
 1209,ダミー,
 1210,ダミー,
 1211,ダミー,
-1212,新たな開拓者の印,
-1213,先人たる狩人の印,
+1212,新たな開拓者の印,Sceau nouveau pionnier
+1213,先人たる狩人の印,Sceau ancien chasseur
 1214,親愛なる仲間の証,Lettre d'un ami
 1215,幻獣討伐の証,Preuve Kirin
 1216,鋼龍討伐の証,Preuve Kushala
@@ -1466,10 +1466,10 @@ index,source,target
 1464,Ｐコート生産券,
 1465,Ｐブーツ生産券,
 1466,火竜家具生産券,
-1467,ギルドエンブレム,
+1467,ギルドエンブレム,Emblème de guilde
 1468,ギルドチェック,
-1469,大きな塊【紅】,
-1470,小さな塊【紅】,
+1469,大きな塊【紅】,Gros bloc [rouge]
+1470,小さな塊【紅】,Petit bloc [rouge]
 1471,ポルタチケット虹,Chèque (60k)
 1472,ポルタチケット桜,Chèque (50k)
 1473,ポルタチケット赤,Chèque (40k)
@@ -1484,10 +1484,10 @@ index,source,target
 1482,乙女の心【避】,Cœur de Vierge (Esq)
 1483,乙女の心【気】,Cœur de Vierge (Endu)
 1484,投げペイント爆弾,Marqueur
-1485,投げ睡眠爆弾,
-1486,ブーメランＧ,
-1487,銀のゆでたまご,
-1488,金のゆでたまご,
+1485,投げ睡眠爆弾,Bombe de sommeil
+1486,ブーメランＧ,Boomerang G
+1487,銀のゆでたまご,Œuf dur d'argent
+1488,金のゆでたまご,Œuf dur d'or
 1489,怯まずの実,Fruit Nerf d'Acier
 1490,石ころＧ,Pierre G
 1491,温冷ドリンク,Boisson chaud/froid
@@ -1504,60 +1504,60 @@ index,source,target
 1502,使い捨て耳栓,Bouchon d'oreille
 1503,使い捨て高級耳栓,Bouchon d'oreille de qual.
 1504,【旧】落とし穴爆弾,[Vieux] Bombe a fosse
-1505,暖かな粉塵,
-1506,涼やかな粉塵,
-1507,解毒の粉塵,
-1508,睡眠の粉塵,
-1509,麻痺の粉塵,
-1510,爆雷針Ｇ,
-1511,漢方薬Ｇ,
-1512,支給用投げタル,
+1505,暖かな粉塵,Poudre chaude
+1506,涼やかな粉塵,Poudre fraîche
+1507,解毒の粉塵,Poudre antidote
+1508,睡眠の粉塵,Poudre de sommeil
+1509,麻痺の粉塵,Poudre de paralysie
+1510,爆雷針Ｇ,Paratonnerre G
+1511,漢方薬Ｇ,Remède d'herbes G
+1512,支給用投げタル,Baril à lancer X
 1513,支給用Ｇ２,
-1514,Ｎメダル・赤,
-1515,Ｎメダル・青,
-1516,Ｎメダル・紫,
-1517,大きな塊【白】,
-1518,小さな塊【白】,
-1519,黒星鉄,
-1520,祭典の証,
-1521,古の賛歌書,
-1522,友好の証,
-1523,卵のかけら,
-1524,狩人の心得,
-1525,健康飲料の素,
-1526,健康飲料【体力】,
-1527,健康飲料【持久】,
-1528,健康飲料【攻撃】,
-1529,健康飲料【防御】,
-1530,祭典の思い出,
-1531,卒業証書,
+1514,Ｎメダル・赤,Médaille N・Rouge
+1515,Ｎメダル・青,Médaille N・Bleu
+1516,Ｎメダル・紫,Médaille N・Violet
+1517,大きな塊【白】,Gros bloc [blanc]
+1518,小さな塊【白】,Petit bloc [blanc]
+1519,黒星鉄,Étoile de fer noire
+1520,祭典の証,Preuve de festival
+1521,古の賛歌書,Livre hymne ancien
+1522,友好の証,Preuve d'amitié
+1523,卵のかけら,Éclat d'œuf
+1524,狩人の心得,Code du chasseur
+1525,健康飲料の素,Base boisson santé
+1526,健康飲料【体力】,Boisson santé [Vie]
+1527,健康飲料【持久】,Boisson santé [Endur.]
+1528,健康飲料【攻撃】,Boisson santé [Attaque]
+1529,健康飲料【防御】,Boisson santé [Défense]
+1530,祭典の思い出,Souvenir de festival
+1531,卒業証書,Diplôme
 1532,Ｅエッジの生産券,
-1533,星祭の生産券,
-1534,七夕の生産券,
+1533,星祭の生産券,Tck Fête étoiles
+1534,七夕の生産券,Tck Tanabata
 1535,Ｎヘッドの生産券,
-1536,ガンランス冷却剤,
+1536,ガンランス冷却剤,Refroid. Lancecanon
 1537,戦闘復帰玉,Procheporteur
-1538,火耐性ドリンク,
-1539,水耐性ドリンク,
-1540,氷耐性ドリンク,
-1541,雷耐性ドリンク,
-1542,龍耐性ドリンク,
-1543,毒守り札,
-1544,眠り守り札,
-1545,麻痺守り札,
-1546,根性札,
-1547,劇薬【緑】,
-1548,劇薬【黄】,
-1549,緊急袋,
+1538,火耐性ドリンク,Boisson rés. feu
+1539,水耐性ドリンク,Boisson rés. eau
+1540,氷耐性ドリンク,Boisson rés. glace
+1541,雷耐性ドリンク,Boisson rés. foudre
+1542,龍耐性ドリンク,Boisson rés. dragon
+1543,毒守り札,Amulette anti-poison
+1544,眠り守り札,Amulette anti-sommeil
+1545,麻痺守り札,Amulette antiparalysie
+1546,根性札,Amulette cran
+1547,劇薬【緑】,Potion puissante [vert]
+1548,劇薬【黄】,Potion puissante [jaune]
+1549,緊急袋,Sac d'urgence
 1550,ラスタ笛【復帰】,
 1551,ラスタ笛【吸着】,
-1552,プーギー笛【賢明】,
+1552,プーギー笛【賢明】,Flûte Poogie [Sage]
 1553,練気ドリンク,Boisson spirituelle
-1554,活力剤Ｇ,
-1555,キャラバン輝石,
-1556,キャラバン宝玉,
-1557,キャラバン秘草,
-1558,瞬歩の種,
+1554,活力剤Ｇ,Immunisateur G
+1555,キャラバン輝石,Augite de caravane
+1556,キャラバン宝玉,Joyau de caravane
+1557,キャラバン秘草,Herbe sec. caravane
+1558,瞬歩の種,Graine pas éclair
 1559,ダミー,
 1560,ダミー,
 1561,ダミー,
@@ -1577,33 +1577,33 @@ index,source,target
 1575,ダミー,
 1576,ダミー,
 1577,ダミー,
-1578,花のエキス,
-1579,爆撃ビン,
-1580,ＶＳ戻し玉,
-1581,ＶＳタル爆弾,
-1582,ＶＳタル爆弾Ｇ,
-1583,ＶＳシビレ罠,
-1584,ＶＳ毒撃罠,
-1585,ＶＳ睡眠罠,
-1586,ＶＳ解罠器,
-1587,ＶＳ錆朽罠,
-1588,ＶＳ閃光罠,
-1589,ＶＳこやし罠,
+1578,花のエキス,Extrait de fleur
+1579,爆撃ビン,Fiole explosive
+1580,ＶＳ戻し玉,VS Téléportogène
+1581,ＶＳタル爆弾,VS Bombe baril
+1582,ＶＳタル爆弾Ｇ,VS Bombe baril G
+1583,ＶＳシビレ罠,VS Piège électrochoc
+1584,ＶＳ毒撃罠,VS Piège toxique
+1585,ＶＳ睡眠罠,VS Piège somnifère
+1586,ＶＳ解罠器,VS Désamorceur
+1587,ＶＳ錆朽罠,VS Piège rouille
+1588,ＶＳ閃光罠,VS Piège flash
+1589,ＶＳこやし罠,VS Piège à bouse
 1590,ダミー,
 1591,ダミー,
 1592,ダミー,
 1593,ダミー,
 1594,ダミー,
-1595,支給ＶＳ戻し玉,
-1596,支給ＶＳタル爆弾,
-1597,支給ＶＳタル爆Ｇ,
-1598,支給ＶＳシビレ罠,
-1599,支給ＶＳ毒撃罠,
-1600,支給ＶＳ睡眠罠,
-1601,支給ＶＳ解罠器,
-1602,支給ＶＳ錆朽罠,
-1603,支給ＶＳ閃光罠,
-1604,支給ＶＳこやし罠,
+1595,支給ＶＳ戻し玉,VS Téléportogène X
+1596,支給ＶＳタル爆弾,VS Bombe baril X
+1597,支給ＶＳタル爆Ｇ,VS Bombe baril G X
+1598,支給ＶＳシビレ罠,VS Piège électrochoc X
+1599,支給ＶＳ毒撃罠,VS Piège toxique X
+1600,支給ＶＳ睡眠罠,VS Piège somnifère X
+1601,支給ＶＳ解罠器,VS Désamorceur X
+1602,支給ＶＳ錆朽罠,VS Piège rouille X
+1603,支給ＶＳ閃光罠,VS Piège flash X
+1604,支給ＶＳこやし罠,VS Piège à bouse X
 1605,ダミー,
 1606,ダミー,
 1607,ダミー,

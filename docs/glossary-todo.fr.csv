@@ -70,3 +70,15 @@ E-melodie,聴覚保護【小/大】,Earplugs (S/L),2,Bouchons (P/G),talent Wilds
 E-melodie,気絶無効,Stun Negated,1,Anti-étourd.,talent Wilds « Crâne d'acier » (durée) ≠ immunité ; à confirmer
 E-melodie,耐震,Tremor Resistance,1,Sismologie,talent Wilds
 E-melodie,千里眼,Clairvoyance / Psychic,1,Clairvoyance,cf. 千里眼の薬 = Sérum psychique ; à confirmer
+F-item-name,銃器珠,Firearm jewel,1,,sans racine de compétence confirmée (847) ; laissé vide
+F-item-name,逃足珠Ｇ / 体術珠Ｇ / 強肩珠Ｇ / 頭電珠Ｇ / 受身珠Ｇ,jewels G (Escape? Physique? Strong arm? Head-electric? Recovery?),5,,racines de compétence MHF sans équivalent Wilds identifié (1126-1130) ; laissé vide
+F-item-name,交渉珠Ｇ / 捕獲珠Ｇ / 絆珠Ｇ,jewels G (Negotiation / Capture / Bond),3,,à rapprocher des talents Wilds (Capture experte ?) ; laissé vide (1132 1133 1153)
+F-item-name,ラスタ笛【復帰】【吸着】,Rasta/Lasta flute,2,,ラスタ non identifié ; laissé vide (1550 1551)
+F-item-name,ギルドチェック,Guild check,1,,チェック = motif à carreaux ou contrôle ? laissé vide (1468)
+F-item-name,支給用Ｇ２,Supply G2,1,,libellé tronqué ; laissé vide (1513)
+F-item-name,ドスヘラクレス,Dos Hercules,1,Hercule géant,« Dos » = grand ; non présent dans capcom_items
+F-item-name,アミノタイト / クレンザイト,Aminotite / Cleanzite,2,Aminotite / Clenzite,minerais ; transcription à confirmer avec Mogapédia
+F-item-name,"Ｘ生産券 (armes/armures : Ｐヘッド, Ｎヘッド, 水晶ランス, レイピア…)",production tickets,~40,,dépend des noms de séries d'armures/armes (sections armors/weapons non traduites) ; laissés vides
+F-item-name,劇薬【緑】【黄】,Potent drug,2,Potion puissante [vert/jaune],sens de 劇薬 (puissant / dangereux) à confirmer
+F-item-name,根性札,Guts charm,1,Amulette cran,根性 = cran/ténacité ; à confirmer
+F-item-name,"VS (ＶＳ戻し玉, ＶＳタル爆弾…)",VS (versus) items,20,VS … / VS … X,préfixe VS conservé ; 支給 rendu par le suffixe X comme les autres objets de ravitaillement
